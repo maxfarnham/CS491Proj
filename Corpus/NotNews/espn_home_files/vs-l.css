@@ -1,0 +1,389 @@
+
+/* MAIN DIVS */
+body, body * {
+	vertical-align:baseline;
+	border:0 none;
+	outline:0;
+	padding:0;
+	margin:0;
+	background-color:transparent;
+}
+
+#main-container{
+	position:absolute;
+	width:970px;
+	height:418px;
+	top:0px;
+	left:0px;
+	margin:auto;
+	
+}
+
+#collapsed {
+	position: absolute;
+	overflow:hidden;
+	width:970px;
+	height:66px;
+	z-index:100;
+	display:none;
+}
+
+#autoExpanded{
+	position:absolute;
+	/*background-image:url(bgExpand.jpg);*/
+	top:0px;
+	left:0px;
+	width:970px;
+	height:418px;
+	z-index:300;
+	display:block;
+}
+
+#userExpanded{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:970px;
+	height:418x;
+	z-index:300;
+	display:none;
+}
+
+/* EXITS */
+#exit_btn_auto{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	cursor:pointer;
+	
+}
+
+#exit_btn_user{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	cursor:pointer;
+	z-index:400;
+	
+}
+
+#exit_btn_collapse{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	cursor:pointer;
+	z-index:400;
+	
+}
+
+/* CLOSE */
+#close_btn, #close_btn2{
+	position:absolute;
+	top:0px;
+	right:0px;
+	width:35px;
+	height:35px;
+	background-color: rgba(255, 255, 255, 0.4);
+	cursor:pointer;
+	z-index:401;
+}
+
+#close_btn #text, #close_btn2 #text{
+	position:absolute;
+	top:0px;
+	right:0px;
+	width:35px;
+	height:35px;
+	background: url('http://a.espncdn.com/advertising/i/ui/btn_collapse.svg') no-repeat center center;
+	background-size:20px;
+}
+
+#close_btn:hover, #close_btn2:hover{
+	
+	background-color: rgba(255, 255, 255, .7);
+}
+
+/* COLLAPSED */
+/*Expand arrow*/
+#expand_btn{
+	position: absolute;
+	left: 750px;
+	top: 0px;
+	width: 220px;
+	height: 100px;
+	z-index: 400;
+}
+#expand_btn .box {
+	position:relative;
+	border-radius: 0px;
+	left: 185px;
+	top: 0px;
+	width: 35px;
+	height: 35px;
+	background-color: rgba(255, 255, 255, 0.4);
+	cursor:pointer;
+	z-index: 400;
+}
+#expand_btn .box:hover{
+	background-color: rgba(255, 255, 255, .7);
+}
+#expand_btn .arrow {
+	position:relative;
+	width:20px;
+	height:20px;
+    top: 12px;
+    left: 7.5px;
+	background-size:35px;
+	z-index:410;
+}
+
+/*CTA button "Get Yours"*/
+#cta_btn{
+	position: absolute;
+	left:761px;
+	top:13px;
+	z-index: 3000;
+}
+#cta_btn .box2 {
+	border-radius: 4px;
+	background-color: rgb(242, 102, 34);
+	position: relative;
+	left: 0px;
+	top: 0px;
+	width: 143px;
+	height: 40px;
+    -webkit-transition:all 0.1s ease-out;
+    -moz-transition:all 0.1s ease-out;
+    -ms-transition:all 0.1s ease-out;
+    -o-transition:all 0.1s ease-out;
+    transition:all 0.1s ease-out;
+  	z-index: 3000;
+}
+#cta_btn .box2:hover{
+  -webkit-transform:scale(1.08);
+  -moz-transform:scale(1.08);
+  -ms-transform:scale(1.08);
+  -o-transform:scale(1.08);
+  transform:scale(1.08);
+}
+#cta_btn .cta_text img {
+    position:relative;
+    width: 107px;
+    cursor: pointer;
+    top:11px;
+    left:18px;
+    display: block;
+}
+
+
+/*Protein Bar*/
+#bar {
+	position: absolute;
+	top: -59px;
+	left: 268px;
+	width: 735px;
+	height: 337px;
+	opacity: 100;
+	z-index: 20;
+}
+/*Text "Protein For"*/
+#text1 {
+	position: absolute;
+	top: 22px;
+	left: 269px;
+	width: 184px;
+	height: 25px;
+	opacity: 0;
+	z-index: 15;
+}
+#gradientCover {
+	position: absolute;
+	left: 407px;
+	top: 22px;
+	height: 25px;
+	z-index: 14;
+}
+/*Text "Athlete Building"*/
+#text2-wrapper {
+	position: absolute;
+	top: 22px;
+	left: 461px;
+	width:280px;
+	display: block;
+	clear: both;
+	z-index: 13;
+	overflow: hidden;
+}
+#text2 {
+	position: relative;
+	top:0px;
+	left:0px;
+	width: 261px;
+	opacity: 1;
+	z-index: 12
+}
+/*Background - comment out when sending*/
+#bg {
+	position: absolute;
+	background-repeat: no-repeat;
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 100px;
+	background-size: 100%;
+	z-index: 2;
+}
+
+/* AUTO */
+#btn_clickforsound {
+	position: absolute;
+	left:640px;
+	top: 210px;
+	width: 970px;
+	height: 412px;
+	display:block;
+	z-index:10000;
+	background-image:url(clicktoplay.png);
+	background-size: 8%;
+	background-repeat:no-repeat;
+}
+#video_auto {
+	position: absolute;
+	left:424px;
+	top: 102px;
+	width: 496px;
+	display:block;
+}
+/*Text "Protein For"*/
+#text1Expand {
+	position: absolute;
+	top: 48px;
+	left: 189px;
+	width: 258px;
+	opacity: 0;
+	z-index: 15;
+}
+/*Text "Athlete Building"*/
+#text2-wrapperExpand {
+	position: absolute;
+	top: 49px;
+	display: block;
+	clear: both;
+	z-index: 13;
+	overflow: hidden;
+}
+#text2Expand {
+	position: relative;
+	top:49px;
+	width: 353px;
+	opacity: 0;
+	z-index: 12
+}
+
+#cta_btn2{
+	position: absolute;
+	left:147px;
+	top:341px;
+	opacity:0;
+	z-index: 3000;
+}
+#cta_btn2 .box2 {
+	border-radius: 4px;
+	background-color: rgba(242, 102, 34, 100);
+	position:relative;
+	left:0px;
+	top:0px;
+	width: 172px;
+	height: 42px;
+    -webkit-transition:all 0.1s ease-out;
+    -moz-transition:all 0.1s ease-out;
+    -ms-transition:all 0.1s ease-out;
+    -o-transition:all 0.1s ease-out;
+    transition:all 0.1s ease-out;
+  	z-index: 3000;
+}
+
+#cta_btn2 .box2:hover{
+  -webkit-transform:scale(1.07);
+  -moz-transform:scale(1.07);
+  -ms-transform:scale(1.07);
+  -o-transform:scale(1.07);
+  transform:scale(1.07);
+}
+#cta_btn2 .cta_text2 img{
+	position:relative;
+	width:115px;
+    cursor: pointer;
+    top: 12px;
+    left: 31px;
+	z-index:3000;
+}
+
+
+/* USER */
+/* Div layer containing the video player and video controls. */
+#video_container_user {
+	position: absolute;
+	left:35px;
+	top: 0px;
+	width: 900px;
+	height: 418px;
+	z-index:501;
+	
+}
+
+#video_user {
+	position: absolute;
+	left:0px;
+	top: 0px;
+	width: 900px;
+	height: 418px;
+	z-index:500;
+}
+
+
+
+/* endcard styles */
+#endcard {
+	position:absolute;
+	top:0px;
+	left:35px;
+	width:1210px;
+	height:544px;
+	z-index:300;
+	display:none;
+}
+
+	
+#video_endcard {
+	position: absolute;
+	left:0px;
+	top: 0px;
+	width: 900px;
+	height: 418px;
+	display:block;
+	background:url(grab2.jpg) no-repeat;
+	background-size:cover%;
+	
+}
+
+#video_control_replay_endcard {
+	position: absolute;
+	left:35px;
+	top: 0px;
+	width: 900px;
+	height: 418px;
+	display:none;
+	background:url(replay.png) no-repeat center center;
+	background-size:8%;
+	z-index:10000;}
+	
+#video_control_replay_endcard:hover {
+	opacity:.7;}
+	

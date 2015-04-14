@@ -1,0 +1,227 @@
+.tw_bs .content {
+  font-family: Arial;
+  font-size: 14px;
+  color: #999;
+}
+.tw_bs hr {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.tw_bs h1,
+.tw_bs h2,
+.tw_bs h3,
+.tw_bs h4,
+.tw_bs h5,
+.tw_bs td.page_title {
+  color: #333;
+  font-weight: bold;
+}
+.tw_bs td.page_title,
+.tw_bs h1 {
+  font-size: 24px;
+}
+.tw_bs h2 {
+  font-size: 22px;
+}
+.tw_bs h3 {
+  font-size: 20px;
+}
+.tw_bs h4 {
+  font-size: 18px;
+}
+.tw_bs h5 {
+  font-size: 16px;
+}
+.tw_bs a,
+.tw_bs a:visited,
+.tw_bs a:link {
+  text-decoration: underline!important;
+  color: #459ff3!important;
+  font-weight: normal;
+}
+.tw_bs strong {
+  color: #9c1e6d;
+}
+.tw_bs .form-group {
+  margin-bottom: 10px;
+}
+.tw_bs .form-control {
+  padding: 10px;
+  border: 1px solid #dfe3e6;
+  color: #999;
+  border-radius: 5px;
+  line-height: 1;
+  height: inherit;
+  height: 38px;
+  font-size: 12px;
+}
+.tw_bs .form-control:hover,
+.tw_bs .form-control:active {
+  color: #999;
+}
+.tw_bs .positive {
+  color: #33cc00;
+}
+.tw_bs .negative {
+  color: #cc0000;
+}
+.tw_bs .table_area {
+  padding-top: 10px;
+}
+.tw_bs .table_area .row {
+  padding: 20px 0 20px 0;
+  border-radius: 10px;
+  border: 1px solid #dfe3e6;
+  background-color: #f4f4f4;
+  margin: 0px;
+}
+.tw_bs .table_area .column {
+  padding: 0 20px 0 20px;
+  border-left: 1px solid #dfe3e6;
+  margin-left: -1px;
+  float: left;
+  width: 20%;
+}
+.tw_bs .add_app .column {
+  height: 262px;
+}
+.tw_bs .add_app .column_ios {
+  height: 374px;
+}
+.tw_bs .add_app .column .zones_list {
+  height: 153px;
+}
+.tw_bs .add_app .column_ios .zones_list {
+  height: 130px;
+}
+.tw_bs .table_area .column_wider {
+  width: 30%;
+}
+.tw_bs .table_area .column-4 {
+  width: 25%;
+}
+.tw_bs .table_area .column-1 {
+  width: 100%;
+}
+.tw_bs .table_area h3 {
+  margin-top: 0px;
+}
+.tw_bs .description_higher {
+  margin-bottom: 20px;
+}
+.tw_bs .btn {
+  padding: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+  line-height: 1;
+}
+.tw_bs .btn_content {
+  padding: 10px;
+  display: inline-block;
+}
+.tw_bs .btn_with_icon {
+  padding: 0 0 0 30px;
+  background-repeat: no-repeat;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+}
+.tw_bs .btn_blue,
+.tw_bs a.btn_blue {
+  border: 1px solid #dfe3e6;
+  font-size: 12px;
+  color: #fff!important;
+  background-color: #0e78ba;
+}
+.tw_bs .btn_blue .btn_content {
+  background-color: #459ff3;
+}
+.tw_bs .btn_blue:focus,
+.tw_bs .btn_blue:hover {
+  color: #fff!important;
+  background-color: #3aa0d1;
+}
+.tw_bs .btn_blue:focus .btn_content,
+.tw_bs .btn_blue:hover .btn_content {
+  background-color: #7acae7;
+}
+.tw_bs .btn_blue:active .btn_content {
+  background-color: #2d97be;
+}
+.tw_bs .btn_blue:active {
+  color: #fff!important;
+  background-color: #08598e;
+}
+.tw_bs .download_white,
+.tw_bs .download_white:active {
+  background-image: url('../imgv4/icons/white_download.png');
+  background-position: 10px 9px;
+}
+.tw_bs .white_sdk_package,
+.tw_bs .white_sdk_package:active {
+  background-image: url('../imgv4/icons/white_sdk_package.png');
+  background-position: 7px 9px;
+}
+.tw_bs .upload_white,
+.tw_bs .upload_white:active {
+  background-image: url('../imgv4/icons/white_upload.png');
+  background-position: 10px 7px;
+}
+.tw_bs #apk_upload input,
+.tw_bs #apk_upload img {
+  display: inline-block;
+}
+.tw_bs #apk_cancel img {
+  padding-left: 10px;
+}
+.tw_bs #add_application,
+.tw_bs .add_application {
+  visibility: hidden;
+  position: absolute;
+}
+.tw_bs #add_application_s,
+.tw_bs .add_application_s {
+  position: relative;
+  width: 130px;
+}
+.tw_bs .add_application_s {
+  width: 145px;
+}
+.tw_bs #files {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.tw_bs #mobile_sdk {
+  text-align: center;
+}
+.tw_bs #result {
+  font-weight: bold;
+}
+.tw_bs #result .name,
+.tw_bs #newzone a,
+.tw_bs #selected_zones a {
+  color: #9c1e6d!important;
+}
+.tw_bs .buttons {
+  float: right;
+  padding-right: 10px;
+}
+.tw_bs #newzone {
+  display: block;
+  padding-top: 10px;
+}
+.tw_bs #selected_zones {
+  padding-top: 5px;
+}
+.tw_bs .wrapper_description {
+  padding-top: 20px;
+}
+.tw_bs .files_block {
+  display: none;
+}
+.tw_bs .toggles {
+  margin-bottom: 10px;
+}
+.tw_bs #upload_ios {
+  display: none;
+}

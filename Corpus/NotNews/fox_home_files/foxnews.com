@@ -1,0 +1,1 @@
+PARSELY.pInit({"apikey":"foxnews.com","settings":{"debug":false,"widget":false,"tracker":true},"customizations":null,"track_ip_addresses":true,"bundle":"/code/ptrack-v0.4.0.js","track_third_party_cookies":true,"uuid":"27eebb30-4932-4f3a-a58c-e37c656ace2f"});

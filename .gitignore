@@ -1,0 +1,16 @@
+#ignore all images
+
+*.png
+*.gif
+*.jpg
+*.js
+*.img
+*.jpeg
+*.bmp
+*.tiff
+*.svg
+*.m4a
+*.mp4
+*.swf
+*.svg
+*.svgz
