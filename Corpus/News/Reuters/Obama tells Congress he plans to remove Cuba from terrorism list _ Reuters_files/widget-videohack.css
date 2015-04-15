@@ -1,0 +1,23 @@
+#slideshowInlineLarge {
+	display: none;
+}
+#articleImage {
+	display: none;
+}
+/*#relatedVideo .feature {
+	padding-top: 0;
+}
+#relatedVideo .feature .photo {
+	display: none;
+}*/
+#article-inline-video {
+	width: 580px;
+	background: #000;
+	margin: 0 0 10px 0;
+}
+#article-inline-video p {
+	margin: 0;
+	padding: 10px;
+	font-size: 11px;
+	color: #FFF;
+}
