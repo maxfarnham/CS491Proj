@@ -1,0 +1,10 @@
+YUI.add("deferred-content",function(c){var a="DeferredContent";function b(){}b.ATTRS={url:{value:""}};
+b.prototype={initializer:function(){this.renderUI();},renderUI:function(){c.log("renderUI not implemented","warn",a);
+}};c.namespace("Z")[a]=b;},"3.2.0",{requires:["base-build","node-base"]});
+YUI.add("deferred-iframe",function(e){var a="DeferredIframe",b="debug",c="",d=e.Node;e.Z[a]=e.Base.create("deferredIframe",e.Base,[e.Z.DeferredContent],{IFRAME_TEMPLATE:('<iframe id="{id}" name="{name}" class="{className}" src="{url}" width="{width}" height="{height}" noresize="noresize" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" allowTransparency="true"></iframe>'),initializer:function(){this.publish("loaded",{fireOnce:true,emitFacade:true});
+},_frameLoaded:function(k,f){e.log("_frameLoaded",b,a+" ["+this.get("id")+"]");var h=k.target,j,i;try{j=d.getDOMNode(h.get("contentWindow"));
+i=d.getDOMNode(h.get("contentWindow.document"));}catch(g){e.log(g);}this.fire("loaded",{iframe:{parentNode:f,win:j,doc:i,el:h}});
+},renderUI:function(){var g=this,h=g.getAttrs(),j=h.id,f=e.one("#"+j+"-target"),i;if(!f){e.log("parent node not found, skipping",b,a+" ["+j+"]");
+return;}i=d.create(e.Lang.sub(g.IFRAME_TEMPLATE,h));e.log("rendering",b,a+" ["+j+"]");if(g.getEvent("loaded").hasSubs()){i.onceAfter("load",g._frameLoaded,g,f);
+}f.append(i);}},{create:function(f){return new e.Z[a](f);},ATTRS:{id:{value:c},name:{value:c},className:{value:"third-party-ad-iframe"},height:{value:c},width:{value:c}}});
+},"3.2.0",{requires:["deferred-content"]});

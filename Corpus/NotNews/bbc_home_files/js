@@ -1,0 +1,92 @@
+/**/
+
+var sync_4815162342 = function()
+{
+this.urls = [
+[0, "http://pixel.mathtag.com/misc/img?mop_seq=0:5&mt_cb=815900&mop_top="],
+[23, "http://www.facebook.com/fr/u.php?p=418865601488577&m=0db6552d-7ea4-4400-9b5e-9a3ed1d0faa4"],
+[0, "http://pixel.mathtag.com/misc/img?mop_seq=1:5&mt_cb=676724&mop_top=23:1429055710|"],
+[3, "http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM2MiZ0bD00MzIwMA==&piggybackCookie=uid:0db6552d-7ea4-4400-9b5e-9a3ed1d0faa4"],
+[0, "http://pixel.mathtag.com/misc/img?mop_seq=2:5&mt_cb=587347&mop_top=23:1429055710|3:1429055710|"],
+[13, "http://ib.adnxs.com/getuid?http://sync.mathtag.com/sync/img?mt_exid=13&mt_mminit=1&mt_exuid=$UID"],
+[5, "http://us-u.openx.net/w/1.0/sd?id=536872786&val=0db6552d-7ea4-4400-9b5e-9a3ed1d0faa4"],
+[10, "http://ads.yahoo.com/pixel?id=2172018&t=2&piggyback=http%3A%2F%2Fads.yahoo.com%2Fcms%2Fv1%3Fesig%3D1~444de053567fa80a3054a1981c8febcf1176dd9d%26nwid%3D10000355603%26sigv%3D1"],
+[0, "http://pixel.mathtag.com/misc/img?mop_seq=5:5&mt_cb=509731&check=0db6552d-7ea4-4400-9b5e-9a3ed1d0faa4&mop_top=23:1429055710|3:1429055710|13:1429055710|5:1429055710|10:1429055710|"]
+]
+
+   this.progress = 0;
+
+   var self = this;
+
+   var tims = "";
+   var errs = "";
+
+   this.sync = function(i)
+   {
+       var e = document.createElement("img");
+
+       var now = new Date();
+
+
+       if (e.addEventListener)
+       {
+	   e.addEventListener('load', function() {
+	       var temp = new Date().getTime() - now.getTime(); tims += self.urls[i][0]+':'+temp+"|";
+	   });
+
+	   e.addEventListener('error', function() {
+	       var temp = new Date().getTime() - now.getTime(); errs += self.urls[i][0]+':'+temp+"|";
+	   });
+       }
+
+       e.src = self.urls[i][1];
+   }
+
+   this.batch = function()
+   {
+      for (var i = self.progress; i < self.urls.length; ++i)
+      {
+	 self.sync(i);
+      }
+   }
+
+   this.final = function()
+   {
+      var e = document.createElement("img");
+      e.src = self.urls[self.urls.length-1][1]+"&final&timings="+tims+"&errors="+errs;
+   }
+
+   this.some = function(howmany)
+   {
+      var count = 0;
+      for (var i = self.progress; i < self.urls.length && count < howmany; ++i)
+      {
+         self.sync(i);
+	 self.progress++;
+         count++;
+      }
+   }
+}
+
+
+var s_4815162342 = new sync_4815162342();
+s_4815162342.some(1);
+setTimeout('s_4815162342.some(2)', 1000);
+setTimeout(s_4815162342.batch, 3000);
+setTimeout(s_4815162342.final, 10000);
+
+(function() {
+    metric = function(url, wait)
+    {
+        setTimeout(function() {
+            var e = document.createElement("img");
+            e.src = url;
+        }, wait);
+    }
+
+    var intervals = [0, 3, 5, 10, 15, 20, 40, 80];
+    var inlen = intervals.length;
+    for (var k = 0; k < inlen; ++k)
+	this.metric("http://pixel.mathtag.com/misc/img?mm_bnc&linger="+k, intervals[k] * 1000);
+})();
+

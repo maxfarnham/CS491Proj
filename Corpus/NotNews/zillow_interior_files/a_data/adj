@@ -1,0 +1,239 @@
+
+(function() {
+  var DEBUG = ''.toLowerCase() == 'true';
+  var csiStart = (+new Date);
+  var studioObjects = window['studioV2'] = window['studioV2'] || {};
+  var eventTags = {"img_event_tag":[],"js_event_tag":["https://c.betrad.com/surly.js?;ad_wxh=300x250;coid=279;nid=34767;ecaid=cID:60809345;"]};
+  var publisherSideFilePath = unescape('');
+  if(publisherSideFilePath == '') {
+    publisherSideFilePath = '/doubleclick/DARTIframe.html';
+  } else if (publisherSideFilePath.charAt(publisherSideFilePath.length - 1) == '/') {
+    publisherSideFilePath += 'DARTIframe.html';
+  }
+  var bookingTimeMetaData = {
+  };
+
+  var runtimeMetaData = {
+  };
+
+  var exitUrlPatternMacroValues = {
+  };
+  var macroParser = function (macroName, value) {
+    return (value.indexOf(macroName) < 0) ? value : '';
+  };
+  var adServerData = {
+    eventReportingUrl: 'http://ad.doubleclick.net/activity;src=1359940;met=1;v=1;pid=114307224;aid=287076623;ko=0;cid=60809345;rid=60689345;rv=1;',
+    clickUrl: 'http://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsueEQkrMOJGBkQI9P8li88eiBOfI8ky9AFI3V1K1Cyp6cDe7T-uqASPibgTXhrmTelU7aqFHvKxSs16l6gQvdOaQRlO41AG_NsFhM_0FRYe8ZVxw0yve1LaRMkO9ImINifJ0vB0&sig=Cg0ArKJSzLI9jgKEJ6IyEAE&adurl=http://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCLcer9rQtVZC5NM-ipgPxzoDQD62Yn-AGjayD344BwI23ARABIABgyYb_h_Cj7BKCARdjYS1wdWItNjY4MDE1NjM4MDcwNzIzMMgBCeACAKgDAZgEAKoEpgFP0D-q-POFk5qArumdNh1UlW6mUN7-8C8ry_B6ToNBkBeVcGzk0s-FY9bC6gcYuTRXIQm39wTIZjl7fgIKjicTxoFzRiEM2kfC9nvIQb2YPkEviKAvSQPZFRZzgv5iieQjUwPDbYX9DAnI8l97EyIeQCuqFPIzk4SeCExXDEm0ZYkuxUkk3PZaRrfoxINRsWpnEOv7DHR7uF7KvdE6L72D7Sw7EjHb4AQBgAbmnseJobaNs6QBoAYh2AcA%26num%3D1%26sig%3DAOD64_1LAOHnkrZqba61bSt-Z0t1EBa3qA%26client%3Dca-pub-6680156380707230%26adurl%3D',
+    clickUrlTimesToEscape: '',
+    clickEventTagUrl: eventTags['click_event_tag'],
+    impressionUrl: '',
+    geoData: 'ct=US&st=IL&city=13310&dma=87&zp=60622&bw=3',
+    siteName: 'N4359.aod-invite.comOX15921',
+    siteId: '841106',
+    adId: '287076623',
+    exitSuffix: macroParser('exit_suffix', ''), // XFA GA Beacon.
+    buyId: '8423516',
+    creativeId: '60809345',
+    placementId: '114307224',
+    advertiserId: '1359940',
+    keyValueOrdinal: '0',
+    renderingVersion: '1',
+    renderingId: '60689345',
+    randomNumber: '1195066095',
+    dynamicData: '{\"ME_Edge_Baseline_Dynamic_Feed_DBM_Testing_Sheet1\":[{\"AR_NUM\":\"ARGLLJS3\",\"Background\":\"grey\",\"Bkg_image_url\":{\"Url\":\"http://s0.2mdn.net/dynamic/2/1255817/ca35ee3e3b1a79f857974a10d18867c487400e21.googledrive.com/host/0B9eAWznXW3GONGtHSXpQd1BRQU0/child.jpg_1416862597720_child.jpg\"},\"CTA_Text\":\"Learn more\",\"Callout_SeeFeeDetails\":\"off\",\"Callout_SeeFee_url\":{\"Url\":\"http://www.merrilledge.com/pricing\"},\"Exit_URL\":{\"Url\":\"http://www.merrilledge.com/offers/rollover/?cm_mmc=GWM-SelfDirectedBrokerage-_-InviteMedia-_-300x250_MEdgT314_Dynamic_BDM\"},\"Headline\":\"It\'s easy to get started\",\"KeyVisual_image_url\":{\"Url\":\"http://s0.2mdn.net/dynamic/2/1255817/ca35ee3e3b1a79f857974a10d18867c487400e21.googledrive.com/host/0B9eAWznXW3GONGtHSXpQd1BRQU0/401b.jpg_1428006775459_401b.jpg\"},\"Reporting_Label\":\"401kcircleb_H10_RTB6_LM_off_Grey\",\"SupportingCopy\":\"One-on-one<br>guidance when<br>you need it\",\"Unique_ID\":198,\"_index\":0}],\"_profileid\":1036365}',
+    stringReportingUrl: 'http://ad.doubleclick.net/activity;src=1359940;stragg=1;v=1;pid=114307224;aid=287076623;ko=0;cid=60809345;rid=60689345;rv=1;rn=1195066095;',
+    urlToGetKeywordsFor: '%LivePreviewSiteUrl',
+    bookingTimeMetaData: bookingTimeMetaData,
+    generatedAdSlot: false,
+    exitUrlPatternMacroValues: exitUrlPatternMacroValues,
+    activeViewClkStr: macroParser('eav', 'BPdEW-LQtVZ2zFpC6wQGw4oGwCAAAAAAQATgByAEJ4AQCoAY_'),
+    renderingEnvironment: ('' == '1' ||
+        window['mraid']) ? 'IN_APP' : 'BROWSER',
+    placementDimensions: {
+      'w': '300',
+      'h': '250'
+    },
+    tag: {
+      adContainerElementId: macroParser('ad_container_id', ''),
+      hideObjects: '',
+      top: '',
+      left: '',
+      zIndex: '',
+      duration: '',
+      wmode: '',
+      preferHtml5Artwork: '' == 'true',
+      adSenseKeywords: '',
+      adSenseLatitude: '',
+      adSenseLongitude: '',
+      publisherSideFilePath: publisherSideFilePath,
+      runtimeMetaData: runtimeMetaData,
+      lidarEnabled: false,
+      expansionMode: '',
+      renderFloatInplace: ''.toLowerCase() == 'true',
+      tryToWriteHtmlInline: ''.toLowerCase() == 'true'
+    }
+  };
+
+  var staticResourceMediaServer = location.protocol == 'https:' ?
+       'https://s0.2mdn.net' :
+       'http://s0.2mdn.net';
+
+  var creativeMediaServer = location.protocol == 'https:' ?
+       'https://s0.2mdn.net' :
+       'http://s0.2mdn.net';
+
+  var backupImageUrl = '/ads/richmedia/studio/pv2/34992255/20141201134311874/300x250_MEdgT314_Dynamic.jpg';
+  if (!/^https?:/.test(backupImageUrl)) {
+    backupImageUrl = creativeMediaServer + backupImageUrl;
+  }
+  var backupImage = {
+    exitUrl: 'http://ad.doubleclick.net/activity;src=1359940;met=1;v=1;pid=114307224;aid=287076623;ko=0;cid=60809345;rid=60689345;rv=1;cs=h;eid1=2117182;ecn1=1;etm1=0;_dc_redir=url?http://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsueEQkrMOJGBkQI9P8li88eiBOfI8ky9AFI3V1K1Cyp6cDe7T-uqASPibgTXhrmTelU7aqFHvKxSs16l6gQvdOaQRlO41AG_NsFhM_0FRYe8ZVxw0yve1LaRMkO9ImINifJ0vB0&sig=Cg0ArKJSzLI9jgKEJ6IyEAE&adurl=http://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCLcer9rQtVZC5NM-ipgPxzoDQD62Yn-AGjayD344BwI23ARABIABgyYb_h_Cj7BKCARdjYS1wdWItNjY4MDE1NjM4MDcwNzIzMMgBCeACAKgDAZgEAKoEpgFP0D-q-POFk5qArumdNh1UlW6mUN7-8C8ry_B6ToNBkBeVcGzk0s-FY9bC6gcYuTRXIQm39wTIZjl7fgIKjicTxoFzRiEM2kfC9nvIQb2YPkEviKAvSQPZFRZzgv5iieQjUwPDbYX9DAnI8l97EyIeQCuqFPIzk4SeCExXDEm0ZYkuxUkk3PZaRrfoxINRsWpnEOv7DHR7uF7KvdE6L72D7Sw7EjHb4AQBgAbmnseJobaNs6QBoAYh2AcA%26num%3D1%26sig%3DAOD64_1LAOHnkrZqba61bSt-Z0t1EBa3qA%26client%3Dca-pub-6680156380707230%26adurl%3Dhttp://www.merrilledge.com/promos/695',
+    target: '_blank',
+    imageUrl: backupImageUrl,
+    width: '300',
+    height: '250',
+    backupDisplayActivityUrl: [
+      adServerData.eventReportingUrl,
+      '&timestamp=', (+new Date), ';',
+      'eid1=9;ecn1=1;etm1=0;'].join(''),
+    thirdPartyBackupImpressionUrl: ''
+  };
+
+  var versionPrefix = DEBUG ? 'db_' : '';
+  var templateVersion = '200_58';
+  var renderingScriptPath = '/879366';
+  var rendererDisplayType = '';
+  rendererDisplayType += 'flash_';
+  var rendererFormat = 'inpage';
+  var rendererName = rendererDisplayType + rendererFormat;
+  var renderingLibrary = renderingScriptPath + '/' + rendererName + '_rendering_lib_' +
+      versionPrefix + templateVersion + '.js';
+  // Adserver has a logic to detect media files and prepend host name.
+  if (!/^https?:/.test(renderingLibrary)) {
+    renderingLibrary = staticResourceMediaServer + renderingLibrary;
+  }
+
+  var adCreativeDefinitions = {};
+    adCreativeDefinitions['287076623'] = '/ads/richmedia/studio/creative/34992255/35095512_93f26ffb8670fd7fae3c3858cac1d8aa_287076623_creative_override.js';
+
+  var creativeId = '60809345';
+  var adId = adCreativeDefinitions[adServerData.adId] ? adServerData.adId : 0;
+  // The unique creative is identified by combination of creative id and ad id.
+  // When the same creative(same creative id and same ad id) is served on the page more
+  // than once then they will share the creative definition yet there will be
+  // multiple instances of 'adResponses'.s
+  var creativeKey = [creativeId, adId].join('_');
+  var creativeDef = adCreativeDefinitions[adServerData.adId] ?
+      adCreativeDefinitions[adServerData.adId] :
+      '/ads/richmedia/studio/creative/34992255/35095512_4b3faf16fb85d62efd174c72f14f4104_creative_def.js';
+  if(!/^https?:/.test(creativeDef) && creativeDef.substring(0, 2) != '//') {
+    creativeDef = creativeMediaServer + creativeDef;
+  }
+  studioObjects['creativeCount'] = studioObjects['creativeCount'] || 0;
+  var creativeDto = {
+    id: creativeId,
+    uniqueId: creativeId + '_' + studioObjects['creativeCount']++,
+    templateVersion: templateVersion,
+    adServerData: adServerData,
+    isPreviewEnvironment: '%PreviewMode' == 'true',
+    hasFlashAsset: true,
+    hasHtmlAsset: false,
+    requiresCss3Animations: false,
+    flashVersion: '11.2',
+    httpsMediaServer: 'https://s0.2mdn.net',
+    httpMediaServer: 'http://s0.2mdn.net',
+    renderingScriptPath: renderingScriptPath,
+    renderingLibrary: renderingLibrary,
+    rendererName: rendererName,
+    creativeDefinitionUrl: creativeDef,
+    creativeKey: creativeKey,
+    thirdPartyImpressionUrls: eventTags['img_event_tag'],
+    thirdPartyArtworkImpressionUrl: '',
+    breakoutToTop: false,
+    dimensions: {
+      width: '300px',
+      height: '250px'
+    },
+    backupImage: backupImage,
+    csiStart: csiStart,
+    csiAdRespTime: csiStart - (parseFloat('') || 0),
+    csiEvents: {},
+    hasModernizrFeatureChecks: false,
+    html5FeatureChecks: [
+    ],
+    hasSwiffyHtmlAsset: false
+  };
+
+  var inGdnIframe = window['IN_ADSENSE_IFRAME'] || false;
+  var inYahooSecureIframe = window.Y && Y.SandBox && Y.SandBox.vendor;
+  var inWinLiveIframe = false;
+  try {
+    inWinLiveIframe = !!window.$WLXRmAd;
+  } catch(e) {}
+  var inSafeFrame = window.$sf && window.$sf.ext;
+  var isMsnAjaxIframe = (typeof(inDapMgrIf) != 'undefined' && inDapMgrIf);
+  var breakoutIframe = ''.toLowerCase();
+  var shouldBreakout = (((false ||
+                          false) &&
+                         !inGdnIframe &&
+                         !inYahooSecureIframe &&
+                         !inSafeFrame &&
+                         !inWinLiveIframe) ||
+                        (true && breakoutIframe == 'true')) &&
+                       self != top &&
+                       !creativeDto.isPreviewEnvironment &&
+                       breakoutIframe != 'false';
+
+  if (adServerData.tag.adContainerElementId == '' &&
+      (true || false ||
+         adServerData.tag.renderFloatInplace)) {
+    var containerId = ['creative', creativeDto.uniqueId].join('_');
+    var divHtml = ['<div id="', containerId, '"></div>'].join('');
+    document.write(divHtml);
+    adServerData.tag.adContainerElementId = containerId;
+    adServerData.generatedAdSlot = true;
+  }
+  var creatives = studioObjects['creatives'] = studioObjects['creatives'] || {};
+  var creative = creatives[creativeKey] = creatives[creativeKey] || {};
+  var adResponses = creative['adResponses'] = creative['adResponses'] || [];
+  creative['shouldBreakout'] = creative['shouldBreakout'] || shouldBreakout;
+  var iframeBusterLibrary = renderingScriptPath + '/iframe_buster_' +
+      versionPrefix + templateVersion + '.js';
+  if(!/^https?:/.test(iframeBusterLibrary)) {
+    iframeBusterLibrary = staticResourceMediaServer + iframeBusterLibrary;
+  }
+  var loadedLibraries = studioObjects['loadedLibraries'] = studioObjects['loadedLibraries'] || {};
+  var versionedLibrary = loadedLibraries[templateVersion] = loadedLibraries[templateVersion] || {};
+  var typedLibrary = versionedLibrary[rendererName] = versionedLibrary[rendererName] || {};
+  adResponses.push({
+    creativeDto: creativeDto
+  });
+  for (var i = 0; i < eventTags['js_event_tag'].length; i++) {
+    document.write('<scr' + 'ipt type="text/javascript" src="' + eventTags['js_event_tag'][i] + '"></scr' + 'ipt>');
+  }
+  if (shouldBreakout) {
+    if (versionedLibrary['breakout']) {
+      versionedLibrary['breakout']();
+    } else if (!versionedLibrary['breakoutLoading']) {
+      versionedLibrary['breakoutLoading'] = true;
+      document.write('<scr' + 'ipt type="text/javascript" src="' + iframeBusterLibrary + '" async="async"></scr' + 'ipt>');
+    }
+  } else if (typedLibrary['bootstrap'] && creative['creativeDefinition']) {
+    typedLibrary['bootstrap']();
+  } else {
+    if (!creative['definitionLoading']) {
+      creative['definitionLoading'] = true;
+      creativeDto.csiEvents['pb'] = (+new Date);
+      document.write('<scr' + 'ipt type="text/javascript" src="' + creativeDto.creativeDefinitionUrl + '"' + (adServerData.tag.tryToWriteHtmlInline ? '' : ' async="async"') + '></scr' + 'ipt>');
+    }
+    if (!typedLibrary['loading']) {
+      typedLibrary['loading'] = true;
+      creativeDto.csiEvents['gb'] = (+new Date);
+      document.write('<scr' + 'ipt type="text/javascript" src="' + renderingLibrary + '"' + (adServerData.tag.tryToWriteHtmlInline ? '' : ' async="async"') + '></scr' + 'ipt>');
+    }
+  }
+  if (isMsnAjaxIframe) {
+    window.setTimeout("document.close();", 1000);
+  }
+})();
+document.write('\n\x3cnoscript\x3e\n  \x3ca target\x3d\x22_blank\x22 href\x3d\x22http://ad.doubleclick.net/activity;src\x3d1359940;met\x3d1;v\x3d1;pid\x3d114307224;aid\x3d287076623;ko\x3d0;cid\x3d60809345;rid\x3d60689345;rv\x3d1;cs\x3dh;eid1\x3d2117182;ecn1\x3d1;etm1\x3d0;_dc_redir\x3durl?http://adclick.g.doubleclick.net/pcs/click?xai\x3dAKAOjsueEQkrMOJGBkQI9P8li88eiBOfI8ky9AFI3V1K1Cyp6cDe7T-uqASPibgTXhrmTelU7aqFHvKxSs16l6gQvdOaQRlO41AG_NsFhM_0FRYe8ZVxw0yve1LaRMkO9ImINifJ0vB0\x26sig\x3dCg0ArKJSzLI9jgKEJ6IyEAE\x26adurl\x3dhttp://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCLcer9rQtVZC5NM-ipgPxzoDQD62Yn-AGjayD344BwI23ARABIABgyYb_h_Cj7BKCARdjYS1wdWItNjY4MDE1NjM4MDcwNzIzMMgBCeACAKgDAZgEAKoEpgFP0D-q-POFk5qArumdNh1UlW6mUN7-8C8ry_B6ToNBkBeVcGzk0s-FY9bC6gcYuTRXIQm39wTIZjl7fgIKjicTxoFzRiEM2kfC9nvIQb2YPkEviKAvSQPZFRZzgv5iieQjUwPDbYX9DAnI8l97EyIeQCuqFPIzk4SeCExXDEm0ZYkuxUkk3PZaRrfoxINRsWpnEOv7DHR7uF7KvdE6L72D7Sw7EjHb4AQBgAbmnseJobaNs6QBoAYh2AcA%26num%3D1%26sig%3DAOD64_1LAOHnkrZqba61bSt-Z0t1EBa3qA%26client%3Dca-pub-6680156380707230%26adurl%3Dhttp://www.merrilledge.com/promos/695\x22\x3e\n    \x3cimg border\x3d\x220\x22 alt\x3d\x22\x22 src\x3d\x22//s0.2mdn.net/ads/richmedia/studio/pv2/34992255/20141201134311874/300x250_MEdgT314_Dynamic.jpg\x22\n        width\x3d\x22300\x22 height\x3d\x22250\x22 /\x3e\n  \x3c/a\x3e\n  \x3cimg width\x3d\x220px\x22 height\x3d\x220px\x22 style\x3d\x22visibility:hidden\x22 border\x3d\x220\x22 alt\x3d\x22\x22\n       src\x3d\x22http://ad.doubleclick.net/activity;src\x3d1359940;met\x3d1;v\x3d1;pid\x3d114307224;aid\x3d287076623;ko\x3d0;cid\x3d60809345;rid\x3d60689345;rv\x3d1;\x26timestamp\x3d1195066095;eid1\x3d9;ecn1\x3d1;etm1\x3d0;\x22 /\x3e\n  \n\x3c/noscript\x3e\n');
