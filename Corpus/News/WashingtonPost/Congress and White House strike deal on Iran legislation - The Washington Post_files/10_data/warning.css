@@ -1,0 +1,316 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 26, 2014, 4:17:13 PM
+    Author     : sommerfieldem
+*/
+body{
+    background:transparent;
+}
+.margin-all{
+    margin:10px;
+}
+.margin-all-5{
+    margin:5px;
+}
+ .margin-x-5{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+ .margin-y-5{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+ .margin-x{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+ .margin-y{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+ .margin-top{
+    margin-top: 10px;
+}
+ .margin-bottom{
+    margin-bottom: 10px;
+}
+ .margin-left{
+    margin-left: 10px;
+}
+ .margin-right{
+    margin-right: 10px;
+}
+
+ .margin-top-5{
+    margin-top: 5px;
+}
+ .margin-bottom-5{
+    margin-bottom: 5px;
+}
+ .margin-left-5{
+    margin-left: 5px;
+}
+ .margin-right-5{
+    margin-right: 5px;
+}
+
+
+.padding-all{
+    padding:10px;
+}
+.padding-all-5{
+    padding:5px;
+}
+.padding-all-20{
+    padding:20px;
+}
+ .padding-x-5{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+ .padding-y-5{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+ .padding-x{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+ .padding-y{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ .padding-top{
+    padding-top: 10px;
+}
+ .padding-bottom{
+    padding-bottom: 10px;
+}
+ .padding-left{
+    padding-left: 10px;
+}
+ .padding-right{
+    padding-right: 10px;
+}
+ .padding-top-5{
+    padding-top: 5px;
+}
+ .padding-bottom-5{
+    padding-bottom: 5px;
+}
+ .padding-left-5{
+    padding-left: 5px;
+}
+ .padding-right-5{
+    padding-right: 5px;
+}
+.bold{
+    font-weight: bold;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.full-width{width:100%}
+.full-height{height:100%}
+.inline-block{display:inline-block}
+.block{display:block}
+.position-rel{position: relative}
+.position-abs{position: absolute}
+/* end of base*/
+
+
+.warning-box-wrapper{
+    width:460px;
+}
+.warning-box-wrapper .close-button{
+    width:40px;
+    height:40px;
+    top: 0;
+    right: 10px;
+    cursor: pointer;
+    z-index: 20;
+}
+.warning-box{
+    background-color: #333;
+    color:#FFF;
+    padding:15px 10px 20px;
+    z-index: 5;
+}
+.warning-box .wp-logo{
+    background: url(../images/wp-logo-68x56.png) no-repeat;
+    width:68px;
+    height: 56px;
+    margin-right: 10px;
+}
+.warning-box .box-title{
+    line-height: 56px;
+    color: #DDD;
+}
+.warning-box .box-title span{
+    color: #FFF;
+}
+.warning-box .inner-box{
+    background-color: #FFF;
+    color:#dc694e;
+    padding:15px;
+    margin-top:5px;
+    border-radius: 5px;   
+    text-align: center;
+}
+
+.warning-box .inner-box a{
+  text-decoration: underline;
+}
+.warning-box .inner-box .promo-box{
+  padding: 20px 10px;
+  background-color: #eee;
+}
+
+
+/* buttons */
+.btn-orange {
+    position: relative;
+    height: 40px;
+
+    border: 0;
+    background: #dc694e; /* Old browsers */
+    /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+
+    /* FF3.6+ */
+    background: -moz-linear-gradient(top,  
+        rgb(223,119,94) 0%, 
+        rgb(223,130,109) 45%, 
+        rgb(218,105,80) 50%, 
+        rgb(219,102,76) 100%); 
+    /* Chrome,Safari4+ */
+    background: -webkit-gradient(linear, left top, left bottom, 
+        color-stop(0%,rgb(223,119,94)), 
+        color-stop(45%,rgb(223,130,109)), 
+        color-stop(50%,rgb(218,105,80)), 
+        color-stop(100%,rgb(219,102,76))); 
+    /* Chrome10+,Safari5.1+ */
+    background: -webkit-linear-gradient(top,  
+        rgb(223,119,94) 0%,
+        rgb(223,130,109) 45%,
+        rgb(218,105,80) 50%,
+        rgb(219,102,76) 100%); 
+    /* Opera 11.10+ */
+    background: -o-linear-gradient(top,  
+        rgb(223,119,94) 0%,
+        rgb(223,130,109) 45%,
+        rgb(218,105,80) 50%,
+        rgb(219,102,76) 100%); 
+    /* IE10+ */
+    background: -ms-linear-gradient(top,  
+        rgb(223,119,94) 0%,
+        rgb(223,130,109) 45%,
+        rgb(218,105,80) 50%,
+        rgb(219,102,76) 100%); 
+    /* W3C */
+    background: linear-gradient(to bottom,  
+        rgb(223,119,94) 0%,
+        rgb(223,130,109) 45%,
+        rgb(218,105,80) 50%,
+        rgb(219,102,76) 100%); 
+    
+    color: white;
+    font-size: 20px; 
+    font-family: Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+
+    text-transform: uppercase;   
+    cursor: pointer;
+}
+.warning-box .inner-box .btn-orange {
+    padding:7px 0px;
+}
+
+.btn-orange:hover {
+    filter: none;
+    background-image: none;
+    background-color: #2e6d9d !important;
+     color: white;
+}
+
+/* <a> version of the btn-orange */
+
+.warning-box .inner-box a.btn-orange {
+    text-align: center;
+    text-decoration: none;
+}
+
+.warning-box-wrapper .btn-orange .caret-right {
+    top: 10px;
+    height: 18px;
+    width: 18px;
+    display: inline-block;
+    background-image: url(https://ssl.washingtonpost.com/wp-srv/actmgmt/images/common/sign-in-reg-sprite-1x.png);
+    background-position: -36px -337px;
+}
+
+.warning-box-wrapper .outer-circle {
+ background-color: #222222;
+ height: 48px;
+ width: 48px;
+ border-radius: 25px;
+ border: 1px solid transparent;
+}
+.warning-box-wrapper .inner-circle {
+ background-color: #fff;
+ height: 34px;
+ width: 34px;
+ border-radius: 17px;
+ top:7px;
+ left:7px;
+ text-align: center;
+}
+.warning-box-wrapper .inner-circle .fa-times{
+ color:#2e6d9d;
+ margin: 3px;
+}
+
+.warning-box-wrapper .close-button.hover .outer-circle,
+.warning-box-wrapper .close-button:hover .outer-circle {
+ background-color: #FFF;
+ border-color: #222;
+}
+.warning-box-wrapper .close-button.hover .inner-circle,
+.warning-box-wrapper .close-button:hover .inner-circle {
+ background-color: #222;
+}
+.warning-box-wrapper .close-button.hover .inner-circle .fa-times,
+.warning-box-wrapper .close-button:hover .inner-circle .fa-times{
+  color:#FFF;
+}
+
+.warning-box-wrapper .shade-background{
+    top:0;
+    left: 0;
+    background-color: #000;
+    opacity: 0.2;
+    z-index: 1;
+}
+
+
+/* responsive */
+@media (max-width: 459px){
+    .warning-box-wrapper{
+        width:100%;
+    }
+    .btn-orange {
+        font-size: 11px;
+    }
+    .warning-box .box-title{
+        line-height: 28px;
+    }
+    .warning-box .inner-box{
+        font-size:12px;
+    }
+    .warning-box-wrapper .btn-orange .caret-right {
+        height: 16px;
+    }
+}
