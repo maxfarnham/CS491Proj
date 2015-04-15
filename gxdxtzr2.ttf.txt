@@ -1,0 +1,599 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors.htm
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/abuse.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/auth_plugin.htm
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/dashicons.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/great-debate
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/great-debate_002
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/great-debate_003
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/great-debate_004
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/info.htm
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/main.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/overlay.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/rcom-main.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/rcom-masthead-nav-new.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/rcom-masthead-nav-new_002.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/rcom-navigation.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/rcom-section.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/rcom-share.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/reuters.com
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/sharedModuleJS
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/sharedModuleJS_002
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/smartads.htm
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/style.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/thickbox.css
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/us.reuters;type=BizDev_Blogs_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/A new crisis is brewing between two nuclear-armed neighbors_files/userData.htm
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/Thumbs.db
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Asia tentative as mixed China data stoke uncertainty _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Avon exploring sale of North America business  WSJ _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters.htm
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/100322827466.sdx
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters_files/widget-videohack.css
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Congress approves formula fixing Medicare doctors pay _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Dollar smarts after retail sales sting, China data next _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters.htm
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/EU to announce antitrust moves against Google on Wednesday  papers _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Florida artist claims Apple stole his style _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters.htm
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/In setback, Obama concedes Congress role on Iran deal _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Intel sees revenue holding, cuts capital spending, shares up _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/100212513751.sdx
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/us.reuters;type=leaderboard;sz=728x
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/us.reuters;type=mpu;sz=300x250;tile
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/us.reuters;type=mpulow;sz=300x250;t
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters_files/widget-videohack.css
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/100112514645.sdx
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters_files/widget-videohack.css
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Oil prices rise after signs of U.S. production dip _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Protests in U.S. cities against police violence prompt arrests _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Sika wins support for deal opposition after clipping owner's vote _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters.htm
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters.htm
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/us.reuters;type=leaderboard;sz=728x
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/us.reuters;type=mpu;sz=300x250;tile
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/us.reuters;type=mpulow;sz=300x250;t
+#	new file:   Corpus/News/Reuters/U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters_files/userData.htm
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters.htm
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/article
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/article_002
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/article_003
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/container.htm
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/inlineArticleLinks
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/main.css
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/rcom-article-2015.css
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/rcom-global.css
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/rcom-modules.css
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/register_server_layer.htm
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/register_server_layer_data/sf_main.htm
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/reuters.com
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/serverComponent.php
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/service.sdx
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/sf_code.jsp
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/sf_main.htm
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/sf_preloader.jsp
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/smartads.htm
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/smartads_002.htm
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/us.reuters;type=BizDev_Article_RR1;sz=300x1
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/us.reuters;type=BizDev_Article_SP3;sz=610x1
+#	new file:   Corpus/News/Reuters/Wall Street ends higher after bounce in oil prices _ Reuters_files/userData.htm
+#
+
