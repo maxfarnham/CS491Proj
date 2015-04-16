@@ -1,0 +1,19 @@
+.cnn-navigation .nav-header,
+.cnn-navigation .super-skinny {
+visibility: hidden;
+}
+.cnn-navigation .nav-header a,
+.cnn-navigation .super-skinny a {text-decoration: none;}
+.cnn-navigation ol,
+.cnn-navigation ul {padding-left: 0!important}
+
+.cnn-navigation .super-skinny {
+    padding-left: 40px;
+}
+.cnn-navigation footer ol li { list-style: none; }
+.cnn-navigation .super-skinny *,
+.cnn-navigation .nav-header * {text-align: left;}
+.cnn-navigation .cnnBlogContentTitle {
+    font-size: 20px;
+    margin: 0;
+}

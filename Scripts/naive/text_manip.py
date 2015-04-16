@@ -2,7 +2,7 @@ import re
 #from BeautifulSoup import BeautifulSoup
 #import lxml
 #from lxml.html.clean import Cleaner
-import html2text
+#import html2text
 from nltk.corpus import stopwords
 #https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
 def html_to_words( raw_html ):
@@ -18,7 +18,8 @@ def html_to_words( raw_html ):
     #cleaner = Cleaner()
     #html_text = cleaner.clean_html(raw_html)
 
-    html_text = html2text.html2text(raw_html.decode('utf-8'))
+    html_text = ''
+    #html2text.html2text(raw_html.decode('utf-8'))
     
     #
     # 2. Remove non-letters        

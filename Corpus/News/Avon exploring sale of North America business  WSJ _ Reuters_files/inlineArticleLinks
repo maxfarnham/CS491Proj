@@ -1,0 +1,31 @@
+Reuters.namespace("article");
+Reuters.article.inlinelinks = [];
+Reuters.article.inlinelinks.push( { "text": "Reuters Global Media Summit", "url": "/summit/GlobalMedia11", "title": "the Reuters Global Media Summit" } );
+
+
+Reuters.article.paragraphs = document.getElementById("articleText").getElementsByTagName("p");
+
+Reuters.article.trackInlineLink = function(ind) {
+	try {
+		thisLink = Reuters.article.inlinelinks[ind];
+		dcsMultiTrack('DCSext.VirtualEvent', '1','DCSext.rChannel','Contextual Keyword Link','WT.cg_n', 'Contextual Keyword Link - ' + thisLink.text,'DCSext.modURL',thisLink.url,'DCSext.ModID','','DCSext.ModImp','','DCSext.DartZone','');
+	} catch(e) {}
+}
+
+if (Reuters.info.channel != "pressRelease") {
+for (i=0; i<Reuters.article.paragraphs.length; i++) { 
+	var inputText = Reuters.article.paragraphs[i].innerHTML.replace(/\n/g, " ");
+	for (j=0; j<Reuters.article.inlinelinks.length; j++) {  
+		if (((Reuters.article.paragraphs[i].parentNode.id == "articleText") || (Reuters.article.paragraphs[i].parentNode.className == "focusParagraph")) && (inputText.search(Reuters.article.inlinelinks[j].text) != -1) && (inputText.search("a href") == -1) && (Reuters.article.inlinelinks[j].linked != 1) ) {
+			var pattern = "(\\b" + Reuters.article.inlinelinks[j].text.replace(/ /g, "\\s") + "\\b)(?!'s|</a>)";  
+			var replacePattern = new RegExp(pattern, ""); //m for multiline mode, gets matches at end of paragraph
+			if (replacePattern.test(inputText)){
+				Reuters.article.paragraphs[i].innerHTML = inputText.replace(replacePattern, '<a href="' + Reuters.article.inlinelinks[j].url + '" title="Full coverage of ' + Reuters.article.inlinelinks[j].title + '" onclick="Reuters.article.trackInlineLink(' + j + ')">$1</a>');
+				Reuters.article.inlinelinks[j].linked = 1; 
+				break;
+			}
+			
+		}
+	}
+}
+}

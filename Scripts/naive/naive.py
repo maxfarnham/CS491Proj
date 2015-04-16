@@ -1,7 +1,8 @@
 import dataset_utilities as du
 import file_io as fi
 import text_manip as tm
-def naive_bayes(featureFile):	
+def naive_bayes(featureFile):
+	fi.create_training_file(featureFile)
 	splitRatio = 0.67
 	dataset = fi.loadCsv(featureFile)
 	trainingSet, testSet = du.splitDataset(dataset, splitRatio)
