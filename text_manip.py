@@ -37,30 +37,3 @@ def html_to_words( raw_html ):
     # and return the result.
     return( " ".join( meaningful_words ))
 
-def create_simple_feature_vector(raw_html):
-    countPeriod = 0
-    countComma = 0
-    countQuestion = 0
-    countExclamation = 0
-    countWspace = 0
-    countLetters = 0
-    longestWordLength = 0
-    currentWordLength = 0
-    for letter in raw_html:
-        countLetters+=1
-        if letter == '.':
-            countPeriod+=1
-        if letter == ',':
-            countComma+=1
-        if letter == '?':
-            countQuestion+=1
-        if letter == '!':
-            countExclamation+=1
-        if letter == ' ':
-            countWspace+=1
-            if currentWordLength > longestWordLength:
-                longestWordLength = currentWordLength
-            currentWordLength = 0            
-        else:
-            currentWordLength+=1
-    return str(countPeriod) + ',' + str(countComma) + ',' + str(countQuestion) + ',' + str(countExclamation) + ',' + str(countLetters) + ',' + str(longestWordLength) + ',' + str(countWspace) + ','

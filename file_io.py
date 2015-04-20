@@ -1,6 +1,10 @@
 import csv, text_manip, os, fnmatch
-def loadCsv(filename):
+import local as loc
+import dataset_utilities as du
+def loadCsv(filename, ignoreHeaders=True):
 	lines = csv.reader(open(filename, "rb"))
+	if ignoreHeaders:
+		next(lines, None)
 	dataset = list(lines)
 	for i in range(len(dataset)):
 		dataset[i] = [float(x) for x in dataset[i]]
@@ -27,20 +31,21 @@ def concat_html_file_text(source, destination):
 		with open (filename, "r") as htmlfile:
 			textfile.write(text_manip.html_to_words(htmlfile.read()) + '\n')  
 
-def create_training_file(destination):
-	source = 'C:/Users/William/CS491Proj/Corpus/NotNews'
+def create_training_file(destination = loc.featureFile):
+	source = loc.not_news_dir
 	label = 0
 	files = getTopLevelFiles(source, 'htm')
-	textfile = open(destination, 'a+')              
+	textfile = open(destination, 'a+')
+	textfile.write('countPeriod, countComma, countQuestion, countExclamation, countLetters, longestWordLength, countWspace, class\n')
 	for filename in files: 
 		with open (filename, "r") as htmlfile:
 			print(filename)
-			textfile.write(text_manip.create_simple_feature_vector(htmlfile.read()) + str(label) + '\n')  
-	source = 'C:/Users/William/CS491Proj/Corpus/News'
+			textfile.write(du.create_simple_feature_vector(htmlfile.read()) + str(label) + '\n')  
+	source = loc.news_dir
 	label = 1
 	files = getTopLevelFiles(source, 'htm')
 	textfile = open(destination, 'a+')              
 	for filename in files: 
 		with open (filename, "r") as htmlfile:
 			print(filename)
-			textfile.write(text_manip.create_simple_feature_vector(htmlfile.read()) + str(label) + '\n')  
+			textfile.write(du.create_simple_feature_vector(htmlfile.read()) + str(label) + '\n')  
