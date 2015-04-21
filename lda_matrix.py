@@ -1,7 +1,6 @@
 from __future__ import division, print_function
 
 import numpy as np
-import lda
 import itertools
 
 from os import walk, path
@@ -11,43 +10,44 @@ import file_io as fi
 from collections import OrderedDict
 import text_manip as tm
 
-def vocab_from_file(raw_fpath, vocDict = dict(), vocab = (), intersect = True, interDict = dict(), isHTML = False):
+@profile
+def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, interDict = dict(), isHTML = False):
     file_path = path.abspath(raw_fpath)
     print('building vocabulary for file:')
     print(file_path)   
     with open(file_path) as input:
         if isHTML:
-            text = tm.html_to_words(input.read())            
-            for word in text.split():    
-                if not intersect or word in interDict.values():
-                    if word not in vocDict:
+            text = tm.html_to_words(input.read()) 
+            keys = set(interDict.keys())           
+            for word in text.split(): 
+                if word in vocDict: 
+                    vocDict[word] += 1
+                else:  
+                    if not intersect or word in keys:
                         vocDict[word] = 0
-                        vocab += (word,)
-                    else:
-                        vocDict[word] += 1
+                        vocab.append(word) 
         else:
             for word in itertools.chain.from_iterable(line.split() for line in input):
                 if not intersect or word in interDict.values():
                     if word not in vocDict:
                         vocDict[word] = 0
-                        vocab = vocab (word,)
+                        vocab.append(word)
                     else:
                         vocDict[word] += 1
     return (vocDict, vocab)
 
+@profile
 def build(raw_dpath = loc.news_dir, extension ='htm', recurse = False, intersect = True, intersector_path = loc.intersector_path, interDict = dict()):
     dir_path = path.abspath(raw_dpath)                   
     vocDict = OrderedDict()
-    vocab = ()   
+    vocab = []  
     if intersect:
         interDict = vocab_from_file(raw_fpath = intersector_path, intersect = False)[0]
     fileCount = 0
     XList = []
     for file in fi.getTopLevelFiles(dir_path):
-        fdic_fvoc_pair = vocab_from_file(raw_fpath = file, vocDict = OrderedDict(), vocab = vocab, intersect = intersect, interDict = interDict, isHTML = True)
-        fdic = fdic_fvoc_pair[0] 
-        fvoc = fdic_fvoc_pair[1]             
-        vocab += fvoc
+        fdic, fvoc = vocab_from_file(raw_fpath = file, vocDict = OrderedDict(), vocab = vocab, intersect = intersect, interDict = interDict, isHTML = True)            
+        vocab.extend(fvoc)
         new_words = ()        
         for fword in fdic.keys():
             if fword not in vocDict.keys():
@@ -67,5 +67,6 @@ def build(raw_dpath = loc.news_dir, extension ='htm', recurse = False, intersect
         row_idx += 1
     return (X, vocab)
 
-
+if __name__ == "__main__":
+    build()
         
