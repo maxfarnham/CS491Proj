@@ -16,7 +16,7 @@ def visible_text(element):
         return None
     # if this text is itself HTML, we need to go deeper
     # this is a very naive check and is implemented primarily for speed
-    elif re.match('^<\w+?>', element):
+    elif re.match('^<\.+?>', element):
         return get_visible_text(element)
 
     return element
