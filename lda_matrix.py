@@ -47,10 +47,12 @@ def build(raw_dpath = loc.news_dir, extension ='htm', recurse = False, intersect
     XList = []
     for file in fi.getTopLevelFiles(dir_path):
         fdic, fvoc = vocab_from_file(raw_fpath = file, vocDict = OrderedDict(), vocab = vocab, intersect = intersect, interDict = interDict, isHTML = True)            
-        vocab.extend(fvoc)
-        new_words = ()        
+        print("{0} <-> {1}".format(len(vocab), len(fvoc)))
+        #vocab.extend(fvoc)
+        new_words = ()   
+        keys = set(vocDict.keys())     
         for fword in fdic.keys():
-            if fword not in vocDict.keys():
+            if fword not in keys:
                 new_words += (fword,fdic[fword])                
                 vocDict[fword] = fdic[fword]
             else:
