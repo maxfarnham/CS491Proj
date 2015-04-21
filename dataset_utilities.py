@@ -94,9 +94,38 @@ def bag_of_words(training_set):
     # array
     train_data_features = train_data_features.toarray()
 
-def main():
-    pos_file = open('newstext.txt','r')
-    neg_file = open('notnewstext.txt','r')
-    bag_of_words(pos_file + neg_file)
-    
+#def binarize(observation, threshold):
+#	return 1 if observation > threshold else 0	
+
+def create_simple_feature_vector(raw_html):
+    countPeriod = 0
+    countComma = 0
+    countQuestion = 0
+    countExclamation = 0
+    countWspace = 0
+    countLetters = 0
+    longestWordLength = 0
+    currentWordLength = 0
+    for letter in raw_html:
+        countLetters+=1
+        if letter == '.':
+            countPeriod+=1
+        if letter == ',':
+            countComma+=1
+        if letter == '?':
+            countQuestion+=1
+        if letter == '!':
+            countExclamation+=1
+        if letter == ' ':
+            countWspace+=1
+            if currentWordLength > longestWordLength:
+                longestWordLength = currentWordLength
+            currentWordLength = 0            
+        else:
+            currentWordLength+=1
+    return str(countPeriod) + ',' + str(countComma) + ',' + str(countQuestion) + ',' + str(countExclamation) + ',' + str(countLetters) + ',' + str(longestWordLength) + ',' + str(countWspace) + ','
+    #return str(binarize(countPeriod, 4893.0/(4893+153+202)) + ',' + str(binarize(countComma, 1130)) + ',' + str(binarize(countLetters, 362823)) + ',' + str(binarize(longestWordLength, 907)) + ',' + str(binarize(countWspace, 26985)) + ','
+
+
+
 

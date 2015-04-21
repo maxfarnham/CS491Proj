@@ -36,7 +36,7 @@ def create_training_file(destination = loc.featureFile):
 	label = 0
 	files = getTopLevelFiles(source, 'htm')
 	textfile = open(destination, 'a+')
-	textfile.write('countPeriod, countComma, countQuestion, countExclamation, countLetters, longestWordLength, countWspace, class\n')
+	textfile.write('periodRatio,countComma,countLetters,longestWordLength,countWspace,class\n')
 	for filename in files: 
 		with open (filename, "r") as htmlfile:
 			print(filename)
