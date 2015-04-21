@@ -1,7 +1,7 @@
 from __future__ import division, print_function
 
 import numpy as np
-import itertools
+import itertools, io
 
 from os import walk, path
 import local as loc
@@ -10,33 +10,48 @@ import file_io as fi
 from collections import OrderedDict
 import text_manip as tm
 
-@profile
+import pos
+import grammarcheck as gr
+from textclean.textclean import textclean
+#@profile
 def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, interDict = dict(), isHTML = False):
     file_path = path.abspath(raw_fpath)
     print('building vocabulary for file:')
-    print(file_path)   
-    with open(file_path) as input:
-        if isHTML:
-            text = tm.html_to_words(input.read()) 
-            keys = set(interDict.keys())           
-            for word in text.split(): 
-                if word in vocDict: 
+    print(file_path)     
+    input = io.open(file_path, 'rU', encoding='utf-8')  
+    if isHTML:
+        text = tm.html_to_words(input.read())
+        print('TYPE OF TEXT:' + str(type(text)))
+
+        if str(type(text)) == 'str':
+            text = text.encode('ascii')
+        text = textclean.clean(text)
+        text = removeNonEntities(text) 
+        keys = set(interDict.keys())           
+        for word in text.split(): 
+            if word in vocDict: 
+                vocDict[word] += 1
+            else:  
+                if not intersect or word in keys:
+                    vocDict[word] = 1
+                    vocab.append(word) 
+    else:
+        for word in itertools.chain.from_iterable(line.split() for line in input):
+            if not intersect or word in interDict.values():
+                if word not in vocDict:
+                    vocDict[word] = 1
+                    vocab.append(word)
+                else:
                     vocDict[word] += 1
-                else:  
-                    if not intersect or word in keys:
-                        vocDict[word] = 1
-                        vocab.append(word) 
-        else:
-            for word in itertools.chain.from_iterable(line.split() for line in input):
-                if not intersect or word in interDict.values():
-                    if word not in vocDict:
-                        vocDict[word] = 1
-                        vocab.append(word)
-                    else:
-                        vocDict[word] += 1
     return (vocDict, vocab)
 
-@profile
+def removeNonEntities(text):
+    text_nouns = ''
+    for sent in gr.get_sentences(text):
+        sent_nouns = pos.get_nouns(sent)
+        text_nouns+=sent_nouns
+        return text_nouns
+#@profile
 def build(raw_dpath = loc.news_dir, extension ='htm', recurse = False, intersect = True, intersector_path = loc.intersector_path, interDict = dict()):
     dir_path = path.abspath(raw_dpath)                   
     vocDict = OrderedDict()

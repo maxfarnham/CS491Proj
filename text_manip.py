@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup, Comment
 from nltk.corpus import stopwords
 #https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
 
-@profile
+#@profile
 def visible_text(element):
     # dont include non-visible elements
     if element.parent.name in ['style', 'script', 'head']:
@@ -21,7 +21,7 @@ def visible_text(element):
 
     return element
 
-@profile
+#@profile
 def get_visible_text(raw_html):
     soup = BeautifulSoup(raw_html).findAll(text=True)
     visible_html = map(visible_text, soup)
