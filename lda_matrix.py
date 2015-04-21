@@ -7,12 +7,13 @@ from os import walk, path
 import local as loc
 import file_io as fi
 
-from collections import OrderedDict
+from collections import OrderedDict, defaultdict
 
 from texthandler import TextHandler, TextBlob, TAGS
 from text_manip import html_to_words
 from textclean.textclean import textclean
 import sys
+import lda
 
 #@profile
 def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, interDict = dict(), isHTML = False):
@@ -46,23 +47,23 @@ def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, i
     return (vocDict, vocab)
 
 #@profile
-def build(raw_dpath = loc.news_dir, extension ='htm', recurse = False, intersect = True, intersector_path = loc.intersector_path, interDict = dict()):
-    dir_path = path.abspath(raw_dpath)                   
+def build(files, extension ='htm', recurse = False, intersect = True, intersector_path = loc.intersector_path, interDict = dict()): 
+                   
     vocDict = OrderedDict()
     vocab = []  
     if intersect:
         interDict = vocab_from_file(raw_fpath = intersector_path, intersect = False)[0]
     fileCount = 0
     XList = []
-    for file in fi.getTopLevelFiles(dir_path):
+    titles = ()
+    for file in files:
         fdic, fvoc = vocab_from_file(raw_fpath = file, vocDict = OrderedDict(), vocab = vocab, intersect = intersect, interDict = interDict, isHTML = True)            
         print("{0} <-> {1}".format(len(vocab), len(fvoc)))
         #vocab.extend(fvoc)
-        new_words = ()   
+        titles += (file,)      
         keys = set(vocDict.keys())     
         for fword in fdic.keys():
-            if fword not in keys:
-                new_words += (fword,fdic[fword])                
+            if fword not in keys:                
                 vocDict[fword] = fdic[fword]
             else:
                 vocDict[fword] += fdic[fword]
@@ -77,8 +78,35 @@ def build(raw_dpath = loc.news_dir, extension ='htm', recurse = False, intersect
             col_idx = vKeys.index(key)            
             X[row_idx, col_idx] = dicti[key]
         row_idx += 1
-    return (X, vocab)
+    return (X, vocab, titles)
+
+def test(X, vocab, titles, num_topics=5):
+    model = lda.LDA(n_topics=num_topics, n_iter=500, random_state=1)
+    model.fit(X)
+    doc_topic = model.doc_topic_
+    topic_word = model.topic_word_
+    print("type(topic_word): {}".format(type(topic_word)))
+    print("shape: {}".format(topic_word.shape))
+    n = 8 
+    for i, topic_dist in enumerate(topic_word):
+        topic_words = np.array(vocab)[np.argsort(topic_dist)][:-(n+1):-1]
+        print('*Topic {}\n- {}'.format(i, ' '.join(unicode(topic_words))))
+
+    topic_files_dict = defaultdict(list)       
+    numFiles = len(titles)       
+    for n in range(numFiles):
+        topic_most_pr = doc_topic[n].argmax()
+        topic_files_dict[topic_most_pr].append(titles[n])  
+
+    for n in range(num_topics):
+        if len(topic_files_dict[n]) > 1:
+            X, v, titles = build(files=topic_files_dict[n],intersect=False)
+            test(X, v, titles)
 
 if __name__ == "__main__":
-    build()
+    dir_path = loc.news_dir
+    files = fi.getTopLevelFiles(dir_path)
+    X, v, titles = build(files=files,intersect=False)
+    test(X, v, titles)
+        
         
