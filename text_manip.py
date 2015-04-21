@@ -2,7 +2,7 @@ import re
 from bs4 import BeautifulSoup, Comment
 #import lxml
 #from lxml.html.clean import Cleaner
-import html2text
+#import html2text
 from nltk.corpus import stopwords
 #https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
 

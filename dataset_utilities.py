@@ -94,6 +94,9 @@ def bag_of_words(training_set):
     # array
     train_data_features = train_data_features.toarray()
 
+#def binarize(observation, threshold):
+#	return 1 if observation > threshold else 0	
+
 def create_simple_feature_vector(raw_html):
     countPeriod = 0
     countComma = 0
@@ -120,11 +123,9 @@ def create_simple_feature_vector(raw_html):
             currentWordLength = 0            
         else:
             currentWordLength+=1
-    #return str(countPeriod) + ',' + str(countComma) + ',' + str(countQuestion) + ',' + str(countExclamation) + ',' + str(countLetters) + ',' + str(longestWordLength) + ',' + str(countWspace) + ','
-    return str(binarize(countPeriod, 4893.0/(4893+153+202)) + ',' + str(binarize(countComma, 1130)) + ',' + str(binarize(countLetters, 362823)) + ',' + str(binarize(longestWordLength, 907)) + ',' + str(binarize(countWspace, 26985)) + ','
-    
-def binarize(observation, threshold):
-	return 1 if observation > threshold else 0	
+    return str(countPeriod) + ',' + str(countComma) + ',' + str(countQuestion) + ',' + str(countExclamation) + ',' + str(countLetters) + ',' + str(longestWordLength) + ',' + str(countWspace) + ','
+    #return str(binarize(countPeriod, 4893.0/(4893+153+202)) + ',' + str(binarize(countComma, 1130)) + ',' + str(binarize(countLetters, 362823)) + ',' + str(binarize(longestWordLength, 907)) + ',' + str(binarize(countWspace, 26985)) + ','
+
 
 
 
