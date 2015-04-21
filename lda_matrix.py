@@ -24,13 +24,13 @@ def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, i
                     vocDict[word] += 1
                 else:  
                     if not intersect or word in keys:
-                        vocDict[word] = 0
+                        vocDict[word] = 1
                         vocab.append(word) 
         else:
             for word in itertools.chain.from_iterable(line.split() for line in input):
                 if not intersect or word in interDict.values():
                     if word not in vocDict:
-                        vocDict[word] = 0
+                        vocDict[word] = 1
                         vocab.append(word)
                     else:
                         vocDict[word] += 1
@@ -58,14 +58,15 @@ def build(raw_dpath = loc.news_dir, extension ='htm', recurse = False, intersect
             else:
                 vocDict[fword] += fdic[fword]
         #add to x
-        XList.append(fvoc)                        
+        XList.append(fdic)                        
         fileCount += 1
     X = np.zeros((fileCount, len(vocDict)), dtype=int)  
     row_idx = 0
-    for x in XList:
-        for kvp in x:
-            col_idx = vocDict.keys().index(kvp[0])            
-            X[row_idx, col_idx] = kvp[1]
+    vKeys = vocDict.keys();
+    for dicti in XList:
+        for key in dicti.keys():
+            col_idx = vKeys.index(key)            
+            X[row_idx, col_idx] = dicti[key]
         row_idx += 1
     return (X, vocab)
 
