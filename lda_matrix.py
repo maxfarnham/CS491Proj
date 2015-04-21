@@ -8,24 +8,27 @@ import local as loc
 import file_io as fi
 
 from collections import OrderedDict
-import text_manip as tm
 
-import pos
+from texthandler import TextHandler, TextBlob, TAGS
+from text_manip import html_to_words
 from textclean.textclean import textclean
+import sys
 
-@profile
+#@profile
 def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, interDict = dict(), isHTML = False):
     file_path = path.abspath(raw_fpath)
     print('building vocabulary for file:')
     print(file_path)     
     with io.open(file_path, 'rU', encoding='utf-8') as input:  
         if isHTML:
-            text = tm.html_to_words(input.read())
-            text = unicode(text, 'utf-8')
-            text = textclean.clean(text)
-            text = removeNonEntities(text) 
+            raw_text = html_to_words(input.read())
+            raw_text = unicode(raw_text, 'utf-8')
+
+            text = TextHandler(raw_text)
+            text.filter_words(lambda (word,pos): pos in TAGS['NOUN'])
+            
             keys = set(interDict.keys())           
-            for word in text.split(): 
+            for word in text.words: 
                 if word in vocDict: 
                     vocDict[word] += 1
                 else:  
@@ -42,15 +45,7 @@ def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, i
                         vocDict[word] += 1
     return (vocDict, vocab)
 
-@profile
-def removeNonEntities(text):
-    text_nouns = ''
-    for sent in pos.get_sentences(text):
-        sent_nouns = pos.get_nouns(sent)
-        text_nouns += ' '.join(sent_nouns)
-    return text_nouns
-
-@profile
+#@profile
 def build(raw_dpath = loc.news_dir, extension ='htm', recurse = False, intersect = True, intersector_path = loc.intersector_path, interDict = dict()):
     dir_path = path.abspath(raw_dpath)                   
     vocDict = OrderedDict()
