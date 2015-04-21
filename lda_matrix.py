@@ -13,7 +13,7 @@ import text_manip as tm
 import pos
 from textclean.textclean import textclean
 
-#@profile
+@profile
 def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, interDict = dict(), isHTML = False):
     file_path = path.abspath(raw_fpath)
     print('building vocabulary for file:')
@@ -42,6 +42,7 @@ def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, i
                         vocDict[word] += 1
     return (vocDict, vocab)
 
+@profile
 def removeNonEntities(text):
     text_nouns = ''
     for sent in pos.get_sentences(text):
@@ -49,7 +50,7 @@ def removeNonEntities(text):
         text_nouns += ' '.join(sent_nouns)
     return text_nouns
 
-#@profile
+@profile
 def build(raw_dpath = loc.news_dir, extension ='htm', recurse = False, intersect = True, intersector_path = loc.intersector_path, interDict = dict()):
     dir_path = path.abspath(raw_dpath)                   
     vocDict = OrderedDict()

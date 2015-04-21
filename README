@@ -1,1 +1,9 @@
 see demo for usage. raw_html requires BeautifulSoup and nltk
+
+
+
+REQUIREMENTS (may need to get this in a requirements.txt):
+pattern:
+	https://github.com/clips/pattern
+nltk
+textblob
