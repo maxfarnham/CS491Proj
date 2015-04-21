@@ -121,7 +121,7 @@ def create_simple_feature_vector(raw_html):
         else:
             currentWordLength+=1
     #return str(countPeriod) + ',' + str(countComma) + ',' + str(countQuestion) + ',' + str(countExclamation) + ',' + str(countLetters) + ',' + str(longestWordLength) + ',' + str(countWspace) + ','
-    return str(binarize(countPeriod, 4893)) + ',' + str(binarize(countComma, 1130)) + ',' + str(binarize(countQuestion, 153)) + ',' + str(binarize(countExclamation, 202)) + ',' + str(binarize(countLetters, 362823)) + ',' + str(binarize(longestWordLength, 907)) + ',' + str(binarize(countWspace, 26985)) + ','
+    return str(binarize(countPeriod, 4893.0/(4893+153+202)) + ',' + str(binarize(countComma, 1130)) + ',' + str(binarize(countLetters, 362823)) + ',' + str(binarize(longestWordLength, 907)) + ',' + str(binarize(countWspace, 26985)) + ','
     
 def binarize(observation, threshold):
 	return 1 if observation > threshold else 0	
