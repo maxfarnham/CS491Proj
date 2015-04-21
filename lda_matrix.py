@@ -30,7 +30,7 @@ def vocab_from_file(raw_fpath, vocDict = dict(), vocab = (), intersect = True, i
                 if not intersect or word in interDict.values():
                     if word not in vocDict:
                         vocDict[word] = 0
-                        vocab = vocab (word,)
+                        vocab = vocab+(word,)
                     else:
                         vocDict[word] += 1
     return (vocDict, vocab)
