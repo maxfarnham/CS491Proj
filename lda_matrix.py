@@ -14,6 +14,7 @@ from text_manip import html_to_words
 from textclean.textclean import textclean
 import sys
 import lda
+import entity_recognition as er
 
 badwords = ['',]
 
@@ -26,12 +27,14 @@ def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, i
         if isHTML:
             raw_text = html_to_words(input.read())
             raw_text = unicode(raw_text, 'utf-8')
-
             text = TextHandler(raw_text)
-            text.filter_words(lambda (word,pos): pos in TAGS['NOUN'])
+            text = er.recognize_entities(text)
+            #text.filter_words(lambda (word,pos): pos in TAGS['NOUN'])           
             
-            keys = set(interDict.keys())           
-            for word in text.words: 
+            keys = set(interDict.keys())
+
+            for word in text:           
+            #for word in text.words: 
                 if word in vocDict: 
                     vocDict[word] += 1
                 else:  
@@ -88,7 +91,7 @@ def fit(X, vocab, titles, num_topics=15):
     topic_word = model.topic_word_
     #print("type(topic_word): {}".format(type(topic_word)))
     #print("shape: {}".format(topic_word.shape))
-    n = 8 
+    n = 5 
     for i, topic_dist in enumerate(topic_word):
         topic_words = np.array(vocab)[np.argsort(topic_dist)][:-(n+1):-1]
         print('*Topic {}\n- {}'.format(i, ' '.join(unicode(topic_words))))

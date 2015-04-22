@@ -1,16 +1,17 @@
 import grammarcheck as gc
 import local as loc
-import nltk
+import nltk, re
 
 def recognize_entities(text):
-	tokenized = nltk.word_tokenize(text)
+	tokenized = nltk.word_tokenize(unicode(text))
 	tagged = nltk.pos_tag(tokenized)
-	print tagged
 	namedEnt = nltk.ne_chunk(tagged, binary=True)
-	namedEnt.draw()
-
-	
+	print namedEnt
+	#entities = re.findall(r'NE\s(.*?)\)',str(namedEnt))
+	entities = re.findall(r'(\(.*?\))\s',str(namedEnt))
+	print entities
+	return entities
 
 if __name__ == "__main__":
-	text='Arizona Governor Vetoes Bill That Would Have Shielded Officers In Fatal Shootings'
+	text="Kylie Jenner Baggins has encouraged young women not to be afraid to experiment with their looks. The 17-year-old reality star has become famous for her extremely full pout, which she achieves with lip liner and trickery."
 	recognize_entities(text)
