@@ -8,13 +8,11 @@ import local as loc
 import file_io as fi
 
 from collections import OrderedDict, defaultdict
-
+from text_manip import html_to_words
 from handlers import HtmlHandler, TextHandler, TAGS
 import sys
 import lda
 import entity_recognition as er
-
-badwords = ['',]
 
 #@profile
 def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, interDict = dict(), isHTML = False):
