@@ -81,7 +81,7 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
         row_idx += 1
     return (X, vocab, titles)
 
-def fit(X, vocab, titles, num_topics=5):
+def fit(X, vocab, titles, num_topics=15):
     model = lda.LDA(n_topics=num_topics, n_iter=500, random_state=1)
     model.fit(X)
     doc_topic = model.doc_topic_
@@ -94,9 +94,12 @@ def fit(X, vocab, titles, num_topics=5):
         print('*Topic {}\n- {}'.format(i, ' '.join(unicode(topic_words))))
     topic_files_dict = defaultdict(list)       
     numFiles = len(titles)       
+    
     for n in range(numFiles):
         topic_most_pr = doc_topic[n].argmax()
+        print('most probable topic is:' + str(topic_most_pr))
         topic_files_dict[topic_most_pr].append(titles[n])  
+    
     for n in range(num_topics):
         if len(topic_files_dict[n]) > 1:
             X, vocab, titles = build(files=topic_files_dict[n],intersect=False)
