@@ -9,9 +9,7 @@ import file_io as fi
 
 from collections import OrderedDict, defaultdict
 
-from texthandler import TextHandler, TextBlob, TAGS
-from text_manip import html_to_words
-from textclean.textclean import textclean
+from handlers import HtmlHandler, TextHandler, TAGS
 import sys
 import lda
 
@@ -20,14 +18,14 @@ badwords = ['',]
 #@profile
 def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, interDict = dict(), isHTML = False):
     file_path = path.abspath(raw_fpath)
-    print('building vocabulary for file:')
-    print(file_path)     
+    #print('building vocabulary for file:')
+    #print(file_path)     
     with io.open(file_path, 'rU', encoding='utf-8') as input:  
         if isHTML:
-            raw_text = html_to_words(input.read())
-            raw_text = unicode(raw_text, 'utf-8')
+            #raw_text = html_to_words(input.read())
+            #raw_text = unicode(raw_text, 'utf-8')
 
-            text = TextHandler(raw_text)
+            text = HtmlHandler(input.read()).text
             text.filter_words(lambda (word,pos): pos in TAGS['NOUN'])
             
             keys = set(interDict.keys())           
@@ -59,7 +57,7 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
     titles = ()
     for file in files:
         fdic, fvoc = vocab_from_file(raw_fpath = file, vocDict = OrderedDict(), vocab = vocab, intersect = intersect, interDict = interDict, isHTML = True)            
-        print("{0} <-> {1}".format(len(vocab), len(fvoc)))
+        #print("{0} <-> {1}".format(len(vocab), len(fvoc)))
         #vocab.extend(fvoc)
         titles += (file,)      
         keys = set(vocDict.keys())     
@@ -96,11 +94,22 @@ def fit(X, vocab, titles, num_topics=5):
     numFiles = len(titles)       
     for n in range(numFiles):
         topic_most_pr = doc_topic[n].argmax()
+        #print("{0} file most likely: {1}".format(n, topic_most_pr))
+        #print("\t with: {0}", doc_topic[n][topic_most_pr])
         topic_files_dict[topic_most_pr].append(titles[n])  
     for n in range(num_topics):
+        print("topic {0} len: {1}".format(n, len(topic_files_dict[n])))
         if len(topic_files_dict[n]) > 1:
-            X, vocab, titles = build(files=topic_files_dict[n],intersect=False)
-            fit(X, vocab, titles)
+            n_X, n_vocab, titles = build(files=topic_files_dict[n],intersect=False)
+            print("X: {0}, v: {1}".format(len(n_X), len(n_vocab)))
+            if len(n_X) > 0 and len(n_vocab) > 0:
+                if len(n_X) == len(X) and len(n_vocab) == len(vocab):
+                    print("FOUND LEAF TOPIC FOR ARTICLES:")
+                    print("TOPIC {0}".format(n))
+                    for f in X:
+                        print("\t{0}".format(f))
+                else:
+                    fit(n_X, n_vocab, titles)
 
 if __name__ == "__main__":
     dir_path = loc.news_dir
