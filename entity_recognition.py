@@ -1,6 +1,8 @@
 import grammarcheck as gc
 import local as loc
 import nltk, re
+from pattern.text.en import tokenize as tok
+from pattern.text.en import tag
 #def recognize_entities(text):
 #	tokenized = nltk.word_tokenize(unicode(text))
 #	tagged = nltk.pos_tag(tokenized)
@@ -11,15 +13,27 @@ import nltk, re
 #	print entities
 #	return entities
 def recognize_entities(text):
-    entities = []
-    for sent in nltk.sent_tokenize(unicode(text)):
-        for chunk in nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(sent)),binary=True):
-            if hasattr(chunk, '_label'):
-                entity = str()
-                if chunk._label == 'NE':
-                    for word in chunk:
-                        entity += ' ' + word[0]
-                    entities.append(entity[1:])
+    with open('entity_comparison.txt', 'a+') as f:
+        entities = []
+        entities_nltk = []
+        for sent in nltk.sent_tokenize(unicode(text)):
+        #these two methods produce different results...also the first is prolly quicker...we could also mess around with letting expected entity type be a feature:
+            for chunk in nltk.ne_chunk(tag(sent),binary=True):
+                if hasattr(chunk, '_label'):
+                    entity = str()
+                    if chunk._label == 'NE':
+                        for word in chunk:
+                            entity += ' ' + word[0]
+                            entities.append(entity.lstrip().lower())
+            for chunk in nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(sent)),binary=True):
+                if hasattr(chunk, '_label'):
+                    entity = str()
+                    if chunk._label == 'NE':
+                        for word in chunk:
+                            entity += ' ' + word[0]
+                            entities_nltk.append(entity.lstrip().lower())
+        f.write('\nUSING PATTERN:\n' + str(entities))
+        f.write('\nUSING NLTK:\n' + str(entities_nltk))
     return entities
 
                        
