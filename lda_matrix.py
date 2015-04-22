@@ -12,6 +12,7 @@ from collections import OrderedDict, defaultdict
 from handlers import HtmlHandler, TextHandler, TAGS
 import sys
 import lda
+import entity_recognition as er
 
 badwords = ['',]
 
@@ -22,14 +23,20 @@ def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, i
     #print(file_path)     
     with io.open(file_path, 'rU', encoding='utf-8') as input:  
         if isHTML:
-            #raw_text = html_to_words(input.read())
-            #raw_text = unicode(raw_text, 'utf-8')
 
-            text = HtmlHandler(input.read()).text
-            text.filter_words(lambda (word,pos): pos in TAGS['NOUN'])
+            #text = HtmlHandler(input.read()).text
+            #text.filter_words(lambda (word,pos): pos in TAGS['NOUN'])
+
+            raw_text = html_to_words(input.read())
+            raw_text = unicode(raw_text, 'utf-8')
+            text = TextHandler(raw_text)
+            text = er.recognize_entities(text)
+            #text.filter_words(lambda (word,pos): pos in TAGS['NOUN'])           
             
-            keys = set(interDict.keys())           
-            for word in text.words: 
+            keys = set(interDict.keys())
+
+            for word in text:           
+            #for word in text.words: 
                 if word in vocDict: 
                     vocDict[word] += 1
                 else:  
@@ -79,24 +86,27 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
         row_idx += 1
     return (X, vocab, titles)
 
-def fit(X, vocab, titles, num_topics=5):
+def fit(X, vocab, titles, num_topics=15):
     model = lda.LDA(n_topics=num_topics, n_iter=500, random_state=1)
     model.fit(X)
     doc_topic = model.doc_topic_
     topic_word = model.topic_word_
     #print("type(topic_word): {}".format(type(topic_word)))
     #print("shape: {}".format(topic_word.shape))
-    n = 8 
+    n = 5 
     for i, topic_dist in enumerate(topic_word):
         topic_words = np.array(vocab)[np.argsort(topic_dist)][:-(n+1):-1]
         print('*Topic {}\n- {}'.format(i, ' '.join(unicode(topic_words))))
     topic_files_dict = defaultdict(list)       
     numFiles = len(titles)       
+    
     for n in range(numFiles):
         topic_most_pr = doc_topic[n].argmax()
         #print("{0} file most likely: {1}".format(n, topic_most_pr))
         #print("\t with: {0}", doc_topic[n][topic_most_pr])
+        print('most probable topic is:' + str(topic_most_pr))
         topic_files_dict[topic_most_pr].append(titles[n])  
+    
     for n in range(num_topics):
         print("topic {0} len: {1}".format(n, len(topic_files_dict[n])))
         if len(topic_files_dict[n]) > 1:
