@@ -15,13 +15,15 @@ import lda
 import entity_recognition as er
 
 #@profile
+def cross_reference_tokens():
+    return 1
 def vocab_from_file(raw_fpath, vocDict = dict(), vocab = [], intersect = True, interDict = dict(), isHTML = False):
     file_path = path.abspath(raw_fpath)
     print('building vocabulary for file:')
     print(file_path)
-    with open('entity_comparison.txt', 'a+') as f:
-        f.write('\nENTITIES IN FILE:')
-        f.write(file_path)
+    with open('intersection_entity.txt', 'a+') as inf:
+        inf.write('\nENTITIES IN FILE:')
+        inf.write(file_path)
     with io.open(file_path, 'rU', encoding='utf-8') as input:  
         if isHTML:
 

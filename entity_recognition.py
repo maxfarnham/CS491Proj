@@ -13,7 +13,8 @@ from pattern.text.en import tag
 #	print entities
 #	return entities
 def recognize_entities(text):
-    with open('entity_comparison.txt', 'a+') as f:
+    #with open('entity_comparison.txt', 'a+') as f:
+    with open('intersection_entity.txt', 'a+') as inf:
         entities = []
         entities_nltk = []
         for sent in nltk.sent_tokenize(unicode(text)):
@@ -32,10 +33,17 @@ def recognize_entities(text):
                         for word in chunk:
                             entity += ' ' + word[0]
                             entities_nltk.append(entity.lstrip().lower())
-        f.write('\nUSING PATTERN:\n' + str(entities))
-        f.write('\nUSING NLTK:\n' + str(entities_nltk))
-    return entities
+        #f.write('\nUSING PATTERN:\n' + str(entities))
+        #f.write('\nUSING NLTK:\n' + str(entities_nltk))
 
+        ret = intersect(entities,entities_nltk)
+        a,b,c = (len(entities),len(entities_nltk),len(ret))
+        inf.write('\nSET LENGTHS:\n' + str((a,b,c)))
+        inf.write('\nENTITIES:\n' + str(ret))
+        return ret
+
+def intersect(a, b):
+     return list(set(a) & set(b))
                        
 if __name__ == "__main__":
     text="Kylie Jenner Baggins has encouraged young women not to be afraid to experiment with their looks. The 17-year-old reality star has become famous for her extremely full pout, which she achieves with lip liner and trickery."
