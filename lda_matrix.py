@@ -79,18 +79,20 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
     #rets = Parallel(n_jobs=num_cores)(delayed(vocabs_from_files)(file, interDict, useEntities = True) for file in files)  
     rets = []
     for file in files:
-        rets.append(vocabs_from_files(file, interDict, useEntities = True))
-    for fdic in rets:  
-        for fword in fdic.keys():
-            keys = set(vocDict.keys())  
+        rets.append(vocabs_from_files(file, interDict, useEntities = False))
+    for fdic in rets:
+        keys = set(vocDict.keys())   
+        for fword in fdic.keys():         
             if fword not in keys:                
                 vocDict[fword] = fdic[fword]
+                keys.add(fword) 
             else:
                 vocDict[fword] += fdic[fword]
         dicList.append(fdic)                        
         fileCount += 1
 
-    X = np.zeros((fileCount, len(vocDict)), dtype=int)  
+    X = np.zeros((fileCount, len(vocDict)), dtype=int)
+    print('X shape:' + str(X.shape))
     row_idx = 0
     vKeys = vocDict.keys()
 
