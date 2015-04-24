@@ -1,1 +1,0 @@
-if (typeof(mboxFactories) !== 'undefined') {mboxFactories.get('default').getPCId().forceId("1429044097531-258179.20_37"); /* tag plugin */ mboxFactories.get('default').get('SiteCatalyst: event', 0).setOffer(new mboxOfferDefault()).loaded();}

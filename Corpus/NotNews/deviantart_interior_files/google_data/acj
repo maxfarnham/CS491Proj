@@ -1,9 +1,0 @@
-OX_8909975193({
-  "ads":{
-    "medium":"w",
-    "record_tmpl":"http://ox-d.deviantart.servedbyopenx.com/{medium}/1.0/{rtype}?ts={txn_state}",
-    "pixels":"http://us-u.openx.net/w/1.0/pd?plm=6&ph=aacfb202-f4ac-4927-9447-4d8b00faba2f",
-    "adunits" : [
-    ]
-  }
-});
