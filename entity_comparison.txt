@@ -1,3 +1,0 @@
-
-ENTITIES IN FILE:C:\Users\William\CS491Proj\corpus\news\#IAmAScientistBecause Isn't the Only Feed You Should Follow _ WIRED.htm
-ENTITIES IN FILE:C:\Users\William\CS491Proj\corpus\news\#IAmAScientistBecause Isn't the Only Feed You Should Follow _ WIRED.htm

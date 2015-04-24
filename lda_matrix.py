@@ -19,7 +19,7 @@ from joblib import Parallel, delayed
 #@profile
 def cross_reference_tokens():
     return 1
-def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = dict(), isHTML = False):
+def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = dict(), isHTML = False, useEntities = False, unigramProbs = False):
     fdic = dict()
     file_path = path.abspath(raw_fpath)
     print('building vocabulary for file:')
@@ -34,10 +34,12 @@ def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = d
             raw_text = html_to_words(input.read())
             raw_text = unicode(raw_text, 'utf-8')
             text = TextHandler(raw_text)
-            if intersect:
-                text = er.recognize_entities(text, intersect=True, intersector=interDict)                                   
+            if useEntities:
+                words = er.recognize_entities(text.sentences, intersect=True, intersector=interDict)
+            else:
+                words = text.words                                   
             keys = set(interDict.keys())
-            for word in text:           
+            for word in words:           
             #for word in text.words: 
                 if word in fdic: 
                     fdic[word] += 1
@@ -51,25 +53,31 @@ def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = d
                         fdic[word] = 1
                     else:
                         fdic[word] += 1
+    if unigramProbs:
+        vals = fdic.values()
+        wordCount = sum(vals)
+        keys = fdic.iterkeys()
+        for key in keys:
+            fdic[key] /= float(wordCount) 
     return fdic
 
-def parallel_vocabs_from_files(file, interDict, intersect=True):
-    return vocab_from_file(raw_fpath = file, vocDict = OrderedDict(), intersect = intersect, interDict = interDict, isHTML = True)               
+def vocabs_from_files(file, interDict, intersect=True, useEntities = False):
+    return vocab_from_file(raw_fpath = file, vocDict = OrderedDict(), intersect = intersect, interDict = interDict, isHTML = True, useEntities = useEntities)               
            
 #@profile
 def build(files, extension ='htm', recurse = False, intersect = True, intersector_path = loc.intersector_path, interDict = dict()):                    
     vocDict = OrderedDict()
     vocab = []  
     if intersect:
-        interDict = vocab_from_file(raw_fpath = intersector_path, intersect = False)
+        interDict = vocab_from_file(raw_fpath = intersector_path, intersect=False, unigramProbs = True)
     fileCount = 0
     dicList = []
     titles = ()
     #num_cores = multiprocessing.cpu_count()
-    #rets = Parallel(n_jobs=num_cores)(delayed(vocabs_from_files)(file, interDict) for file in files)  
+    #rets = Parallel(n_jobs=num_cores)(delayed(vocabs_from_files)(file, interDict, useEntities = True) for file in files)  
     rets = []
     for file in files:
-        rets += vocabs_from_files(file, interDict)
+        rets.append(vocabs_from_files(file, interDict, useEntities = True))
     for fdic in rets:  
         for fword in fdic.keys():
             keys = set(vocDict.keys())  

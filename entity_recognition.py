@@ -1,4 +1,3 @@
-import grammarcheck as gc
 import local as loc
 import nltk, re
 from pattern.text.en import tokenize as tok
@@ -6,6 +5,7 @@ from pattern.text.en import tag
 from pattern.text.en import wordnet as wnet
 from pattern.text.en import parsetree as pt
 from pattern.vector import stem, PORTER, LEMMA
+from handlers import TextHandler
 domains = ['cnn','reuters','nytimes',' wired',' vice','facebook','twitter',' news','video', 'toggle']
 def extend_entities(entity, intersector=None, intersect=False):
     syns = []
@@ -16,15 +16,13 @@ def extend_entities(entity, intersector=None, intersect=False):
             for syn in wnet.synsets(word):
                 syns.append(syn[0])
     return syns 
-def recognize_entities(text, intersector=None, intersect=False):
+def recognize_entities(sentences, intersector=None, intersect=False):
     with open('intersection_entity14.txt', 'a+') as inf:
         entities = []
         entities_nltk = []
-        for sent in nltk.sent_tokenize(unicode(text)):
+        for sent in sentences:
         #these two methods produce different results...also the first is prolly quicker...we could also mess around with letting expected entity type be a feature:
-            ptree = pt(sent, relations=True, lemmata=True)
-            sent = stem(sent, stemmer=LEMMA)            
-            for chunk in nltk.ne_chunk(tag(sent),binary=True):
+            for chunk in nltk.ne_chunk(sent.tags,binary=True):
                 if hasattr(chunk, '_label'):
                     entity = str()
                     if chunk._label == 'NE':
@@ -34,9 +32,11 @@ def recognize_entities(text, intersector=None, intersect=False):
                         for dom in domains:
                             if dom in entity:
                                 include = False
-                        if include:                 
+                        if include:     
+                            #ptree = pt(sent, relations=True, lemmata=True)
+                            #sent = stem(sent, stemmer=LEMMA)                                   
                             #entities+=extend_entities(entity.lstrip(), intersect=intersect, intersector=intersector)
-                            entities+=entity.lstrip()
+                            entities.append(entity.lstrip())
             #for chunk in nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(sent)),binary=True):
             #    if hasattr(chunk, '_label'):
             #        entity = str()
@@ -50,7 +50,7 @@ def recognize_entities(text, intersector=None, intersect=False):
         #ret = intersect(entities,entities_nltk)
         #a,b,c = (len(entities),len(entities_nltk),len(ret))
         #inf.write('\nSET LENGTHS:\n' + str((a,b,c)))
-        inf.write('\nENTITIES:\n' + str(entities))
+        #inf.write('\nENTITIES:\n' + str(entities))
         #return ret
         return entities
 
