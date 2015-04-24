@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{1080fe75-f41d-4b4e-82aa-06b40dca9b5e}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>buildcorp.py</StartupFile>
+    <StartupFile>lda_matrix.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -4485,6 +4485,8 @@
     <Compile Include="trie.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Corpus\" />
+    <Folder Include="Corpus\3sources\" />
     <Folder Include="Corpus\3sources\3sources" />
     <Folder Include="Corpus\News" />
     <Folder Include="Corpus\News\#IAmAScientistBecause Isn%27t the Only Feed You Should Follow _ WIRED_files" />

@@ -19,7 +19,14 @@ from joblib import Parallel, delayed
 #@profile
 def cross_reference_tokens():
     return 1
-def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = dict(), isHTML = False, useEntities = False, unigramProbs = False):
+def probabilify(pdic):
+    vals = pdic.values()
+    wordCount = sum(vals)
+    keys = pdic.iterkeys()
+    for key in keys:
+       pdic[key] /= float(wordCount) 
+    return pdic
+def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = dict(), isHTML = False, useEntities = False):
     fdic = dict()
     file_path = path.abspath(raw_fpath)
     print('building vocabulary for file:')
@@ -53,12 +60,6 @@ def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = d
                         fdic[word] = 1
                     else:
                         fdic[word] += 1
-    if unigramProbs:
-        vals = fdic.values()
-        wordCount = sum(vals)
-        keys = fdic.iterkeys()
-        for key in keys:
-            fdic[key] /= float(wordCount) 
     return fdic
 
 def vocabs_from_files(file, interDict, intersect=True, useEntities = False):
@@ -69,7 +70,8 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
     vocDict = OrderedDict()
     vocab = []  
     if intersect:
-        interDict = vocab_from_file(raw_fpath = intersector_path, intersect=False, unigramProbs = True)
+        interDict = vocab_from_file(raw_fpath = intersector_path, intersect=False)
+        interDict = probabilify(interDict)
     fileCount = 0
     dicList = []
     titles = ()
