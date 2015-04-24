@@ -3,44 +3,56 @@ import local as loc
 import nltk, re
 from pattern.text.en import tokenize as tok
 from pattern.text.en import tag
-#def recognize_entities(text):
-#	tokenized = nltk.word_tokenize(unicode(text))
-#	tagged = nltk.pos_tag(tokenized)
-#	namedEnt = nltk.ne_chunk(tagged, binary=True)
-#	print namedEnt
-#	#entities = re.findall(r'NE\s(.*?)\)',str(namedEnt))
-#	entities = re.findall(r'(\(.*?\))\s',str(namedEnt))
-#	print entities
-#	return entities
-def recognize_entities(text):
-    #with open('entity_comparison.txt', 'a+') as f:
-    with open('intersection_entity.txt', 'a+') as inf:
+from pattern.text.en import wordnet as wnet
+from pattern.text.en import parsetree as pt
+from pattern.vector import stem, PORTER, LEMMA
+domains = ['cnn','reuters','nytimes',' wired',' vice','facebook','twitter',' news','video', 'toggle']
+def extend_entities(entity, intersector=None, intersect=False):
+    syns = []
+    syns.append(entity) 
+    keys = set(intersector.keys())
+    for word in entity:
+        if word in keys:
+            for syn in wnet.synsets(word):
+                syns.append(syn[0])
+    return syns 
+def recognize_entities(text, intersector=None, intersect=False):
+    with open('intersection_entity14.txt', 'a+') as inf:
         entities = []
         entities_nltk = []
         for sent in nltk.sent_tokenize(unicode(text)):
         #these two methods produce different results...also the first is prolly quicker...we could also mess around with letting expected entity type be a feature:
+            ptree = pt(sent, relations=True, lemmata=True)
+            sent = stem(sent, stemmer=LEMMA)            
             for chunk in nltk.ne_chunk(tag(sent),binary=True):
                 if hasattr(chunk, '_label'):
                     entity = str()
                     if chunk._label == 'NE':
                         for word in chunk:
-                            entity += ' ' + word[0]
-                            entities.append(entity.lstrip().lower())
-            for chunk in nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(sent)),binary=True):
-                if hasattr(chunk, '_label'):
-                    entity = str()
-                    if chunk._label == 'NE':
-                        for word in chunk:
-                            entity += ' ' + word[0]
-                            entities_nltk.append(entity.lstrip().lower())
+                            entity += ' ' + word[0].lower()
+                        include = True
+                        for dom in domains:
+                            if dom in entity:
+                                include = False
+                        if include:                 
+                            #entities+=extend_entities(entity.lstrip(), intersect=intersect, intersector=intersector)
+                            entities+=entity.lstrip()
+            #for chunk in nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(sent)),binary=True):
+            #    if hasattr(chunk, '_label'):
+            #        entity = str()
+            #        if chunk._label == 'NE':
+            #            for word in chunk:
+            #                entity += ' ' + word[0]
+            #                entities_nltk.append(entity.lstrip().lower())
         #f.write('\nUSING PATTERN:\n' + str(entities))
         #f.write('\nUSING NLTK:\n' + str(entities_nltk))
 
-        ret = intersect(entities,entities_nltk)
-        a,b,c = (len(entities),len(entities_nltk),len(ret))
-        inf.write('\nSET LENGTHS:\n' + str((a,b,c)))
-        inf.write('\nENTITIES:\n' + str(ret))
-        return ret
+        #ret = intersect(entities,entities_nltk)
+        #a,b,c = (len(entities),len(entities_nltk),len(ret))
+        #inf.write('\nSET LENGTHS:\n' + str((a,b,c)))
+        inf.write('\nENTITIES:\n' + str(entities))
+        #return ret
+        return entities
 
 def intersect(a, b):
      return list(set(a) & set(b))

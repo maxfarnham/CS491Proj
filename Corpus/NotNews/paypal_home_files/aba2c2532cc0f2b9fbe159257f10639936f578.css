@@ -1,0 +1,842 @@
+/* /hero-full.css */
+.row-fluid .content-block {
+    min-height: 540px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.table-row.hero > #hero {
+    text-align: center;
+    vertical-align: middle;
+}
+.novideo-bg {
+    display: none;
+    background-position: center top;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    height: 400%\9;
+    z-index: -1;
+}
+.no-backgroundsize .novideo-bg { 
+    top: -280px\9;
+}
+.novideo-bg.show {
+    display: block;
+}
+.hero .novideo-bg {
+    background-image: url("https://www.paypalobjects.com/webstatic/mktg/wright/home/city_bg_mobile.jpg");
+    background-repeat: no-repeat;
+    background-color: #f5f5f5;
+}
+.dark .hero-video-still .novideo-bg {
+    background-color: #333;
+}
+#hero.video-loaded > .novideo-bg {
+    display: none;
+}
+.hero h1 {
+    margin-bottom: 20px;    
+    line-height: 1.3em;
+}
+.hero .row-fluid {
+    background: transparent;
+}
+.hero .btn {
+    width: 321px;
+}
+.hero .legal-notes {
+    color: #fff;
+    line-height: 1.5em;
+}
+.hero .signup-subline {
+    margin-top: 26px;
+    font-size: 15px;
+    font-size: 1.07142857142857rem;
+}
+#fixed-top > .table-row.hero > div {
+    text-align: center;
+    vertical-align: middle;
+}
+html[data-device-type="dedicated"] .hero-subheadline,
+html[data-device-type="portable"] .hero-subheadline {
+    margin-bottom: 26px;
+    font-size: 18px;
+}
+html[data-device-type="dedicated"] .hero-hatch,
+html[data-device-type="portable"] .hero-hatch {
+    margin-top: 26px;
+}
+/* content on the left half */
+html[data-device-type="dedicated"] .hero .span7,
+html[data-device-type="portable"] .hero .span7 {
+    padding: 0;
+    text-align: left;
+}
+/* Portable */
+html[data-device-type="portable"] .hero .btn {
+    width: 32%;
+}
+/* Mobile version */
+html[data-device-type="mobile"] .hero .row-fluid .span7 {
+    width: 100%;
+}
+html[data-device-type="mobile"] .hero .span12,
+html[data-device-type="mobile"] .hero .span7 {
+    padding: 3.75%;
+}
+html[data-device-type="mobile"] .hero .btn {
+    width: 89%;
+    display: block;
+    margin: 0 auto;
+    -webkit-touch-callout: none;    
+}
+html[data-device-type="mobile"] .hero h1 {
+    font-size: 40px;
+    font-size: 2.857rem;
+    line-height: 1.25em;
+    padding: 4% 8% 0;
+    text-shadow: none;
+    margin-top: 0;
+}
+html[data-device-type="mobile"] .hero.mobile-img-top .span12 {
+    padding-top: 225px;
+}
+html[data-device-type="mobile"] .hero.mobile-img-top .hero-video-still .novideo-bg {
+    background-size: auto 225px;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+html[data-device-type="mobile"] .hero .signup-subline {
+    margin-top: 0;
+}
+
+/* /home/resources/css/nh.css */
+.hero .row-fluid {
+    background: transparent;
+}
+/* overrides to remove table styles */
+#fixed-top.treatment {
+    height: auto !important;
+}
+#fixed-top.treatment, #fixed-top > .table-row, #fixed-top > .table-row > * {
+    display: block;
+}
+#fixed-top > header.table-row > * {
+    z-index: 3
+}
+.treatment .row-fluid.hero, .treatment .hero-bg {
+    /*min-height: 540px;*/
+    height: 100%;
+}
+.moving-background video {
+    right: 0;
+    left: auto;
+}
+.hero-bg video {
+    visibility: hidden;
+}
+.hero-bg {
+    background-image: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/OneTouchCity_Frame1_dark.jpg");
+    /*min-height: 540px;*/
+    height: 100%;
+    box-sizing: border-box;
+    background-position: right top;
+}
+.hero-bg.video-loaded {
+    background-image: none;
+}
+.moving-background.playing video {
+    opacity: 0.7;
+}
+
+.pxp-fluid-height, .pxp-fixed-height {
+    position: relative;
+    top: 39%;
+    left: 50%;
+    -webkit-transform: translateY(-50%) translateX(-50%);
+    -ms-transform: translateY(-50%) translateX(-50%);
+        transform: translateY(-50%) translateX(-50%);
+}
+.pxp-fluid-height {
+    max-width: 100%;
+    width: 100%;
+}
+/* ie8 */
+.no-csstransforms .row-fluid.hero {
+    top: 0;
+}
+.no-csstransforms .pxp-fluid-height, .no-csstransforms .pxp-fixed-height, .no-csstransforms .vertical-centered {
+    position: static;
+}
+.pxp-fixed-height {
+    height: 375px;
+    -webkit-transform: translateY(-50%) translateX(-50%);
+    -ms-transform: translateY(-50%) translateX(-50%);
+        transform: translateY(-50%) translateX(-50%);
+}
+#hero-arrow {
+    display: none;
+}
+#hugger-arrow {
+    top: -10px;
+}
+.hero .input-wrapper {
+    margin-top: 26px;
+}
+.hero .input-wrapper:first-child input {
+    margin-left: 0;
+}
+.hero input[type="email"] {
+    width: 250px;
+}
+.hero input[type="password"] {
+    width: 165px;
+}
+.hero input.btn {
+    min-width: 250px;
+}
+.hero .btn {
+    width: 321px;
+}
+.hero .signup-subline {
+    margin-top: 26px;
+    margin-bottom: 18px;
+    font-size: 15px;
+    font-size: 1.07142857142857rem;
+}
+.sticky-bottom {
+    position: absolute;
+    left:0;
+    right: 0;
+    bottom: 0;
+    z-index: 3;
+    border-bottom: 1px solid #e6e6e6;
+}
+section.treatment {
+    padding-top: 60px;
+}
+
+hr {
+    margin-top: 40px;
+    border-top: 1px solid #ededed;
+}
+
+html[data-device-type="dedicated"] section.treatment div, html[data-device-type="portable"] section.treatment div {
+    text-align: center;
+}
+.btn-white {
+    border: 1px solid #009cde;
+    color: #009cde;
+    background-color: #fff;
+}
+section.treatment .btn-white {
+    margin: 36px;
+}
+html[data-device-type="dedicated"] .btn-white:hover {
+    background-color: #fff;
+}
+html[data-device-type="dedicated"] .btn-white:focus {
+    color: #009cde;
+}
+/*html[data-device-type="mobile"] section.treatment div {
+    text-align: center;
+    padding: 20px 5px;
+}*/
+/*html[data-device-type="mobile"] section.treatment div a {
+    padding: 9px 27px;
+}*/
+section.treatment div a:hover {
+    color:#0079ad;
+}
+section.treatment div a:active {
+    text-decoration: underline;
+}
+/* hide the video button as  per requirements */
+.moving-background.playing .mb-button.pause, .moving-background.playing .mb-button.play, .moving-background .mb-button  {
+  display: none;
+}
+.hero-tagline {
+    background: rgba(0,0,0,.5);
+}
+.hero-tagline p {
+    padding: 30px 0;
+
+}
+.hero-hugger {
+    text-align: center;
+    box-sizing: border-box;
+    background: #fff;
+}
+.hero-hugger .containerCentered {
+    padding-top: 16px;
+    line-height: 0.5em;
+}
+.hero-hugger .button-menu {
+    padding: 0;
+    margin: 0;
+    width: 180px;
+    white-space: nowrap;
+}
+.hero-hugger .button-menu li {
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 14px;
+}
+.hero-hugger .button-menu .navlink {
+    display: inline-block;
+    font-size: 13px;
+    color: #777;
+    padding-left: 8px;
+    border-left: 1px solid #ddd;
+    position: relative;
+    top: -2px;
+}
+.hero-hugger .country-selector {
+    width: 180px;
+    margin-top: 0;
+}
+.hero-hugger .country-selector a {
+    color: #777;
+}
+.button-menu .icon {
+    background-color: transparent;
+    background-image: url("https://www.paypalobjects.com/webstatic/mktg/wright/icons/quickbar-icons2x.png");
+    background-image: url("https://www.paypalobjects.com/webstatic/mktg/wright/icons/quickbar-icons.png")\9;
+    background-repeat: no-repeat;
+    background-position: -25px 5px;
+    background-size: 72px 32px;
+    margin: 0 4px 0 0;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border: 1px solid #8c8c8c;
+    border-radius: 14px;
+    overflow: hidden;
+    text-indent: -999em;
+    min-width: 0;
+    padding: 0;
+    moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+}
+.button-menu .icon:hover, .button-menu .icon:focus {
+    border-color: #0079c1;
+}
+.button-menu .icon:focus {
+    outline: 0;
+    box-shadow: 0 0 0 1px #0079c1;
+}
+.button-menu .icon.help {
+    width: 23px;
+}
+.button-menu .icon.help:hover, .button-menu .icon.help:focus {
+    background-position: -25px -15px;
+}
+.button-menu .icon.contact {
+    background-position: -55px 5px;
+}
+.button-menu .icon.contact:hover, .button-menu .icon.contact:focus {
+    background-position: -55px -15px;
+}
+.button-menu .icon.search {
+    background-position: 5px 5px;
+}
+.button-menu .icon.search:hover, .button-menu .icon.search:focus {
+    background-position: 5px -15px;
+}
+.n1 {
+    background-image: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/home_n1_1x.jpg");
+}
+.n3 {
+    background-image: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/home_n3_1x.jpg");
+}
+.n2, .n2.parallax .parallax-bg {
+    background-image: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/home_n2_1x.jpg");
+}
+.n4, .n4.parallax .parallax-bg {
+    background-image: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/home_n4_1x.jpg");
+}
+
+
+h1 {
+    line-height: 1;
+    margin-bottom: 40px;
+    padding-top: 50px\9;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+html[data-device-type="dedicated"] .pxp-fixed-height .span11 {
+    width: 45%;
+    width: 40%\9;
+}
+html[data-device-type="dedicated"] h1 span, html[data-device-type="portable"] h1 span {
+    display: block;
+}
+/* Mobile version */
+
+html[data-device-type="mobile"] .hero .btn {
+    display: block;
+/*    margin: 0 auto;
+    width: 89%;*/
+    -webkit-touch-callout: none;
+}
+html[data-device-type="mobile"] #fixed-top > .table-row.hero > div {
+    vertical-align: middle;
+}
+/*html[data-device-type="mobile"] h1 {
+    margin-top: 200px;
+    padding: 0;
+    font-size: 36px;
+    font-size: 2.571rem;
+    line-height: 1;
+}*/
+html[data-device-type="mobile"] .row-fluid .content-block {
+    min-height: 0;
+}
+html[data-device-type="mobile"] .hero-bg {
+    background-size: cover;
+    background-position: 70% bottom;
+
+}
+@media (max-width: 467px) {
+    html[data-device-type="mobile"] h1 {
+        text-align: center;
+    }
+}
+@media (min-width: 468px) {
+    html[data-device-type="mobile"] h1, html[data-device-type="mobile"] .hero p {
+        width: 57%;
+        margin: 0;
+        padding: 2% 3% 0;
+    }
+/*    html[data-device-type="mobile"] .hero .btn {
+        margin: 0;
+    }*/
+    html[data-device-type="mobile"] .hero-bg {
+        min-height: 265px;
+    }
+}
+html[data-device-type="mobile"] .row-fluid.hero {
+    top: 0;
+}
+html[data-device-type="mobile"] #fixed-top .filler {
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+@media (max-width: 768px) {
+    html[data-device-type="mobile"] .pxp-fluid-height {
+        position: static;
+        -webkit-transform: none;
+        -ms-transform: none;
+            transform: none;
+    }
+    html[data-device-type="portable"] .pxp-fluid-height, html[data-device-type="portable"] .pxp-fixed-height {
+        -webkit-transform: translateY(-100%) translateX(-50%);
+        -ms-transform: translateY(-100%) translateX(-50%);
+            transform: translateY(-100%) translateX(-50%);
+            top: 55%;
+    }
+    /* this rule is not used any more(pending cleaning efforts for removal) */
+    html[data-device-type="portable"] .hero-signup h1 {
+        margin-top: 150px;
+    }
+    html[data-device-type="portable"] #fixed-top > .table-row.hero > div, html[data-device-type="mobile"] #fixed-top > .table-row.hero > div {
+        text-align: center;
+        vertical-align: top;
+    }
+    html[data-device-type="portable"] #fixed-top > .table-row.hero .span5 {
+        margin: 0 auto;
+        float: none;
+    }
+    html[data-device-type="portable"] .hero-bg {
+        /*background-image: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/onetouch_hero_tablet_portrait_dark.jpg");*/
+        background-position-x: 65%;
+    }
+}
+@media (min-width: 769px) {
+    html[data-device-type="portable"] .pxp-fixed-height .span11 {
+        width: 45%;
+    }
+}
+/* pxp */
+
+.hero .treatment2 input[type="email"] {
+    width: 340px;
+}
+.hero .treatment2 .btn {
+    min-width: 340px;
+}
+.hero .treatment2 .input-wrapper:first-child input {
+    margin-left: 10px;
+}
+.hero .treatment2 .input-wrapper {
+    margin-top: 10px;
+}
+.hero .treatment2 .input-wrapper:first-child {
+    margin-top: 0;
+}
+.row-fluid form.treatment2 {
+    margin-top: 0;
+}
+/* pxp 2 cta BEGINS */
+/* overriding default bg for usefixed partial */
+.hero .novideo-bg {
+    background-image: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/OneTouchCity_Frame1_dark.jpg");
+    background-position: 70% bottom;
+}
+#treatment-hero h2 {
+    line-height: 1;
+    font-size: 60px;
+}
+#treatment-hero {
+    min-height: 420px;
+    /*height: auto;*/
+    background: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/homepage_split.jpg");
+    background-size: cover;
+    background-position: center bottom;
+    position: relative;
+    top: 0;
+    bottom: 72px;
+}
+#treatment-hero header {
+    margin-top: 3%;
+}
+/* set height to prepare for vertical alignment of children */
+#treatment-hero > div.container {
+    height: 86%
+}
+#treatment-hero .span6 {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-60%);
+    -ms-transform: translateY(-60%);
+    transform: translateY(-60%);
+}
+#treatment-hero h3 {
+    min-width: 304px;
+}
+#treatment-hero a {
+    min-width: 304px;
+    padding-left: 10px;
+}
+#treatment-hero h2,
+#treatment-hero h3,
+#treatment-hero p,
+#treatment-hero a {
+    color: #fff;
+    width: 100%;
+}
+#treatment-hero .span6:nth-child(2) {
+    width: 32%;
+    margin-left: 36%;
+}
+#treatment-hero .span6:first-child {
+    width: 32%;
+}
+#treatment-hero .span6:first-child p {
+    min-width: 250px;
+}
+@media(max-width: 769px) {
+    html[data-device-type="portable"] #treatment-hero .span6:first-child p {
+        min-width: 250px;
+    }
+}
+html[data-device-type="portable"] #treatment-hero .span6 {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-85%);
+    -ms-transform: translateY(-85%);
+    transform: translateY(-85%);
+}
+html[data-device-type="portable"] #treatment-hero {
+    background-position: 66%;
+}
+@media(max-width: 768px) {
+    html[data-device-type="portable"] #treatment-hero .span6:nth-child(2) {
+        margin-left: 25%;
+    }
+    html[data-device-type="portable"] #treatment-hero {
+        background-position-x: 52%;
+    }
+}
+html[data-device-type="mobile"] #treatment-hero {
+    position: static;
+    background: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/homepage-split-mobile-bg.jpg");
+}
+html[data-device-type="mobile"] #treatment-hero {
+    min-height: 630px;
+}
+/* this rule makes the container have its proper height */
+html[data-device-type="mobile"] #treatment-hero > div.container {
+    height: auto;
+}
+html[data-device-type="mobile"] #treatment-hero h2 {
+    font-size: 40px;
+}
+html[data-device-type="mobile"] #treatment-hero .span6 {
+    padding-left: 0;
+    padding-right: 0;
+}
+/* anchor padding is being set to zero by contentLink, so we defined a new padding */
+html[data-device-type="mobile"] #treatment-hero a {
+    padding-top: 9px;
+    padding-bottom: 10px;
+}
+html[data-device-type="mobile"] #treatment-hero > div.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+html[data-device-type="mobile"] #treatment-hero header {
+    padding-bottom: 0;
+}
+html[data-device-type="mobile"] #treatment-hero .span6 {
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+    -webkit-transform: translateY(-10%);
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+}
+html[data-device-type="mobile"] #treatment-hero .span6:nth-child(2) {
+    margin-left: 0%;
+}
+html[data-device-type="mobile"] #treatment-hero .span6 p,
+html[data-device-type="mobile"] #treatment-hero .span6 h3,
+html[data-device-type="mobile"] #treatment-hero .span6 a {
+    text-align: center;
+    min-width: 0;
+}
+html[data-device-type="mobile"] #treatment-hero .span6 a {
+    padding-left: 0;
+    max-width: 304px;
+    margin: 0 auto;
+}
+html[data-device-type="mobile"] #treatment-hero .span6:first-child {
+    background: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/homepage-split-mobile-coffee.png");
+    background-repeat: no-repeat;
+    background-size: 85px;
+    background-position-y: 15px;
+    padding-top: 70px;
+}
+html[data-device-type="mobile"] #treatment-hero .span6:nth-child(2) {
+    background: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/home/homepage-split-mobile-pliars_03.png");
+    background-repeat: no-repeat;
+    background-size: 95px;
+    background-position: right 20px;
+    padding-top: 70px;
+}
+/* usedFixed partial uses table-row instead of row-fluid */
+.table-row.hero {
+    /*min-height: 598px;*/
+    height: 100%;
+}
+/* pxp 2 cta ENDS */
+
+/* adding play icon to 'watch how paypal works' video link */
+.icon-play {
+    display: inline-block;
+    position: relative;
+    width: 32px;
+    height: 32px;
+    color: #fff;
+    text-indent: -999em;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+.icon-play:after {
+    content: '';
+    position: absolute;
+    top: 9px;
+    left: 11px;
+    width: 0;
+    height: 0;
+    border: 14px solid transparent;
+    border-width: 7px 14px;
+    border-left-color: #009cde;
+    overflow: hidden;
+}
+
+/* usedFixed partial: tweaked Y value for proper centering; */
+#hero > .containerCentered,
+#hero > .containerCentered > .span12 {
+    height: 100%;
+}
+.pxp-fluid-height, .pxp-fixed-height {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translateY(-50%) translateX(-50%);
+    -ms-transform: translateY(-50%) translateX(-50%);
+        transform: translateY(-50%) translateX(-50%);
+}
+.pxp-fixed-height {
+    height: 375px;
+    /* tweaked transY value to style usedFixed partials */
+    -webkit-transform: translateY(-50%) translateX(-50%);
+    -ms-transform: translateY(-50%) translateX(-50%);
+        transform: translateY(-50%) translateX(-50%);
+}
+/* removing padding on mobile for usedFixed */
+/*html[data-device-type="mobile"] .hero h1 {
+    font-size: 36px; 
+    font-size: 2.457rem; 
+    line-height: 1.25em;
+    padding: 4% 0 0 15px; 
+    text-shadow: none;
+    margin-top: 0;
+    text-align: left;
+}*/
+html[data-device-type="mobile"] .hero-bg h1 {
+    color: #fff;
+}
+@media(max-width: 415px) {
+    html[data-device-type="mobile"] .pxp-fluid-height {
+        margin-top: 150px;
+    }
+}
+html[data-device-type="mobile"] .row-fluid.containerCentered,
+html[data-device-type="mobile"] .row-fluid.containerCentered > div {
+    padding: 0;
+}
+/* increase width to remove widow */
+@media (min-width: 468px) {
+    html[data-device-type="mobile"] h1, html[data-device-type="mobile"] .hero p {
+        width: 67%;
+    }
+}
+html[data-device-type="portable"] .row-fluid.containerCentered {
+    padding: 0;
+}
+/* old value(32%) made the button too small on portable */
+html[data-device-type="portable"] .hero .btn {
+    width: 100%;
+    max-width: 320px;
+}
+/* align form submit button to rest of fields */
+html[data-device-type="portable"] input[type="submit"] {
+    margin-left: 0;
+    margin-right: 10px;
+}
+@media (max-width: 768px) {
+    html[data-device-type="portable"] .pxp-fluid-height, html[data-device-type="portable"] .pxp-fixed-height {
+        -webkit-transform: translateY(-50%) translateX(-50%);
+        -ms-transform: translateY(-50%) translateX(-50%);
+            transform: translateY(-50%) translateX(-50%);
+            top: 55%;
+    }
+}
+
+html[data-device-type="dedicated"] #body,
+html[data-device-type="portable"] #body {
+  height: auto;
+}
+#fixed-top {
+  height: auto !important;
+}
+.container-fixed,
+.container-fixed .hero,
+.container-fixed .hero-bg,
+.container-fixed .hero-bg,
+.container-fixed .hero .containerMobileFullWidth,
+.container-fixed .hero .span12,
+.container-fixed .hero > div.containerCentered {
+  height: 100%;
+}
+.container-fixed .hero {
+  min-height: 344px;
+}
+.container-fixed .hero-contest h1,
+.container-fixed .hero-sweepstakes h1 {
+  font-size: 56px;
+  font-size: 4rem;
+  line-height: 1;
+  margin-bottom: 0;
+}
+.container-fixed .hero-contest h1 b,
+.container-fixed .hero-sweepstakes h1 b {
+  display: block;
+  font-size: 84px;
+  font-size: 6rem;
+}
+.container-fixed .hero-contest .contentPara,
+.container-fixed .hero-sweepstakes .contentPara {
+  width: 48.5%;
+}
+.container-fixed .hero-contest .heroBtn,
+.container-fixed .hero-sweepstakes .heroBtn {
+  margin-top: 10px;
+}
+.container-fixed .hero-contest {
+  background: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/campaign/5-million-cents/homepage_hero_5mm_dj_1x.jpg") center top no-repeat;
+  background-size: cover;
+}
+.container-fixed .hero-sweepstakes {
+  background: url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/campaign/5-million-cents/homepage_hero_5mm_g_1x.jpg") center top no-repeat;
+  background-size: cover;
+}
+.editorial-bg.parallax {
+  position: relative;
+  background-color: transparent;
+}
+html[data-device-type="dedicated"] .vertical-centered,
+html[data-device-type="portable"] .vertical-centered {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+html[data-device-type="portable"] h1 {
+  font-size: 3rem;
+}
+html[data-device-type="portable"] h1 b {
+  font-size: 4em;
+}
+html[data-device-type="mobile"] .moving-background-container {
+  background-color: #fff;
+}
+html[data-device-type="mobile"] .hero {
+  background-position: center top;
+  background-size: auto 285px;
+}
+html[data-device-type="mobile"] .hero h1 {
+  text-align: left;
+  color: #009cde;
+  padding: 4% 0 0;
+}
+html[data-device-type="mobile"] .hero h1 b {
+  font-size: 40px;
+  font-size: 2.857rem;
+}
+html[data-device-type="mobile"] .hero .vertical-centered {
+  padding-top: 285px;
+}
+html[data-device-type="mobile"] .hero .contentPara {
+  font-size: 18px;
+  font-size: 1.285rem;
+  width: 100%;
+}
+html[data-device-type="mobile"] .hero-bg h1 {
+  padding: 4% 8% 0;
+}
+html[data-device-type="mobile"] .icon-play {
+  margin-right: 0;
+}
+html[data-device-type="mobile"] .hero-sweepstakes h1,
+html[data-device-type="mobile"] .hero-contest h1 {
+  line-height: 3rem;
+  text-align: center;
+}
+html[data-device-type="mobile"] .hero-sweepstakes p,
+html[data-device-type="mobile"] .hero-contest p,
+html[data-device-type="mobile"] section.treatment h3 {
+  text-align: center;
+}
+html[data-device-type="mobile"] section.treatment .btn-white {
+  padding-right: 29px;
+}
+

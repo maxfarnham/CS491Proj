@@ -1,0 +1,318 @@
+/* CSS for v2 of video player */
+
+.video-player {
+  position: relative;
+  background: #000;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.video-player:after {
+  background: transparent url("https://www.paypalobjects.com/webstatic/mktg/kb/play-overlay.png") center center no-repeat;
+  content: "";
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+.video-player.loaded {
+  cursor: auto;
+}
+
+.video-player.loaded:after {
+  display: none;
+  background-image: none;
+}
+.video-player a {
+  cursor: pointer;
+}
+.video-player .video-controls {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 34px;
+  width: 100%;
+  background-color: #9191a9;
+  background-color: rgba(245,245,245,0.3);
+  
+  -webkit-transform: translate3d(0,0,0);
+  -moz-transform: translate3d(0,0,0);
+  -ms-transform: translate(0,0);
+  transform: translate3d(0,0,0);
+
+  -webkit-transition: -webkit-transform 0.4s ease-in-out;
+  -moz-transition: -moz-transform 0.4s ease-in-out;
+  -ms-transition: -ms-transform 0.4s ease-in-out;
+  transition: transform 0.4s ease-in-out;
+}
+.video-player.playing .video-controls.autohide {
+  -webkit-transform: translate3d(0,34px,0);
+  -moz-transform: translate3d(0,34px,0);
+  -ms-transform: translate(0,34px);
+  transform: translate3d(0,34px,0);
+}
+.video-player.playing:hover .video-controls.autohide {
+  -webkit-transform: translate3d(0,0,0);
+  -moz-transform: translate3d(0,0,0);
+  -ms-transform: translate(0,0);
+  transform: translate3d(0,0,0);
+}
+.video-controls a.video-play {
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  margin-left: 15px;
+  margin-right: 20px;
+  margin-top: 5px;
+  background-image: url('https://www.paypalobjects.com/webstatic/mktg/kb/play-pause-sprite.png');
+  background-repeat: no-repeat;
+  background-position: 0 -1px;
+  z-index: auto;
+  opacity: 0.7;
+  -moz-transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-out-in;
+  -ms-transition: all 0.2s ease-out-in;
+  transition: all 0.2s ease-in-out;
+}
+.video-player .video-controls a.paused-button {
+  background-repeat: no-repeat;
+  background-position: -29px -1px;
+}
+/* seek */
+.video-player .video-seek {
+  display: inline-block;
+  position: relative;
+  top: -12px;
+  width: 520px;
+  height: 8px;
+  margin-top: 13px;
+  border-radius: 15px;
+  background: #535353;
+  background: -moz-linear-gradient(top, rgba(186,186,186,1) 0%, rgba(222,222,226,1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(186,186,186,1)), color-stop(100%,rgba(222,222,226,1)));
+  background: -webkit-linear-gradient(top, rgba(186,186,186,1) 0%,rgba(222,222,226,1) 100%);
+  background: -ms-linear-gradient(top, rgba(186,186,186,1) 0%,rgba(222,222,226,1) 100%);
+  background: linear-gradient(to bottom, rgba(186,186,186,1) 0%,rgba(222,222,226,1) 100%);
+  box-shadow: inset 0 -2px 2px #efefef;
+}
+.video-player .video-seek .ui-slider-handle {
+  width: 10px;
+  height: 20px;
+  border: none;
+  top: -6px;
+  border-radius: 6px;
+  box-shadow: inset 0 -2px 2px rgba(101,101,149,0.7);
+  background: #e6e6e6;
+  background: -moz-linear-gradient(top, rgba(230,230,230,1) 0%, rgba(213,213,213,1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(230,230,230,1)), color-stop(100%,rgba(213,213,213,1)));
+  background: -webkit-linear-gradient(top, rgba(230,230,230,1) 0%,rgba(213,213,213,1) 100%);
+  background: -ms-linear-gradient(top, rgba(230,230,230,1) 0%,rgba(213,213,213,1) 100%);
+  background: linear-gradient(to bottom, rgba(230,230,230,1) 0%,rgba(213,213,213,1) 100%);
+}
+.video-player .video-seek .ui-slider-handle.ui-state-hover {
+  background: #fff;
+}
+.video-player .video-seek .ui-slider-loaded {
+  display: block;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  bottom: 0;
+  border: 0 none;
+  position: absolute;
+  z-index: 1;
+  border-radius: 6px;
+  box-shadow: inset 0 2px 2px rgba(101,101,149,0.4);
+  background: #c4c4c4;
+  background: -moz-linear-gradient(top, rgba(206,206,206,1) 0%, rgba(173,173,173,1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(206,206,206,1)), color-stop(100%,rgba(173,173,173,1)));
+  background: -webkit-linear-gradient(top, rgba(206,206,206,1) 0%,rgba(173,173,173,1) 100%);
+  background: -ms-linear-gradient(top, rgba(206,206,206,1) 0%,rgba(173,173,173,1) 100%);
+  background: linear-gradient(to bottom, rgba(206,206,206,1) 0%,rgba(173,173,173,1) 100%);
+}
+.video-player .video-seek .ui-slider-range {
+  border-radius: 15px;
+  box-shadow: inset 0 -3px 3px rgba(57,162,206,0.7);
+  background: #4cbae8;
+  background: -moz-linear-gradient(top, rgba(76,186,232,1) 0%, rgba(57,162,206,1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(76,186,232,1)), color-stop(100%,rgba(57,162,206,1)));
+  background: -webkit-linear-gradient(top, rgba(76,186,232,1) 0%,rgba(57,162,206,1) 100%);
+  background: -ms-linear-gradient(top, rgba(76,186,232,1) 0%,rgba(57,162,206,1) 100%);
+  background: linear-gradient(to bottom, rgba(76,186,232,1) 0%,rgba(57,162,206,1) 100%);
+  z-index: 2;
+}
+/* volume */
+.video-player .video-controls .volume-box {
+  position: absolute;
+  bottom: 1px;
+  right: 0px;
+  overflow: hidden;
+  width: 24px;
+  height: 30px;
+  color: #fff;
+  padding: 0px 10px;
+}
+.video-player .video-controls .volume-box:hover {
+  height: 135px;
+  padding-top: 5px;
+}
+.video-player .video-controls .volume-box:hover .volume-slider {
+  position: relative;
+  visibility: visible;
+  opacity: 1;
+}
+.video-player .video-controls .volume-slider {
+  position: relative;
+  height: 100px;
+  width: 8px;
+  top: 0;
+  left: 0;
+  visiblity: hidden;
+  opacity: 0;
+  border-radius: 4px;
+  box-shadow: inset 0 3px 3px rgba(239,239,239,0.7);
+  background: rgb(222,222,226);
+  background: -moz-linear-gradient(top, rgba(222,222,226,1) 0%, rgba(186,186,186,1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(222,222,226,1)), color-stop(100%,rgba(186,186,186,1)));
+  background: -webkit-linear-gradient(top, rgba(222,222,226,1) 0%,rgba(186,186,186,1) 100%);
+  background: -ms-linear-gradient(top, rgba(222,222,226,1) 0%,rgba(186,186,186,1) 100%);
+  background: linear-gradient(to bottom, rgba(222,222,226,1) 0%,rgba(186,186,186,1) 100%);
+  
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -ms-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+.video-player .video-controls .volume-slider .ui-slider-handle {
+  width: 16px;
+  height: 9px;
+  left: -4px;
+  margin-bottom: -0.6em;
+  margin-left: 0;
+  border-radius: 6px;
+  box-shadow: inset 0 -2px 2px rgba(101,101,149,0.7);
+  background: #e6e6e6;
+  background: -moz-linear-gradient(top, rgba(230,230,230,1) 0%, rgba(213,213,213,1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(230,230,230,1)), color-stop(100%,rgba(213,213,213,1)));
+  background: -webkit-linear-gradient(top, rgba(230,230,230,1) 0%,rgba(213,213,213,1) 100%);
+  background: -ms-linear-gradient(top, rgba(230,230,230,1) 0%,rgba(213,213,213,1) 100%);
+  background: linear-gradient(to bottom, rgba(230,230,230,1) 0%,rgba(213,213,213,1) 100%);
+}
+.video-player .video-controls .volume-slider .ui-slider-handle .ui-state-hover {
+  background: #fff;
+}
+.video-player .volume-slider .ui-slider-range {
+  border-radius: 15px;
+  box-shadow: inset -3px 0 3px rgba(76,186,232,0.7);
+  background: #4cbae8;
+  background: -moz-linear-gradient(top, rgba(76,186,232,1) 0%, rgba(57,162,206,1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(76,186,232,1)), color-stop(100%,rgba(57,162,206,1)));
+  background: -webkit-linear-gradient(top, rgba(76,186,232,1) 0%,rgba(57,162,206,1) 100%);
+  background: -ms-linear-gradient(top, rgba(76,186,232,1) 0%,rgba(57,162,206,1) 100%);
+  background: linear-gradient(to bottom, rgba(76,186,232,1) 0%,rgba(57,162,206,1) 100%);
+}
+/* volume button */
+.video-player .video-controls .volume-button {
+  position: absolute;
+  bottom: 3px;
+  right: 15px;
+  display: block;
+  width: 29px;
+  height: 25px;
+  border-radius: 2px;
+  background-color: rgba(245,245,245,0.6);
+  background-position: center center;
+  background-image: url('https://www.paypalobjects.com/webstatic/mktg/kb/volumefull.png');
+  background-image: -webkit-image-set(url("https://www.paypalobjects.com/webstatic/mktg/kb/volumefull.png") 1x, 
+                                      url("https://www.paypalobjects.com/webstatic/mktg/kb/volumefull2x.png") 2x);
+  background-size: 23px 23px;
+  background-repeat: no-repeat;
+}
+.video-player .video-controls .volume-mute {
+  background-image: url('https://www.paypalobjects.com/webstatic/mktg/kb/volumemute.png');
+  background-image: -webkit-image-set(url("https://www.paypalobjects.com/webstatic/mktg/kb/volumemute.png") 1x, 
+                                      url("https://www.paypalobjects.com/webstatic/mktg/kb/volumemute2x.png") 2x);
+  background-size: 23px 23px;
+  background-repreat: no-repeat;
+}
+.video-player .video-fullscreen {
+  display: block;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  width: 30px;
+  height: 30px;
+  background-color: rgba(245,245,245,0.6);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image: url("https://www.paypalobjects.com/webstatic/mktg/kb/fullscreen.png");
+  background-image: -webkit-image-set(url("https://www.paypalobjects.com/webstatic/mktg/kb/fullscreen.png") 1x, 
+                                      url("https://www.paypalobjects.com/webstatic/mktg/kb/fullscreen2x.png") 2x);
+  background-size: 24px 24px;
+  border-radius: 2px;
+  overflow: hidden;
+  text-indent: -999em;
+  opacity: 0;
+  
+  -webkit-transition: opacity 0.2s ease-in-out;
+  -moz-transition: opacity 0.2s ease-in-out;
+  -ms-transition: opacity 0.2s ease-in-out;
+  transition: opacity 0.2s ease-in-out;
+}
+.video-player:hover .video-fullscreen {
+  opacity: 1;
+}
+/* Disable in lightbox */
+.ui-dialog .video-player .video-fullscreen {
+  display: none;
+}
+.video-player.fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+  width: 100%;
+  height: 100%;
+}
+.video-player.fullscreen .video-fullscreen {
+  background-image: url("https://www.paypalobjects.com/webstatic/mktg/kb/shrink.png");
+  background-image: -webkit-image-set(url("https://www.paypalobjects.com/webstatic/mktg/kb/shrink.png") 1x, 
+                                      url("https://www.paypalobjects.com/webstatic/mktg/kb/shrink2x.png") 2x);
+  background-size: 24px 24px;
+}
+
+/* inline jquery ui styles */
+.ui-slider-handle {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  margin-left: -0.6em;
+  outline: none;
+}
+.ui-slider-range {
+  display: block;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  bottom: 0;
+  border: 0 none;
+  position: absolute;
+  z-index: 1;
+}
+.video-modal .ui-dialog-content {
+  padding-bottom: 1.5em;
+}
+/* accessibility fix */
+.ui-dialog .ui-dialog-titlebar-close:focus {
+    border: 1px dotted #999;
+}
+
+#body.modal-on{overflow:hidden}.hero-bg,.hero-bg.parallax .parallax-bg{background-image:url('https://www.paypalobjects.com/webstatic/en_US/mktg/wright/merchant/hero-bg.jpg')}html[data-device-type="mobile"] .hero-bg{background-image:none}html[data-device-type="mobile"] .hero-bg .editorial-cell{padding-top:20px}@media (max-width:1125px){html[data-device-type="dedicated"] #sticky-nav .sticky-nav-links{position:relative}html[data-device-type="dedicated"] #sticky-nav a.sticky-nav-links:last-child{left:95px;white-space:nowrap}html[data-device-type="dedicated"] #sticky-nav.on{height:80px}html[data-device-type="dedicated"] #sticky-nav.on a.sticky-nav-links{top:-15px}html[data-device-type="dedicated"] #sticky-nav.on a.sticky-nav-links:last-child{top:-40px}}@media (max-width:925px){html[data-device-type="dedicated"] #sticky-nav.on a+a+a{left:-317px;top:20px !important}html[data-device-type="dedicated"] #sticky-nav.on a.sticky-nav-links:last-child{top:-40px !important;left:240px}}.n2{background-image:url('https://www.paypalobjects.com/webstatic/en_US/mktg/wright/merchant/businesshomepage_pos_1x.png');background-size:contain}.pad{padding:30px 0}.stat-panel{padding-top:80px}.invoice-img{display:block;margin:auto auto}.features{padding-bottom:80px}.features img{margin:20px 0}.pos{padding-bottom:40px;display:block}#pos{padding:80px 0 0 0}html[data-device-type="portable"] #pos{padding:80px 0}html[data-device-type="portable"] .pos-editorial .editorial-container{height:auto}.arrow{background:url('https://www.paypalobjects.com/webstatic/en_US/mktg/wright/merchant/businesshomepage_arrow_1x.png') top center no-repeat;padding-top:80px}.phone-line{background:transparent url("https://www.paypalobjects.com/webstatic/en_US/mktg/wright/merchant/businesshomepage_telicon_1x.png") 2px center no-repeat;background-size:11px 13px;padding-left:20px}.phone-line-top{background:transparent url("https://www.paypalobjects.com/webstatic/mktg/wright/merchant/phone-icon.png") 2px center no-repeat;background-size:11px 13px;padding-left:20px}.legal-notes{margin:0}.study{clear:both;padding:20px 0}.option{background-image:url('https://www.paypalobjects.com/webstatic/en_US/mktg/wright/merchant/businesshomepage_orvertical_1x.png');height:271px;background-repeat:no-repeat;background-position:50%;position:relative}.or{position:absolute;top:112px;left:44%;font-size:x-large}#pp-demo{padding:20px 0}html[data-device-type="mobile"] #partners-offers{padding:60px 0 50px 0}#partners-offers h2{font-size:2.4em}#partners-logos{list-style-type:none;margin:0}#partners-logos li{display:inline-block;margin-left:0;font-size:0;height:94px;width:49%;margin-bottom:3em}#partners-logos .magento{background:url('https://www.paypalobjects.com/webstatic/mktg/merchant/magento-logo.png') no-repeat}html[data-device-type="portable"] #partners-logos .magento,html[data-device-type="mobile"] #partners-logos .magento{background-size:contain}#partners-logos .bigcommerce{background:url('https://www.paypalobjects.com/webstatic/mktg/merchant/bigcommerce-logo.png') no-repeat}html[data-device-type="portable"] #partners-logos .bigcommerce,html[data-device-type="mobile"] #partners-logos .bigcommerce{background-size:contain}#partners-logos .shopify{background:url('https://www.paypalobjects.com/webstatic/mktg/merchant/shopify-logo.png') no-repeat}html[data-device-type="portable"] #partners-logos .shopify,html[data-device-type="mobile"] #partners-logos .shopify{background-size:contain}#partners-logos .yahoo{background:url('https://www.paypalobjects.com/webstatic/mktg/merchant/yahoo-logo.png') no-repeat}html[data-device-type="portable"] #partners-logos .yahoo,html[data-device-type="mobile"] #partners-logos .yahoo{background-size:contain}html[data-device-type="dedicated"] #partners-logos .bigcommerce{background-size:contain}#register{padding:45px 0}sup{font-size:50%;top:-1.3em}html[data-device-type="mobile"] .features img{padding:20px 0}.treatment.hero-bg,.treatment.hero-bg.parallax .parallax-bg{background-image:url('https://www.paypalobjects.com/webstatic/en_US/merchant-working-capital/wcHero1_opt2.jpg')}#pphere-video{background:transparent url('https://www.paypalobjects.com/webstatic/mktg/wright/merchant/businesshomepage_video2_1x.jpg') center top no-repeat;background-size:cover}#pphere-video,#pphere-video .editorial-container{height:300px}#pphere-video .editorial-cell{position:relative;top:-8.5em}html[data-device-type="portable"] #pphere-video .editorial-cell{top:-3.8em}html[data-device-type="mobile"] #pphere-video .editorial-cell{top:2em;background-position:-3em}@media (orientation:portrait){html[data-device-type="portable"] #pphere-video{background-position:-380px 0}html[data-device-type="mobile"] #pphere-video{background-position:0 0}}@media (orientation:landscape){html[data-device-type="mobile"] #pphere-video{background-position:-540px 0}}html[data-device-type="mobile"] #pphere-video .editorial-container{padding:100px 0 0;text-align:center}.play>span{content:'';position:absolute;left:50%;top:50%;width:60px;height:60px;margin-left:-30px;margin-top:-30px;text-indent:-999em;overflow:hidden;border:2px solid #fff;border-radius:36px}.play>span:after{content:'';position:absolute;width:0;height:0;top:50%;left:50%;margin-top:-12px;margin-left:-10px;overflow:hidden;border:24px solid transparent;border-width:12px 24px;border-left-color:#fff}html[data-device-type="mobile"] .play>span{top:30%}#signup-modal ul{list-style-type:disc;padding-left:30px;margin-bottom:30px}#signup-modal .btn{max-width:48%}#learn-modal .ui-dialog-content{padding:.5em 5em}#learn-modal .span6{width:300px;margin-left:75px}#learn-modal ul{padding-left:20px;list-style-type:disc}.sales{clear:both;padding:30px 0}#learn-modal .modal-image{display:block}#learn-modal .btn{display:block;margin:auto}.four-panel p.subpara{font-size:20px;font-weight:300}html[data-device-type="dedicated"] .four-panel p.subpara{width:63%;margin:0 auto}.four-panel .ppf{font-size:62px;color:#009cde}.four-panel h3{font-weight:bold;font-size:14px;padding:10px 0;color:#777}.four-panel .container4d2p1m p{font-size:14px}.four-panel .footnotes{text-align:center;padding-top:20px}.four-panel .signup-top{padding-top:20px}html[data-device-type="mobile"] .pullout,html[data-device-type="mobile"] .four-panel{padding:80px 0}html[data-device-type="portable"] .row-fluid .container4d2p1m [class*="span"]{width:46.5%;margin:auto}#working-capital{padding:80px 0 73px 0}#working-capital header{padding-bottom:20px}#web-payments+section{padding-bottom:58px}#pp-here .containerCentered{position:relative;top:-30px}html[data-device-type="mobile"] #pp-here .containerCentered{top:0}#business-paypal div.pad:first-child{padding-top:49px}#business-paypal div.pad+div.pad{padding-bottom:39px}#section-invoicing-image+section{padding:50px 0 41px 0}#register{padding:52px 0 45px 0}#fatfooter-container{padding-top:51px}
+

@@ -1,0 +1,474 @@
+.z-app-bdp,.z-app-hdp{overflow-y:auto}
+.search-page{overflow-y:hidden}
+.search-page form.zsg-searchbox{padding-left:10px}
+.search-page .zsg-nav-sub{padding-left:0}
+@media screen and (min-width:769px){.search-page .zsg-nav-sub{padding-left:100px!important}
+}
+.search-page #wrapper{overflow:hidden;padding-top:0;position:absolute;bottom:0;right:0;left:0;top:0}
+@media screen and (max-width:768px){.search-page #wrapper{padding-top:44px}
+.search-page #wrapper .zsg-nav-sub-wrapper{width:100%}
+}
+@media screen and (min-width:768px){.search-page #wrapper .property-data-column{top:100px}
+}
+.search-page #wrapper #container{padding-bottom:50px;height:100%}
+@media screen and (min-width:769px){.search-page #wrapper #container{padding-bottom:100px}
+}
+.search-page #wrapper #container .active-view{height:100%}
+.search-page #wrapper #container .active-view #content{height:100%}
+.search-page #wrapper #container .map-controls-wrapper{transition:visibility 0s 350ms,opacity 350ms,margin-right 350ms}
+.search-page .property-data-column{float:right}
+.search-page #c-column{-webkit-transition:width 1s;-moz-transition:width 1s;-ms-transition:width 1s;-o-transition:width 1s;transition:width 1s}
+.search-page .property-data-column{position:absolute;right:0;top:44px;bottom:0;-webkit-transition:width .3s;-moz-transition:width .3s;-ms-transition:width .3s;-o-transition:width .3s;transition:width .3s;z-index:21}
+.wide-hc-hdp.search-page .property-data-column{z-index:26}
+.search-page .inner-property-data-column{width:100%;height:100%;background-color:#fff;overflow-x:hidden;overflow-y:hidden}
+.search-page .inner-property-data-column>.active-view{position:relative;overflow-x:hidden}
+.search-page #list-container-column{position:relative;float:right;overflow:hidden;height:100%;background-color:#fff;transition:width 350ms linear;box-shadow:-2px -1px 5px 0 rgba(0,0,0,0.4);z-index:1}
+@media only screen and (max-width:1499px){.search-page #list-container-column .zsg-tabs.zsg-tabs_lg{font-size:inherit}
+}
+.hdp-view .search-page #list-container-column{position:absolute;z-index:0}
+.mc-list .hdp-view .search-page #list-container-column{position:relative}
+.search-page .list-container{background-color:#fff}
+.search-page .list-container.list-saved-search .selected-listing{display:none}
+.search-page.list-smooth-scroll #inner-c-column{-webkit-overflow-scrolling:touch}
+.search-page .hdp-view #property-sort-control{visibility:hidden}
+.search-page #inner-c-column{position:relative;overflow:hidden;box-shadow:-2px -1px 5px 0 rgba(0,0,0,0.4);transition:width 350ms linear}
+.search-page #detail-container-column{position:relative;overflow:hidden;height:100%;background:#fff;transition:width 350ms linear;-webkit-overflow-scrolling:touch}
+.search-page .hdp-content-wrapper{padding:0 30px}
+.search-page .optional-action-label{display:none}
+.search-page #debugblock{display:none}
+.search-page #wrapper.hdp-col-hidden .map-controls-wrapper{visibility:visible;opacity:1}
+.search-page #wrapper.hdp-col-visible #detail-container-column{overflow-y:auto}
+.search-page #wrapper.hdp-col-hidden.list-col-visible #detail-container-column{width:0}
+.search-page #wrapper.hdp-col-visible.list-col-visible #searchMap-map-wrapper .map-controls-wrapper{visibility:hidden;opacity:0;transition-delay:0s}
+.search-page #wrapper.hdp-col-visible.list-col-hidden #list-container-column{width:0}
+.search-page #wrapper.hdp-col-visible.list-col-hidden #detail-container-column{margin-left:0}
+.search-page #hdp-action-bar-container{position:absolute;top:0;right:0;visibility:hidden;height:100%;max-width:100%;z-index:28;background:#e2effc;transition:width 350ms linear}
+.search-page #hdp-action-bar-container:before,.search-page #hdp-action-bar-container:after{position:absolute;top:0;height:50px;content:'';background:#e2effc;clip:rect(0px,auto,50px,-5px)}
+.search-page #hdp-action-bar-container:before{left:0;width:10px;box-shadow:-2px 0 5px 0 rgba(0,0,0,0.4)}
+.search-page #hdp-action-bar-container:after{visibility:hidden;right:0;z-index:51;box-shadow:-2px 1px 5px 0 rgba(0,0,0,0.4)}
+.search-page #hdp-action-bar-container .hdp-popout-menu .zsg-icon-pop-up{font-size:24px;line-height:1px}
+.search-page #hdp-action-bar-container .zsg-button_primary{color:#fff;background:#87d300}
+.search-page #hdp-action-bar-container .zsg-button_primary:hover,.search-page #hdp-action-bar-container .zsg-button_primary:focus{background-color:#87d300;background-image:-moz-linear-gradient(top,#87d300,#5d9900);background-image:-ms-linear-gradient(top,#87d300,#5d9900);background-image:-webkit-gradient(linear,0 0,0 100%,from(#87d300),to(#5d9900));background-image:-webkit-linear-gradient(top,#87d300,#5d9900);background-image:-o-linear-gradient(top,#87d300,#5d9900);background-image:linear-gradient(top,#87d300,#5d9900);background-repeat:repeat-x}
+.search-page #hdp-action-bar-container .zsg-button_primary:active{background-color:#87d300;background-image:-moz-linear-gradient(top,#5d9900,#87d300);background-image:-ms-linear-gradient(top,#5d9900,#87d300);background-image:-webkit-gradient(linear,0 0,0 100%,from(#5d9900),to(#87d300));background-image:-webkit-linear-gradient(top,#5d9900,#87d300);background-image:-o-linear-gradient(top,#5d9900,#87d300);background-image:linear-gradient(top,#5d9900,#87d300);background-repeat:repeat-x}
+.search-page #hdp-action-bar-container .zsg-button_primary.zsg-button_selected{border-color:#5d9900}
+.search-page #content{margin-right:0}
+.search-page #wrapper.hdp-col-visible #hdp-action-bar-container{width:620px;visibility:visible}
+.search-page #wrapper.list-col-visible.hdp-col-visible #inner-c-column{width:620px}
+.search-page #wrapper.list-col-visible.hdp-col-visible #list-container-column{width:0}
+.search-page #wrapper.list-col-visible.hdp-col-hidden #inner-c-column{width:0}
+.search-page #wrapper.list-col-visible.hdp-col-hidden #list-container-column{width:0}
+.search-page #wrapper.list-col-hidden.hdp-col-visible #inner-c-column{width:620px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible #detail-container-column{width:620px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible #searchMap-map-wrapper .map-controls-wrapper{margin-right:620px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible .map-message-bar{padding-right:620px}
+@media only screen and (min-width:1007px){.search-page #content{margin-right:390px}
+.search-page #wrapper.list-col-visible.hdp-col-visible #inner-c-column{width:1010px}
+.search-page #wrapper.list-col-visible.hdp-col-visible #list-container-column{width:390px}
+.search-page #wrapper.list-col-visible.hdp-col-hidden #inner-c-column{width:390px}
+.search-page #wrapper.list-col-visible.hdp-col-hidden #list-container-column{width:390px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible #searchMap-map-wrapper .map-controls-wrapper{margin-right:230px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible .map-message-bar{padding-right:230px}
+.search-page #property-sort-control>li.second-unselected{display:none}
+.search-page #property-sort-options>ul>li.second-unselected{display:inline}
+.search-page #wrapper.list-col-visible #list-container-column{overflow-y:auto}
+.search-page #wrapper.hdp-col-hidden.list-col-visible #hdp-action-bar-container{width:390px}
+.search-page #wrapper.hdp-col-hidden.list-col-visible #hdp-action-bar-container:after{width:390px}
+.search-page #wrapper.hdp-col-visible.list-col-visible #search-bar-container .zsg-toolbar-right{z-index:50}
+.search-page #wrapper.hdp-col-visible.list-col-visible #hdp-action-bar-container{width:1010px}
+.search-page #wrapper.hdp-col-visible.list-col-visible #hdp-action-bar-container:after{visibility:visible;width:390px;transition:width 350ms linear}
+.search-page #wrapper.hdp-col-visible.list-col-visible #hdp-action-bar-container .zsg-toolbar-right{right:390px}
+}
+@media only screen and (min-width:1200px){.search-page #wrapper.hdp-col-visible #hdp-action-bar-container{width:768px}
+.search-page #wrapper.list-col-visible.hdp-col-visible #inner-c-column{width:1158px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible #inner-c-column{width:768px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible #detail-container-column{width:768px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible #searchMap-map-wrapper .map-controls-wrapper{margin-right:378px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible .map-message-bar{padding-right:378px}
+.search-page .optional-action-label{display:inline}
+.search-page #property-sort-control>li.second-unselected{display:none}
+.search-page #property-sort-options>ul>li.second-unselected{display:inline}
+.search-page #wrapper.hdp-col-visible.list-col-visible #hdp-action-bar-container{width:1158px}
+}
+@media only screen and (min-width:1500px){.search-page #content{margin-right:620px}
+.search-page #wrapper.list-col-visible.hdp-col-visible #inner-c-column{width:1388px}
+.search-page #wrapper.list-col-visible.hdp-col-visible #list-container-column{width:620px}
+.search-page #wrapper.list-col-visible.hdp-col-hidden #inner-c-column{width:620px}
+.search-page #wrapper.list-col-visible.hdp-col-hidden #list-container-column{width:620px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible #searchMap-map-wrapper .map-controls-wrapper{margin-right:148px}
+.search-page #wrapper.list-col-hidden.hdp-col-visible .map-message-bar{padding-right:148px}
+.search-page .optional-action-label{display:inline}
+.search-page #property-sort-control>li.second-unselected{display:inline}
+.search-page #property-sort-options>ul>li.second-unselected{display:none}
+.search-page #wrapper.hdp-col-hidden.list-col-visible #hdp-action-bar-container{width:620px}
+.search-page #wrapper.hdp-col-hidden.list-col-visible #hdp-action-bar-container:after{width:620px}
+.search-page #wrapper.hdp-col-visible.list-col-visible #hdp-action-bar-container{width:1388px}
+.search-page #wrapper.hdp-col-visible.list-col-visible #hdp-action-bar-container:after{width:620px}
+.search-page #wrapper.hdp-col-visible.list-col-visible #hdp-action-bar-container .zsg-toolbar-right{right:620px}
+}
+.search-page.cobranded #wrapper{top:104px}
+@media screen and (min-width:768px){.search-page.is-impersonating #wrapper .property-data-column{top:130px}
+}
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait){body.search-page{min-width:768px}
+}
+.map-parent-container{height:100%;width:100%;position:relative}
+#search-anchor{box-shadow:0 2px 5px 0 rgba(0,0,0,0.4)}
+.search-page .zsg-toolbar{max-width:100%;width:100%}
+.search-page .zsg-toolbar .search-box-content{padding:0 10px 0 0}
+.search-page .zsg-toolbar #citystatezip{font-size:13px}
+.search-page .zsg-toolbar .zsg-search-button{margin-top:-10px}
+.search-page .zsg-toolbar .save-search-button{margin:0;border-right:1px solid #fff}
+.search-page .zsg-toolbar .zsg-toolbar-button{font-weight:bold;font-size:13px;text-transform:uppercase}
+.search-page .zsg-searchbox input{width:230px;z-index:99}
+@media all and (max-width:1074px){.search-page .zsg-searchbox input{width:170px}
+}
+.search-page .zsg-searchbox .yui3-aclist-item{line-height:36px;white-space:normal}
+#fav-control-back{display:none}
+.fav-view.search-page #nav-ad-container,.fav-view.search-page .search-nav-button,.fav-view.search-page #search-sort-bar,.fav-view.search-page #citystatezip,.fav-view.search-page .selected-listing,.fav-view.search-page #search-messaging-container,.fav-view.search-page #postlets-upsell-container,.fav-view.search-page #footer-save-search-upsell{display:none}
+.fav-view.search-page #search-bar-container .search-box-content{display:none}
+.fav-view.search-page #fav-control-back{display:inherit}
+@media all and (max-width:925px){#fav-control-myhome{display:none}
+}
+@media all and (max-width:1050px){#listings-menu-label .ten-fifty-hide{display:none}
+}
+.zsg-toolbar a.zsg-button_primary,.zsg-toolbar a.zsg-button_primary:hover,.zsg-toolbar a.zsg-button_primary:focus{color:#fff}
+.search-page #wrapper>.search-filters{display:none}
+.property-listing.grouped.ab-price-link .grouped-result-label{display:none}
+.property-listing.grouped .trigger-units{text-decoration:none;white-space:nowrap;display:inline-block;padding:6px 3px}
+.property-listing.grouped .trigger-units::after{margin-left:6px}
+.property-listing.grouped .trigger-units.widget-initialized::after{display:none}
+.property-listing.grouped .trigger-units .show-units,.property-listing.grouped .trigger-units .hide-units{display:none}
+.property-listing.grouped .trigger-units .hide-units .zsg-icon-arrow-menu-down::before{-webkit-transform:rotate(-180deg);-moz-transform:rotate(-180deg);-ms-transform:rotate(-180deg);-o-transform:rotate(-180deg);transform:rotate(-180deg)}
+.property-listing.grouped .trigger-units .loading{cursor:default;display:none}
+.property-listing.grouped .trigger-units.widget-hidden .show-units{display:inline}
+.property-listing.grouped .trigger-units.widget-visible .hide-units{display:inline}
+.property-listing.grouped .trigger-units.widget-loading{text-decoration:none}
+.property-listing.grouped .trigger-units.widget-loading .loading{display:inline}
+.property-listing.grouped .trigger-units.widget-loading .hide-units,.property-listing.grouped .trigger-units.widget-loading .show-units{display:none}
+.property-listing.grouped .zsg-table .grouped-result-links td{padding:0;border-bottom:0}
+.property-listing.grouped .zsg-table .grouped-result-links td a{padding:5px 10px}
+.property-listing.grouped .building-link{display:inline-block;margin-left:40px}
+.property-listing-terse .building-link{display:inline-block;margin-left:40px}
+.property-listing-terse .z-contract-link .zsg-icon-arrow-menu-down::before{-webkit-transform:rotate(-180deg);-moz-transform:rotate(-180deg);-ms-transform:rotate(-180deg);-o-transform:rotate(-180deg);transform:rotate(-180deg)}
+.yui3-buildinglist.yui3-buildinglist-hidden,.yui3-buildinglistdesktop.yui3-buildinglistdesktop-hidden{display:none}
+#list-container{padding-top:15px;padding-top:1rem}
+#list-container h1,#list-container h3,#list-container #map-result-count-message,#list-container #property-sort-control,#list-container #search-pagination-wrapper,#list-container #list-results-save-search-upsell{padding-left:15px;padding-left:1rem}
+#list-container #search-pagination-wrapper{margin-top:15px;margin-top:1rem;padding:0}
+#list-container #search-pagination-wrapper .zsg-pagination{border-bottom:1px solid #ccc;padding:0 .75rem 15px}
+#list-container .search-title-container>*{display:inline-block}
+#list-container #property-sort-control{margin-bottom:0}
+#list-container .list-loading-message-cover{background-color:#fff;z-index:10;position:absolute;width:100%;height:100%;opacity:.6;display:none}
+#list-container .list-loading #list-loading-message,#list-container .list-loading .list-loading-message-cover{display:block}
+#list-container .map-list-loader-container{position:absolute;width:100%;z-index:12;display:none}
+.list-loading #list-container .map-list-loader-container{display:block}
+#list-container .map-list-loader-container .map-list-loader{font-weight:bold;padding:15px;padding:1rem;background-color:#fff;border:1px solid #ccc;white-space:nowrap;display:table;margin:32px auto auto}
+#list-container #list-core-content-container{position:relative;min-width:390px}
+#list-container .zoom-out-message{color:#0074e4;cursor:pointer}
+#list-container #list-results .zsg-notification-bar{margin:15px}
+#list-container #list-results .zsg-notification-bar h3{padding-left:0;font-size:15px}
+#list-container #info-message-bar .zsg-notification-bar{margin-right:15px;margin-left:15px;margin-bottom:15px}
+#list-container .generic-box.ad>div{margin:auto}
+#list-container.mobile-small-width-list .zsg-tabs>li,body.mc-list #list-container .zsg-tabs>li{padding-left:15px}
+#list-container.mobile-small-width-list .zsg-tabs.zsg-tabs_lg,body.mc-list #list-container .zsg-tabs.zsg-tabs_lg{font-size:inherit}
+#list-container.mobile-small-width-list .full-sort-option,body.mc-list #list-container .full-sort-option{display:none}
+#list-container.mobile-small-width-list .terse-sort-option,body.mc-list #list-container .terse-sort-option{display:inline-block}
+#list-container .full-sort-option{display:inline-block}
+#list-container .terse-sort-option{display:none}
+#list-container .results-msg{text-align:center;padding:20px}
+@media screen and (max-width:1500px){#list-container h1{font-size:25px}
+}
+.property-data-column .ad{padding:20px 0;background-color:#eee;border-bottom:1px solid #fff;position:relative;text-align:center}
+.property-data-column .ad .deferred-iframe-target{margin-left:auto;margin-right:auto}
+.property-data-column #list-results-container ~ div.ad iframe.third-party-ad-iframe{position:relative}
+.fav-view #list-container .results-msg{text-align:center;margin:40px 0 60px;padding:20px}
+.fav-view #list-container .results-msg .list-save-icon{display:inline-block;vertical-align:middle;margin:auto 5px}
+.fav-view #list-container .property-additional-data{width:350px;margin-top:5px;clear:both}
+.fav-view #list-container .property-additional-data .save-note{padding-left:30px;padding-right:30px}
+.fav-view #list-container .property-additional-data .zsg-fineprint{color:#999}
+.fav-view #list-container .property-additional-data textarea{margin-bottom:5px}
+.fav-view #list-container .property-favorite-data .transparent{opacity:0}
+.fav-view #list-container .property-favorite-data a{-webkit-transition:opacity .3s;transition:opacity .3s}
+.fav-view #list-container .property-favorite-data form{overflow-y:hidden;max-height:0}
+.active-view>.zsg-subfooter{padding:0 30px}
+.search-page-footer .zsg-subfooter{padding-left:15px;padding-left:1rem;padding-right:15px;padding-right:1rem}
+.search-page-footer .zsg-subfooter-content{padding-bottom:30px}
+.above-nav-ad{position:relative;width:100%;height:128px}
+#list-nav-ad-loading{width:100%;height:30px;font-size:1.1em;text-align:center;margin-left:-10px;position:absolute;top:40%}
+#list-nav-ad-loading .spinner{padding-right:8px;position:relative;top:3px}
+.full-list #list-nav-ad-loading{margin-left:0;width:547px}
+#nav-ad-iframe{position:absolute}
+#saved-homes-button{-webkit-transition:box-shadow 1s;-moz-transition:box-shadow 1s;-ms-transition:box-shadow 1s;-o-transition:box-shadow 1s;transition:box-shadow 1s}
+#saved-homes-button.fav-glow-add,#saved-homes-button.fav-glow-remove{-webkit-box-shadow:inset 0 0 40px #fff;-moz-box-shadow:inset 0 0 40px #fff;box-shadow:inset 0 0 40px #fff}
+.type-icon{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;display:inline-block;height:10px;margin-right:6px;width:10px}
+.sale .type-icon,.sold .type-icon,.zest .type-icon,.premarket .type-icon,.rent .type-icon{margin-right:-21px}
+.for-sale .type-icon,.type-forSale .type-icon,.type-forSaleWithOffer .type-icon,.forSaleWithOffer .type-icon,.forSaleOffer .type-icon,.forSale .type-icon,.sale .type-icon,.type-for-sale .type-icon,.type-comingSoon .type-icon,.type-coming-soon .type-icon,.comingSoon .type-icon,.Pending .type-icon,.type-pending .type-icon{background-color:#c00}
+.type-favorite .for-sale .type-icon,.type-favorite .type-forSale .type-icon,.type-favorite .type-forSaleWithOffer .type-icon,.type-favorite .forSaleWithOffer .type-icon,.type-favorite .forSaleOffer .type-icon,.type-favorite .forSale .type-icon,.type-favorite .sale .type-icon,.type-favorite .type-for-sale .type-icon,.type-favorite .type-comingSoon .type-icon,.type-favorite .type-coming-soon .type-icon,.type-favorite .comingSoon .type-icon,.type-favorite .Pending .type-icon,.type-favorite .type-pending .type-icon{display:inline-block;padding-top:2px;height:12px;width:12px;background-color:#fff;position:relative}
+.type-favorite .for-sale .type-icon:before,.type-favorite .type-forSale .type-icon:before,.type-favorite .type-forSaleWithOffer .type-icon:before,.type-favorite .forSaleWithOffer .type-icon:before,.type-favorite .forSaleOffer .type-icon:before,.type-favorite .forSale .type-icon:before,.type-favorite .sale .type-icon:before,.type-favorite .type-for-sale .type-icon:before,.type-favorite .type-comingSoon .type-icon:before,.type-favorite .type-coming-soon .type-icon:before,.type-favorite .comingSoon .type-icon:before,.type-favorite .Pending .type-icon:before,.type-favorite .type-pending .type-icon:before,.type-favorite .for-sale .type-icon:after,.type-favorite .type-forSale .type-icon:after,.type-favorite .type-forSaleWithOffer .type-icon:after,.type-favorite .forSaleWithOffer .type-icon:after,.type-favorite .forSaleOffer .type-icon:after,.type-favorite .forSale .type-icon:after,.type-favorite .sale .type-icon:after,.type-favorite .type-for-sale .type-icon:after,.type-favorite .type-comingSoon .type-icon:after,.type-favorite .type-coming-soon .type-icon:after,.type-favorite .comingSoon .type-icon:after,.type-favorite .Pending .type-icon:after,.type-favorite .type-pending .type-icon:after{background-color:#c00;margin-top:1px;position:absolute;content:"";left:7px;top:10;width:7px;height:10px;border-radius:7px 7px 0 0;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:0 100%;-moz-transform-origin:0 100%;-ms-transform-origin:0 100%;-o-transform-origin:0 100%;transform-origin:0 100%}
+.type-favorite .for-sale .type-icon:after,.type-favorite .type-forSale .type-icon:after,.type-favorite .type-forSaleWithOffer .type-icon:after,.type-favorite .forSaleWithOffer .type-icon:after,.type-favorite .forSaleOffer .type-icon:after,.type-favorite .forSale .type-icon:after,.type-favorite .sale .type-icon:after,.type-favorite .type-for-sale .type-icon:after,.type-favorite .type-comingSoon .type-icon:after,.type-favorite .type-coming-soon .type-icon:after,.type-favorite .comingSoon .type-icon:after,.type-favorite .Pending .type-icon:after,.type-favorite .type-pending .type-icon:after{left:0;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg);-webkit-transform-origin:100% 100%;-moz-transform-origin:100% 100%;-ms-transform-origin:100% 100%;-o-transform-origin:100% 100%;transform-origin:100% 100%}
+.for-rent .type-icon,.type-forRent .type-icon,.forRent .type-icon,.rent .type-icon,.type-for-rent .type-icon{background-color:#93f}
+.type-favorite .for-rent .type-icon,.type-favorite .type-forRent .type-icon,.type-favorite .forRent .type-icon,.type-favorite .rent .type-icon,.type-favorite .type-for-rent .type-icon{display:inline-block;padding-top:2px;height:12px;width:12px;background-color:#fff;position:relative}
+.type-favorite .for-rent .type-icon:before,.type-favorite .type-forRent .type-icon:before,.type-favorite .forRent .type-icon:before,.type-favorite .rent .type-icon:before,.type-favorite .type-for-rent .type-icon:before,.type-favorite .for-rent .type-icon:after,.type-favorite .type-forRent .type-icon:after,.type-favorite .forRent .type-icon:after,.type-favorite .rent .type-icon:after,.type-favorite .type-for-rent .type-icon:after{background-color:#93f;margin-top:1px;position:absolute;content:"";left:7px;top:10;width:7px;height:10px;border-radius:7px 7px 0 0;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:0 100%;-moz-transform-origin:0 100%;-ms-transform-origin:0 100%;-o-transform-origin:0 100%;transform-origin:0 100%}
+.type-favorite .for-rent .type-icon:after,.type-favorite .type-forRent .type-icon:after,.type-favorite .forRent .type-icon:after,.type-favorite .rent .type-icon:after,.type-favorite .type-for-rent .type-icon:after{left:0;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg);-webkit-transform-origin:100% 100%;-moz-transform-origin:100% 100%;-ms-transform-origin:100% 100%;-o-transform-origin:100% 100%;transform-origin:100% 100%}
+.pre-market .type-icon,.type-MMM .type-icon,.MMM .type-icon,.preMarket .type-icon,.premarket .type-icon,.type-pre-market .type-icon{background-color:#08f}
+.type-favorite .pre-market .type-icon,.type-favorite .type-MMM .type-icon,.type-favorite .MMM .type-icon,.type-favorite .preMarket .type-icon,.type-favorite .premarket .type-icon,.type-favorite .type-pre-market .type-icon{display:inline-block;padding-top:2px;height:12px;width:12px;background-color:#fff;position:relative}
+.type-favorite .pre-market .type-icon:before,.type-favorite .type-MMM .type-icon:before,.type-favorite .MMM .type-icon:before,.type-favorite .preMarket .type-icon:before,.type-favorite .premarket .type-icon:before,.type-favorite .type-pre-market .type-icon:before,.type-favorite .pre-market .type-icon:after,.type-favorite .type-MMM .type-icon:after,.type-favorite .MMM .type-icon:after,.type-favorite .preMarket .type-icon:after,.type-favorite .premarket .type-icon:after,.type-favorite .type-pre-market .type-icon:after{background-color:#08f;margin-top:1px;position:absolute;content:"";left:7px;top:10;width:7px;height:10px;border-radius:7px 7px 0 0;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:0 100%;-moz-transform-origin:0 100%;-ms-transform-origin:0 100%;-o-transform-origin:0 100%;transform-origin:0 100%}
+.type-favorite .pre-market .type-icon:after,.type-favorite .type-MMM .type-icon:after,.type-favorite .MMM .type-icon:after,.type-favorite .preMarket .type-icon:after,.type-favorite .premarket .type-icon:after,.type-favorite .type-pre-market .type-icon:after{left:0;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg);-webkit-transform-origin:100% 100%;-moz-transform-origin:100% 100%;-ms-transform-origin:100% 100%;-o-transform-origin:100% 100%;transform-origin:100% 100%}
+.recently-sold .type-icon,.type-recentlySold .type-icon,.sold .type-icon,.recentlySold .type-icon,.type-recently-sold .type-icon{background-color:#fc0}
+.type-favorite .recently-sold .type-icon,.type-favorite .type-recentlySold .type-icon,.type-favorite .sold .type-icon,.type-favorite .recentlySold .type-icon,.type-favorite .type-recently-sold .type-icon{display:inline-block;padding-top:2px;height:12px;width:12px;background-color:#fff;position:relative}
+.type-favorite .recently-sold .type-icon:before,.type-favorite .type-recentlySold .type-icon:before,.type-favorite .sold .type-icon:before,.type-favorite .recentlySold .type-icon:before,.type-favorite .type-recently-sold .type-icon:before,.type-favorite .recently-sold .type-icon:after,.type-favorite .type-recentlySold .type-icon:after,.type-favorite .sold .type-icon:after,.type-favorite .recentlySold .type-icon:after,.type-favorite .type-recently-sold .type-icon:after{background-color:#fc0;margin-top:1px;position:absolute;content:"";left:7px;top:10;width:7px;height:10px;border-radius:7px 7px 0 0;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:0 100%;-moz-transform-origin:0 100%;-ms-transform-origin:0 100%;-o-transform-origin:0 100%;transform-origin:0 100%}
+.type-favorite .recently-sold .type-icon:after,.type-favorite .type-recentlySold .type-icon:after,.type-favorite .sold .type-icon:after,.type-favorite .recentlySold .type-icon:after,.type-favorite .type-recently-sold .type-icon:after{left:0;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg);-webkit-transform-origin:100% 100%;-moz-transform-origin:100% 100%;-ms-transform-origin:100% 100%;-o-transform-origin:100% 100%;transform-origin:100% 100%}
+.not-for-sale .type-icon,.type-notForSale .type-icon,.type-allHomes .type-icon,.type-not-for-sale .type-icon,.zestimate .type-icon,.allHomes .type-icon,.zest .type-icon,.type-off-market .type-icon{background-color:#999}
+.type-favorite .not-for-sale .type-icon,.type-favorite .type-notForSale .type-icon,.type-favorite .type-allHomes .type-icon,.type-favorite .type-not-for-sale .type-icon,.type-favorite .zestimate .type-icon,.type-favorite .allHomes .type-icon,.type-favorite .zest .type-icon,.type-favorite .type-off-market .type-icon{display:inline-block;padding-top:2px;height:12px;width:12px;background-color:#fff;position:relative}
+.type-favorite .not-for-sale .type-icon:before,.type-favorite .type-notForSale .type-icon:before,.type-favorite .type-allHomes .type-icon:before,.type-favorite .type-not-for-sale .type-icon:before,.type-favorite .zestimate .type-icon:before,.type-favorite .allHomes .type-icon:before,.type-favorite .zest .type-icon:before,.type-favorite .type-off-market .type-icon:before,.type-favorite .not-for-sale .type-icon:after,.type-favorite .type-notForSale .type-icon:after,.type-favorite .type-allHomes .type-icon:after,.type-favorite .type-not-for-sale .type-icon:after,.type-favorite .zestimate .type-icon:after,.type-favorite .allHomes .type-icon:after,.type-favorite .zest .type-icon:after,.type-favorite .type-off-market .type-icon:after{background-color:#999;margin-top:1px;position:absolute;content:"";left:7px;top:10;width:7px;height:10px;border-radius:7px 7px 0 0;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:0 100%;-moz-transform-origin:0 100%;-ms-transform-origin:0 100%;-o-transform-origin:0 100%;transform-origin:0 100%}
+.type-favorite .not-for-sale .type-icon:after,.type-favorite .type-notForSale .type-icon:after,.type-favorite .type-allHomes .type-icon:after,.type-favorite .type-not-for-sale .type-icon:after,.type-favorite .zestimate .type-icon:after,.type-favorite .allHomes .type-icon:after,.type-favorite .zest .type-icon:after,.type-favorite .type-off-market .type-icon:after{left:0;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg);-webkit-transform-origin:100% 100%;-moz-transform-origin:100% 100%;-ms-transform-origin:100% 100%;-o-transform-origin:100% 100%;transform-origin:100% 100%}
+.list-card-actions{display:inline-block;height:100px;position:absolute;right:0;top:50%;margin-top:-50px}
+.list-card-actions.ls-hide,.list-card-actions.lh-hide{margin-top:-25px}
+.list-card-actions.ls-hide .list-save-button,.list-card-actions.lh-hide .list-hide-button{display:none!important}
+.list-card-actions a{display:block;height:50px;outline:0;padding:15px;width:50px}
+.list-card-actions a .zsg-icon-heart-line,.list-card-actions a .zsg-icon-heart-filled,.list-card-actions a .zsg-icon-circle-hide{color:#0074e4;font-size:20px}
+.list-card-actions a:hover .zsg-icon-heart-line,.list-card-actions a:hover .zsg-icon-heart-filled,.list-card-actions a:hover .zsg-icon-circle-hide{color:#87d300}
+.type-favorite .favorite-link{display:none}
+.type-favorite .list-hide-button{display:none}
+.type-not-favorite .remove-favorite-link{display:none}
+.terse-list-card-actions{font-size:24px}
+.terse-list-card-actions .image-control{width:24px;height:24px;position:absolute;background-size:75px 74px}
+.terse-list-card-actions .sprite-heart-filled{left:5px;top:5px;background-position:-50px 0}
+.terse-list-card-actions .sprite-heart-line{left:5px;top:5px;background-position:0 0}
+.terse-list-card-actions .sprite-circle-hide{right:5px;top:5px;background-position:0 -48px}
+.terse-tablet-list-card-actions{float:right;font-size:30px}
+.anim-image{z-index:1000;position:relative}
+.mobile-web .list-hide-button{display:none}
+.z-expanded-async .z-expand-async-link{display:none}
+.z-contracted-async .z-contract-link,.z-contracted-async .z-expanded-addition{display:none}
+.property-listing_base,.property-listing,.inner-property-data-column .property-listing{position:relative;display:block;overflow:hidden;padding:10px;cursor:pointer;border-bottom:1px solid #ccc}
+.property-listing_base.zsg-media,.property-listing.zsg-media,.inner-property-data-column .property-listing.zsg-media{margin:0}
+.property-listing_base.active-listing,.property-listing.active-listing,.inner-property-data-column .property-listing.active-listing{background-color:#e2effc}
+.selected-listing .property-listing_base,.selected-listing .property-listing,.selected-listing .inner-property-data-column .property-listing{border-bottom:0}
+.property-listing_base .photo,.property-listing .photo,.inner-property-data-column .property-listing .photo{width:150px;height:112px;margin:0;overflow:hidden;background-color:#eee;-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-o-user-select:none}
+.property-listing_base .photo a img,.property-listing .photo a img,.inner-property-data-column .property-listing .photo a img{margin:auto}
+.property-listing_base .photo a .image-container,.property-listing .photo a .image-container,.inner-property-data-column .property-listing .photo a .image-container{position:absolute}
+.property-listing_base .photo a .image-container img,.property-listing .photo a .image-container img,.inner-property-data-column .property-listing .photo a .image-container img{display:inline-block}
+.property-listing_base .photo a .zsg-loading-spinner,.property-listing .photo a .zsg-loading-spinner,.inner-property-data-column .property-listing .photo a .zsg-loading-spinner{position:absolute;left:50%;top:50%;margin-left:-7.5px;margin-top:-7.5px}
+.property-listing_base .photo a .zsg-loading-spinner ~ *,.property-listing .photo a .zsg-loading-spinner ~ *,.inner-property-data-column .property-listing .photo a .zsg-loading-spinner ~ *{display:none}
+.property-listing_base .photo a .terse-coming-soon-banner,.property-listing .photo a .terse-coming-soon-banner,.inner-property-data-column .property-listing .photo a .terse-coming-soon-banner{position:absolute;bottom:10px;right:-95px;padding:0 100px;color:#fff;background-color:#c00;text-transform:uppercase;text-align:center;font-size:9px;font-size:.6rem;white-space:normal;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg)}
+.property-listing_base .photo a .terse-tablet-coming-soon-banner,.property-listing .photo a .terse-tablet-coming-soon-banner,.inner-property-data-column .property-listing .photo a .terse-tablet-coming-soon-banner{bottom:38px;font-size:13px}
+.property-listing_base .photo a.coming-soon-banner,.property-listing .photo a.coming-soon-banner,.inner-property-data-column .property-listing .photo a.coming-soon-banner{position:absolute;top:10px;left:-95px;padding:0 100px;color:#fff;background-color:#c00;text-transform:uppercase;text-align:center;font-size:9px;font-size:.6rem;white-space:normal;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg)}
+.property-listing_base .photo .zsg-icon-expando-left,.property-listing_base .photo .zsg-icon-expando-right,.property-listing .photo .zsg-icon-expando-left,.property-listing .photo .zsg-icon-expando-right,.inner-property-data-column .property-listing .photo .zsg-icon-expando-left,.inner-property-data-column .property-listing .photo .zsg-icon-expando-right{position:absolute;top:123.5px;font-size:30px;color:#fff;padding:20px}
+@media screen and (max-width:719px){.property-listing_base .photo .zsg-icon-expando-left,.property-listing_base .photo .zsg-icon-expando-right,.property-listing .photo .zsg-icon-expando-left,.property-listing .photo .zsg-icon-expando-right,.inner-property-data-column .property-listing .photo .zsg-icon-expando-left,.inner-property-data-column .property-listing .photo .zsg-icon-expando-right{top:67.05656108597286px}
+}
+.property-listing_base .photo .zsg-icon-expando-left,.property-listing .photo .zsg-icon-expando-left,.inner-property-data-column .property-listing .photo .zsg-icon-expando-left{left:-10px}
+.property-listing_base .photo .zsg-icon-expando-right,.property-listing .photo .zsg-icon-expando-right,.inner-property-data-column .property-listing .photo .zsg-icon-expando-right{right:-10px}
+.property-listing_base .photo .photo-count-index,.property-listing .photo .photo-count-index,.inner-property-data-column .property-listing .photo .photo-count-index{position:absolute;top:10px;right:10px;background:rgba(0,0,0,0.5);padding:1px 10px;font-weight:100;font-size:13px;line-height:1.5;font-weight:normal;color:#fff}
+.property-listing_base .photo .photo-count-caption,.property-listing .photo .photo-count-caption,.inner-property-data-column .property-listing .photo .photo-count-caption{top:0;font-size:12px;font-weight:bold}
+.property-listing_base .photo .photo-count-caption.zsg-trapezoid,.property-listing .photo .photo-count-caption.zsg-trapezoid,.inner-property-data-column .property-listing .photo .photo-count-caption.zsg-trapezoid{padding:0 5px}
+.property-listing_base .photo .map-photo-toggle,.property-listing .photo .map-photo-toggle,.inner-property-data-column .property-listing .photo .map-photo-toggle{position:absolute;left:10px;bottom:15px;background-color:#000;border-radius:5px;font-size:16px;color:#fff;padding:10px}
+@media screen and (min-width:960px){.property-listing_base .photo .map-photo-toggle,.property-listing .photo .map-photo-toggle,.inner-property-data-column .property-listing .photo .map-photo-toggle{display:none}
+}
+.property-listing_base .photo .map-photo-toggle .zsg-icon-map,.property-listing_base .photo .map-photo-toggle .zsg-icon-photos,.property-listing .photo .map-photo-toggle .zsg-icon-map,.property-listing .photo .map-photo-toggle .zsg-icon-photos,.inner-property-data-column .property-listing .photo .map-photo-toggle .zsg-icon-map,.inner-property-data-column .property-listing .photo .map-photo-toggle .zsg-icon-photos{font-size:24px;margin-right:10px}
+.property-listing_base .property-map,.property-listing .property-map,.inner-property-data-column .property-listing .property-map{position:relative;display:none;float:left;height:277px;margin:10px;margin-right:0}
+@media screen and (min-width:960px){.property-listing_base .property-map,.property-listing .property-map,.inner-property-data-column .property-listing .property-map{display:block}
+}
+.property-listing_base .photo .type-icon,.property-listing_base .property-map .type-icon,.property-listing .photo .type-icon,.property-listing .property-map .type-icon,.inner-property-data-column .property-listing .photo .type-icon,.inner-property-data-column .property-listing .property-map .type-icon{position:absolute;width:16px;height:16px;border-radius:8px;border:2px solid #fff}
+.type-favorite.property-listing_base .photo .type-icon,.type-favorite.property-listing_base .property-map .type-icon,.type-favorite.property-listing .photo .type-icon,.type-favorite.property-listing .property-map .type-icon,.type-favorite.inner-property-data-column .property-listing .photo .type-icon,.type-favorite.inner-property-data-column .property-listing .property-map .type-icon{background-color:transparent;border:0}
+.property-listing_base .photo .type-icon,.property-listing .photo .type-icon,.inner-property-data-column .property-listing .photo .type-icon{left:213px;top:140.5px}
+.type-favorite.property-listing_base .photo .type-icon,.type-favorite.property-listing .photo .type-icon,.type-favorite.inner-property-data-column .property-listing .photo .type-icon{left:214px}
+@media screen and (max-width:719px){.property-listing_base .photo .type-icon,.property-listing .photo .type-icon,.inner-property-data-column .property-listing .photo .type-icon{left:129px;top:84.05656108597286px}
+.type-favorite.property-listing_base .photo .type-icon,.type-favorite.property-listing .photo .type-icon,.type-favorite.inner-property-data-column .property-listing .photo .type-icon{left:130px}
+}
+.property-listing_base .property-map .type-icon,.property-listing .property-map .type-icon,.inner-property-data-column .property-listing .property-map .type-icon{left:115px;top:130px}
+.type-favorite.property-listing_base .property-map .type-icon,.type-favorite.property-listing .property-map .type-icon,.type-favorite.inner-property-data-column .property-listing .property-map .type-icon{left:117px}
+.property-listing_base .property-listing-data,.property-listing .property-listing-data,.inner-property-data-column .property-listing .property-listing-data{padding-left:15px;padding-left:1rem}
+.property-listing_base .property-listing-data dt,.property-listing .property-listing-data dt,.inner-property-data-column .property-listing .property-listing-data dt{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-bottom:3px;margin-bottom:.2rem}
+.property-listing_base .property-listing-data a:visited,.property-listing_base .property-listing-data a.viewed,.property-listing .property-listing-data a:visited,.property-listing .property-listing-data a.viewed,.inner-property-data-column .property-listing .property-listing-data a:visited,.inner-property-data-column .property-listing .property-listing-data a.viewed{color:#640096}
+.property-listing_base .property-listing-data .property-info,.property-listing .property-listing-data .property-info,.inner-property-data-column .property-listing .property-listing-data .property-info{width:395px}
+.property-listing_base .property-listing-data .property-info>div.column,.property-listing .property-listing-data .property-info>div.column,.inner-property-data-column .property-listing .property-listing-data .property-info>div.column{display:inline-block;vertical-align:top}
+.property-listing_base .property-listing-data .property-info:first-child,.property-listing .property-listing-data .property-info:first-child,.inner-property-data-column .property-listing .property-listing-data .property-info:first-child{padding-right:15px;padding-right:1rem}
+.property-listing_base .property-listing-data .property-info .property-lot,.property-listing_base .property-listing-data .property-info .property-year,.property-listing .property-listing-data .property-info .property-lot,.property-listing .property-listing-data .property-info .property-year,.inner-property-data-column .property-listing .property-listing-data .property-info .property-lot,.inner-property-data-column .property-listing .property-listing-data .property-info .property-year{color:#333}
+.property-listing_base .property-listing-data .col-1,.property-listing .property-listing-data .col-1,.inner-property-data-column .property-listing .property-listing-data .col-1{width:170px;padding-right:15px;padding-right:1rem}
+.property-listing_base .property-listing-data .col-2,.property-listing .property-listing-data .col-2,.inner-property-data-column .property-listing .property-listing-data .col-2{width:210px}
+.property-listing_base .property-listing-data .zestimate,.property-listing_base .property-listing-data .doz,.property-listing_base .property-listing-data .days-till-market,.property-listing_base .property-listing-data .sol-offer,.property-listing_base .property-listing-data .featured-listing,.property-listing_base .property-listing-data .property-broker,.property-listing_base .property-listing-data .b-pets,.property-listing_base .property-listing-data .b-parking,.property-listing_base .property-listing-data .b-laundry,.property-listing_base .property-listing-data .price-cut-details,.property-listing_base .property-listing-data .open-house-details,.property-listing_base .property-listing-data .on-market-date,.property-listing_base .property-listing-data .relaxed-region,.property-listing .property-listing-data .zestimate,.property-listing .property-listing-data .doz,.property-listing .property-listing-data .days-till-market,.property-listing .property-listing-data .sol-offer,.property-listing .property-listing-data .featured-listing,.property-listing .property-listing-data .property-broker,.property-listing .property-listing-data .b-pets,.property-listing .property-listing-data .b-parking,.property-listing .property-listing-data .b-laundry,.property-listing .property-listing-data .price-cut-details,.property-listing .property-listing-data .open-house-details,.property-listing .property-listing-data .on-market-date,.property-listing .property-listing-data .relaxed-region,.inner-property-data-column .property-listing .property-listing-data .zestimate,.inner-property-data-column .property-listing .property-listing-data .doz,.inner-property-data-column .property-listing .property-listing-data .days-till-market,.inner-property-data-column .property-listing .property-listing-data .sol-offer,.inner-property-data-column .property-listing .property-listing-data .featured-listing,.inner-property-data-column .property-listing .property-listing-data .property-broker,.inner-property-data-column .property-listing .property-listing-data .b-pets,.inner-property-data-column .property-listing .property-listing-data .b-parking,.inner-property-data-column .property-listing .property-listing-data .b-laundry,.inner-property-data-column .property-listing .property-listing-data .price-cut-details,.inner-property-data-column .property-listing .property-listing-data .open-house-details,.inner-property-data-column .property-listing .property-listing-data .on-market-date,.inner-property-data-column .property-listing .property-listing-data .relaxed-region{color:#999}
+.property-listing_base .property-listing-data .toz,.property-listing .property-listing-data .toz,.inner-property-data-column .property-listing .property-listing-data .toz{color:#999}
+.property-listing_base .property-listing-data .toz-fresh,.property-listing .property-listing-data .toz-fresh,.inner-property-data-column .property-listing .property-listing-data .toz-fresh{color:#5d9900}
+.property-listing_base .property-listing-data .toz-count,.property-listing .property-listing-data .toz-count,.inner-property-data-column .property-listing .property-listing-data .toz-count{font-weight:bold}
+.property-listing_base .property-listing-data .price-cut-details>*,.property-listing .property-listing-data .price-cut-details>*,.inner-property-data-column .property-listing .property-listing-data .price-cut-details>*{display:inline-block;vertical-align:middle}
+.property-listing_base .property-listing-data .price-cut-details .price-reduc,.property-listing .property-listing-data .price-cut-details .price-reduc,.inner-property-data-column .property-listing .property-listing-data .price-cut-details .price-reduc{width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-top:5px solid #999;margin-right:5px}
+.property-listing_base .property-listing-data .listing-type,.property-listing .property-listing-data .listing-type,.inner-property-data-column .property-listing .property-listing-data .listing-type{font-size:13px;font-size:.8666666666666667rem;text-transform:uppercase;font-weight:bold;margin:0}
+.property-listing_base .property-listing-data .zsg-table,.property-listing .property-listing-data .zsg-table,.inner-property-data-column .property-listing .property-listing-data .zsg-table{margin-top:15px;margin-top:1rem;border-top:1px solid #eee}
+.property-listing_base.property-listing-terse,.property-listing.property-listing-terse,.inner-property-data-column .property-listing.property-listing-terse{font-size:1em}
+.property-listing_base.property-listing-terse figure,.property-listing.property-listing-terse figure,.inner-property-data-column .property-listing.property-listing-terse figure{width:138px;height:103px;float:left}
+.property-listing_base.property-listing-terse .property-address .hdp-link,.property-listing_base.property-listing-terse.property-listing-grouped .community-name,.property-listing_base.property-listing-terse.property_listing-grouped .building-name-address,.property-listing.property-listing-terse .property-address .hdp-link,.property-listing.property-listing-terse.property-listing-grouped .community-name,.property-listing.property-listing-terse.property_listing-grouped .building-name-address,.inner-property-data-column .property-listing.property-listing-terse .property-address .hdp-link,.inner-property-data-column .property-listing.property-listing-terse.property-listing-grouped .community-name,.inner-property-data-column .property-listing.property-listing-terse.property_listing-grouped .building-name-address{font-size:13px}
+.property-listing_base.property-listing-terse .grouped-result:first-child td,.property-listing.property-listing-terse .grouped-result:first-child td,.inner-property-data-column .property-listing.property-listing-terse .grouped-result:first-child td{border-top:0}
+.property-listing_base.property-listing-terse .grouped-results tr:last-child td,.property-listing.property-listing-terse .grouped-results tr:last-child td,.inner-property-data-column .property-listing.property-listing-terse .grouped-results tr:last-child td{border-bottom:0}
+.property-listing_base.property-listing-terse .unit-list,.property-listing.property-listing-terse .unit-list,.inner-property-data-column .property-listing.property-listing-terse .unit-list{clear:both}
+.property-listing_base.property-listing-terse table.grouped-results tr.grouped-result td,.property-listing.property-listing-terse table.grouped-results tr.grouped-result td,.inner-property-data-column .property-listing.property-listing-terse table.grouped-results tr.grouped-result td{padding-left:0}
+.property-listing_base.property-listing-terse table.grouped-results tr.grouped-result td:not(:last-child),.property-listing.property-listing-terse table.grouped-results tr.grouped-result td:not(:last-child),.inner-property-data-column .property-listing.property-listing-terse table.grouped-results tr.grouped-result td:not(:last-child){padding-right:10px}
+.property-listing_base.property-listing-terse table.grouped-results tr.grouped-result td:last-child,.property-listing.property-listing-terse table.grouped-results tr.grouped-result td:last-child,.inner-property-data-column .property-listing.property-listing-terse table.grouped-results tr.grouped-result td:last-child{padding-right:0}
+.property-listing_base.property-listing-terse table.grouped-results tr.grouped-result td:nth-child(2):nth-last-child(3),.property-listing.property-listing-terse table.grouped-results tr.grouped-result td:nth-child(2):nth-last-child(3),.inner-property-data-column .property-listing.property-listing-terse table.grouped-results tr.grouped-result td:nth-child(2):nth-last-child(3){max-width:100px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.property-listing_base.property-listing-terse .property-listing-data,.property-listing.property-listing-terse .property-listing-data,.inner-property-data-column .property-listing.property-listing-terse .property-listing-data{box-sizing:content-box;-webkit-box-sizing:content-box;margin-left:138px;display:block}
+.property-listing_base.property-listing-terse .property-listing-data .property-info,.property-listing.property-listing-terse .property-listing-data .property-info,.inner-property-data-column .property-listing.property-listing-terse .property-listing-data .property-info{box-sizing:content-box;-webkit-box-sizing:content-box;padding:0;width:100%}
+.property-listing_base.property-listing-terse .property-listing-data .property-info-list,.property-listing.property-listing-terse .property-listing-data .property-info-list,.inner-property-data-column .property-listing.property-listing-terse .property-listing-data .property-info-list{width:100%}
+.property-listing_base.property-listing-terse .property-listing-data dt,.property-listing_base.property-listing-terse .property-listing-data a,.property-listing.property-listing-terse .property-listing-data dt,.property-listing.property-listing-terse .property-listing-data a,.inner-property-data-column .property-listing.property-listing-terse .property-listing-data dt,.inner-property-data-column .property-listing.property-listing-terse .property-listing-data a{width:100%;box-sizing:content-box;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.property-listing-terse-tablet.property-listing_base.property-listing-terse .property-listing-data dt,.property-listing-terse-tablet.property-listing_base.property-listing-terse .property-listing-data a,.property-listing-terse-tablet.property-listing.property-listing-terse .property-listing-data dt,.property-listing-terse-tablet.property-listing.property-listing-terse .property-listing-data a,.property-listing-terse-tablet.inner-property-data-column .property-listing.property-listing-terse .property-listing-data dt,.property-listing-terse-tablet.inner-property-data-column .property-listing.property-listing-terse .property-listing-data a{width:auto}
+.property-listing_base.property-listing-terse-tablet,.property-listing.property-listing-terse-tablet,.inner-property-data-column .property-listing.property-listing-terse-tablet{padding:0}
+.property-listing_base.property-listing-terse-tablet figure,.property-listing_base.property-listing-terse-tablet figure img,.property-listing.property-listing-terse-tablet figure,.property-listing.property-listing-terse-tablet figure img,.inner-property-data-column .property-listing.property-listing-terse-tablet figure,.inner-property-data-column .property-listing.property-listing-terse-tablet figure img{width:442px;height:297px}
+@media screen and (max-width:719px){.property-listing_base.property-listing-terse-tablet figure,.property-listing_base.property-listing-terse-tablet figure img,.property-listing.property-listing-terse-tablet figure,.property-listing.property-listing-terse-tablet figure img,.inner-property-data-column .property-listing.property-listing-terse-tablet figure,.inner-property-data-column .property-listing.property-listing-terse-tablet figure img{width:274px;height:184.11312217194572px}
+}
+@media screen and (max-width:719px){.property-listing_base.property-listing-terse-tablet figure,.property-listing.property-listing-terse-tablet figure,.inner-property-data-column .property-listing.property-listing-terse-tablet figure{margin-top:39px}
+}
+.property-listing_base.property-listing-terse-tablet .property-listing-data,.property-listing.property-listing-terse-tablet .property-listing-data,.inner-property-data-column .property-listing.property-listing-terse-tablet .property-listing-data{margin-left:442px}
+@media screen and (max-width:719px){.property-listing_base.property-listing-terse-tablet .property-listing-data,.property-listing.property-listing-terse-tablet .property-listing-data,.inner-property-data-column .property-listing.property-listing-terse-tablet .property-listing-data{margin-left:274px}
+}
+@media screen and (min-width:960px){.property-listing_base.property-listing-terse-tablet .property-listing-data,.property-listing.property-listing-terse-tablet .property-listing-data,.inner-property-data-column .property-listing.property-listing-terse-tablet .property-listing-data{margin-left:698px}
+}
+.property-listing_base.property-listing-terse-tablet .property-listing-data .property-info,.property-listing.property-listing-terse-tablet .property-listing-data .property-info,.inner-property-data-column .property-listing.property-listing-terse-tablet .property-listing-data .property-info{width:auto;padding:20px}
+.property-listing_base.property-listing-terse-tablet .property-address .hdp-link,.property-listing.property-listing-terse-tablet .property-address .hdp-link,.inner-property-data-column .property-listing.property-listing-terse-tablet .property-address .hdp-link{font-size:18px;line-height:1.5;font-weight:bold}
+@media screen and (max-width:480px){.property-listing_base.property-listing-terse-tablet .property-address .hdp-link,.property-listing.property-listing-terse-tablet .property-address .hdp-link,.inner-property-data-column .property-listing.property-listing-terse-tablet .property-address .hdp-link{font-size:15px}
+}
+.property-listing_base.property-listing-terse-tablet .building-name-address,.property-listing.property-listing-terse-tablet .building-name-address,.inner-property-data-column .property-listing.property-listing-terse-tablet .building-name-address{font-size:18px;line-height:1.5;font-weight:bold}
+@media screen and (max-width:480px){.property-listing_base.property-listing-terse-tablet .building-name-address,.property-listing.property-listing-terse-tablet .building-name-address,.inner-property-data-column .property-listing.property-listing-terse-tablet .building-name-address{font-size:15px}
+}
+.property-listing_base.property-listing-terse-tablet .building-name-address .bdp-link,.property-listing.property-listing-terse-tablet .building-name-address .bdp-link,.inner-property-data-column .property-listing.property-listing-terse-tablet .building-name-address .bdp-link{font-size:18px;line-height:1.5;font-weight:bold}
+@media screen and (max-width:480px){.property-listing_base.property-listing-terse-tablet .building-name-address .bdp-link,.property-listing.property-listing-terse-tablet .building-name-address .bdp-link,.inner-property-data-column .property-listing.property-listing-terse-tablet .building-name-address .bdp-link{font-size:15px}
+}
+.property-listing_base.property-listing-terse-tablet .property-data,.property-listing.property-listing-terse-tablet .property-data,.inner-property-data-column .property-listing.property-listing-terse-tablet .property-data{padding-top:30px}
+.property-listing_base.property-listing-terse-tablet .key-facts,.property-listing.property-listing-terse-tablet .key-facts,.inner-property-data-column .property-listing.property-listing-terse-tablet .key-facts{color:#999;font-weight:bold;font-size:13px}
+.property-listing_base.property-listing-terse-tablet .unit-list,.property-listing.property-listing-terse-tablet .unit-list,.inner-property-data-column .property-listing.property-listing-terse-tablet .unit-list{clear:none}
+.property-listing_base .grouped-results .grouped-result-price,.property-listing_base .grouped-results .grouped-result-beds,.property-listing_base .grouped-results .grouped-result-baths,.property-listing_base .grouped-results .grouped-result-sqft,.property-listing .grouped-results .grouped-result-price,.property-listing .grouped-results .grouped-result-beds,.property-listing .grouped-results .grouped-result-baths,.property-listing .grouped-results .grouped-result-sqft,.inner-property-data-column .property-listing .grouped-results .grouped-result-price,.inner-property-data-column .property-listing .grouped-results .grouped-result-beds,.inner-property-data-column .property-listing .grouped-results .grouped-result-baths,.inner-property-data-column .property-listing .grouped-results .grouped-result-sqft{white-space:nowrap}
+.property-listing_base:not(.property-listing-terse) .new-construct,.property-listing:not(.property-listing-terse) .new-construct,.inner-property-data-column .property-listing:not(.property-listing-terse) .new-construct{color:#999}
+.property-listing_base.property-listing-decluttered,.property-listing.property-listing-decluttered,.inner-property-data-column .property-listing.property-listing-decluttered{padding:10px 10px 10px 0}
+.property-listing_base.property-listing-decluttered figure,.property-listing.property-listing-decluttered figure,.inner-property-data-column .property-listing.property-listing-decluttered figure{width:138px;height:103px;float:left}
+.property-listing_base.property-listing-decluttered .unit-list,.property-listing.property-listing-decluttered .unit-list,.inner-property-data-column .property-listing.property-listing-decluttered .unit-list{padding-top:10px;clear:both}
+.property-listing_base.property-listing-decluttered .property-listing-data,.property-listing.property-listing-decluttered .property-listing-data,.inner-property-data-column .property-listing.property-listing-decluttered .property-listing-data{margin-left:138px;padding-left:10px;padding-left:.667rem;display:block}
+.property-listing_base.property-listing-decluttered .zsg-h2,.property-listing.property-listing-decluttered .zsg-h2,.inner-property-data-column .property-listing.property-listing-decluttered .zsg-h2{font-size:20px;line-height:1.3}
+.property-listing_base.property-listing-decluttered .sol-tagline,.property-listing_base.property-listing-decluttered .days-till-market,.property-listing_base.property-listing-decluttered .zsg-notification-text,.property-listing_base.property-listing-decluttered .open-house-details,.property-listing.property-listing-decluttered .sol-tagline,.property-listing.property-listing-decluttered .days-till-market,.property-listing.property-listing-decluttered .zsg-notification-text,.property-listing.property-listing-decluttered .open-house-details,.inner-property-data-column .property-listing.property-listing-decluttered .sol-tagline,.inner-property-data-column .property-listing.property-listing-decluttered .days-till-market,.inner-property-data-column .property-listing.property-listing-decluttered .zsg-notification-text,.inner-property-data-column .property-listing.property-listing-decluttered .open-house-details{float:left}
+.property-listing_base.property-listing-decluttered .zestimate,.property-listing_base.property-listing-decluttered .zsg-fineprint,.property-listing_base.property-listing-decluttered .property-address .hdp-link,.property-listing_base.property-listing-decluttered .building-name-address .bdp-link,.property-listing_base.property-listing-decluttered .community-name,.property-listing.property-listing-decluttered .zestimate,.property-listing.property-listing-decluttered .zsg-fineprint,.property-listing.property-listing-decluttered .property-address .hdp-link,.property-listing.property-listing-decluttered .building-name-address .bdp-link,.property-listing.property-listing-decluttered .community-name,.inner-property-data-column .property-listing.property-listing-decluttered .zestimate,.inner-property-data-column .property-listing.property-listing-decluttered .zsg-fineprint,.inner-property-data-column .property-listing.property-listing-decluttered .property-address .hdp-link,.inner-property-data-column .property-listing.property-listing-decluttered .building-name-address .bdp-link,.inner-property-data-column .property-listing.property-listing-decluttered .community-name{font-size:13px}
+.property-listing_base.property-listing-decluttered .property-listing-data dt,.property-listing_base.property-listing-decluttered .property-listing-data a,.property-listing.property-listing-decluttered .property-listing-data dt,.property-listing.property-listing-decluttered .property-listing-data a,.inner-property-data-column .property-listing.property-listing-decluttered .property-listing-data dt,.inner-property-data-column .property-listing.property-listing-decluttered .property-listing-data a{width:100%;box-sizing:content-box;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.property-listing_base.property-listing-decluttered .property-listing-data dt,.property-listing.property-listing-decluttered .property-listing-data dt,.inner-property-data-column .property-listing.property-listing-decluttered .property-listing-data dt{width:auto;margin-bottom:0}
+.property-listing_base.property-listing-decluttered .lot-size,.property-listing_base.property-listing-decluttered .built-year,.property-listing.property-listing-decluttered .lot-size,.property-listing.property-listing-decluttered .built-year,.inner-property-data-column .property-listing.property-listing-decluttered .lot-size,.inner-property-data-column .property-listing.property-listing-decluttered .built-year{display:none}
+.property-listing_base.property-listing-decluttered .zestimate,.property-listing_base.property-listing-decluttered .property-data,.property-listing.property-listing-decluttered .zestimate,.property-listing.property-listing-decluttered .property-data,.inner-property-data-column .property-listing.property-listing-decluttered .zestimate,.inner-property-data-column .property-listing.property-listing-decluttered .property-data{color:#333;font-size:13px}
+.property-listing_base.property-listing-decluttered .sold-date,.property-listing_base.property-listing-decluttered .secondary-data,.property-listing_base.property-listing-decluttered .new-construct,.property-listing_base.property-listing-decluttered .relaxed-region,.property-listing.property-listing-decluttered .sold-date,.property-listing.property-listing-decluttered .secondary-data,.property-listing.property-listing-decluttered .new-construct,.property-listing.property-listing-decluttered .relaxed-region,.inner-property-data-column .property-listing.property-listing-decluttered .sold-date,.inner-property-data-column .property-listing.property-listing-decluttered .secondary-data,.inner-property-data-column .property-listing.property-listing-decluttered .new-construct,.inner-property-data-column .property-listing.property-listing-decluttered .relaxed-region{color:#999}
+.property-listing_base.property-listing-decluttered table.grouped-results,.property-listing.property-listing-decluttered table.grouped-results,.inner-property-data-column .property-listing.property-listing-decluttered table.grouped-results{table-layout:fixed;font-size:13px}
+.property-listing_base.property-listing-decluttered table.grouped-results tr.grouped-result td,.property-listing.property-listing-decluttered table.grouped-results tr.grouped-result td,.inner-property-data-column .property-listing.property-listing-decluttered table.grouped-results tr.grouped-result td{padding-left:10px}
+.property-listing_base.property-listing-decluttered table.grouped-results tr.grouped-result td:last-child,.property-listing.property-listing-decluttered table.grouped-results tr.grouped-result td:last-child,.inner-property-data-column .property-listing.property-listing-decluttered table.grouped-results tr.grouped-result td:last-child{padding-right:10px}
+.property-listing_base.property-listing-decluttered .grouped-results,.property-listing.property-listing-decluttered .grouped-results,.inner-property-data-column .property-listing.property-listing-decluttered .grouped-results{color:#333}
+.property-listing_base.property-listing-decluttered .grouped-results .z-contract-link,.property-listing.property-listing-decluttered .grouped-results .z-contract-link,.inner-property-data-column .property-listing.property-listing-decluttered .grouped-results .z-contract-link{font-weight:bold}
+.property-listing_base.property-listing-decluttered .grouped-results .z-contract-link .zsg-icon-arrow-menu-down::before,.property-listing.property-listing-decluttered .grouped-results .z-contract-link .zsg-icon-arrow-menu-down::before,.inner-property-data-column .property-listing.property-listing-decluttered .grouped-results .z-contract-link .zsg-icon-arrow-menu-down::before{-webkit-transform:rotate(-180deg);-moz-transform:rotate(-180deg);-ms-transform:rotate(-180deg);-o-transform:rotate(-180deg);transform:rotate(-180deg)}
+.property-listing_base.property-listing-decluttered .grouped-results .grouped-result-label,.property-listing.property-listing-decluttered .grouped-results .grouped-result-label,.inner-property-data-column .property-listing.property-listing-decluttered .grouped-results .grouped-result-label{width:60%;font-weight:bold;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.property-listing_base.property-listing-decluttered .grouped-results .grouped-result-price,.property-listing.property-listing-decluttered .grouped-results .grouped-result-price,.inner-property-data-column .property-listing.property-listing-decluttered .grouped-results .grouped-result-price{width:20%}
+.property-listing_base.property-listing-decluttered .grouped-results .grouped-result-beds,.property-listing.property-listing-decluttered .grouped-results .grouped-result-beds,.inner-property-data-column .property-listing.property-listing-decluttered .grouped-results .grouped-result-beds{width:22%}
+.property-listing_base.property-listing-decluttered .grouped-results .grouped-result-baths,.property-listing.property-listing-decluttered .grouped-results .grouped-result-baths,.inner-property-data-column .property-listing.property-listing-decluttered .grouped-results .grouped-result-baths{width:27%}
+.property-listing_base.property-listing-decluttered .grouped-results .grouped-result-sqft,.property-listing.property-listing-decluttered .grouped-results .grouped-result-sqft,.inner-property-data-column .property-listing.property-listing-decluttered .grouped-results .grouped-result-sqft{width:31%}
+.property-listing_base.property-listing-decluttered .grouped-results .grouped-result-label,.property-listing.property-listing-decluttered .grouped-results .grouped-result-label,.inner-property-data-column .property-listing.property-listing-decluttered .grouped-results .grouped-result-label{display:table-cell}
+.property-listing_base.property-listing-decluttered .grouped-results tr:last-child td,.property-listing.property-listing-decluttered .grouped-results tr:last-child td,.inner-property-data-column .property-listing.property-listing-decluttered .grouped-results tr:last-child td{border-bottom:0}
+.property-listing_base.property-listing-decluttered .toz,.property-listing_base.property-listing-decluttered .doz,.property-listing.property-listing-decluttered .toz,.property-listing.property-listing-decluttered .doz,.inner-property-data-column .property-listing.property-listing-decluttered .toz,.inner-property-data-column .property-listing.property-listing-decluttered .doz{float:left;width:auto}
+.property-listing_base.property-listing-decluttered .property-info,.property-listing.property-listing-decluttered .property-info,.inner-property-data-column .property-listing.property-listing-decluttered .property-info{width:100%;padding:0}
+.property-listing_base.property-listing-decluttered .property-amenities,.property-listing.property-listing-decluttered .property-amenities,.inner-property-data-column .property-listing.property-listing-decluttered .property-amenities{display:none;position:absolute;top:90px;right:0}
+.property-listing_base.property-listing-decluttered .property-amenities span,.property-listing.property-listing-decluttered .property-amenities span,.inner-property-data-column .property-listing.property-listing-decluttered .property-amenities span{color:#333;display:inline-block;height:2em;line-height:1;padding:.4em 0;text-align:center;width:2em}
+.property-listing_base.property-listing-decluttered .property-amenities .disabled,.property-listing.property-listing-decluttered .property-amenities .disabled,.inner-property-data-column .property-listing.property-listing-decluttered .property-amenities .disabled{color:#333;cursor:default;-ms-filter:alpha(opacity=35);zoom:1;filter:alpha(opacity=35);opacity:.35}
+.property-listing_base.property-listing-decluttered td.wide-card-only,.property-listing_base.property-listing-decluttered span.wide-card-only,.property-listing.property-listing-decluttered td.wide-card-only,.property-listing.property-listing-decluttered span.wide-card-only,.inner-property-data-column .property-listing.property-listing-decluttered td.wide-card-only,.inner-property-data-column .property-listing.property-listing-decluttered span.wide-card-only{display:none}
+.property-listing_base.property-listing-decluttered .property-info p,.property-listing.property-listing-decluttered .property-info p,.inner-property-data-column .property-listing.property-listing-decluttered .property-info p{margin-bottom:0}
+@media screen and (min-width:414px){.property-listing.property-listing-decluttered .property-address .hdp-link,.property-listing.property-listing-decluttered .community-name,.property-listing.property-listing-decluttered .building-name-address .bdp-link,.property-listing.property-listing-decluttered .community-name{font-size:15px}
+.property-listing.property-listing-decluttered .lot-size{display:inline}
+.property-listing.property-listing-decluttered .property-amenities{display:block}
+}
+@media screen and (min-width:550px){.property-listing.property-listing-decluttered{padding:10px}
+.property-listing.property-listing-decluttered .zsg-h2{font-size:24px;line-height:1.2}
+.property-listing.property-listing-decluttered .built-year{display:inline}
+.property-listing.property-listing-decluttered .property-data,.property-listing.property-listing-decluttered .zestimate,.property-listing.property-listing-decluttered .zsg-fineprint{font-size:1em}
+.property-listing.property-listing-decluttered figure{width:150px;height:112px;float:left}
+.property-listing.property-listing-decluttered .property-listing-data{box-sizing:content-box;-webkit-box-sizing:content-box;margin-left:150px;display:block;position:relative}
+.property-listing.property-listing-decluttered td.wide-card-only{display:table-cell}
+.property-listing.property-listing-decluttered span.wide-card-only{display:inline}
+}
+table.grouped-bedroom-results .grouped-result-price{width:20%}
+table.grouped-bedroom-results .grouped-result-beds{width:22%}
+table.grouped-bedroom-results .grouped-result-baths{width:27%}
+table.grouped-bedroom-results .grouped-result-sqft{width:31%}
+@media only screen and (min-width:1500px){.inner-property-data-column .property-listing.property-listing-decluttered{padding:10px}
+.inner-property-data-column .property-listing.property-listing-decluttered .property-address .hdp-link,.inner-property-data-column .property-listing.property-listing-decluttered .community-name,.inner-property-data-column .property-listing.property-listing-decluttered .building-name-address .bdp-link,.inner-property-data-column .property-listing.property-listing-decluttered .community-name{font-size:15px}
+.inner-property-data-column .property-listing.property-listing-decluttered .lot-size{display:inline}
+.inner-property-data-column .property-listing.property-listing-decluttered .property-amenities{display:block}
+.inner-property-data-column .property-listing.property-listing-decluttered .zsg-h2{font-size:24px;line-height:1.2}
+.inner-property-data-column .property-listing.property-listing-decluttered .built-year{display:inline}
+.inner-property-data-column .property-listing.property-listing-decluttered .property-data,.inner-property-data-column .property-listing.property-listing-decluttered .zestimate,.inner-property-data-column .property-listing.property-listing-decluttered .zsg-fineprint{font-size:1em}
+.inner-property-data-column .property-listing.property-listing-decluttered figure{width:150px;height:112px;float:left}
+.inner-property-data-column .property-listing.property-listing-decluttered .property-listing-data{box-sizing:content-box;-webkit-box-sizing:content-box;margin-left:150px;display:block;position:relative}
+.inner-property-data-column .property-listing.property-listing-decluttered td.wide-card-only{display:table-cell}
+.inner-property-data-column .property-listing.property-listing-decluttered span.wide-card-only{display:inline}
+}
+.zss-map-container{position:relative}
+.move-cursor{cursor:url(/static/images/grab.cur) 0 0,move}
+.ie .move-cursor{cursor:url(/static/images/grab_bing.cur),move}
+.pointer-cursor{cursor:pointer}
+.grab-cursor{cursor:url(/static/images/DragHandClosed.png),move}
+.hhLayer{-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-o-user-select:none}
+.shim{-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-o-user-select:none;z-index:9999;top:0;left:0;width:0;height:0;position:absolute;display:none;background-color:transparent;opacity:0}
+#map-parent-container,.map-parent-container{background-color:#e7e6e5;-ms-touch-action:none;position:relative;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none}
+#map-parent-container .map-container,.map-parent-container .map-container,#map-parent-container .street-view-map,.map-parent-container .street-view-map{background-color:#e7e6e5}
+#map-parent-container .aerial-view-map,.map-parent-container .aerial-view-map{background-color:#2c3021}
+#map-parent-container .map-message,.map-parent-container .map-message{padding:0;top:0;width:100%;z-index:10}
+#map-parent-container .map-message ul,.map-parent-container .map-message ul{margin:6px 10px}
+#map-parent-container .map-message:not(.hide) ~ .map-message,.map-parent-container .map-message:not(.hide) ~ .map-message{display:none}
+#map-rollup-info-message,#showing-unmapped-message{color:#fff;position:absolute;background-color:#333;background-color:rgba(51,51,51,0.85);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9333333,endColorstr=#D9333333,GradientType=0);left:0;right:0;z-index:6}
+#map-mini-bubble-wrapper{z-index:20}
+body.saved-search .specialData{display:none}
+body.saved-search .map-bubble_mini .map-bubble-flex{display:none}
+.map-bubble_base,.map-bubble .search-result,.map-bubble_mini,.map-bubble_iterable,.map-bubble.community-bubble{background-color:#fff;box-shadow:0 0 9px rgba(68,68,68,0.6)}
+.map-bubble_base .zsg-media-img,.map-bubble .search-result .zsg-media-img,.map-bubble_mini .zsg-media-img,.map-bubble_iterable .zsg-media-img,.map-bubble.community-bubble .zsg-media-img{margin-right:10px;max-width:150px}
+.map-bubble_base .photo,.map-bubble .search-result .photo,.map-bubble_mini .photo,.map-bubble_iterable .photo,.map-bubble.community-bubble .photo{overflow:hidden;position:relative}
+:not(.ie8) .map-bubble_base .coming-soon-banner,:not(.ie8) .map-bubble .search-result .coming-soon-banner,:not(.ie8) .map-bubble_mini .coming-soon-banner,:not(.ie8) .map-bubble_iterable .coming-soon-banner,:not(.ie8) .map-bubble.community-bubble .coming-soon-banner{position:absolute;top:10px;left:-95px;padding:0 100px;color:#fff;background-color:#c00;text-transform:uppercase;text-align:center;font-size:9px;font-size:.6rem;white-space:normal;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg)}
+.ie8 .map-bubble_base .coming-soon-banner,.ie8 .map-bubble .search-result .coming-soon-banner,.ie8 .map-bubble_mini .coming-soon-banner,.ie8 .map-bubble_iterable .coming-soon-banner,.ie8 .map-bubble.community-bubble .coming-soon-banner{position:absolute;width:50px;height:50px;background-image:url(../../../images/coming-soon-banner-small.png);background-size:50px 50px;z-index:1}
+.ie8 .map-bubble_base .coming-soon-banner span,.ie8 .map-bubble .search-result .coming-soon-banner span,.ie8 .map-bubble_mini .coming-soon-banner span,.ie8 .map-bubble_iterable .coming-soon-banner span,.ie8 .map-bubble.community-bubble .coming-soon-banner span{display:none}
+.map-bubble.property-bubble .search-result .plisting .pinfo-block .adr,.map-bubble.building-bubble:not(.map-bubble_iterable) .search-result .plisting .pinfo-block .adr{margin-right:30px}
+.map-bubble .search-result{width:370px;min-height:129px;cursor:pointer;padding:13px}
+.bubble-design-wide.map-bubble .search-result,.bubble-design-wideplus.map-bubble .search-result{width:472px}
+.map-bubble .search-result #property-home-info{min-height:112px}
+.map-bubble .search-result .plisting .photo,.map-bubble .search-result .plisting .community-image{width:150px;height:112px;float:left;vertical-align:top}
+.map-bubble .search-result .plisting .photo img,.map-bubble .search-result .plisting .community-image img{display:block}
+.map-bubble .search-result .plisting .pinfo-block,.map-bubble .search-result .plisting .community-details{margin-left:160px}
+.map-bubble .search-result .plisting .pinfo-block *,.map-bubble .search-result .plisting .community-details *{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.map-bubble .search-result .plisting .pinfo-block .price{margin-bottom:0;font-weight:normal}
+.map-bubble .search-result .plisting .pinfo-block .adr a{font-weight:bold}
+.map-bubble .search-result .plisting .pinfo-block .buildingAttribute{color:#999}
+.map-bubble .search-result .plisting .pinfo-block .viewDetailsLink a{font-weight:bold}
+.map-bubble .search-result .plisting .pinfo-block .specialData.zsg-fineprint{color:#999}
+.map-bubble .search-result .plisting .pinfo-type{line-height:15px;margin-bottom:5px;margin-right:30px}
+.map-bubble .search-result .plisting .pinfo-type .type{font-size:13px;font-size:.8666666666666667rem;text-transform:uppercase;font-weight:bold;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;vertical-align:top}
+.bubble-design-wide.map-bubble .search-result .plisting .pinfo-type .type,.bubble-design-wideplus.map-bubble .search-result .plisting .pinfo-type .type{margin-left:4px}
+.map-bubble .search-result .plisting #building-info{clear:both}
+.map-bubble .search-result .plisting .see-all-link-wrapper a{padding:10px 5px;display:block}
+.map-bubble .search-result .close-bubble{color:#333;position:absolute;right:9px;top:6px;margin:-6px -11px;padding:6px 11px}
+.map-bubble .search-result .close-bubble:hover{color:#7bc0ff}
+.map-bubble .search-result .listing-label .definition{display:inline-block;max-width:150px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.map-bubble_mini{color:#333;display:inline-block;line-height:1.3em;padding:7px 7px 5px;position:relative}
+.map-bubble_mini .zsg-media_shrinkwrap{display:table}
+.map-bubble_mini strong{line-height:1}
+.map-bubble_mini .zsg-media-img{margin-right:5px}
+.map-bubble_mini .map-bubble-flex{margin-top:1px}
+.map-bubble-beak{border-color:#fff transparent transparent transparent;border-style:solid;border-width:11px 11px 0 11px;position:absolute;top:100%}
+.map-bubble_below .map-bubble-beak{border-color:transparent transparent #fff transparent;border-width:0 11px 11px 11px;bottom:100%;top:auto}
+.map-bubble_iterable .map-bubble-viewport{max-height:370px;overflow-y:auto}
+.map-bubble_iterable .zsg-media_shrinkwrap{width:auto!important}
+.map-bubble_iterable .pinfo-block{max-width:168px}
+.bubble-design-wide.map-bubble_iterable .pinfo-block,.bubble-design-wideplus.map-bubble_iterable .pinfo-block{max-width:270px}
+.map-bubble_iterable .pinfo-block .property-info-type{color:#333}
+.map-bubble.community-bubble .community-name{font-weight:bold}
+.map-bubble.community-bubble .community-info{height:112px}
+.map-bubble.community-bubble #community-bubble-contents-wrapper{max-height:180px;overflow:auto}
+.map-bubble.community-bubble .plan{padding:10px 0;border-bottom:1px solid #eee}
+.map-bubble.community-bubble .plan span{display:inline-block;vertical-align:middle;margin:0 2px}
+.map-bubble.community-bubble .plan .price{width:25%;font-weight:bold}
+.map-bubble.community-bubble .plan .plan-name{width:30%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.map-bubble.community-bubble .plan .beds{width:15%}
+.map-bubble.community-bubble .plan .sqft{width:25%}
+.map-bubble.community-bubble.decluttered .search-result{cursor:default}
+.map-bubble.community-bubble.decluttered .pinfo-type{line-height:1.5;margin-bottom:0}
+.map-bubble.community-bubble.decluttered .pinfo-type .type{vertical-align:middle}
+.map-bubble.community-bubble.decluttered .community-builder{color:#999}
+.map-bubble.community-bubble.decluttered .more-plans{font-size:13px;font-size:.8666666666666667rem;font-weight:bold}
+.map-bubble.community-bubble.decluttered .plan{font-size:13px;font-size:.8666666666666667rem}
+.map-bubble.community-bubble.decluttered .plan span{text-align:right}
+.map-bubble.community-bubble.decluttered .plan .price{font-weight:normal;width:15%}
+.map-bubble.community-bubble.decluttered .plan .plan-name{font-weight:bold;width:40%;text-align:left}
+.map-bubble.community-bubble #more-community-bubble-contents{padding:10px 0}
+.building-bubble .ab-grouped-units{font-size:13px;line-height:1.5;font-weight:normal;color:#333;padding-top:5px}
+.building-bubble .ab-grouped-units tr:last-child td{border-bottom:0}

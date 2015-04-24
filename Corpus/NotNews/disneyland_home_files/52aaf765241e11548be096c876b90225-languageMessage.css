@@ -1,0 +1,52 @@
+/*
+ * (c) Disney.  All rights reserved.
+ */
+/**************************************************
+ * FileName - //p4-wdpro/Projects/NGE/Sites/pep/main/src/public/media/pep/live/media/site/css/misc/language-message.css
+ *
+ * $Author: bamboo $
+ * $Revision: #16 $
+ * $Change: 1566650 $
+ * $Date: 2015/04/08 $
+ **************************************************/
+ 
+#languageMessageContainer {
+    background-color: #EBF6FC;
+    border-bottom: 1px solid #D9D9D9;
+    padding: 15px 0;   
+}
+
+#languageMessageBox {
+    width: 940px;
+    margin: 0 auto;
+}
+
+#languageMessageBox div {
+    width: 90%;
+    line-height: 18px;
+}
+#globeIcon {
+    font-family: 'pepmdx';
+    position: relative;
+    font-size: 25px;
+    float: left;
+    padding-right: 5px;
+    top: -7px;
+}
+#closeLanguageMessage {
+    position: relative;
+    float: right;
+    font-family: 'pepmdx';
+    color: #A1AFC0;
+    font-size: 22px;
+    top: -4px;
+}
+
+#languageMessageText {
+    display: inline-block;
+}
+
+#languageMessageSecondaryText {
+    display: block;
+    padding-top: 8px;
+}

@@ -1,0 +1,187 @@
+
+/* --------------------------------------------------------------------------
+    Weekly Homepage Refresh Styles for March Week 12, 2015
+   -------------------------------------------------------------------------- */
+
+ /**
+  * Store Preview URL
+  * https://cmc-wcsauth.target.com/webapp/wcs/tools/servlet/CMWSPreviewSetup?redirecturl=https://cmc-wcsauth.target.com:8006/webapp/wcs/preview/servlet/PreviewStore&redirectstoreurl=http://cmc-wcsauth.target.com/webapp/wcs/stores/servlet/StoreView?storeId=10151&newPreviewSession=true&previewRestURI=/wcs/previewresources&previewPath=/webapp/wcs/preview/servlet&start=2015/03/08%2012:00:00&status=true&invstatus=0&timeZoneId=America/New_York&dateFormat=yyyy/MM/dd&timeFormat=12HR&locale=en_US
+  */
+
+
+/* Manual Espot Adjustments
+   -------------------------------------------------------------------------- */
+
+/**
+ * 1. Sets the height of the Flexible Grid Container.
+ * 2. Sets the top positioning of the spotlight.  This can change weekly, hence
+ *    why it lives in the weekly CSS file.
+ * 3. Sets the top positioning of the Social/Connect box.  This # depends on #2 above.
+ */
+
+#Main.flexible_grid_layout { height:1900px!important; } /*[1]*/
+#e15 { top: 1550px !important; } /*[2]*/
+#e17 { top: 1780px !important; } /*[3]*/
+
+
+
+/* Hero Component
+   -------------------------------------------------------------------------- */
+
+#hp-Hero * {
+-moz-box-sizing: border-box;
+     box-sizing: border-box;
+}
+
+#hp-Hero {
+  width: 815px;
+  height: 455px;
+  position: relative;
+  float: right;
+  overflow: hidden;
+  border-radius: 4px;
+}
+  #hp-Hero:after {
+    content:"";
+    display:table;
+    clear:both;
+  }
+
+.hp-Hero-links {
+  position: absolute;
+  top: 125px;
+  left: 35px;
+  z-index: 10;
+  width:750px;
+  font-size: 0;
+  text-align: center;
+}
+  .hp-Hero-links > li {
+    display: inline-block;
+    width: 105px;
+    padding-right: 10px;
+  }
+
+.hp-Hero-image {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+}
+
+#hp-Hero a.hp-Button {
+  display: inline-block;
+  vertical-align: middle;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 4px;
+  text-align: center;
+  background-color: #666666;
+  color: #fff !important;
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+  width: 100%;
+  font-weight: bold;
+  box-shadow: 0 1px 2px rgba(0,0,0,.15);
+  transition: background-color .05s;
+  -webkit-appearance: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+#hp-Hero a.hp-Button:hover,
+#hp-Hero a.hp-Button:focus {
+  background-color: #333333;
+  text-decoration: none;
+}
+
+
+/* Hotspot Modifiers
+   -------------------------------------------------------------------------- */
+
+/**
+ * --[date]-[name]
+ */
+
+.u-linkHotspot--041215-allHome {
+  bottom: -295px;
+  right: -27px;
+  width: 810px;
+  height: 450px;
+  z-index: -1; /* Added for hotspot */
+  /*background-color: rgba(0,0,0,.5);*/
+}
+
+.u-linkHotspot--041215-components {
+  bottom: 0;
+  right: 0;
+  width: 150px;
+  height: 170px;
+}
+
+/**
+ * Added by Josh.Leibold 03/24
+ */
+
+.u-linkHotspot--041215-rugs {
+  bottom: 0;
+  right: 0;
+  width: 220px;
+  height: 180px;
+}
+
+.u-linkHotspot--041215-clothing {
+  bottom: 0;
+  right: 0;
+  width: 250px;
+  height: 170px;
+}
+
+.u-linkHotspot--041215-accessories {
+  bottom: 0;
+  right: 0;
+  width: 170px;
+  height: 170px;
+}
+
+
+.hp-Hero-linkGroup {
+  position: absolute;
+  top: 100px;
+  left: 2px;
+  padding: 10px 20px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #454545;
+  background: url("http://static.targetimg1.com/2012/ol/global/images/trans.gif");
+}
+
+/* --------------------------------------------------------------------------
+    Comment
+   -------------------------------------------------------------------------- */
+
+/*  Comment
+   -------------------------------------------------------------------------- */
+
+/**
+ * Comment
+ */
+
+ /* Comment */
+
+
+/*
+
+.declaration-order {
+  - Positioning
+  - Box-model
+  - Typography
+  - Visual
+  - Misc
+}
+
+*/

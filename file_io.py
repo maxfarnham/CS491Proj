@@ -1,6 +1,24 @@
 import csv, text_manip, os, fnmatch
 import local as loc
 import dataset_utilities as du
+import re
+from bs4 import BeautifulSoup as bs
+def getCategoriesFromXML(file=loc.newsspace):
+    categoryDict = dict()
+    with open(file, 'r') as xf:
+        xml = xf.read()
+        #soup = bs(xml)
+        #takeaways = soup.findAll('category')
+        cats = re.findall(r'<category>(.*?)<',xml)
+        for cat in cats:
+            if cat not in categoryDict:
+                categoryDict[cat] = 1
+            else:
+                categoryDict[cat] += 1
+        for key in categoryDict.keys():
+            if categoryDict[key] < 107:
+                categoryDict.pop(key, None)
+        return categoryDict
 def loadCsv(filename, ignoreHeaders=True):
 	lines = csv.reader(open(filename, "rb"))
 	if ignoreHeaders:
@@ -11,11 +29,11 @@ def loadCsv(filename, ignoreHeaders=True):
 	return dataset
 
 def recGetFiles(directory,extension='htm'):
-	matches = []
-	for root, dirnames, filenames in os.walk(directory):
-	  for filename in fnmatch.filter(filenames, '*.' + extension):
-		matches.append(os.path.join(root, filename))
-	return matches
+    matches = []
+    for root, dirnames, filenames in os.walk(directory):
+        for filename in fnmatch.filter(filenames, '*.' + extension):
+            matches.append(os.path.join(root, filename))
+    return matches
 
 def getTopLevelFiles(directory, extension='htm'):
 	matches = []
@@ -49,3 +67,6 @@ def create_training_file(destination = loc.featureFile):
 		with open (filename, "r") as htmlfile:
 			print(filename)
 			textfile.write(du.create_simple_feature_vector(htmlfile.read()) + str(label) + '\n')  
+
+if __name__ == "__main__":
+    tags = getCategoriesFromXML()

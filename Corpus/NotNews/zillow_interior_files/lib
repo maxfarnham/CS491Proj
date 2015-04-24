@@ -1,0 +1,16 @@
+YUI.add("z-plugin-nav-scrolling",function(c){var a=c.config.win,b=c.UA.touchEnabled?"touchstart":"mouseenter",d=c.UA.touchEnabled?"touchstartoutside":"mouseleave";
+c.namespace("Z.Plugin")["NavScrolling"]=c.Base.create("navScrolling",c.Plugin.Base,[c.Z.EventHandleManager],{throttle:c.Z.throttle,_previousScrollY:null,initializer:function(){var f=this.get("host"),e=this.get("scroller");
+if(this.get("preventScrollBubbling")&&d=="touchstartoutside"){c.Z.Event.defineOutside("touchstart");}this.addHandle(f.after("nav:open",this._afterNavOpen,this));
+},destructor:function(){this.removeHandles();},_scrollToTop:function(k){var f=Array.prototype.slice,i=this.get("scrollMargin"),j=this._getNewScrollTop(k),h=this.get("scrollAnimation"),g=c.one(c.Node.getDOMNode(k.get("offsetParent"))),e;
+j=j<=0?0:j;if(j===g.get("scrollTop")){return;}h.setAttrs({node:g,to:{scrollTop:j}});e=[k,g];if(arguments.length>1){e.push.apply(f.call(arguments,1));
+}this.addHandle(h.once("end",this._afterAnimationComplete,this,e));h.run();},_preventScrollBubbling:function(e){if(e.getStyle("position")==="absolute"){}this.addHandle(this.get("outsideTarget").on(b,this._onNavInteractionStart,this));
+},_getNewScrollTop:function(e){var f=this.get("scrollMargin");return e.get("offsetTop")-(f&&f.top?f.top:0);
+},_getValueFn:function(f,e){if(typeof f==="function"){return f.call(f,this);}return f;},_onNavInteractionStart:function(g){var f=c.one("win");
+this._winScrollHandle=f.after("scroll",this._onScrollBubble,this,f.get("scrollTop"));this.addHandle(this.get("outsideTarget").on(d,this._onNavInteractionEnd,this));
+},_onNavInteractionEnd:function(f){if(this._winScrollHandle){this._winScrollHandle.detach();}},_onScrollBubble:function(g,f){c.one("win").set("scrollTop",f);
+c.log("_onScrollBubble","debug","Nav");},_afterNavOpen:function(f){if(this.get("autoScrollEnabled")){c.later(this.get("autoScrollDelay"),this,this._scrollToTop,[f.navTarget,4]);
+}if(this.get("preventScrollBubbling")){this._preventScrollBubbling(f.navTarget);}},_afterAnimationComplete:function(h,f,g,i){i-=1;
+if(i>0){this._scrollToTop(f,i);}}},{NAME:"NavScrolling",NS:"navScrolling",ATTRS:{autoScrollEnabled:{value:true,setter:"_getValueFn"},scrollMargin:{value:0,setter:function(e){if(typeof e==="string"||typeof e==="number"){return{top:e,right:e,bottom:e,left:e};
+}return e;}},scrollAnimation:{value:{duration:0.2,easing:c.Easing.easeOut},setter:function(e){if(!(e&&e.run)){return new c.Anim(e);
+}return e;}},viewportWidth:{getter:function(e){return e||this.get("host").get("viewportRegion").width;
+},readOnly:true},autoScrollDelay:{value:450},preventScrollBubbling:{value:false}}});},"3.1.1",{requires:["base-build","plugin","node-base","node-pluginhost","z-event-handle-manager","anim-base","anim-easing","z-event-outside"]});

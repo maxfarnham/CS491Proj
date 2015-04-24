@@ -1,0 +1,328 @@
+.comty-home .content{padding-bottom:30px}
+.comty-home .content .content-inner{width:100%;padding-bottom:0}
+.comty-home .content .content-inner .container{width:100%;padding-bottom:0}
+.comty-home .content .content-inner .container-block{width:941px;margin:0 auto;padding:0 9px}
+.comty-home .content .content-inner-block-banner .container-block{width:961px;padding-left:8px;padding-right:8px}
+.comty-home .content .content-inner-block-search .container-block{background:#e8e9eb;border:1px solid #ddd}
+.comty-home .content .content-inner-block-answers .container-block{background:url(../img/community_home/shadow_bands_bottom.png) no-repeat left 0,url(../img/community_home/shadow_bands_bottom.png) no-repeat right 0,url(../img/community_home/shadow_bands_top.png) no-repeat left bottom,url(../img/community_home/shadow_bands_top.png) no-repeat right bottom}
+.comty-home .content .content-inner-block-prtnr-first .container-block{background:url(../img/community_home/shadow_bands_bottom.png) no-repeat left 0,url(../img/community_home/shadow_bands_bottom.png) no-repeat right 0,url(../img/community_home/shadow_bands_top.png) no-repeat left bottom,url(../img/community_home/shadow_bands_top.png) no-repeat right bottom}
+.comty-home .content .content-inner-block-users .container-block{background:#e8e9eb;border:1px solid #ddd}
+.comty-home .content .content-inner-block-buttons .container-block{background:#e8e9eb;border:1px solid #ddd}
+.comty-home .content .content-inner-block-appexchange .container-block{background:url(../img/community_home/shadow_bands_top.png) no-repeat left bottom,url(../img/community_home/shadow_bands_top.png) no-repeat right bottom}
+.comty-home .content .content-inner-block-apps .container-block{background:#e8e9eb;width:961px;padding:0}
+.comty-home .content .content-inner-block .container-block .container-block-inner{background-color:#fff;padding:0 50px;overflow:hidden;border-left:1px solid #ddd;border-right:1px solid #ddd}
+.comty-home .content .content-inner-block-prtnr-marketing .container-block .container-block-inner{background:url(../img/community_home/vendors_bg.png) no-repeat 170px 80px,url(../img/community_home/cloud_bg.png) no-repeat right 40px,#fff}
+.comty-home .content .content-inner-block-filler .container-block .container-block-inner{padding:14px 0}
+.comty-home .content .content-inner-block-banner .container-block .container-block-inner{padding:0;border-left:0;border-right:0}
+.comty-home .content .content-inner-block-eyebrow .container-block .container-block-inner{background-color:transparent;font-size:115.4%;padding:0 0 10px 0}
+.comty-home .content .content-inner-block-eyebrow-phone .container-block .container-block-inner{background-color:transparent;font-size:115.4%;padding:10px 10px 2px 10px}
+.comty-home .content .content-inner-block-eyebrow-phone{display:none}
+.comty-home .content .content-inner-block-search .container-block .container-block-inner{border-left:0;border-right:0;background:#e8e9eb url(../img/community_home/search_bg.png) no-repeat center top;padding-top:30px;padding-bottom:30px}
+.comty-home .content .content-inner-block-answers .container-block .container-block-inner{background:url(../img/community_home/answers_bg.png) no-repeat 170px 50px,url(../img/community_home/cloud_bg.png) no-repeat right 50px,#fff;padding-top:50px}
+.comty-home .content .content-inner-block-users .container-block .container-block-inner{border-left:0;border-right:0;background:#e8e9eb;padding:10px 0 30px 0}
+.comty-home-prtnr .content .content-inner-block-users .container-block .container-block-inner{padding-bottom:20px}
+.comty-home .content .content-inner-block-buttons .container-block .container-block-inner{border-left:0;border-right:0;background:#e8e9eb;padding:0}
+.comty-home .content .content-inner-block-chatter .container-block .container-block-inner{padding-right:0}
+.comty-home .content .content-inner-block-apps .container-block .container-block-inner{border-left:0;border-right:0;background:#e8e9eb;padding:0}
+.comty-home .content .content-inner-block-hire .container-block .container-block-inner{border-bottom:1px solid #ddd}
+.comty-home .content .content-inner-block-prtnr-last .container-block .container-block-inner{border-top:1px solid #ddd;border-bottom:1px solid #ddd}
+.comty-home .content .content-inner-block-prtnr-last-b .container-block .container-block-inner{border-bottom:1px solid #ddd}
+.comty-home-logged-in .content .content-inner-block-prtnr-last .container-block .container-block-inner{border-top:0}
+.comty-home-logged-in .content .content-inner-block .container-block .container-block-inner{padding-left:25px;padding-right:25px}
+.comty-home-logged-in .content .content-inner-block-banner .container-block .container-block-inner,.comty-home-logged-in .content .content-inner-block-users .container-block .container-block-inner{padding-left:0;padding-right:0}
+.comty-home .content .content-inner-block-buttons .container-block .container-block-inner{margin:0 auto}
+.comty-home .content .content-inner-block-prtnr-joincomty .column-img{text-align:center}
+.comty-home .page-banner{border-bottom:0}
+.container-block .column{overflow:hidden;float:left;padding:50px 0 35px 0}
+.content-inner-block-chatter .container-block .column1{padding-top:55px}
+.content-inner-block-chatter .container-block .column2{padding-top:0;padding-bottom:0}
+.content-inner-block-answers .container-block .column{padding-top:0}
+.content-inner-block-prtnr .container-block .column{padding-top:35px}
+.content-inner-block-ideas .container-block .column2{padding-top:60px}
+.content-inner-block-apps .container-block .column{padding:0;width:100%}
+.content-inner-block-prtnr-news .container-block .column{padding-top:0}
+.comty-home-logged-in .content-inner-block-prtnr .container-block .column{padding-top:25px;padding-bottom:25px}
+.container-block .column1 .column-inner{border-right:1px solid #efefef}
+.content-inner-block-ideas .container-block .container-block-inner .column,.content-inner-block-appexchange .container-block .container-block-inner .column{border-top:1px solid #efefef}
+.comty-home .content .content-inner-block-buttons .container-block .container-block-inner .column{margin:0 auto;padding:10px 0;float:none;display:block}
+.comty-home .content .content-inner-block-buttons .home-button-block-title{float:left}
+.comty-home .content .content-inner-block-buttons .home-button-block-title h1{font-size:230.8%;padding:10px 10px 5px 25px;color:#555}
+.comty-home .content .content-inner-block-buttons .home-button-block-buttons{float:right;padding:12px 15px 6px 10px;text-align:right}
+.comty-home .content .content-inner-block-buttons .home-button-block-buttons .btn{margin-bottom:4px}
+.comty-home .content .content-inner-block-titles .container-block .container-block-inner .column{padding-top:20px;padding-bottom:5px}
+.container-block .column .column-inner{overflow:hidden}
+.container-block .column1 .column-inner{padding-right:30px}
+.container-block .column2 .column-inner{padding-left:30px}
+.content-inner-block-apps .container-block .column .column-inner{padding:0}
+.content-inner-block-apps .container-block .column .column-inner ul.ul-results{border-left:1px solid #ddd!important;border-top:1px solid #ddd!important;margin-right:-2px!important}
+.container-block-50-50 .column{width:50%}
+.container-block-40-60 .column1{width:40%}
+.container-block-40-60 .column2{width:60%}
+.container-block-60-40 .column1{width:60%}
+.container-block-60-40 .column2{width:40%}
+.column .btn-strong{margin-right:15px;margin-bottom:15px}
+.comty-home .btn .ui-button-icon{width:19px;height:18px;margin:-3px 10px -1px -3px}
+.comty-home .btn-ask,.comty-home .btn-docs,.comty-home .btn-chatter,.comty-home .btn-idea,.comty-home .btn-apps,.comty-home .btn-join,.comty-home .btn-reports,.comty-home .btn-access,.comty-home .btn-login,.comty-home .btn-sf{padding-bottom:7px}
+.comty-home .btn-ask .ui-button-icon{background-position:0 -240px}
+.comty-home .btn-docs .ui-button-icon{background-position:-20px -240px;width:13px}
+.comty-home .btn-chatter .ui-button-icon{background-position:-40px -240px;width:17px}
+.comty-home .btn-idea .ui-button-icon{background-position:-60px -240px;width:10px}
+.comty-home .btn-apps .ui-button-icon{background-position:-80px -240px;width:18px}
+.comty-home .btn-join .ui-button-icon{background-position:-220px -240px;width:18px;margin-right:7px}
+.comty-home .btn-reports .ui-button-icon{background-position:-271px -240px;width:20px;margin-right:8px}
+.comty-home .btn-access .ui-button-icon{background-position:-401px -240px;width:20px;margin-right:8px}
+.comty-home .btn-login .ui-button-icon{background-position:-381px -241px;width:20px;margin-right:8px}
+.comty-home .btn-sf .ui-button-icon{background-position:-401px -220px;width:20px;margin-right:8px}
+.comty-home .btn-vendors .ui-button-icon{background-position:-426px -200px;width:20px;margin-right:8px}
+.div-keywords_big-outer{text-align:center}
+.div-keywords_big-outer .input-text-big{-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;border:1px solid #999;background:#fff;margin:0 -4px;padding:12px 45px 12px 10px;text-align:left;width:600px;font-size:150%;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box;vertical-align:top}
+.div-keywords_big-outer button{-webkit-appearance:none;border:0;background:url(../img/sprite-icons.png) no-repeat -340px -200px;margin:10px 0 0 -38px;padding:0;height:30px;width:31px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box;vertical-align:top}
+.div-keywords_big-outer button span{display:none}
+.comty-home .content h1{text-align:left;color:#009ddc;margin-bottom:5px;margin-top:2px;padding:0 0 5px 0;font-size:1.5em;text-transform:uppercase}
+.comty-home-logged-in .content h1{margin-top:1px}
+.comty-home .content h1 span.h1-extra{text-transform:lowercase}
+.comty-home .content .column h1{padding-left:0;padding-right:0}
+.comty-home .content h2{line-height:130%;padding-bottom:5px;font-size:2em}
+.comty-home .content h2.h2-attention{margin:0;padding:20px 0 0 0;font-size:230.8%}
+.comty-home .content h2.h2-attention a{color:#009ddc}
+.comty-home .content h2.h2-attention a:hover{text-decoration:underline}
+.comty-home .content .column h1.h1-section-more{padding-top:20px}
+.comty-home .content-inner-block-prtnr-news h1{padding-top:25px}
+.comty-home-logged-in .content-inner-block-prtnr-news h1{border-top:1px solid #efefef}
+.comty-home-logged-in .content-inner-block-prtnr-news h1{border-top:0;padding-top:0}
+.comty-home .content-inner-block-prtnr-news .calendar h1{border-top:0;padding-top:0}
+.comty-home-prtnr .content h2{font-size:1.692em}
+.comty-home-prtnr .content h3{font-size:1.385em}
+.comty-home-prtnr .content .column-inner h3{padding-top:15px}
+.comty-home-prtnr .content .column-inner h3:first-of-type{padding-top:0}
+.comty-home-logged-in .content h1{font-size:1.154em}
+.comty-home-logged-in .content h2,.comty-home-logged-in .content h3{font-size:1.385em}
+.comty-home-logged-in .content h2{padding-bottom:10px}
+.comty-home .content h2 a,.comty-home .content h3 a{color:#333}
+.comty-home .content h2 a:hover,.comty-home .content h3 a:hover{color:#009ddc}
+.comty-home .content p,.comty-home-prtnr .content ul li{font-size:115.4%;line-height:140%;font-weight:300}
+.comty-home .content .content-inner-block-titles .container-block .container-block-inner .column{width:100%}
+.comty-home .content .content-inner-block-titles .container-block .container-block-inner .column h1{text-align:center;font-size:230.8%}
+.comty-home .content .content-inner-block-titles .container-block .container-block-inner .column h2{text-align:center;font-size:1.692em}
+.comty-home-logged-in .content p,.comty-home-logged-in .content ul li{font-size:100%;font-weight:400;line-height:130%}
+.comty-home-logged-in .content .msg p,.comty-home-logged-in .content .msg ul li{line-height:100%}
+.comty-home .content .msg{margin-bottom:20px}
+.comty-home .msg-outer{padding:25px 0 0 0;overflow:auto}
+.comty-home .content .msg-outer .msg{margin-bottom:2px}
+.comty-home .content .item-content-primary .user-name{font-weight:bold;padding-bottom:.6em}
+.comty-home .content .item-content-primary .item-content-primary-3{font-size:100%}
+.comty-home .content .users-block{clear:both}
+.comty-home .content .users-block h4{margin:0 13px 0 8px;padding:8px 0 18px 0;text-transform:uppercase}
+h4.h4-heroes span.ui-icon{background:url(../img/sprite-icons.png) no-repeat -220px -220px;display:block;float:left;width:20px;height:20px;margin-top:-2px;margin-right:6px}
+.above-users-block{overflow:hidden;padding:5px 10px 15px 5px}
+.above-users-block p{margin:0;color:#222}
+.above-users-block-1{width:750px;float:left}
+.above-users-block-2{float:right;margin-right:-3px}
+.chatter-slider{height:290px;position:relative}
+.chatter-slider .slide{width:497px;height:290px;position:relative;margin-right:-30px}
+.chatter-slider .slide .slide-content,.chatter-slider .slide .slide-bg{position:absolute;top:0;left:0;width:497px;height:290px}
+.chatter-slider .slide .slide-bg{text-align:right}
+.chatter-slider .slide1 .slide-bg{top:-10px;height:310px}
+.chatter-slider .slide2 .slide-bg{top:20px;left:auto;right:10px;height:250px}
+.chatter-slider .slide3 .slide-bg{top:100px;left:auto;right:10px;height:120px}
+.chatter-slider .slide .slide-bg img{max-width:100%;max-height:100%}
+.chatter-slider .slide .slide-content p{margin:0;padding:80px 0 0 0}
+.chatter-slider .slide .slide-content{width:290px}
+p .slide-text{display:block;color:#009ddc;line-height:100%}
+p .slide-text-1{font-size:250%;line-height:90%;font-family:sf-font-light,Helvetica Neue,Helvetica,Arial}
+p .slide-text-2{font-size:200%;line-height:180%;font-family:sf-font-light,Helvetica Neue,Helvetica,Arial;padding-left:4px}
+p .slide-text-3{font-size:150%;line-height:150%;font-family:sf-font-light,Helvetica Neue,Helvetica,Arial;padding-left:4px}
+p .slide-text-4{font-size:100%;line-height:130%;padding-left:4px}
+p span.span-slide-text{color:#444;font-size:60%}
+.chatter-slider a.prev,.chatter-slider a.next{display:none}
+.content-inner-block-ideas .item-content-secondary{width:74px}
+.content-inner-block-ideas .item-content-primary{margin-left:74px}
+.content-inner-block-ideas .list-of-items .an-item{border-bottom:0}
+.content-inner-block-appexchange .column2{text-align:center}
+.content-inner-block-hire .column2 .quote-image{border-radius:82px;margin-top:20px;float:left}
+.content-inner-block-hire .column2 .quote-text{padding:20px 0 0 30px;margin-left:164px}
+.content-inner-block-hire .column2 .quote-text .quote-p{margin-bottom:10px}
+.content-inner-block-hire .column2 .quote-text .quote-user-p{font-weight:bold}
+.chatter-slider ul.pagination{bottom:25px}
+.comty-home .btn-save-div{display:none}
+.twitter-timeline-link{margin:0 0 3px 0;padding:5px;display:block;width:100%;height:290px;border:1px solid #ddd;border-radius:2px;background:#fff;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+.container-block .column1-twitter .column-inner{padding-right:15px;border-right:0}
+.content-inner-block-prtnr .column1 .column-inner{padding-right:15px;border-right:0}
+.twitter-timeline-rendered{height:290px}
+.comty-home-logged-in .twitter-timeline-link,.comty-home-logged-in .twitter-timeline-rendered{height:225px}
+.social-outer-div{padding:8px 3px}
+iframe.twitter-timeline,.prtnr-social-row{width:100%!important;-moz-transition:.6s;-webkit-transition:.6s;-ms-transition:.6s;-o-transition:.6s;transition:.6s}
+.is-touch .social-outer-div{padding:0}
+.prtnr-social-row{overflow:hidden;padding:5px 0}
+.prtnr-social-row .prtnr-social-1{float:left}
+.prtnr-social-row .prtnr-social-2{float:right}
+.social-comty{display:block;float:left;overflow:hidden;padding:0 3px}
+.social-comty .ui-link-icon{margin:0 3px;float:left;display:block;width:20px;height:20px;overflow:hidden;background:url(../img/sprite-icons.png) no-repeat 20px 20px}
+.social-tw .ui-link-icon{background-position:-100px 0}
+.social-tw:hover .ui-link-icon{background-position:-100px -20px}
+.social-tw .link-text{margin:1px 0 0 0;display:block;float:left}
+.social-fb .ui-link-icon{width:10px;background-position:-80px 0}
+.social-fb:hover .ui-link-icon{background-position:-80px -20px}
+.social-fb .link-text{display:none}
+.social-yt .ui-link-icon{background-position:-300px -200px}
+.social-yt:hover .ui-link-icon{background-position:-300px -220px}
+.social-yt .link-text{display:none}
+.social-li .ui-link-icon{background-position:-100px -200px}
+.social-li:hover .ui-link-icon{background-position:-100px -220px}
+.social-li .link-text{display:none}
+.comty-home .content h1.h1-home-video{text-align:center}
+.video-img-link{overflow:hidden;margin:0 auto;max-width:310px}
+.video-img-link a.video-img-href{position:relative;display:block}
+.video-img-link a.video-img-href img{display:block;overflow:hidden;margin:0 auto}
+.video-img-link a.video-img-href .video-img-link-button{display:block;position:absolute;width:80px;height:80px;background:url(../img/video-img-link-button.png) no-repeat center 0;left:50%;top:50%;margin:-40px 0 0 -40px}
+.video-img-link a.video-img-href:hover .video-img-link-button{background-position:center -80px}
+.comty-home-logged-in .list-of-items{margin-bottom:1em}
+.comty-home-logged-in .item-content-primary{margin-left:74px}
+.comty-home-logged-in .item-content-secondary{width:74px}
+.comty-home-logged-in .calendar{margin-bottom:25px}
+.comty-home .list-of-items .an-item{border-color:#efefef}
+.chart-color-1{color:#09C}
+.chart-color-2{color:#C60}
+.chart-color-3{color:#393}
+.chart-color-4{color:#C33}
+.chart-color-5{color:#93F}
+.chart-color-6{color:#CC0}
+.chart-color-7{color:#333}
+.chart-legend{overflow:hidden;padding:10px 3px;float:left}
+.chart-legend .chart-legend-item{float:left;padding:0 30px 0 0}
+.chart-legend .chart-legend-item label{font-weight:bold}
+.chart-legend .chart-legend-item .amount{color:#333}
+.chart-btn{float:right}
+.column .home-button-block .btn-strong{margin-right:0;margin-bottom:0;margin-top:4px}
+.home-button-block{margin:0;text-align:center}
+.home-button-block:last-of-type{padding-right:0}
+.home-button-block span.home-button-expl{font-size:13px}
+@media(max-width:767px){.comty-home .content{padding-top:0}
+.comty-home .content .content-inner-block .container-block{width:auto;margin:0;padding:0}
+.comty-home .content .content-inner-block-search .container-block{border:0;border-bottom:1px solid #ddd}
+.comty-home .content .content-inner-block-search .container-block .container-block-inner{background-image:none;padding:12px 11px 10px 3px}
+.div-keywords_big-outer .input-text-big{width:97%;height:40px;font-size:100%;padding:5px 0 5px 10px}
+.div-keywords_big-outer button{margin-top:5px}
+.comty-home .content .content-inner-block-titles .container-block .container-block-inner{padding:0}
+.comty-home .content .content-inner-block .container-block .container-block-inner{padding-left:0;padding-right:0}
+.comty-home .content .content-inner-block-answers .container-block,.comty-home .content .content-inner-block-chatter .container-block,.comty-home .content .content-inner-block-ideas .container-block,.comty-home .content .content-inner-block-appexchange .container-block,.comty-home .content .content-inner-block-hire .container-block,.comty-home .content .content-inner-block-prtnr .container-block,.comty-home .content .content-inner-block-titles .container-block{padding:0 7px}
+.comty-home .content .content-inner-block-answers .container-block,.comty-home .content .content-inner-block-chatter .container-block,.comty-home .content .content-inner-block-ideas .container-block,.comty-home .content .content-inner-block-appexchange .container-block,.comty-home .content .content-inner-block-hire .container-block,.comty-home .content .content-inner-block-prtnr .container-block{padding-top:9px}
+.comty-home .content .content-inner-block-users .container-block{border-left:0;border-right:0}
+.comty-home .content .content-inner-block-answers .container-block .container-block-inner,.comty-home .content .content-inner-block-chatter .container-block .container-block-inner,.comty-home .content .content-inner-block-ideas .container-block .container-block-inner,.comty-home .content .content-inner-block-appexchange .container-block .container-block-inner,.comty-home .content .content-inner-block-hire .container-block .container-block-inner{padding:15px 0}
+.comty-home .content .content-inner-block-prtnr .container-block .container-block-inner{padding:0}
+.comty-home .content .content-inner-block-answers .container-block .container-block-inner,.comty-home .content .content-inner-block-chatter .container-block .container-block-inner,.comty-home .content .content-inner-block-ideas .container-block .container-block-inner,.comty-home .content .content-inner-block-appexchange .container-block .container-block-inner,.comty-home .content .content-inner-block-hire .container-block .container-block-inner,.comty-home .content .content-inner-block-prtnr .container-block .container-block-inner{background:#fff;border-top:1px solid #ddd}
+.comty-home .content .content-inner-block-prtnr-news .container-block .container-block-inner{border-bottom:1px solid #ddd}
+.comty-home-logged-in .content .content-inner-block-prtnr-news .container-block .container-block-inner{border-bottom:0}
+.comty-home .content .content-inner-block-chatter .container-block .container-block-inner,.comty-home .content .content-inner-block-ideas .container-block .container-block-inner{border-bottom:1px solid #ddd}
+.comty-home .content .content-inner-block-eyebrow{display:none}
+.comty-home .content .content-inner-block-eyebrow-phone{display:block;padding-left:10px}
+.comty-home .content .content-inner-block-answers .container-block{background:0}
+.comty-home .content .content-inner-block-appexchange .container-block{background:0}
+.comty-home .content .content-inner-block-prtnr-first .container-block{background:0}
+.comty-home .content .content-inner-block-prtnr-marketing .container-block{background:0}
+.container-block .column,.comty-home-logged-in .content-inner-block-prtnr .container-block .column{padding-top:15px;padding-bottom:15px}
+.container-block .column1{padding-top:0}
+.container-block .column1{padding-bottom:0}
+.container-block .column .column-inner{padding-left:10px;padding-right:10px}
+.content-inner-block-apps .container-block .column .column-inner{padding-left:0;padding-right:0}
+.container-block-50-50 .column,.container-block-40-60 .column1,.container-block-40-60 .column2,.container-block-60-40 .column1,.container-block-60-40 .column2{width:100%}
+.comty-home .content h1{padding-left:10px}
+.comty-home .content .column-inner h1{padding-left:0}
+.comty-home .content-inner-block-prtnr-news h1{padding-top:20px;border-top:0}
+.comty-home .content-inner-block-prtnr-news .column h1{padding-top:0}
+.container-block .column1 .column-inner{padding-bottom:20px}
+.comty-home .content .users-block{padding-left:10px}
+.comty-home .content .users-block h4{margin-left:6px;margin-right:10px}
+.container-block .column1 .column-inner{border-right:0}
+.content-inner-block-ideas .container-block .container-block-inner .column,.content-inner-block-appexchange .container-block .container-block-inner .column{border-top:0}
+.chatter-slider{display:none}
+.comty-home .content .content-inner-block-chatter .container-block .container-block-inner .column1 .column-inner,.comty-home .content .content-inner-block-ideas .container-block .container-block-inner .column1 .column-inner,.comty-home .content .content-inner-block-appexchange .container-block .container-block-inner .column1 .column-inner,.comty-home .content .content-inner-block-hire .container-block .container-block-inner .column1 .column-inner{padding-bottom:0}
+.comty-home .content .content-inner-block-chatter .container-block .container-block-inner .column2,.comty-home .content .content-inner-block-ideas .container-block .container-block-inner .column2,.comty-home .content .content-inner-block-appexchange .container-block .container-block-inner .column2,.comty-home .content .content-inner-block-hire .container-block .container-block-inner .column2{display:none}
+.content-inner-block-chatter .container-block .container-block-inner .column1{padding-top:0}
+.social-outer-div{padding:0}
+.content-inner-block-prtnr .container-block .column,.comty-home-logged-in .content-inner-block-prtnr .container-block .column{padding-top:15px}
+.comty-home-logged-in .content-inner-block-prtnr .container-block .column1{padding-bottom:0}
+.comty-home-logged-in .content-inner-block-prtnr .container-block .column2{padding-top:0}
+.comty-home-logged-in .content-inner-block-prtnr-news .container-block .column2{padding-top:15px}
+.comty-home-logged-in .list-of-items{border-top:0}
+.comty-home-logged-in .item-content-primary{margin-left:52px}
+.comty-home-logged-in .item-content-secondary{padding:5px 0 0 0;float:left;width:52px}
+.comty-home-logged-in .twitter-timeline-link,.comty-home-logged-in .twitter-timeline-rendered{height:290px}
+.above-users-block{padding-left:19px}
+.above-users-block-1{width:100%}
+.above-users-block-2{float:left;margin:10px 0 0 0}
+.comty-home .msg-outer{padding:10px 10px 0 10px}
+.comty-home-logged-in .content-inner-block-prtnr-news .container-block .container-block-inner .column1{border-top:0}
+.comty-home .content h1.h1-home-video{text-align:left}
+.video-img-link{max-width:none}
+.comty-home .content .content-inner-block-buttons .home-button-block-title{float:none;text-align:center;margin:0 auto}
+.comty-home .content .content-inner-block-buttons .home-button-block-title h1{font-size:1.692em;padding:5px;color:#555;margin:0 auto;text-align:center}
+.comty-home .content .content-inner-block-buttons .home-button-block-buttons{float:none;padding:10px 0;text-align:center}
+.comty-home .content .content-inner-block-buttons .home-button-block-buttons .btn{float:left;margin:0}
+.comty-home .content .content-inner-block-buttons .home-button-block-buttons .btn-login{float:right}
+.comty-home .content .content-inner-block-titles .container-block .container-block-inner .column{padding:15px 0 5px 0}
+.comty-home .content .content-inner-block-titles .container-block .container-block-inner .column h1{font-size:1.5em}
+.comty-home .content .content-inner-block-titles .container-block .container-block-inner .column h2{font-size:1.25em}
+.comty-home .content .content-inner-block-prtnr-marketing .container-block .container-block-inner{background:#fff}
+.comty-home .content h2.h2-attention{padding-left:10px;font-size:169.2%}
+}
+@media(max-width:479px){.comty-home .content .users-block h4{margin-left:3px}
+.social-outer-div{margin:0 -11px}
+.above-users-block{padding-left:8px}
+.comty-home .content .content-inner-block-buttons .home-button-block-title h1{font-size:1.5em}
+}
+@media(min-width:768px) and (max-width:979px){.comty-home .content .content-inner-block .container-block{width:725px}
+.comty-home .content .content-inner-block-banner .container-block{width:745px}
+.comty-home .content .content-inner-block-apps .container-block{width:745px}
+.comty-home .content .content-inner-block-answers .container-block .container-block-inner{background:url(../img/community_home/answers_bg.png) no-repeat 70px 50px,url(../img/community_home/cloud_bg.png) no-repeat right 50px,#fff}
+.container-block-40-60 .column1{width:40%}
+.container-block-40-60 .column2{width:60%}
+.container-block-60-40 .column1{width:60%}
+.container-block-60-40 .column2{width:40%}
+.content-inner-block-prtnr-social .container-block-60-40 .column1{width:50%}
+.content-inner-block-prtnr-social .container-block-60-40 .column2{width:50%}
+.content-inner-block-prtnr-social .container-block-60-40 .column .column-inner{padding-left:5px}
+.comty-home .content .users-block h4{margin-left:7px;margin-right:12px}
+.chatter-slider .slide,.chatter-slider .slide .slide-content,.chatter-slider .slide .slide-bg{width:368px}
+.chatter-slider .slide1 .slide-bg{top:15px;height:260px}
+.chatter-slider .slide2 .slide-bg{top:25px;right:10px;height:230px}
+.chatter-slider .slide3 .slide-bg{top:50px;right:10px;height:100px}
+.chatter-slider .slide .slide-content{width:190px}
+.chatter-slider .slide .slide-content p .slide-text-1{font-size:200%;line-height:130%}
+.chatter-slider .slide .slide-content p .slide-text-2{font-size:170%;line-height:200%}
+.chatter-slider .slide .slide-content p .slide-text-3{font-size:130%;line-height:200%}
+.chatter-slider .slide .slide-content p .slide-text-4{font-size:100%;line-height:130%}
+.content-inner-block-hire .column2 .quote-text{padding-top:0}
+.comty-home .content .content-inner-block-banner .container-block{width:745px}
+.comty-home .content .content-inner-block-prtnr-marketing .container-block .container-block-inner{background:url(../img/community_home/vendors_bg.png) no-repeat 70px 40px,url(../img/community_home/cloud_bg.png) no-repeat right 10px,#fff}
+.twitter-timeline-link{height:290px}
+.twitter-timeline-rendered{height:290px}
+.comty-home-logged-in .twitter-timeline-link,.comty-home-logged-in .twitter-timeline-rendered{height:250px}
+.video-img-link{max-width:310px}
+.above-users-block{padding-left:8px}
+.above-users-block-1{width:550px}
+.above-users-block-2{margin-right:-1px}
+}
+@media(min-width:1220px){.comty-home .content .content-inner-block .container-block{width:1181px}
+.comty-home .content .content-inner-block-banner .container-block{width:1201px}
+.comty-home .content .content-inner-block-apps .container-block{width:1201px}
+.comty-home .content .content-inner-block-answers .container-block .container-block-inner{background:url(../img/community_home/answers_bg.png) no-repeat 280px 50px,url(../img/community_home/cloud_bg.png) no-repeat right 50px,#fff}
+.comty-home .content .users-block h4{margin-left:12px}
+.chatter-slider .slide,.chatter-slider .slide .slide-content,.chatter-slider .slide .slide-bg{width:641px}
+.chatter-slider .slide1 .slide-bg{top:-10px;height:310px}
+.chatter-slider .slide2 .slide-bg{top:20px;right:10px;height:250px}
+.chatter-slider .slide3 .slide-bg{top:100px;right:10px;height:200px}
+.chatter-slider .slide .slide-content p .slide-text-1{font-size:400%}
+.chatter-slider .slide .slide-content p .slide-text-2{font-size:300%}
+.chatter-slider .slide .slide-content p .slide-text-3{font-size:200%}
+.chatter-slider .slide .slide-content p .slide-text-4{font-size:120%}
+.content-inner-block-hire .column2 .quote-text{padding-top:40px}
+.comty-home .content .content-inner-block-banner .container-block{width:1201px}
+.comty-home .content .content-inner-block-prtnr-marketing .container-block .container-block-inner{background:url(../img/community_home/vendors_bg.png) no-repeat 280px 60px,url(../img/community_home/cloud_bg.png) no-repeat right 30px,#fff}
+.twitter-timeline-link{height:240px}
+.twitter-timeline-rendered{height:240px}
+.comty-home-logged-in .twitter-timeline-link,.comty-home-logged-in .twitter-timeline-rendered{height:200px}
+.above-users-block{padding-left:11px}
+.above-users-block-1{width:990px}
+.above-users-block-2{margin-right:4px}
+}
