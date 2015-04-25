@@ -130,7 +130,7 @@ def fit(X, vocab, titles, num_topics=15):
     for n in range(num_topics):
         print("topic {0} len: {1}".format(n, len(topic_files_dict[n])))
         if len(topic_files_dict[n]) > 1:
-            n_X, n_vocab, n_titles = build(files=topic_files_dict[n],intersect=False)
+            n_X, n_vocab, n_titles = build(files=topic_files_dict[n],intersect=True)
             print("X: {0}, v: {1}".format(len(n_X), len(n_vocab)))
             if len(n_X) > 0 and len(n_vocab) > 0:
                 if len(n_X) == len(X) and len(n_vocab) == len(vocab):
