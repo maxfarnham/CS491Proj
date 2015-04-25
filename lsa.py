@@ -1,4 +1,4 @@
-from pattern.vector import Document, Model
+from pattern.vector import Document, Model, HIERARCHICAL, Cluster
 from pageparser   import PageParser
 from textblob 		  import TextBlob
 from numpy import argmax
@@ -7,6 +7,17 @@ import file_io as fio
 import local as loc
 import string
 import io
+
+def write_cluster(cluster, file, prepend):
+	file.write(unicode(prepend + "CLUSTER\n"))
+	for d in cluster:
+		if isinstance(d, Cluster):
+			write_cluster(d, file, prepend + "\t")
+		else:
+			name = d.name.split('\\')[-1]
+			name = filter(lambda x: x in string.printable, name)
+			file.write(unicode(prepend + "\t" + name))
+			file.write(unicode("\n"))
 
 if __name__ == '__main__':
 	dir_path = loc.news_dir
@@ -21,6 +32,13 @@ if __name__ == '__main__':
 
 
 	m = Model(docs)
+	
+	# Clustering could be a useful technique, commenting out for now
+	#with io.open(r'lsa.txt', 'w+', encoding='utf-8') as w:
+	#	write_cluster(m.cluster(method=HIERARCHICAL, k=4), w, "")
+	
+
+
 	lsa = m.reduce(30)
 
 	with io.open(r'lsa.txt', 'w+', encoding='utf-8') as w:
@@ -54,7 +72,7 @@ if __name__ == '__main__':
 					cat_docs.append(cat)
 					#print "\t{0}".format(d.name.split('\\')[-1])
 
-			cat_docs.sort(key=lambda tup: tup[1], reverse=True)
+			cat_docs.sort(key=lambda tup: abs(tup[1]), reverse=True)
 			for cat,weight,d in cat_docs:
 				f = d.name.split('\\')[-1]
 				w.write(unicode("\t{0} - {1}\n").format(filter(lambda x: x in string.printable, f), weight))
