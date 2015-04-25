@@ -3,6 +3,14 @@ import local as loc
 import dataset_utilities as du
 import re
 from bs4 import BeautifulSoup as bs
+import os, errno
+
+def silent_remove(filename):
+    try:
+        os.remove(filename)
+    except OSError as e: # this would be "except OSError, e:" before Python 2.6
+        if e.errno != errno.ENOENT: # errno.ENOENT = no such file or directory
+            raise # re-raise exception if a different error occured
 def getCategoriesFromXML(file=loc.newsspace):
     categoryDict = dict()
     with open(file, 'r') as xf:
