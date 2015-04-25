@@ -75,6 +75,8 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
     fileCount = 0
     dicList = []
     titles = ()
+    for n in range(288):
+        titles += files[n],
     #num_cores = multiprocessing.cpu_count()
     #rets = Parallel(n_jobs=num_cores)(delayed(vocabs_from_files)(file, interDict, useEntities = True) for file in files)  
     rets = []
@@ -98,14 +100,13 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
 
     for dicti in dicList:
         for key in dicti.keys():
-            titles += files[row_idx],
             col_idx = vKeys.index(key)            
             X[row_idx, col_idx] = dicti[key]
         row_idx += 1
     return (X, vKeys, titles)
 
 def fit(X, vocab, titles, num_topics=15):
-    model = lda.LDA(n_topics=num_topics, n_iter=500, random_state=1)
+    model = lda.LDA(n_topics=num_topics, n_iter=100, random_state=1)
     model.fit(X)
     doc_topic = model.doc_topic_
     topic_word = model.topic_word_
@@ -117,18 +118,19 @@ def fit(X, vocab, titles, num_topics=15):
         print('*Topic {}\n- {}'.format(i, ' '.join(unicode(topic_words))))
     topic_files_dict = defaultdict(list)       
     numFiles = len(titles)       
-    
+    print('numFiles: ' + str(numFiles))
     for n in range(numFiles):
+        print('accessing doc topic ' + str(n))
         topic_most_pr = doc_topic[n].argmax()
         #print("{0} file most likely: {1}".format(n, topic_most_pr))
         #print("\t with: {0}", doc_topic[n][topic_most_pr])
-        print('most probable topic is:' + str(topic_most_pr))
+        #print('most probable topic is:' + str(topic_most_pr))
         topic_files_dict[topic_most_pr].append(titles[n])  
     
     for n in range(num_topics):
         print("topic {0} len: {1}".format(n, len(topic_files_dict[n])))
         if len(topic_files_dict[n]) > 1:
-            n_X, n_vocab, titles = build(files=topic_files_dict[n],intersect=False)
+            n_X, n_vocab, n_titles = build(files=topic_files_dict[n],intersect=False)
             print("X: {0}, v: {1}".format(len(n_X), len(n_vocab)))
             if len(n_X) > 0 and len(n_vocab) > 0:
                 if len(n_X) == len(X) and len(n_vocab) == len(vocab):
@@ -137,7 +139,7 @@ def fit(X, vocab, titles, num_topics=15):
                     for f in X:
                         print("\t{0}".format(f))
                 else:
-                    fit(n_X, n_vocab, titles)
+                    fit(n_X, n_vocab, n_titles)
 
 if __name__ == "__main__":
     dir_path = loc.news_dir
