@@ -34,7 +34,7 @@ class PageParser(HTMLParser):
 		# Get rid of trailing whitespace and newlines
 		text = data.strip().replace('\n', '')
 		if text != "" and not self.ignore_data:
-			blob = TextBlob(text)
+			blob = self.blobber(text)
 
 			# Simple heuristic - only include text that's a well-formed sentence
 			# This fails on malformed sentences like "10 a.m." 
@@ -52,7 +52,7 @@ class PageParser(HTMLParser):
 		return p.process(html)
 
 if __name__ == '__main__':
-	with io.open(r'Corpus\News\Wall Street ends higher after bounce in oil prices _ Reuters.htm', 'rU', encoding='utf-8') as input: 
+	with io.open(r'Corpus\News\How Lincoln Crafted Its New Super-Deluxe Sound System _ WIRED.htm', 'rU', encoding='utf-8') as input: 
 		p = PageParser()
 		with io.open(r'test.txt', 'a', encoding='utf-8') as w:
 			w.write(p.process(input.read()))

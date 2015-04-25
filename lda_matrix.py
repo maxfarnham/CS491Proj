@@ -26,7 +26,7 @@ log = loc.lda_log
 def cross_reference_tokens():
     return 1
 
-@profile
+#@profile
 def probabilify(pdic):
     vals = pdic.values()
     wordCount = sum(vals)
@@ -35,7 +35,7 @@ def probabilify(pdic):
        pdic[key] /= float(wordCount) 
     return pdic
 
-@profile
+#@profile
 def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = dict(), isHTML = False, useEntities = False):
     fdic = dict()
     file_path = path.abspath(raw_fpath)
@@ -71,7 +71,7 @@ def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = d
 def vocabs_from_files(file, interDict, intersect=True, useEntities = False):
     return vocab_from_file(raw_fpath = file, vocDict = OrderedDict(), intersect = intersect, interDict = interDict, isHTML = True, useEntities = useEntities)               
            
-@profile
+#@profile
 def build(files, extension ='htm', recurse = False, intersect = True, intersector_path = loc.intersector_path, interDict = dict()):                    
     vocDict = OrderedDict()
     vocab = []  
@@ -111,7 +111,7 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
         row_idx += 1
     return (X, vKeys, titles)
 
-@profile
+#@profile
 def fit(X, vocab, titles, num_topics=15):
     with open(log,'a+') as lf:
         model = lda.LDA(n_topics=num_topics, n_iter=500, random_state=1)
