@@ -18,7 +18,7 @@ class PageParser(HTMLParser):
 	def handle_starttag(self, tag, attrs):
 		#with io.open(r'test.txt', 'a', encoding='utf-8') as w:
 		#	w.write(unicode("{0}\n".format(tag)))
-		if tag not in ParseTest.SELF_CLOSING:
+		if tag not in PageParser.SELF_CLOSING:
 			self.tag_stack.append(tag)
 		if tag in ['script','style','head']:
 			self.ignore_data = True
@@ -39,19 +39,20 @@ class PageParser(HTMLParser):
 			# Simple heuristic - only include text that's a well-formed sentence
 			# This fails on malformed sentences like "10 a.m." 
 			# but should be a decent heuristic for the data we want
-			if len(blob.sentences) > 1 or blob.sentences[0][-1] in ParseTest.CLOSING_PUNC:
+			if len(blob.sentences) > 1 or blob.sentences[0][-1] in PageParser.CLOSING_PUNC:
 				self.parsed_text += text + ' '
 
-	def process(self, text):
-		self.feed(text)
+	def process(self, html):
+		self.feed(html)
 		return self.parsed_text
+
+	@classmethod
+	def parse(cls, html):
+		p = PageParser()
+		return p.process(html)
 
 if __name__ == '__main__':
 	with io.open(r'Corpus\News\Wall Street ends higher after bounce in oil prices _ Reuters.htm', 'rU', encoding='utf-8') as input: 
-		p = ParseTest()
-		#p.feed(unicode(input.read()))
-		#tree = html.fromstring(input.read())
-		#with io.open(r'test.txt', 'w+', encoding='utf-8') as w:
-		#	w.write(stringify_children(tree))
+		p = PageParser()
 		with io.open(r'test.txt', 'a', encoding='utf-8') as w:
 			w.write(p.process(input.read()))

@@ -15,11 +15,18 @@ import lda
 import multiprocessing
 import entity_recognition as er
 from joblib import Parallel, delayed
+
+from textblob import TextBlob
+from pageparser import PageParser
+
+
 log = loc.lda_log
 
 #@profile
 def cross_reference_tokens():
     return 1
+
+@profile
 def probabilify(pdic):
     vals = pdic.values()
     wordCount = sum(vals)
@@ -27,6 +34,8 @@ def probabilify(pdic):
     for key in keys:
        pdic[key] /= float(wordCount) 
     return pdic
+
+@profile
 def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = dict(), isHTML = False, useEntities = False):
     fdic = dict()
     file_path = path.abspath(raw_fpath)
@@ -37,11 +46,7 @@ def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = d
         inf.write(file_path)
     with io.open(file_path, 'rU', encoding='utf-8') as input:  
         if isHTML:
-            #text = HtmlHandler(input.read()).text
-            #text.filter_words(lambda (word,pos): pos in TAGS['NOUN'])
-            raw_text = html_to_words(input.read())
-            raw_text = unicode(raw_text, 'utf-8')
-            text = TextHandler(raw_text)
+            text = TextBlob(PageParser.parse(input.read()))
             if useEntities:
                 words = er.recognize_entities(text.sentences, intersect=True, intersector=interDict)
             else:
@@ -66,7 +71,7 @@ def vocab_from_file(raw_fpath, vocDict = dict(), intersect = True, interDict = d
 def vocabs_from_files(file, interDict, intersect=True, useEntities = False):
     return vocab_from_file(raw_fpath = file, vocDict = OrderedDict(), intersect = intersect, interDict = interDict, isHTML = True, useEntities = useEntities)               
            
-#@profile
+@profile
 def build(files, extension ='htm', recurse = False, intersect = True, intersector_path = loc.intersector_path, interDict = dict()):                    
     vocDict = OrderedDict()
     vocab = []  
@@ -106,6 +111,7 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
         row_idx += 1
     return (X, vKeys, titles)
 
+@profile
 def fit(X, vocab, titles, num_topics=15):
     with open(log,'a+') as lf:
         model = lda.LDA(n_topics=num_topics, n_iter=500, random_state=1)
