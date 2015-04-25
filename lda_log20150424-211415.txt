@@ -1,0 +1,2174 @@
+*Topic 0
+- [ u ' i r a n '   u ' c u b a '   u ' c o n g r e s s '   u ' a m e r i c a n '   u ' c u b a n ' ]
+*Topic 1
+- [ u ' a p p l e '   u ' t e c h '   u ' t i n d e r '   u ' s e r v i c e '   u ' i n n o v a t i v e ' ]
+*Topic 2
+- [ u ' l i b y a '   u ' r u s s i a '   u ' u k r a i n e '   u ' y e m e n '   u ' r u s s i a n ' ]
+*Topic 3
+- [ u ' p e b b l e '   u ' b r o o k l y n '   u ' p a u s e '   u ' b r i l l i a n t l y '   u ' s h a r p ' ]
+*Topic 4
+- [ u ' a m a z o n '   u ' p h i l l i p s '   u ' p i n '   u ' u n i v e r s i t y '   u ' t a r g e t ' ]
+*Topic 5
+- [ u ' u s '   u ' c l i c k '   u ' a p p l e '   u ' h a r d '   u ' r o c k e t ' ]
+*Topic 6
+- [ u ' l i s t '   u ' r u s s i a n '   u ' c h r i s '   u ' l a t i n o '   u ' f r o n t ' ]
+*Topic 7
+- [ u ' l i s t '   u ' i s i s '   u ' s p r i n t '   u ' b r o n t o s a u r u s '   u ' r e p u b l i c a n ' ]
+*Topic 8
+- [ u ' l i b y a '   u ' r u s s i a '   u ' y e m e n '   u ' u k r a i n e '   u ' p o i s e d ' ]
+*Topic 9
+- [ u ' l i s t '   u ' m a r s '   u ' i r a q '   u ' i r a q i '   u ' s y r i a ' ]
+*Topic 10
+- [ u ' u s '   u ' c a l i f o r n i a '   u ' r o c k e t '   u ' c l i c k '   u ' h a r d ' ]
+*Topic 11
+- [ u ' b r i t i s h '   u ' l a b o r '   u ' l o n d o n '   u ' s c o t l a n d '   u ' e n g l i s h ' ]
+*Topic 12
+- [ u ' w a s h i n g t o n '   u ' p o s t '   u ' s i g n '   u ' s e r v i c e '   u ' i o w a ' ]
+*Topic 13
+- [ u ' c h i n a '   u ' c h i n e s e '   u ' e n g l a n d '   u ' n a v y '   u ' t h r o n e s ' ]
+*Topic 14
+- [ u ' m e d i u m '   u ' w i l l i a m s '   u ' s m i t h '   u ' p a r a g o n '   u ' r a m ' ]
+numFiles: 288
+C:\Users\William\Desktop\CS491Proj\corpus\news\#IAmAScientistBecause Isn't the Only Feed You Should Follow _ WIRED.htm file most likely: 10
+	 with: 0.84
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\$158m barrels worth of oil discovered in England - CNN Video.htm file most likely: 13
+	 with: 0.466666666667
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\'When a Man Loves a Woman' singer Percy Sledge dies - CNN.com.htm file most likely: 5
+	 with: 0.314285714286
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\'You are all influencers'  How lesbians in tech are gaining ground - Apr. 13, 2015.htm file most likely: 1
+	 with: 0.834146341463
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\15 Questions with Eileen Carey and Lauren Mosenthal - CNNMoney.htm file most likely: 1
+	 with: 0.950877192982
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\2014's most challenged books - CNN.com.htm file most likely: 9
+	 with: 0.466666666667
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\2016 elections candidate status check + emojis - CNN.com.htm file most likely: 6
+	 with: 0.688888888889
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\5 years after the Gulf oil spill  What we know - CNN.com.htm file most likely: 9
+	 with: 0.44
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\500 corgis invade California Beach - CNN.com.htm file most likely: 10
+	 with: 0.466666666667
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\800,000 Nigerian kids displaced by Boko Haram, violence - CNN.com.htm file most likely: 6
+	 with: 0.6
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Crash Course on Derivatives _ WIRED.htm file most likely: 10
+	 with: 0.6
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Missouri Death Row Inmate is Waiting for the Phone Call That Decides if He Lives or Dies Tonight _ VICE News.htm file most likely: 2
+	 with: 0.972277227723
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\A new crisis is brewing between two nuclear-armed neighbors.htm file most likely: 1
+	 with: 0.44
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\A new political order in Scotland threatens to upend the British election - The Washington Post.htm file most likely: 11
+	 with: 0.678306878307
+	 most probable topic is:11
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Smart Approach to Sifting Gold From the Twitter Stream _ WIRED.htm file most likely: 5
+	 with: 0.909433962264
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Super-Gross Diagnostic Tool That Could Save Your Life _ WIRED.htm file most likely: 5
+	 with: 0.626229508197
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\A US Government Agency Quietly Acknowledged That Marijuana May Help Fight Brain Tumors _ VICE News.htm file most likely: 2
+	 with: 0.973333333333
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Yazidi captive's tale  Sold by ISIS as a sex slave - CNN.com.htm file most likely: 7
+	 with: 0.688888888889
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Yazidi family's horrifying tale of escaping ISIS - CNN.com.htm file most likely: 7
+	 with: 0.6
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\After Walter Scott Killing, Black Lives Matter Movement Calls For Citizen Oversight of Police _ VICE News.htm file most likely: 2
+	 with: 0.953398058252
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Al Shabaab Fighters Storm Higher Education Ministry in Mogadishu, Killing at Least 10 _ VICE News.htm file most likely: 2
+	 with: 0.776576576577
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Amazon's X-Ray Shows Movie Info Whenever You Hit Pause _ WIRED.htm file most likely: 5
+	 with: 0.508045977011
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\An anatomy of the Chris Christie town hall - CNN.com.htm file most likely: 7
+	 with: 0.44
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Angry Nerd  Unfriended'sScreen-Capture Format Is Lazy, Not Scary _ WIRED.htm file most likely: 10
+	 with: 0.534693877551
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Anonabox Recalls 350 'Privacy' Routers for Security Flaws _ WIRED.htm file most likely: 5
+	 with: 0.698550724638
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\AQAP leader killed in Yemen, group says - CNN.com.htm file most likely: 2
+	 with: 0.413333333333
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Arab Leaders Agree to Create Joint Military Force to Counter 'Unprecedented Unrest' _ VICE News.htm file most likely: 2
+	 with: 0.973831775701
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Asia tentative as mixed China data stoke uncertainty _ Reuters.htm file most likely: 13
+	 with: 0.6
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Asiana Airlines plane skids off Hiroshima runway - CNN.com.htm file most likely: 6
+	 with: 0.6
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Asleep ramp agent in cargo hold leads to Alaska Airlines emergency landing - CNN.com.htm file most likely: 7
+	 with: 0.6
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Australian Golfer Bitten by Crocodile While Looking for Ball in Water Trap _ Bleacher Report.htm file most likely: 12
+	 with: 0.563636363636
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Avon exploring sale of North America business  WSJ _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Baby ducklings stop traffic in Washington, D.C. - CNN.com.htm file most likely: 12
+	 with: 0.6
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bangladesh Ignored Pleas from the US, EU, and UN and Hanged an Alleged War Criminal _ VICE News.htm file most likely: 2
+	 with: 0.973831775701
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters.htm file most likely: 14
+	 with: 0.44
+	 most probable topic is:14
+C:\Users\William\Desktop\CS491Proj\corpus\news\Beehive raises a record-breaking $10 million - Apr. 13, 2015.htm file most likely: 1
+	 with: 0.671794871795
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Being a Woman Doesn’t Guarantee Hillary Clinton the 'Women’s Vote' in 2016 _ VICE News.htm file most likely: 2
+	 with: 0.972815533981
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Believe Or Deny Climate Change  That Depends On Where You Live _ VICE News.htm file most likely: 8
+	 with: 0.976470588235
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ben Carson making May 4 announcement in Detroit - CNN.com.htm file most likely: 9
+	 with: 0.688888888889
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bendy Tableware That Makes Cooking a Cinch _ WIRED.htm file most likely: 5
+	 with: 0.825641025641
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bluetooth Disc Plays Your Digital Music Like a Vinyl Record _ WIRED.htm file most likely: 5
+	 with: 0.632876712329
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bodies of Five Aid Workers From Save the Children Found After Violent Week in Afghanistan _ VICE News.htm file most likely: 2
+	 with: 0.954285714286
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Boehner says president not likely to get new war authorization to fight ISIS - CNN.com.htm file most likely: 7
+	 with: 0.688888888889
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Boko Haram kidnapping in Nigeria, one year later - CNN.com.htm file most likely: 7
+	 with: 0.44
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Brave Robots Are Roaming the Oceans for Science _ WIRED.htm file most likely: 14
+	 with: 0.615748031496
+	 most probable topic is:14
+C:\Users\William\Desktop\CS491Proj\corpus\news\Briny puddles could dot Mars, new research says - CNN.com.htm file most likely: 9
+	 with: 0.878260869565
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bullet ricochets off armadillo, hits mother-in-law - CNN Video.htm file most likely: 6
+	 with: 0.314285714286
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\California's Almond Czar Seems Like a Reasonable Guy _ WIRED.htm file most likely: 10
+	 with: 0.898507462687
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\California's Governor Issues Mandatory Water Cuts — Except for Farmers _ VICE News.htm file most likely: 8
+	 with: 0.975652173913
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Campaigns we can believe in - CNN.com.htm file most likely: 7
+	 with: 0.536842105263
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Can Rubio, Bush both compete for Latino vote  - CNN.com.htm file most likely: 6
+	 with: 0.688888888889
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Chile moves to recognize same-sex civil unions - CNN.com.htm file most likely: 6
+	 with: 0.466666666667
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Chimp takes down drone - CNN Video.htm file most likely: 6
+	 with: 0.745454545455
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\China Accused of Doling Out Counterfeit Digital Certificates in 'Serious' Web Security Breach _ VICE News.htm file most likely: 2
+	 with: 0.972815533981
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\China Is Poised to Overtake the US as the Biggest Modern Contributor to Climate Change _ VICE News.htm file most likely: 2
+	 with: 0.51452991453
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters.htm file most likely: 13
+	 with: 0.44
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Classes Resume in Sierra Leone After Ebola Crisis — But Pregnant Teens Are Banned _ VICE News.htm file most likely: 2
+	 with: 0.917757009346
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton campaign immediately starts fundraising drive - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton hits the trail in Iowa, again - The Washington Post.htm file most likely: 12
+	 with: 0.936
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton road trip  Chipotle, cottage cheese and Scooby snacks - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton To Make Gender Issues Key to Presidential Bid _ WIRED.htm file most likely: 5
+	 with: 0.796226415094
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton¹s Iowa campaign starts at a coffee shop - CNN.com.htm file most likely: 7
+	 with: 0.314285714286
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Congress and White House strike deal on Iran legislation - The Washington Post.htm file most likely: 0
+	 with: 0.613605442177
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Congress approves formula fixing Medicare doctors pay _ Reuters.htm file most likely: 0
+	 with: 0.44
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Conspiracy Theorists Think an Army Training Exercise Will Bring Martial Law to the US This Summer _ VICE News.htm file most likely: 2
+	 with: 0.774257425743
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Countryside Near London's Gatwick Airport Might Be Hiding Billions of Extra Barrels of Oil _ VICE News.htm file most likely: 2
+	 with: 0.937614678899
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Crime-Weary Argentina Sees More Mob Violence and Vigilante Killings _ VICE News.htm file most likely: 8
+	 with: 0.976470588235
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Dash cam shows cop charged with murder using Taser - CNN Video.htm file most likely: 6
+	 with: 0.688888888889
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Death Toll Rises to 147 After Al Shabaab Gunmen Attack Kenyan University _ VICE News.htm file most likely: 8
+	 with: 0.960330578512
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Detroit Officers Indicted for Fake Drug Busts, Cocaine Possession, and Extortion _ VICE News.htm file most likely: 2
+	 with: 0.717431192661
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Do North Charleston police use racial profiling  - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Docker Raises $95M Because Silicon Valley Loves Containers _ WIRED.htm file most likely: 10
+	 with: 0.833766233766
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Dollar smarts after retail sales sting, China data next _ Reuters.htm file most likely: 13
+	 with: 0.44
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Drug Pump's Security Flaw Lets Hackers Raise Dose Limits _ WIRED.htm file most likely: 5
+	 with: 0.736585365854
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters.htm file most likely: 2
+	 with: 0.314285714286
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Egyptian Court Sentences American Citizen Journalist to Life in Prison _ VICE News.htm file most likely: 8
+	 with: 0.943801652893
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Election 2016  Hillary Clinton announces White House run - CNN.com.htm file most likely: 7
+	 with: 0.6
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Election 2016  Who is GOP's foreign policy candidate  - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Email Phishing Attacks Take Just Minutes to Hook Recipients _ WIRED.htm file most likely: 5
+	 with: 0.893333333333
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\EU to announce antitrust moves against Google on Wednesday  papers _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ev Williams' Rules for Quality Content in the Clickbait Age _ WIRED.htm file most likely: 14
+	 with: 0.764028776978
+	 most probable topic is:14
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ex-Blackwater contractors sentenced in Iraq shooting - CNN.com.htm file most likely: 9
+	 with: 0.6
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Exploring the Creepiest, Craziest Abandoned Spaces of NYC _ WIRED.htm file most likely: 5
+	 with: 0.590243902439
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Explosive House hearing condemns DEA 'sex parties' - CNN Video.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Florida artist claims Apple stole his style _ Reuters.htm file most likely: 5
+	 with: 0.314285714286
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Florida Family Releases Video of Cop Killing Their Schizophrenic Son _ VICE News.htm file most likely: 8
+	 with: 0.778512396694
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\French Prime Minister Swears Proposed Spying Law Won’t Lead to 'Widespread Surveillance of Civilians' _ VICE News.htm file most likely: 2
+	 with: 0.932673267327
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Game of Thrones Recap  This Season, Everything Changes _ WIRED.htm file most likely: 5
+	 with: 0.536
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Get Ready For an Explosion of Mining on the Ocean Floor _ VICE News.htm file most likely: 8
+	 with: 0.978294573643
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Global Warming Is Already Clobbering the Amazon _ WIRED.htm file most likely: 4
+	 with: 0.723308270677
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google doesn't care where you went to college - Apr. 9, 2015.htm file most likely: 1
+	 with: 0.862857142857
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google Fiber heading to Salt Lake City - Mar. 24, 2015.htm file most likely: 1
+	 with: 0.866666666667
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google strikes back at Wall Street Journal - with a laughing baby - Mar. 27, 2015.htm file most likely: 1
+	 with: 0.924324324324
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Graphic New Veteran-Sponsored Ads Are Asking Drone Pilots Not to Fly _ VICE News.htm file most likely: 8
+	 with: 0.978294573643
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Guinea Ramps Up Fight Against Ebola as Outbreak Continues to Burn _ VICE News.htm file most likely: 8
+	 with: 0.879674796748
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Guinea’s Opposition Leader Describes Police Firing Tear Gas and AK-47s at Protests _ VICE News.htm file most likely: 2
+	 with: 0.587096774194
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Gunmen Stormed a Construction Site in Pakistan and Killed 20 Imported Laborers _ VICE News.htm file most likely: 8
+	 with: 0.957522123894
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hacker Lexicon  What Are Chip and PIN Cards  _ WIRED.htm file most likely: 4
+	 with: 0.496774193548
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hacker Lexicon  What Are Phishing and Spear Phishing  _ WIRED.htm file most likely: 5
+	 with: 0.861224489796
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\He's in  Marco Rubio's presidential challenge - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Here's How Much Obama Says the US Will Cut Carbon Pollution _ VICE News.htm file most likely: 8
+	 with: 0.977952755906
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Here's what it's like to shop for Apple Watch - Video - Technology.htm file most likely: 1
+	 with: 0.928205128205
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hidden cameras show airport workers stealing from bags - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hillary Clinton 2016  Walking a gender tightrope - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hillary Clinton video carries warning stamp in Russia - CNN.com.htm file most likely: 6
+	 with: 0.717647058824
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hillary Clinton's no-frills 2016 campaign - CNN.com.htm file most likely: 6
+	 with: 0.6
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hillary Clinton's Wall Street dilemma - CNN.com.htm file most likely: 6
+	 with: 0.6
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hours from deadline, bipartisan Medicare bill heads to White House - The Washington Post.htm file most likely: 12
+	 with: 0.710769230769
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\House Oversight Committee Grills DEA Head Over Scandal - CNN.com.htm file most likely: 9
+	 with: 0.6
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\How does Marco Rubio stand in the polls  - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\How hackers spied on Asia for a decade - Apr. 13, 2015.htm file most likely: 13
+	 with: 0.669565217391
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\How Lincoln Crafted Its New Super-Deluxe Sound System _ WIRED.htm file most likely: 5
+	 with: 0.606349206349
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\How Popcorn Time's Piracy App Is Sneaking Onto iPhones _ WIRED.htm file most likely: 5
+	 with: 0.961643835616
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\How the Jalisco New Generation Cartel Is Terrorizing the People of Western Mexico _ VICE News.htm file most likely: 2
+	 with: 0.972815533981
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\How to make rejection work for you - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\How to survive the world's biggest water fight - CNN.com.htm file most likely: 6
+	 with: 0.314285714286
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Human Rights Groups Caught in the Crossfire After Kenyan University Attack _ VICE News.htm file most likely: 8
+	 with: 0.975221238938
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\In a Move That Everyone Is Sure to Like, Russia Might Have Just Banned Internet Porn _ VICE News.htm file most likely: 2
+	 with: 0.973333333333
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\In Photos  The Sudanese Refugees Who Fled Intense Fighting and Aerial Bombardment _ VICE News.htm file most likely: 2
+	 with: 0.542342342342
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\In setback, Obama concedes Congress role on Iran deal _ Reuters.htm file most likely: 0
+	 with: 0.6
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Intel sees revenue holding, cuts capital spending, shares up _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Intense Video Purportedly Shows Islamic State Suicide Bomb Vehicle Exploding in Midair _ VICE News.htm file most likely: 9
+	 with: 0.715555555556
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Iraqi Prime Minister's visit to White House - CNN.com.htm file most likely: 9
+	 with: 0.688888888889
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Iraqi reinforcements sent to battle ISIS at refinery - CNN.com.htm file most likely: 6
+	 with: 0.466666666667
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Is It Okay to Drill in the Arctic  It's Complicated, According to the Obama Administration _ VICE News.htm file most likely: 2
+	 with: 0.545631067961
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Islamic State Militants Reportedly Kidnap 120 Children in Mosul _ VICE News.htm file most likely: 8
+	 with: 0.977952755906
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\It's Official  Guitar Hero Is Back This Fall _ WIRED.htm file most likely: 5
+	 with: 0.537777777778
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Japan Is Going to Kill Thousands of Whales No Matter What Other Nations Say _ VICE News.htm file most likely: 8
+	 with: 0.866666666667
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\John Kasich  'Seriously considering' presidential bid - CNN.com.htm file most likely: 6
+	 with: 0.466666666667
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Justified Nears Its End, But It Leaves Behind Classic GIFs _ WIRED.htm file most likely: 5
+	 with: 0.495890410959
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Kelley Paul spotlights new book - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\L.A. to control all its streelights with a single laptop - Apr. 10, 2015.htm file most likely: 1
+	 with: 0.855319148936
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\LA's Proposed Parking Signs Are Brilliantly Simple _ WIRED.htm file most likely: 5
+	 with: 0.710769230769
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Large Hadron Collider - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Look, It's Really Hard to Land a Rocket on a Boat, OK  _ WIRED.htm file most likely: 10
+	 with: 0.819718309859
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Mad Men Recap  Money Can't Buy Don Draper Love _ WIRED.htm file most likely: 10
+	 with: 0.872463768116
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Malaysia Reintroduces Indefinite Detention to Stop 'Terrorists' — and Maybe to Quell Opposition _ VICE News.htm file most likely: 2
+	 with: 0.972815533981
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Man who recorded Walter Scott shooting speaks - CNN Video.htm file most likely: 6
+	 with: 0.6
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Massive Explosion in Zhangzhou, China Highlights Chemical Plant Risks _ VICE News.htm file most likely: 8
+	 with: 0.9616
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\McCarthy backs bill giving Congress say on Iran - CNN.com.htm file most likely: 0
+	 with: 0.381818181818
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\McLaren Helps Build a $20,000 Bike, Because Why Not _ WIRED.htm file most likely: 5
+	 with: 0.828571428571
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Meet Cook County Sheriff Tom Dart, the Man Who Runs America's Largest Mental Healthcare Provider _ VICE News.htm file most likely: 2
+	 with: 0.972277227723
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Meet the Afghan Interpreters Who Have Been Abandoned by the French Army _ VICE News.htm file most likely: 8
+	 with: 0.975652173913
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Menendez friend indicted for Medicare fraud - CNN.com.htm file most likely: 9
+	 with: 0.44
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Mexican Workers at Canadian Mines Are Under Constant Threat of Cartel Kidnappings, Killings _ VICE News.htm file most likely: 2
+	 with: 0.973333333333
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Milwaukee driver shot dead after hitting, killing child - CNN Video.htm file most likely: 6
+	 with: 0.688888888889
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Morocco’s New Elite Investigative Unit Has Dismantled an Islamic State-Linked Terror Cell _ VICE News.htm file most likely: 2
+	 with: 0.82752293578
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Mr. Obama rewards Egypt’s repression with military aid - The Washington Post.htm file most likely: 12
+	 with: 0.781052631579
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Must-see islands - CNN.com.htm file most likely: 7
+	 with: 0.314285714286
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly 1 million new malware threats released every day - Apr. 14, 2015.htm file most likely: 1
+	 with: 0.696551724138
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly 90% of Americans now have health insurance - Apr. 13, 2015.htm file most likely: 1
+	 with: 0.6
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly Five Years After the BP Spill, Animals Are Still Dying in the Gulf of Mexico _ VICE News.htm file most likely: 2
+	 with: 0.935238095238
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\New Ford car automatically obeys speed limits - Mar. 25, 2015.htm file most likely: 1
+	 with: 0.448888888889
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\New look inside Fukushima - CNN Video.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\New pictures of Kim Jong Un raise more questions - CNN Video.htm file most likely: 6
+	 with: 0.6
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nine Atlanta educators in test-cheating case are sentenced to prison - The Washington Post.htm file most likely: 12
+	 with: 0.735211267606
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Carolina college shooting  Possible hate crime  - CNN.com.htm file most likely: 7
+	 with: 0.44
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Korea's 'Rubber Stamp' Parliament Meets as UN Warns of Malnutrition _ VICE News.htm file most likely: 2
+	 with: 0.56814159292
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Korea's first couple  Kim Jong Un and Ri Sol Ju - CNN.com.htm file most likely: 9
+	 with: 0.784615384615
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\NY Cops Used 'Stingray' Spy Tool 46 Times Without Warrant _ WIRED.htm file most likely: 5
+	 with: 0.783050847458
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama acts to remove Cuba from terror list - CNN.com.htm file most likely: 0
+	 with: 0.466666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama holds out on Hillary Clinton endorsement - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama removes Cuba from the list of state sponsors of terrorism - The Washington Post.htm file most likely: 0
+	 with: 0.729479768786
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters.htm file most likely: 0
+	 with: 0.44
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama tries to reassure nervous Jewish groups over Iran deal - CNN.com.htm file most likely: 6
+	 with: 0.466666666667
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters.htm file most likely: 9
+	 with: 0.466666666667
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ohio mom charged for son's fall into cheetah exhibit - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Oil prices rise after signs of U.S. production dip _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Old-School Cool  Charming Toy Cars Made of Nothin' But Wood _ WIRED.htm file most likely: 3
+	 with: 0.511111111111
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Oldest DNA taken from Neanderthal who fell into well - CNN.com.htm file most likely: 7
+	 with: 0.6
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\On John Oliver, Edward Snowden Says Keep Taking Dick Pics _ WIRED.htm file most likely: 5
+	 with: 0.562666666667
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\On the Frontline of Libya's Fight Against the Islamic State _ VICE News.htm file most likely: 8
+	 with: 0.932824427481
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\One Dead After Blast Causes Panicked Kenyan Students to Leap From Windows Amid al Shabaab Fears _ VICE News.htm file most likely: 2
+	 with: 0.972277227723
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\One of the World's Biggest Extinction Crises Is Being Caused by Cats _ VICE News.htm file most likely: 8
+	 with: 0.958260869565
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pataki criticizes GOP's focus on social issues - CNN.com.htm file most likely: 12
+	 with: 0.466666666667
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pebble Time's Kickstarter project raised more than $20.3 million and broke two Kickstarter records - Mar. 27, 2015.htm file most likely: 3
+	 with: 0.474509803922
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pentagon Panel Proposes Sweeping Changes that Could Impact Guantanamo Force-Feeding _ VICE News.htm file most likely: 2
+	 with: 0.973333333333
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pluto's First Color Portrait From the New Horizons Probe _ WIRED.htm file most likely: 10
+	 with: 0.872463768116
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Poison Shrimp, Porcupines, and Dolphins  Singapore Is Packing Some Serious Heat _ VICE News.htm file most likely: 8
+	 with: 0.864220183486
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Police  Twins drown in canal as mom tries to fend off bee - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Police in India Now Have Drones That Can Shower Unruly Crowds With Pepper Spray _ VICE News.htm file most likely: 2
+	 with: 0.668376068376
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Polish Prince challenges UKIP's Nigel Farage to duel - CNN.com.htm file most likely: 6
+	 with: 0.688888888889
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pope Francis uses 'genocide' for killings of Armenians - CNN.com.htm file most likely: 7
+	 with: 0.44
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Prison time for some Atlanta school educators in cheating scandal - CNN.com.htm file most likely: 2
+	 with: 0.466666666667
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protesters Torch Embassy and Houses in Gabon After Opposition Leader's Death _ VICE News.htm file most likely: 2
+	 with: 0.497345132743
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests Follow Police Slaying of Walter Scott in South Carolina _ VICE News.htm file most likely: 8
+	 with: 0.9776
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests in U.S. cities against police violence prompt arrests _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Rand Paul's Hair, Mock turtleneck and other secrets only a wife would know - CNN.com.htm file most likely: 9
+	 with: 0.44
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Rand Paul's two-front war - CNN.com.htm file most likely: 9
+	 with: 0.44
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Remembering the Lincoln assassination 150 years later - CNN.com.htm file most likely: 11
+	 with: 0.466666666667
+	 most probable topic is:11
+C:\Users\William\Desktop\CS491Proj\corpus\news\Revenge porn could get you two years in jail in England - Apr. 13, 2015.htm file most likely: 1
+	 with: 0.607547169811
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Rivalry brews  Jeb and Marco talk friendship - CNN.com.htm file most likely: 9
+	 with: 0.784615384615
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Rubio, GOP paint Hillary Clinton as 'yesterday's' news - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters.htm file most likely: 0
+	 with: 0.314285714286
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\See U.S. warships head for ISIS fight - CNN Video.htm file most likely: 7
+	 with: 0.688888888889
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Sheriff  No one tried to stop Panama City Beach gang rape - CNN.com.htm file most likely: 7
+	 with: 0.44
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Should California Spend 4 Billion Gallons to Save a Few Fish  _ WIRED.htm file most likely: 10
+	 with: 0.901123595506
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Sika wins support for deal opposition after clipping owner's vote _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Siri gets a new voice in Apple's iOS 8.3 update - Apr. 9, 2015.htm file most likely: 1
+	 with: 0.793939393939
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Six takeaways from the NRA convention - CNN.com.htm file most likely: 6
+	 with: 0.813333333333
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Slager says his adrenaline was 'pumping' after shooting - CNN Video.htm file most likely: 9
+	 with: 0.44
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Snowden's 'Sexy Margaret Thatcher' Password Isn't So Secure _ WIRED.htm file most likely: 5
+	 with: 0.527868852459
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\South Carolina Cop Charged With Murder After Video Shows Him Shooting Unarmed Black Man in the Back _ VICE News.htm file most likely: 2
+	 with: 0.972277227723
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\South Carolina Cop Laughed About Adrenaline Rush After Fatally Shooting Walter Scott _ VICE News.htm file most likely: 2
+	 with: 0.973831775701
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\SpaceX attempt at historic booster rocket landing fails again - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\SpaceX Falcon Rocket vs. Robot Boat  Round Two! _ WIRED.htm file most likely: 10
+	 with: 0.965432098765
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\SpaceX rocket hits barge, Elon Musk says, but ‘too hard for survival’ - The Washington Post.htm file most likely: 12
+	 with: 0.549090909091
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Spanish activists hold hologram protest in Madrid - CNN.com.htm file most likely: 4
+	 with: 0.381818181818
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Split Screen  The Return of Mad Men _ WIRED.htm file most likely: 10
+	 with: 0.808955223881
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Sprint makes house calls to upgrade your cell phone - Apr. 13, 2015.htm file most likely: 7
+	 with: 0.532075471698
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Study  China cybercensors attack with 'Great Cannon' - CNN.com.htm file most likely: 6
+	 with: 0.6
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Submarines With Wheels, Underwater Blimps, and a New Nuclear Arms Race _ VICE News.htm file most likely: 13
+	 with: 0.464615384615
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tech Time Warp of the Week  The 1940s RC Copter That Paved the Way for Amazon's Drones _ WIRED.htm file most likely: 5
+	 with: 0.629850746269
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\The 3DR Solo Is One Scary-Smart Drone _ WIRED.htm file most likely: 5
+	 with: 0.954098360656
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Beijing Five  Calls Grow for Release of Chinese Feminists Held Without Charge _ VICE News.htm file most likely: 2
+	 with: 0.937614678899
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Best Alternatives to Apple's New MacBook _ WIRED.htm file most likely: 5
+	 with: 0.628915662651
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Bizarre Window Displays of Soviet Europe _ WIRED.htm file most likely: 3
+	 with: 0.524637681159
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Chevron Tapes  Video Shows Oil Giant Allegedly Covering Up Amazon Contamination _ VICE News.htm file most likely: 2
+	 with: 0.973333333333
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Chibok Girls Abducted One Year Ago Are Just a Small Percentage of Boko Haram's Victims _ VICE News.htm file most likely: 2
+	 with: 0.935238095238
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\The CIA Just Declassified the Document That Supposedly Justified the Iraq Invasion _ VICE News.htm file most likely: 2
+	 with: 0.973333333333
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Federal Government Killed Nearly Three Million Animals Last Year _ VICE News.htm file most likely: 8
+	 with: 0.9776
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Georgia Legislature Just Pulled the Plug on Electric Cars _ VICE News.htm file most likely: 8
+	 with: 0.978625954198
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Girls Who Escaped  One Year After the Boko Haram Kidnapping, Some Chibok Schoolgirls Have Left Nigeria _ VICE News.htm file most likely: 2
+	 with: 0.972277227723
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Haunting Aftermath of a Deadly Train Wreck _ WIRED.htm file most likely: 5
+	 with: 0.793939393939
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\The ISIS terror threat - CNN.com.htm file most likely: 7
+	 with: 0.627586206897
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Japanese Military Is Getting Offensively Cute _ VICE News.htm file most likely: 8
+	 with: 0.768421052632
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Netflix of China Is Invading the US With Smartphones _ WIRED.htm file most likely: 13
+	 with: 0.607339449541
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Sale of US Reaper Drones to Australia Could Provoke Regional Tensions _ VICE News.htm file most likely: 8
+	 with: 0.940869565217
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\The UK is Going to Send Billions in Arms Exports to Countries on the Human Rights Blacklist _ VICE News.htm file most likely: 2
+	 with: 0.972815533981
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\The UN Desperately Needs Funds to Help Manage a Boko Haram Refugee Crisis _ VICE News.htm file most likely: 8
+	 with: 0.920720720721
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Wild Government Projects You're Funding With Your Taxes _ WIRED.htm file most likely: 5
+	 with: 0.893333333333
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\These Two Teenagers Are Suing the Oregon Government Over Climate Change _ VICE News.htm file most likely: 8
+	 with: 0.976068376068
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\They Warned Iran's Ayatollah About a Deal on Nukes, Now the GOP Cautions the World on Climate Pact _ VICE News.htm file most likely: 2
+	 with: 0.951515151515
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\This Dude Carves the Most Gorgeous Spoons You'll Ever See _ WIRED.htm file most likely: 5
+	 with: 0.672727272727
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\This Week's Trailers  True Detective Leaves Us Guessing _ WIRED.htm file most likely: 3
+	 with: 0.570526315789
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Thousands of Sick Sea Lion Pups Are Washing Up Along the California Coast _ VICE News.htm file most likely: 8
+	 with: 0.975221238938
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tiny 4K Displays Will Be Awesome—Just Not for Smartphones _ WIRED.htm file most likely: 5
+	 with: 0.606349206349
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Today's Hit Movies Reimagined Perfectly as '80s VHS Tapes _ WIRED.htm file most likely: 5
+	 with: 0.479365079365
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Transgender Iranian Refugees Are Struggling to Outrun Prostitution and Violence _ VICE News.htm file most likely: 8
+	 with: 0.844628099174
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tsarnaev jury told  Don't go to the Boston Marathon - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tulsa shooting  Deputy who shot Eric Harris surrenders - CNN.com.htm file most likely: 9
+	 with: 0.6
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turkey is Pissed at the Pope for Saying a WWI Massacre of Armenians Was Genocide _ VICE News.htm file most likely: 2
+	 with: 0.607339449541
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turn your kitchen into an orchestra with Mogees - CNN.com.htm file most likely: 11
+	 with: 0.626229508197
+	 most probable topic is:11
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turning Old Aircraft Carriers Into a Bridge Is a Bad Idea _ WIRED.htm file most likely: 5
+	 with: 0.645977011494
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Two Embassies in Libya Attacked, the Islamic State Claims Responsibility _ VICE News.htm file most likely: 8
+	 with: 0.976859504132
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\U.S. says Russian fighter jet intercept was 'unsafe' - CNN.com.htm file most likely: 6
+	 with: 0.688888888889
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\U.S.-Cuba relations  Barack Obama, Raul Castro meet - CNN.com.htm file most likely: 7
+	 with: 0.44
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\UK's Cameron Casts Conservatives as 'the Party of Working People' With Controversial Housing Pledge _ VICE News.htm file most likely: 2
+	 with: 0.739805825243
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\UN Security Council Hits Yemen's Houthis with Arms Embargo and Sanctions _ VICE News.htm file most likely: 8
+	 with: 0.960975609756
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Undocumented Immigrants Pay Billions in Taxes to Fund Programs They’re Banned From Using _ VICE News.htm file most likely: 2
+	 with: 0.972815533981
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\US and Afghan Leaders Discuss Troop Withdrawals as Violence Flares Again _ VICE News.htm file most likely: 8
+	 with: 0.976859504132
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\US Army Will Investigate Allegations of Sexual Abuse by Soldiers and Contractors in Colombia _ VICE News.htm file most likely: 2
+	 with: 0.954285714286
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\US Capitol Building Locked Down After Man Shoots Himself on Steps Outside _ VICE News.htm file most likely: 8
+	 with: 0.904424778761
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Using lasers to preserve the world's treasures - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\VA whistleb - CNN.com.htm file most likely: 6
+	 with: 0.44
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Veep GIF and a Graf  Selina Fails Pretty Much Immediately _ WIRED.htm file most likely: 5
+	 with: 0.902040816327
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Appears to Show Texas Officer Punching 9-Months Pregnant Veteran _ VICE News.htm file most likely: 8
+	 with: 0.976470588235
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Cop Yell 'Fuck Your Breath' at Man Wounded by Shooting Deputy Claims Was Accidental _ VICE News.htm file most likely: 2
+	 with: 0.972277227723
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Islamic State Attacking Iraqi Refinery — But Their Oil Money Might be Running Dry _ VICE News.htm file most likely: 2
+	 with: 0.936448598131
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Man Tased By Former North Charleston Cop Michael Slager in August _ VICE News.htm file most likely: 2
+	 with: 0.532743362832
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Syria’s Yarmouk Refugee Camp Reduced to Piles of Smoldering Rubble _ VICE News.htm file most likely: 2
+	 with: 0.812612612613
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Volcanoes Are (Still) Not the Cause of Global Warming _ WIRED.htm file most likely: 10
+	 with: 0.85974025974
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wall Street ends higher after bounce in oil prices _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wall Street's Scrambling to Catch Up With Silicon Valley _ WIRED.htm file most likely: 5
+	 with: 0.658181818182
+	 most probab*Topic 0
+- [ u ' r u s s i a '   u ' c o n g r e s s '   u ' s p a m '   u ' y e m e n '   u ' s u m m i t ' ]
+*Topic 1
+- [ u ' i r a n '   u ' c o n g r e s s '   u ' d e m o c r a t i c '   u ' e a r n e s t '   u ' r u s s i a ' ]
+*Topic 2
+- [ u ' s y r i a '   u ' q u i z '   u ' r u s s i a '   u ' s e r v i c e '   u ' e a r n e s t ' ]
+*Topic 3
+- [ u ' j o h n '   u ' a m e r i c a n '   u ' a l e r t s '   u ' d e n v e r '   u ' a t l a n t i c ' ]
+*Topic 4
+- [ u ' c u b a '   u ' c u b a n '   u ' r u s s i a '   u ' s p a m '   u ' e a r n e s t ' ]
+*Topic 5
+- [ u ' h a v a n a '   u ' c u b a n s '   u ' r u s s i a '   u ' s p a m '   u ' e a r n e s t ' ]
+*Topic 6
+- [ u ' s e n a t e '   u ' m i k e '   u ' h o u s e '   u ' s p a m '   u ' c h i n a ' ]
+*Topic 7
+- [ u ' c o n g r e s s '   u ' a m e r i c a n '   u ' s e r v i c e '   u ' p a u s e d '   u ' e m a i l ' ]
+*Topic 8
+- [ u ' i r a n '   u ' s i g n '   u ' c h i n a '   u ' m a r x i s t '   u ' a n d r e w ' ]
+*Topic 9
+- [ u ' p o s t '   u ' w a s h i n g t o n '   u ' b i l l '   u ' i o w a '   u ' a r t i c l e ' ]
+*Topic 10
+- [ u ' c o n g r e s s '   u ' i s r a e l '   u ' s i g n '   u ' c o m m i t t e e '   u ' r u s s i a ' ]
+*Topic 11
+- [ u ' w a s h i n g t o n '   u ' s u c c e s s '   u ' p a n a m a '   u ' i r a n i a n '   u ' r u s s i a ' ]
+*Topic 12
+- [ u ' a m e r i c a n s '   u ' b o s s '   u ' b r a z i l '   u ' r u s s i a '   u ' s p a m ' ]
+*Topic 13
+- [ u ' i r a n '   u ' r u s s i a '   u ' s p a m '   u ' c h i n a '   u ' e a r n e s t ' ]
+*Topic 14
+- [ u ' l i s t '   u ' r u s s i a n '   u ' r u s s i a '   u ' a r t i c l e '   u ' e a r n e s t ' ]
+numFiles: 23
+C:\Users\William\Desktop\CS491Proj\corpus\news\Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Avon exploring sale of North America business  WSJ _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Congress and White House strike deal on Iran legislation - The Washington Post.htm file most likely: 8
+	 with: 0.314285714286
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Congress approves formula fixing Medicare doctors pay _ Reuters.htm file most likely: 0
+	 with: 0.44
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\EU to announce antitrust moves against Google on Wednesday  papers _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\In setback, Obama concedes Congress role on Iran deal _ Reuters.htm file most likely: 10
+	 with: 0.314285714286
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Intel sees revenue holding, cuts capital spending, shares up _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\McCarthy backs bill giving Congress say on Iran - CNN.com.htm file most likely: 14
+	 with: 0.381818181818
+	 most probable topic is:14
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama acts to remove Cuba from terror list - CNN.com.htm file most likely: 4
+	 with: 0.466666666667
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama removes Cuba from the list of state sponsors of terrorism - The *Topic 0
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 1
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 2
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 3
+- [ u ' i r a n '   u ' r u s s i a '   u ' c o n g r e s s ' ]
+*Topic 4
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 5
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 6
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 7
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 8
+- [ u ' c o n g r e s s '   u ' r u s s i a '   u ' i r a n ' ]
+*Topic 9
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 10
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 11
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 12
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 13
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+*Topic 14
+- [ u ' r u s s i a '   u ' i r a n '   u ' c o n g r e s s ' ]
+numFiles: 15
+C:\Users\William\Desktop\CS491Proj\corpus\news\Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Avon exploring sale of North America business  WSJ _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Congress approves formula fixing Medicare doctors pay _ Reuters.htm file most likely: 8
+	 with: 0.44
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\EU to announce antitrust moves against Google on Wednesday  papers _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Intel sees revenue holding, cuts capital spending, shares up _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Oil prices rise after signs of U.S. production dip _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests in U.S. cities against police violence prompt arrests _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters.htm file most likely: 3
+	 with: 0.314285714286
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Sika wins support for deal opposition after clipping owner's vote _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wall Street ends higher after bounce in oil prices _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+*Topic 0
+- [ u ' h a v a n a '   u ' c u b a n '   u ' s e r v i c e '   u ' b o s s '   u ' w h i t e ' ]
+*Topic 1
+- [ u ' e m a i l '   u ' j o h n '   u ' c u b a '   u ' c u b a n s '   u ' w a s h i n g t o n ' ]
+*Topic 2
+- [ u ' s p a m '   u ' r u s s i a '   u ' j o h n '   u ' c u b a '   u ' c u b a n s ' ]
+*Topic 3
+- [ u ' r u s s i a '   u ' j o h n '   u ' c u b a '   u ' c u b a n s '   u ' w a s h i n g t o n ' ]
+*Topic 4
+- [ u ' s u m m i t '   u ' w a s h i n g t o n '   u ' r u s s i a '   u ' s e r v i c e '   u ' q u i z ' ]
+*Topic 5
+- [ u ' w a s h i n g t o n '   u ' q u i z '   u ' b i l l '   u ' r u s s i a '   u ' s e r v i c e ' ]
+*Topic 6
+- [ u ' l i s t '   u ' j o h n '   u ' c u b a '   u ' c u b a n s '   u ' w a s h i n g t o n ' ]
+*Topic 7
+- [ u ' c o n g r e s s '   u ' b r a z i l '   u ' r u s s i a '   u ' s e r v i c e '   u ' q u i z ' ]
+*Topic 8
+- [ u ' a m e r i c a n '   u ' p a n a m a '   u ' r u s s i a '   u ' m a r x i s t '   u ' q u i z ' ]
+*Topic 9
+- [ u ' p a u s e d '   u ' r u s s i a '   u ' j o h n '   u ' c u b a '   u ' c u b a n s ' ]
+*Topic 10
+- [ u ' a m e r i c a n '   u ' y e m e n '   u ' m a r x i s t '   u ' q u i z '   u ' d e n v e r ' ]
+*Topic 11
+- [ u ' p o s t '   u ' d e n v e r '   u ' a l e r t s '   u ' s u c c e s s '   u ' r u s s i a ' ]
+*Topic 12
+- [ u ' c u b a n '   u ' j o h n '   u ' s y r i a '   u ' a r t i c l e '   u ' c u b a ' ]
+*Topic 13
+- [ u ' c u b a '   u ' s i g n '   u ' c u b a n s '   u ' i r a n i a n '   u ' m a r x i s t ' ]
+*Topic 14
+- [ u ' i r a n '   u ' a t l a n t i c '   u ' r u s s i a '   u ' s e r v i c e '   u ' d e n v e r ' ]
+numFiles: 3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama acts to remove Cuba from terror list - CNN.com.htm file most likely: 13
+	 with: 0.466666666667
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama removes Cuba from the list of state sponsors of terrorism - The Washington Post.htm file most likely: 13
+	 with: 0.405780346821
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters.htm file most likely: 13
+	 with: 0.44
+	 most probable topic is:13
+Washington Post.htm file most likely: 4
+	 with: 0.440462427746
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters.htm file most likely: 4
+	 with: 0.44
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Oil prices rise after signs of U.S. production dip _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests in U.S. cities against police violence prompt arrests _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters.htm file most likely: 0
+	 with: 0.314285714286
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Sika wins support for deal opposition after clipping owner's vote _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wall Street ends higher after bounce in oil prices _ Reuters.htm file most likely: 0
+	 with: 0.0666666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\What's in that Iran bill that Obama doesn't like  - CNN.com.htm file most likely: 13
+	 with: 0.466666666667
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\White House willing to sign compromise Iran bill - CNN.com.htm file most likely: 1
+	 with: 0.466666666667
+	 most probable topic is:1
+*Topic 0
+- [ u ' p o o r '   u ' s t a n d a r d '   u ' m a r k e t '   u ' b a t s '   u ' d i s c l a i m e r ' ]
+*Topic 1
+- [ u ' i n n o v a t i v e '   u ' n e t h e r l a n d s '   u ' s c a m '   u ' a m a z o n '   u ' b r a i n t e a s e r s ' ]
+*Topic 2
+- [ u ' c o n s t a n t l y '   u ' a m e r i c a n '   u ' s c a m '   u ' m o r t g a g e '   u ' n e t h e r l a n d s ' ]
+*Topic 3
+- [ u ' a m e r i c a '   u ' j o u r n a l '   u ' b a n k '   u ' t r e a s u r y '   u ' c l e v e l a n d ' ]
+*Topic 4
+- [ u ' e n g l a n d '   u ' i s r a e l '   u ' w a l e s '   u ' s c o t t i s h '   u ' r e l a t e d ' ]
+*Topic 5
+- [ u ' f o r d '   u ' l o n d o n '   u ' g e r m a n y '   u ' m i s t a k e '   u ' e u r o p e ' ]
+*Topic 6
+- [ u ' s h a r e s '   u ' t o t a l '   u ' s t r a n d '   u ' l o g '   u ' a u g u s t ' ]
+*Topic 7
+- [ u ' f o x '   u ' s o c i a l '   u ' e n g l i s h '   u ' n e w '   u ' d i g i t a l ' ]
+*Topic 8
+- [ u ' a p p l e '   u ' w a t c h '   u ' c h i n a '   u ' g o o d b y e '   u ' l o v e ' ]
+*Topic 9
+- [ u ' t e c h '   u ' s e r v i c e '   u ' t i n d e r '   u ' l o v e '   u ' i n n o v a t i v e ' ]
+*Topic 10
+- [ u ' p u b l i c '   u ' r o s a '   u ' s m i t h '   u ' c e d a r '   u ' e x p l o d e ' ]
+*Topic 11
+- [ u ' r e v e n g e '   u ' r i c h e s t '   u ' c a r e '   u ' p a r s e '   u ' c a l i f o r n i a ' ]
+*Topic 12
+- [ u ' k i l l e r '   u ' s t u a r t '   u ' e m a i l '   u ' s h a r e '   u ' a u s t r a l i a ' ]
+*Topic 13
+- [ u ' a n c e s t r y '   u ' l e d '   u ' a w a k e '   u ' e x p e r i e n c e '   u ' l o g ' ]
+*Topic 14
+- [ u ' r e a d '   u ' s e r i o u s l y '   u ' d e l l '   u ' g o o d b y e '   u ' c a b l e ' ]
+numFiles: 17
+C:\Users\William\Desktop\CS491Proj\corpus\news\'You are all influencers'  How lesbians in tech are gaining ground - Apr. 13, 2015.htm file most likely: 9
+	 with: 0.29756097561
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\15 Questions with Eileen Carey and Lauren Mosenthal - CNNMoney.htm file most likely: 6
+	 with: 0.354385964912
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\A new crisis is brewing between two nuclear-armed neighbors.htm file most likely: 10
+	 with: 0.44
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Beehive raises a record-breaking $10 million - Apr. 13, 2015.htm file most likely: 9
+	 with: 0.312820512821
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google doesn't care where you went to college - Apr. 9, 2015.htm file most likely: 9
+	 with: 0.348571428571
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google Fiber heading to Salt Lake City - Mar. 24, 2015.htm file most likely: 9
+	 with: 0.67619047619
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google strikes back at Wall Street Journal - with a laughing baby - Mar. 27, 2015.htm file most likely: 9
+	 with: 0.491891891892
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Here's what it's like to shop for Apple Watch - Video - Technology.htm file most likely: 0
+	 with: 0.364102564103
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\L.A. to control all its streelights with a single laptop - Apr. 10, 2015.htm file most likely: 9
+	 with: 0.387234042553
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly 1 million new malware threats released every day - Apr. 14, 2015.htm file most likely: 9
+	 with: 0.489655172414
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly 90% of Americans now have health insurance - Apr. 13, 2015.htm file most likely: 2
+	 with: 0.377777777778
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\New Ford car automatically obeys speed limits - Mar. 25, 2015.htm file most likely: 5
+	 with: 0.582222222222
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Revenge porn could get you two years in jail *Topic 0
+- [ u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e '   u ' b a t s ' ]
+*Topic 1
+- [ u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e '   u ' b a t s ' ]
+*Topic 2
+- [ u ' s t a n d a r d '   u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e ' ]
+*Topic 3
+- [ u ' r e l a t e d '   u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e ' ]
+*Topic 4
+- [ u ' i n n o v a t i v e '   u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' b a t s ' ]
+*Topic 5
+- [ u ' s t a n d a r d '   u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e ' ]
+*Topic 6
+- [ u ' s e r v i c e '   u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e ' ]
+*Topic 7
+- [ u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e '   u ' b a t s ' ]
+*Topic 8
+- [ u ' p o o r '   u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e ' ]
+*Topic 9
+- [ u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e '   u ' b a t s ' ]
+*Topic 10
+- [ u ' m a r k e t '   u ' t i n d e r '   u ' t e c h '   u ' l o v e '   u ' d i s c l a i m e r ' ]
+*Topic 11
+- [ u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e '   u ' b a t s ' ]
+*Topic 12
+- [ u ' a p p l e '   u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e ' ]
+*Topic 13
+- [ u ' i n n o v a t i v e '   u ' w a t c h '   u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r ' ]
+*Topic 14
+- [ u ' b a t s '   u ' d i s c l a i m e r '   u ' m a r k e t '   u ' t i n d e r '   u ' i n n o v a t i v e ' ]
+numFiles: 2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Here's what it's like to shop for Apple Watch - Video - Technology.htm file most likely: 10
+	 with: 0.210256410256
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Which $200 laptop is right for you  - Video - Technology.htm file most likely: 10
+	 with: 0.264516129032
+	 most probable topic is:10
+*Topic 0
+- [ u ' i n n o v a t i v e '   u ' t e c h '   u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r ' ]
+*Topic 1
+- [ u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r '   u ' w a t c h '   u ' k i l l e r ' ]
+*Topic 2
+- [ u ' e n g l i s h '   u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r '   u ' w a t c h ' ]
+*Topic 3
+- [ u ' t i n d e r '   u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r '   u ' w a t c h ' ]
+*Topic 4
+- [ u ' e n t r e p r e n e u r '   u ' g o o d b y e '   u ' c h i n a '   u ' w a t c h '   u ' k i l l e r ' ]
+*Topic 5
+- [ u ' l o v e '   u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r '   u ' w a t c h ' ]
+*Topic 6
+- [ u ' p u b l i c '   u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r '   u ' w a t c h ' ]
+*Topic 7
+- [ u ' w a t c h '   u ' k i l l e r '   u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r ' ]
+*Topic 8
+- [ u ' a p p l e '   u ' c h i n a '   u ' g o o d b y e '   u ' e n t r e p r e n e u r '   u ' w a t c h ' ]
+*Topic 9
+- [ u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r '   u ' w a t c h '   u ' k i l l e r ' ]
+*Topic 10
+- [ u ' c h i n a '   u ' g o o d b y e '   u ' e n t r e p r e n e u r '   u ' w a t c h '   u ' k i l l e r ' ]
+*Topic 11
+- [ u ' t i n d e r '   u ' r u s s i a n '   u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r ' ]
+*Topic 12
+- [ u ' p u b l i c '   u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r '   u ' w a t c h ' ]
+*Topic 13
+- [ u ' g o o d b y e '   u ' c h i n a '   u ' e n t r e p r e n e u r '   u ' w a t c h '   u ' k i l l e r ' ]
+*Topic 14
+- [ u ' g o o d b y e '   u ' s e r v i c e '   u ' c h i n a '   u ' e n t r e p r e n e u r '   u ' w a t c h ' ]
+numFiles: 2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Siri gets a new voice in Apple's iOS 8.3 update - Apr. 9, 2015.htm file most likely: 8
+	 with: 0.430303030303
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\You'll be able to rent an Apple Watch -- but should you  - Apr. 14, 2015.htm file most likely: 8
+	 with: 0.44
+	 most probable topic is:8
+*Topic 0
+- [ u ' l e d '   u ' c l e v e l a n d '   u ' s t u a r t '   u ' r o s a '   u ' h u m a n ' ]
+*Topic 1
+- [ u ' h u m a n '   u ' c e d a r '   u ' r e l a t e d '   u ' s e r i o u s l y '   u ' c l e v e l a n d ' ]
+*Topic 2
+- [ u ' p u b l i c '   u ' a u s t r a l i a '   u ' a n d e r s o n '   u ' s e r v i c e '   u ' c a r e ' ]
+*Topic 3
+- [ u ' a n c e s t r y '   u ' w a t c h '   u ' s e r i o u s l y '   u ' c h i n a '   u ' h u m a n ' ]
+*Topic 4
+- [ u ' j o u r n a l '   u ' w h e t s t o n e '   u ' h u m a n '   u ' b a n k '   u ' s e r i o u s l y ' ]
+*Topic 5
+- [ u ' n e t h e r l a n d s '   u ' f l o w '   u ' c e d a r '   u ' h u m a n '   u ' b a n k ' ]
+*Topic 6
+- [ u ' c h r i s t m a s '   u ' c a b l e '   u ' e x p l o d e '   u ' c e d a r '   u ' r e l a t e d ' ]
+*Topic 7
+- [ u ' s c a m '   u ' a m a z o n '   u ' h u m a n '   u ' t r u l y '   u ' p u b l i c ' ]
+*Topic 8
+- [ u ' n e t h e r l a n d s '   u ' n e w '   u ' e x p e r i e n c e '   u ' d i g i t a l '   u ' h a r v a r d ' ]
+*Topic 9
+- [ u ' b a n k '   u ' s m i t h '   u ' r e v e n g e '   u ' h u m a n '   u ' r e l a t e d ' ]
+*Topic 10
+- [ u ' l o g '   u ' b u r e a u '   u ' s e r v i c e '   u ' b r a i n t e a s e r s '   u ' c a l i f o r n i a ' ]
+*Topic 11
+- [ u ' r i c h e s t '   u ' c a r e '   u ' a p p l e '   u ' i n n o v a t i v e '   u ' s e x u a l ' ]
+*Topic 12
+- [ u ' s o c i a l '   u ' t r e a s u r y '   u ' s h a r e '   u ' h u m a n '   u ' p u b l i c ' ]
+*Topic 13
+- [ u ' t e c h '   u ' l o v e '   u ' c r e d i t '   u ' a m e r i c a '   u ' t i n d e r ' ]
+*Topic 14
+- [ u ' a p p l e '   u ' a w a k e '   u ' d e l l '   u ' r e a d '   u ' h u m a n ' ]
+numFiles: 8
+C:\Users\William\Desktop\CS491Proj\corpus\news\'You are all influencers'  How lesbians in tech are gaining ground - Apr. 13, 2015.htm file most likely: 13
+	 with: 0.492682926829
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Beehive raises a record-breaking $10 million - Apr. 13, 2015.htm file most likely: 13
+	 with: 0.364102564103
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google doesn't care where you went to college - Apr. 9, 2015.htm file most likely: 13
+	 with: 0.405714285714
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google Fiber heading to Salt Lake City - Mar. 24, 2015.htm file most likely: 13
+	 with: 0.866666666667
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google strikes back at Wall Street Journal - with a laughing baby - Mar. 27, 2015.htm file most likely: 13
+	 with: 0.491891891892
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\L.A. to control all its streelights with a single laptop - Apr. 10, 2015.htm file most likely: 13
+	 with: 0.344680851064
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly 1 million new malware threats released every day - Apr. 14, 2015.htm file most likely: 13
+	 with: 0.489655172414
+	 most probable topic is:13
+C:\Users\William\Desktop\CS491Proj\corpus\news\Watch a chimp knock down a drone - Apr. 13, 2015.htm file most likely: 13
+	 with: 0.490909090909
+	 most probable topic is:13
+in England - Apr. 13, 2015.htm file most likely: 4
+	 with: 0.494339622642
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Siri gets a new voice in Apple's iOS 8.3 update - Apr. 9, 2015.htm file most likely: 8
+	 with: 0.490909090909
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Watch a chimp knock down a drone - Apr. 13, 2015.htm file most likely: 9
+	 with: 0.490909090909
+	 most probable topic is:9
+C:\Users\William\Desktop\CS491Proj\corpus\news\Which $200 laptop is right for you  - Video - Technology.htm file most likely: 0
+	 with: 0.458064516129
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\You'll be able to rent an Apple Watch -- but should you  - Apr. 14, 2015.htm file most likely: 8
+	 with: 0.694545454545
+	 most probable topic is:8
+*Topic 0
+- [ u ' l i b y a '   u ' u k r a i n e '   u ' y e m e n '   u ' p o i s e d '   u ' r u s s i a n ' ]
+*Topic 1
+- [ u ' d r o n e s '   u ' q a t a r '   u ' i r a n '   u ' c i v i l i a n s '   u ' r e f i n e r y ' ]
+*Topic 2
+- [ u ' l i b y a '   u ' c o n a k r y '   u ' w e s t '   u ' g a b o n '   u ' w i s c o n s i n ' ]
+*Topic 3
+- [ u ' j a p a n e s e '   u ' l o n d o n '   u ' f r e n c h '   u ' q u i e t '   u ' a m e r i c a ' ]
+*Topic 4
+- [ u ' r u s s i a '   u ' y e m e n '   u ' m o d e r n '   u ' c l i m a t e '   u ' r u s s i a n ' ]
+*Topic 5
+- [ u ' p r i s o n '   u ' w i s c o n s i n '   u ' q u e l l '   u ' a m e r i c a '   u ' u k r a i n e ' ]
+*Topic 6
+- [ u ' m i d a i r '   u ' d r o n e s '   u ' d r y '   u ' a c c i d e n t a l '   u ' c a m e r o n ' ]
+*Topic 7
+- [ u ' d i e '   u ' o i l '   u ' w i s c o n s i n '   u ' r u s s i a n '   u ' a m e r i c a ' ]
+*Topic 8
+- [ u ' r u s s i a '   u ' p r i s o n '   u ' p a r t y '   u ' b a l l o o n s '   u ' d i e ' ]
+*Topic 9
+- [ u ' r e l e a s e '   u ' a e r i a l '   u ' a r m s '   u ' a r m y '   u ' s i e r r a ' ]
+*Topic 10
+- [ u ' y e m e n '   u ' l i s t '   u ' s y r i a '   u ' p i l e s '   u ' r u b b l e ' ]
+*Topic 11
+- [ u ' t u r k e y '   u ' p o p e '   u ' c o n s t a n t '   u ' f r a n c e '   u ' c h a r g e ' ]
+*Topic 12
+- [ u ' g u i n e a '   u ' b r o k e n '   u ' l o c a l '   u ' n a t i o n a l '   u ' s a n c t i o n s ' ]
+*Topic 13
+- [ u ' l i b y a '   u ' u k r a i n e '   u ' r e l e a s e '   u ' i s l a m i c '   u ' s c o t l a n d ' ]
+*Topic 14
+- [ u ' a m e r i c a '   u ' m e x i c o '   u ' i s l a m i c '   u ' q u e l l '   u ' r u s s i a n ' ]
+numFiles: 51
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Missouri Death Row Inmate is Waiting for the Phone Call That Decides if He Lives or Dies Tonight _ VICE News.htm file most likely: 4
+	 with: 0.556435643564
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\A US Government Agency Quietly Acknowledged That Marijuana May Help Fight Brain Tumors _ VICE News.htm file most likely: 0
+	 with: 0.668571428571
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\After Walter Scott Killing, Black Lives Matter Movement Calls For Citizen Oversight of Police _ VICE News.htm file most likely: 0
+	 with: 0.66213592233
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Al Shabaab Fighters Storm Higher Education Ministry in Mogadishu, Killing at Least 10 _ VICE News.htm file most likely: 4
+	 with: 0.362162162162
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\AQAP leader killed in Yemen, group says - CNN.com.htm file most likely: 10
+	 with: 0.813333333333
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Arab Leaders Agree to Create Joint Military Force to Counter 'Unprecedented Unrest' _ VICE News.htm file most likely: 4
+	 with: 0.469158878505
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bangladesh Ignored Pleas from the US, EU, and UN and Hanged an Alleged War Criminal _ VICE News.htm file most likely: 0
+	 with: 0.693457943925
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Being a Woman Doesn’t Guarantee Hillary Clinton the 'Women’s Vote' in 2016 _ VICE News.htm file most likely: 4
+	 with: 0.565048543689
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bodies of Five Aid Workers From Save the Children Found After Violent Week in Afghanistan _ VICE News.htm file most likely: 0
+	 with: 0.630476190476
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\China Accused of Doling Out Counterfeit Digital Certificates in 'Serious' Web Security Breach _ VICE News.htm file most likely: 4
+	 with: 0.545631067961
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\China Is Poised to Overtake the US as the Biggest Modern Contributor to Climate Change _ VICE News.htm file most likely: 4
+	 with: 0.497435897436
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Classes Resume in Sierra Leone After Ebola Crisis — But Pregnant Teens Are Banned _ VICE News.htm file most likely: 4
+	 with: 0.581308411215
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Conspiracy Theorists Think an Army Training Exercise Will Bring Martial Law to the US This Summer _ VICE News.htm file most likely: 4
+	 with: 0.536633663366
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Countryside Near London's Gatwick Airport Might Be Hiding Billions of Extra Barrels of Oil _ VICE News.htm file most likely: 4
+	 with: 0.442201834862
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Detroit Officers Indicted for Fake Drug Busts, Cocaine Possession, and Extortion _ VICE News.htm file most likely: 4
+	 with: 0.533944954128
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters.htm file most likely: 10
+	 with: 0.6
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\French Prime Minister Swears Proposed Spying Law Won’t Lead to 'Widespread Surveillance of Civilians' _ VICE News.htm file most likely: 0
+	 with: 0.615841584158
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Guinea’s Opposition Leader Describes Police Firing Tear Gas and AK-47s at Protests _ VICE News.htm file most likely: 12
+	 with: 0.522580645161
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\How the Jalisco New Generation Cartel Is Terrorizing the People of Western Mexico _ VICE News.htm file most likely: 4
+	 with: 0.565048543689
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\In a Move That Everyone Is Sure to Like, Russia Might Have Just Banned Internet Porn _ VICE News.htm file most likely: 4
+	 with: 0.382857142857
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\In Photos  The Sudanese Refugees Who Fled Intense Fighting and Aerial Bombardment _ VICE News.htm file most likely: 4
+	 with: 0.506306306306
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Is It Okay to Drill in the Arctic  It's Complicated, According to the Obama Administration _ VICE News.htm file most likely: 0
+	 with: 0.603883495146
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Malaysia Reintroduces Indefinite Detention to Stop 'Terrorists' — and Maybe to Quell Opposition _ VICE News.htm file most likely: 4
+	 with: 0.545631067961
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Meet Cook County Sheriff Tom Dart, the Man Who Runs America's Largest Mental Healthcare Provider _ VICE News.htm file most likely: 0
+	 with: 0.69504950495
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Mexican Workers at Canadian Mines Are Under Constant Threat of Cartel Kidnappings, Killings _ VICE News.htm file most likely: 4
+	 with: 0.497142857143
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Morocco’s New Elite Investigative Unit Has Dismantled an Islamic State-Linked Terror Cell _ VICE News.htm file most likely: 4
+	 with: 0.460550458716
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly Five Years After the BP Spill, Animals Are Still Dying in the Gulf of Mexico _ VICE News.htm file most likely: 4
+	 with: 0.497142857143
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Korea's 'Rubber Stamp' Parliament Meets as UN Warns of Malnutrition _ VICE News.htm file most likely: 4
+	 with: 0.497345132743
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\One Dead After Blast Causes Panicked Kenyan Students to Leap From Windows Amid al Shabaab Fears _ VICE News.htm file most likely: 0
+	 with: 0.69504950495
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pentagon Panel Proposes Sweeping Changes that Could Impact Guantanamo Force-Feeding _ VICE News.htm file most likely: 0
+	 with: 0.668571428571
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Police in India Now Have Drones That Can Shower Unruly Crowds With Pepper Spray _ VICE News.htm file most likely: 4
+	 with: 0.51452991453
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Prison time for some Atlanta school educators in cheating scandal - CNN.com.htm file most likely: 5
+	 with: 0.466666666667
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protesters Torch Embassy and Houses in Gabon After Opposition Leader's Death _ VICE News.htm file most likely: 4
+	 with: 0.532743362832
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\South Carolina Cop Charged With Murder After Video Shows Him Shooting Unarmed Black Man in the Back _ VICE News.htm file most likely: 4
+	 with: 0.576237623762
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\South Carolina Cop Laughed About Adrenaline Rush After Fatally Shooting Walter Scott _ VICE News.htm file most likely: 4
+	 with: 0.543925233645
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Beijing Five  Calls Grow for Release of Chinese Feminists Held Without Charge _ VICE News.htm file most likely: 0
+	 with: 0.588990825688
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Chevron Tapes  Video Shows Oil Giant Allegedly Covering Up Amazon Contamination _ VICE News.htm file most likely: 4
+	 with: 0.554285714286
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Chibok Girls Abducted One Year Ago Are Just a Small Percentage of Boko Haram's Victims _ VICE News.htm file most likely: 0
+	 with: 0.573333333333
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The CIA Just Declassified the Document That Supposedly Justified the Iraq Invasion _ VICE News.htm file most likely: 0
+	 with: 0.668571428571
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Girls Who Escaped  One Year After the Boko Haram Kidnapping, Some Chibok Schoolgirls Have Left Nigeria _ VICE News.htm file most likely: 4
+	 with: 0.536633663366
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\The UK is Going to Send Billions in Arms Exports to Countries on the Human Rights Blacklist _ VICE News.htm file most likely: 0
+	 with: 0.623300970874
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\They Warned Iran's Ayatollah About a Deal on Nukes, Now the GOP Cautions the World on Climate Pact _ VICE News.htm file most likely: 0
+	 with: 0.567676767677
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turkey is Pissed at the Pope for Saying a WWI Massacre of Armenians Was Genocide _ VICE News.htm file most likely: 0
+	 with: 0.625688073394
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\UK's Cameron Casts Conservatives as 'the Party of Working People' With Controversial Housing Pledge _ VICE News.htm file most likely: 0
+	 with: 0.642718446602
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Undocumented Immigrants Pay Billions in Taxes to Fund Programs They’re Banned From Using _ VICE News.htm file most likely: 4
+	 with: 0.545631067961
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\US Army Will Investigate Allegations of Sexual Abuse by Soldiers and Contractors in Colombia _ VICE News.htm file most likely: 0
+	 with: 0.687619047619
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Cop Yell 'Fuck Your Breath' at Man Wounded by Shooting Deputy Claims Was Accidental _ VICE News.htm file most likely: 0
+	 with: 0.615841584158
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Islamic State Attacking Iraqi Refinery — But Their Oil Money Might be Running Dry _ VICE News.htm file most likely: 4
+	 with: 0.52523364486
+	 most probable topic is:4
+C:\Users\Willia*Topic 0
+- [ u ' r u s s i a '   u ' a r c t i c '   u ' p i l e s '   u ' b a l l o o n s '   u ' u k r a i n e ' ]
+*Topic 1
+- [ u ' q u i e t '   u ' s y r i a '   u ' c l i m a t e '   u ' a m e r i c a '   u ' r u s s i a n ' ]
+*Topic 2
+- [ u ' p o p e '   u ' r u s s i a '   u ' s y r i a '   u ' p o i s e d '   u ' a m e r i c a ' ]
+*Topic 3
+- [ u ' i r a n '   u ' s y r i a '   u ' p o i s e d '   u ' a m e r i c a '   u ' r u s s i a n ' ]
+*Topic 4
+- [ u ' y e m e n '   u ' t u r k e y '   u ' s y r i a '   u ' p o i s e d '   u ' a m e r i c a ' ]
+*Topic 5
+- [ u ' h a n g e d '   u ' a r m s '   u ' s y r i a '   u ' a m e r i c a '   u ' r u s s i a n ' ]
+*Topic 6
+- [ u ' i s l a m i c '   u ' y e m e n '   u ' b a t t l e '   u ' g u i n e a '   u ' s i e g e ' ]
+*Topic 7
+- [ u ' r e l e a s e '   u ' s y r i a '   u ' c l i m a t e '   u ' a m e r i c a '   u ' r u s s i a n ' ]
+*Topic 8
+- [ u ' u k r a i n e '   u ' r u s s i a '   u ' m o d e r n '   u ' r u s s i a n '   u ' c o n s t a n t ' ]
+*Topic 9
+- [ u ' s y r i a '   u ' a r m y '   u ' c i v i l i a n s '   u ' f r e n c h '   u ' i n d i a ' ]
+*Topic 10
+- [ u ' c l i m a t e '   u ' m i d a i r '   u ' p i l e s '   u ' u k r a i n e '   u ' a m e r i c a ' ]
+*Topic 11
+- [ u ' q u e l l '   u ' m i d a i r '   u ' c h a r g e '   u ' s y r i a '   u ' p o i s e d ' ]
+*Topic 12
+- [ u ' l i b y a '   u ' p r i s o n '   u ' p o i s e d '   u ' c l i m a t e '   u ' r e l e a s e ' ]
+*Topic 13
+- [ u ' r u b b l e '   u ' d r o n e s '   u ' s y r i a '   u ' p o i s e d '   u ' a m e r i c a ' ]
+*Topic 14
+- [ u ' d r o n e s '   u ' u n '   u ' a c c i d e n t a l '   u ' s y r i a '   u ' b a l l o o n s ' ]
+numFiles: 19
+C:\Users\William\Desktop\CS491Proj\corpus\news\A US Government Agency Quietly Acknowledged That Marijuana May Help Fight Brain Tumors _ VICE News.htm file most likely: 12
+	 with: 0.554285714286
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\After Walter Scott Killing, Black Lives Matter Movement Calls For Citizen Oversight of Police _ VICE News.htm file most likely: 12
+	 with: 0.506796116505
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bangladesh Ignored Pleas from the US, EU, and UN and Hanged an Alleged War Criminal _ VICE News.htm file most likely: 12
+	 with: 0.48785046729
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bodies of Five Aid Workers From Save the Children Found After Violent Week in Afghanistan _ VICE News.htm file most likely: 12
+	 with: 0.51619047619
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\French Prime Minister Swears Proposed Spying Law Won’t Lead to 'Widespread Surveillance of Civilians' _ VICE News.htm file most likely: 12
+	 with: 0.457425742574
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Is It Okay to Drill in the Arctic  It's Complicated, According to the Obama Administration _ VICE News.htm file most likely: 12
+	 with: 0.506796116505
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Meet Cook County Sheriff Tom Dart, the Man Who Runs America's Largest Mental Healthcare Provider _ VICE News.htm file most likely: 12
+	 with: 0.49702970297
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\One Dead After Blast Causes Panicked Kenyan Students to Leap From Windows Amid al Shabaab Fears _ VICE News.htm file most likely: 12
+	 with: 0.516831683168
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pentagon Panel Proposes Sweeping Changes that Could Impact Guantanamo Force-Feeding _ VICE News.htm file most likely: 12
+	 with: 0.535238095238
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Beijing Five  Calls Grow for Release of Chinese Feminists Held Without Charge _ VICE News.htm file most likely: 12
+	 with: 0.478899082569
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Chibok Girls Abducted One Year Ago Are Just a Small Percentage of Boko Haram's Victims _ VICE News.htm file most likely: 12
+	 with: 0.51619047619
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\The CIA Just Declassified the Document That Supposedly Justified the Iraq Invasion _ VICE News.htm file most likely: 12
+	 with: 0.554285714286
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\The UK is Going to Send Billions in Arms Exports to Countries on the Human Rights Blacklist _ VICE News.htm file most likely: 12
+	 with: 0.467961165049
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\They Warned Iran's Ayatollah About a Deal on Nukes, Now the GOP Cautions the World on Climate Pact _ VICE News.htm file most likely: 12
+	 with: 0.446464646465
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turkey is Pissed at the Pope for Saying a WWI Massacre of Armenians Was Genocide _ VICE News.htm file most likely: 12
+	 with: 0.460550458716
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\UK's Cameron Casts Conservatives as 'the Party of Working People' With Controversial Housing Pledge _ VICE News.htm file most likely: 12
+	 with: 0.526213592233
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\US Army Will Investigate Allegations of Sexual Abuse by Soldiers and Contractors in Colombia _ VICE News.htm file most likely: 12
+	 with: 0.535238095238
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Cop Yell 'Fuck Your Breath' at Man Wounded by Shooting Deputy Claims Was Accidental _ VICE News.htm file most likely: 12
+	 with: 0.457425742574
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Syria’s Yarmouk Refugee Camp Reduced to Piles of Smoldering Rubble _ VICE News.htm file most likely: 12
+	 with: 0.47027027027
+	 most probable topic is:12
+*Topic 0
+- [ u ' m i d a i r '   u ' i n d i a '   u ' r e f i n e r y '   u ' w i s c o n s i n '   u ' b a l l o o n s ' ]
+*Topic 1
+- [ u ' r u s s i a n '   u ' c e l l '   u ' a e r i a l '   u ' w i s c o n s i n '   u ' p o i s e d ' ]
+*Topic 2
+- [ u ' l i b y a '   u ' q a t a r '   u ' a m e r i c a '   u ' m e x i c o '   u ' a r a b ' ]
+*Topic 3
+- [ u ' w i s c o n s i n '   u ' d r y '   u ' r u s s i a n '   u ' s c o t l a n d '   u ' b a l l o o n s ' ]
+*Topic 4
+- [ u ' r u s s i a '   u ' y e m e n '   u ' u k r a i n e '   u ' i s l a m i c '   u ' p o i s e d ' ]
+*Topic 5
+- [ u ' r e l e a s e '   u ' m a l n u t r i t i o n '   u ' l o n d o n '   u ' w i s c o n s i n '   u ' b a l l o o n s ' ]
+*Topic 6
+- [ u ' u k r a i n e '   u ' q u e l l '   u ' b a n n e d '   u ' w i s c o n s i n '   u ' b a l l o o n s ' ]
+*Topic 7
+- [ u ' c l i m a t e '   u ' i r a q i '   u ' o i l '   u ' p o i s e d '   u ' u k r a i n e ' ]
+*Topic 8
+- [ u ' y e m e n '   u ' m o d e r n '   u ' p o p e '   u ' g a b o n '   u ' b a l l o o n s ' ]
+*Topic 9
+- [ u ' l i b y a '   u ' p o p e '   u ' f r a n c e '   u ' b a t t l e '   u ' w i s c o n s i n ' ]
+*Topic 10
+- [ u ' l i b y a '   u ' c l i m a t e '   u ' r u s s i a n '   u ' g u i n e a '   u ' q u i e t ' ]
+*Topic 11
+- [ u ' c o u n t r y '   u ' w i s c o n s i n '   u ' s a n c t i o n s '   u ' c l i m a t e '   u ' u k r a i n e ' ]
+*Topic 12
+- [ u ' d r o n e s '   u ' w i s c o n s i n '   u ' b a l l o o n s '   u ' c l i m a t e '   u ' u k r a i n e ' ]
+*Topic 13
+- [ u ' u k r a i n e '   u ' w i s c o n s i n '   u ' b a l l o o n s '   u ' c l i m a t e '   u ' a m e r i c a ' ]
+*Topic 14
+- [ u ' c h i n a '   u ' l i b y a '   u ' c a m e r o n '   u ' m o d e r n '   u ' i n d i a ' ]
+numFiles: 28
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Missouri Death Row Inmate is Waiting for the Phone Call That Decides if He Lives or Dies Tonight _ VICE News.htm file most likely: 4
+	 with: 0.536633663366
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Al Shabaab Fighters Storm Higher Education Ministry in Mogadishu, Killing at Least 10 _ VICE News.htm file most likely: 4
+	 with: 0.524324324324
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Arab Leaders Agree to Create Joint Military Force to Counter 'Unprecedented Unrest' _ VICE News.htm file most likely: 4
+	 with: 0.543925233645
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Being a Woman Doesn’t Guarantee Hillary Clinton the 'Women’s Vote' in 2016 _ VICE News.htm file most likely: 4
+	 with: 0.545631067961
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\China Accused of Doling Out Counterfeit Digital Certificates in 'Serious' Web Security Breach _ VICE News.htm file most likely: 4
+	 with: 0.545631067961
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\China Is Poised to Overtake the US as the Biggest Modern Contributor to Climate Change _ VICE News.htm file most likely: 4
+	 with: 0.51452991453
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Classes Resume in Sierra Leone After Ebola Crisis — But Pregnant Teens Are Banned _ VICE News.htm file most likely: 4
+	 with: 0.543925233645
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Conspiracy Theorists Think an Army Training Exercise Will Bring Martial Law to the US This Summer _ VICE News.htm file most likely: 4
+	 with: 0.516831683168
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Countryside Near London's Gatwick Airport Might Be Hiding Billions of Extra Barrels of Oil _ VICE News.htm file most likely: 4
+	 with: 0.515596330275
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Detroit Officers Indicted for Fake Drug Busts, Cocaine Possession, and Extortion _ VICE News.htm file most likely: 4
+	 with: 0.533944954128
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\How the Jalisco New Generation Cartel Is Terrorizing the People of Western Mexico _ VICE News.htm file most likely: 4
+	 with: 0.545631067961
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\In a Move That Everyone Is Sure to Like, Russia Might Have Just Banned Internet Porn _ VICE News.htm file most likely: 4
+	 with: 0.554285714286
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\In Photos  The Sudanese Refugees Who Fled Intense Fighting and Aerial Bombardment _ VICE News.htm file most likely: 4
+	 with: 0.524324324324
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Malaysia Reintroduces Indefinite Detention to Stop 'Terrorists' — and Maybe to Quell Opposition _ VICE News.htm file most likely: 4
+	 with: 0.526213592233
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Mexican Workers at Canadian Mines Are Under Constant Threat of Cartel Kidnappings, Killings _ VICE News.htm file most likely: 4
+	 with: 0.497142857143
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Morocco’s New Elite Investigative Unit Has Dismantled an Islamic State-Linked Terror Cell _ VICE News.htm file most likely: 4
+	 with: 0.552293577982
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly Five Years After the BP Spill, Animals Are Still Dying in the Gulf of Mexico _ VICE News.htm file most likely: 4
+	 with: 0.51619047619
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Korea's 'Rubber Stamp' Parliament Meets as UN Warns of Malnutrition _ VICE News.htm file most likely: 4
+	 with: 0.532743362832
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Police in India Now Have Drones That Can Shower Unruly Crowds With Pepper Spray _ VICE News.htm file most likely: 4
+	 with: 0.51452991453
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protesters Torch Embassy and Houses in Gabon After Opposition Leader's Death _ VICE News.htm file most likely: 4
+	 with: 0.444247787611
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\South Carolina Cop Charged With Murder After Video Shows Him Shooting Unarmed Black Man in the Back _ VICE News.htm file most likely: 4
+	 with: 0.536633663366
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\South Carolina Cop Laughed About Adrenaline Rush After Fatally Shooting Walter Scott _ VICE News.htm file most likely: 4
+	 with: 0.56261682243
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Chevron Tapes  Video Shows Oil Giant Allegedly Covering Up Amazon Contamination _ VICE News.htm file most likely: 4
+	 with: 0.535238095238
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Girls Who Escaped  One Year After the Boko Haram Kidnapping, Some Chibok Schoolgirls Have Left Nigeria _ VICE News.htm file most likely: 4
+	 with: 0.556435643564
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Undocumented Immigrants Pay Billions in Taxes to Fund Programs They’re Banned From Using _ VICE News.htm file most likely: 4
+	 with: 0.545631067961
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Islamic State Attacking Iraqi Refinery — But Their Oil Money Might be Running Dry _ VICE News.htm file most likely: 4
+	 with: 0.48785046729
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Man Tased By Former North Charleston Cop Michael Slager in August _ VICE News.htm file most likely: 4
+	 with: 0.532743362832
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wisconsin's Giving Florida a Run for Its Money When it Comes to Denying Climate Change _ VICE News.htm file most likely: 4
+	 with: 0.52523364486
+	 most probable topic is:4
+*Topic 0
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 1
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 2
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 3
+- [ u ' l i s t '   u ' e g y p t '   u ' g e o r g e '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 4
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 5
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 6
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 7
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 8
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 9
+- [ u ' g e o r g e '   u ' a r a b i a n '   u ' e g y p t '   u ' l i s t '   u ' y e m e n ' ]
+*Topic 10
+- [ u ' y e m e n '   u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' a r a b i a n ' ]
+*Topic 11
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 12
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 13
+- [ u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' y e m e n '   u ' a r a b i a n ' ]
+*Topic 14
+- [ u ' y e m e n '   u ' e g y p t '   u ' g e o r g e '   u ' l i s t '   u ' a r a b i a n ' ]
+numFiles: 2
+C:\Users\William\Desktop\CS491Proj\corpus\news\AQAP leader killed in Yemen, group says - CNN.com.htm file most likely: 14
+	 with: 0.413333333333
+	 most probable topic is:14
+C:\Users\William\Desktop\CS491Proj\corpus\news\Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters.htm file most likely: 10
+	 with: 0.314285714286
+	 most probable topic is:10
+m\Desktop\CS491Proj\corpus\news\Video Shows Man Tased By Former North Charleston Cop Michael Slager in August _ VICE News.htm file most likely: 4
+	 with: 0.479646017699
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Syria’s Yarmouk Refugee Camp Reduced to Piles of Smoldering Rubble _ VICE News.htm file most likely: 0
+	 with: 0.578378378378
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wisconsin's Giving Florida a Run for Its Money When it Comes to Denying Climate Change _ VICE News.htm file most likely: 4
+	 with: 0.543925233645
+	 most probable topic is:4
+*Topic 0
+- [ u ' p e b b l e '   u ' a p p l e '   u ' l o v e '   u ' p u b l i c '   u ' t r u l y ' ]
+*Topic 1
+- [ u ' u s '   u ' c l i c k '   u ' b i z a r r e '   u ' p r a g u e '   u ' w h i p l a s h ' ]
+*Topic 2
+- [ u ' c a m p e r '   u ' v i n y l '   u ' a m e r i c a n '   u ' m u s t a n g s '   u ' l o n d o n ' ]
+*Topic 3
+- [ u ' d a v i d '   u ' p a r i s '   u ' m e a t '   u ' w h o a '   u ' c r e d i t ' ]
+*Topic 4
+- [ u ' e u r o p e a n '   u ' c a r s '   u ' b r o o k l y n '   u ' s i m p l e '   u ' h a b e r d a s h e r y ' ]
+*Topic 5
+- [ u ' m e t a l '   u ' w h o a '   u ' l o v e '   u ' h a b e r d a s h e r y '   u ' p u b l i c ' ]
+*Topic 6
+- [ u ' u s '   u ' s e a s o n '   u ' s o n g '   u ' w h o a '   u ' d a t a ' ]
+*Topic 7
+- [ u ' d a t a '   u ' t i n d e r '   u ' i n n o v a t i v e '   u ' b i l l '   u ' e t ' ]
+*Topic 8
+- [ u ' b i z a r r e '   u ' b r e a s t '   u ' h a b e r d a s h e r y '   u ' v a s e '   u ' s i m p l e ' ]
+*Topic 9
+- [ u ' a p p l e '   u ' s a t a n '   u ' c a r d b o a r d '   u ' v e r y '   u ' s o v i e t ' ]
+*Topic 10
+- [ u ' n i g h t c l u b '   u ' w h o a '   u ' l o v e '   u ' h a b e r d a s h e r y '   u ' p u b l i c ' ]
+*Topic 11
+- [ u ' p a u s e '   u ' e a r l '   u ' p i p e r '   u ' l a r r y '   u ' t r a i l e r s ' ]
+*Topic 12
+- [ u ' c r e d i t '   u ' s e r v i c e '   u ' c a m p i n g '   u ' c a s s e t t e '   u ' m e a t ' ]
+*Topic 13
+- [ u ' r o c k e t '   u ' h a r d '   u ' o b s e s s i o n s '   u ' s p y '   u ' h u m a n i t y ' ]
+*Topic 14
+- [ u ' b r o o k l y n '   u ' w o o d '   u ' d o p e '   u ' b r i l l i a n t l y '   u ' a m e r i c a n ' ]
+numFiles: 4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Old-School Cool  Charming Toy Cars Made of Nothin' But Wood _ WIRED.htm file most likely: 2
+	 with: 0.288888888889
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pebble Time's Kickstarter project raised more than $20.3 million and broke two Kickstarter records - Mar. 27, 2015.htm file most likely: 0
+	 with: 0.63137254902
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Bizarre Window Displays of Soviet Europe _ WIRED.htm file most likely: 1
+	 with: 0.350724637681
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\This Week's Trailers  True Detective Leaves Us Guessing _ WIRED.htm file most likely: 11
+	 with: 0.338947368421
+	 most probable topic is:11
+*Topic 0
+- [ u ' p i n '   u ' h o m e '   u ' s p a n i s h '   u ' u s '   u ' l e e d s ' ]
+*Topic 1
+- [ u ' s p a n i s h '   u ' v i r t u a l '   u ' f i e l d w o r k '   u ' r o c k e t '   u ' h o o k ' ]
+*Topic 2
+- [ u ' c h i p '   u ' u s '   u ' a p p l e '   u ' c l i c k '   u ' c a n a d a ' ]
+*Topic 3
+- [ u ' h a r d '   u ' f i e l d w o r k '   u ' u n i v e r s i t y '   u ' c a l i f o r n i a '   u ' s p a n i s h ' ]
+*Topic 4
+- [ u ' s p a n i s h '   u ' v i r t u a l '   u ' f i e l d w o r k '   u ' r o c k e t '   u ' h o o k ' ]
+*Topic 5
+- [ u ' c l i c k '   u ' r o c k e t '   u ' s p a n i s h '   u ' c a l i f o r n i a '   u ' f i e l d w o r k ' ]
+*Topic 6
+- [ u ' t a r g e t '   u ' s p a n i s h '   u ' c a l i f o r n i a '   u ' f i e l d w o r k '   u ' r o c k e t ' ]
+*Topic 7
+- [ u ' u s '   u ' e u r o p e '   u ' o b s e s s i o n s '   u ' s p a n i s h '   u ' l e e d s ' ]
+*Topic 8
+- [ u ' s p a n i s h '   u ' l i s t '   u ' c a l i f o r n i a '   u ' f i e l d w o r k '   u ' r o c k e t ' ]
+*Topic 9
+- [ u ' e a r t h '   u ' p u m p e d '   u ' v i r t u a l '   u ' f i e l d w o r k '   u ' r o c k e t ' ]
+*Topic 10
+- [ u ' a m a z o n '   u ' b r a z i l '   u ' p e r u '   u ' p e t e r '   u ' l e e d s ' ]
+*Topic 11
+- [ u ' m a d r i d '   u ' f a s t '   u ' s p a n i s h '   u ' u s '   u ' l e e d s ' ]
+*Topic 12
+- [ u ' v i r t u a l '   u ' s p a n i s h '   u ' f i e l d w o r k '   u ' r o c k e t '   u ' h o o k ' ]
+*Topic 13
+- [ u ' p h i l l i p s '   u ' u s '   u ' h o o k '   u ' m e s s '   u ' u n i v e r s i t y ' ]
+*Topic 14
+- [ u ' p i n '   u ' v i s a '   u ' u s '   u ' l e e d s '   u ' p u m p e d ' ]
+numFiles: 3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Global Warming Is Already Clobbering the Amazon _ WIRED.htm file most likely: 10
+	 with: 0.512781954887
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hacker Lexicon  What Are Chip and PIN Cards  _ WIRED.htm file most likely: 7
+	 with: 0.34623655914
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Spanish activists hold hologram protest in Madrid - CNN.com.htm file most likely: 8
+	 with: 0.381818181818
+	 most probable topic is:8
+*Topic 0
+- [ u ' b r i l l i a n t l y '   u ' c h r i s '   u ' d o t '   u ' j a c k s o n '   u ' g r e e n ' ]
+*Topic 1
+- [ u ' j a p a n e s e '   u ' g a l a x y '   u ' g e e k '   u ' g i a n t '   u ' b r i t a i n ' ]
+*Topic 2
+- [ u ' a n y o n e '   u ' m e d i c i n e '   u ' s e c u r i t y '   u ' j o k e '   u ' l e w i s ' ]
+*Topic 3
+- [ u ' a m a z o n '   u ' b r i t i s h '   u ' p o r t '   u ' f i r e '   u ' n e x t ' ]
+*Topic 4
+- [ u ' t h r o n e s '   u ' p a u s e '   u ' g r e a t '   u ' u n s u l l i e d '   u ' p l u s ' ]
+*Topic 5
+- [ u ' u s '   u ' c l i c k '   u ' r o c k e t '   u ' o b s e s s i o n s '   u ' a p p l e ' ]
+*Topic 6
+- [ u ' u s '   u ' c l i c k '   u ' a p p l e '   u ' h a r d '   u ' r o c k e t ' ]
+*Topic 7
+- [ u ' e n g l a n d '   u ' s p e c i a l i z e d '   u ' b u f f a l o '   u ' b o n d '   u ' v i n y l ' ]
+*Topic 8
+- [ u ' r a m '   u ' c o r e '   u ' b a t t e r y '   u ' s o l o '   u ' r e t i n a ' ]
+*Topic 9
+- [ u ' s m i t h '   u ' b e l o n g '   u ' i n t e r i o r '   u ' h e a l t h '   u ' n o n e ' ]
+*Topic 10
+- [ u ' o l i v e r '   u ' a m e r i c a n '   u ' a m e r i c a '   u ' w a r r a n t '   u ' d a v i d ' ]
+*Topic 11
+- [ u ' b r o o k l y n '   u ' f o u r t h '   u ' r o b o t '   u ' f a c t o r y '   u ' e l l i s ' ]
+*Topic 12
+- [ u ' s o l o '   u ' s h a r p '   u ' l i n c o l n '   u ' r e v e l '   u ' t i n y ' ]
+*Topic 13
+- [ u ' n a v y '   u ' y o u n g '   u ' b r i d g e '   u ' w a s h i n g t o n '   u ' s e a t t l e ' ]
+*Topic 14
+- [ u ' m i a m i '   u ' u n i v e r s i t y '   u ' c l a s s i c '   u ' d e l l '   u ' j u s t i f i e d ' ]
+numFiles: 40
+C:\Users\William\Desktop\CS491Proj\corpus\news\'When a Man Loves a Woman' singer Percy Sledge dies - CNN.com.htm file most likely: 7
+	 with: 0.6
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Smart Approach to Sifting Gold From the Twitter Stream _ WIRED.htm file most likely: 5
+	 with: 0.418867924528
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Super-Gross Diagnostic Tool That Could Save Your Life _ WIRED.htm file most likely: 5
+	 with: 0.560655737705
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Amazon's X-Ray Shows Movie Info Whenever You Hit Pause _ WIRED.htm file most likely: 5
+	 with: 0.485057471264
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Anonabox Recalls 350 'Privacy' Routers for Security Flaws _ WIRED.htm file most likely: 5
+	 with: 0.495652173913
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bendy Tableware That Makes Cooking a Cinch _ WIRED.htm file most likely: 6
+	 with: 0.876923076923
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bluetooth Disc Plays Your Digital Music Like a Vinyl Record _ WIRED.htm file most likely: 5
+	 with: 0.632876712329
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton To Make Gender Issues Key to Presidential Bid _ WIRED.htm file most likely: 5
+	 with: 0.720754716981
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Drug Pump's Security Flaw Lets Hackers Raise Dose Limits _ WIRED.htm file most likely: 5
+	 with: 0.639024390244
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Email Phishing Attacks Take Just Minutes to Hook Recipients _ WIRED.htm file most likely: 5
+	 with: 0.893333333333
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Exploring the Creepiest, Craziest Abandoned Spaces of NYC _ WIRED.htm file most likely: 5
+	 with: 0.492682926829
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Florida artist claims Apple stole his style _ Reuters.htm file most likely: 5
+	 with: 0.314285714286
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Game of Thrones Recap  This Season, Everything Changes _ WIRED.htm file most likely: 4
+	 with: 0.429333333333
+	 most probable topic is:4
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hacker Lexicon  What Are Phishing and Spear Phishing  _ WIRED.htm file most likely: 5
+	 with: 0.861224489796
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\How Lincoln Crafted Its New Super-Deluxe Sound System _ WIRED.htm file most likely: 5
+	 with: 0.574603174603
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\How Popcorn Time's Piracy App Is Sneaking Onto iPhones _ WIRED.htm file most likely: 6
+	 with: 0.906849315068
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\It's Official  Guitar Hero Is Back This Fall _ WIRED.htm file most likely: 0
+	 with: 0.36
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Justified Nears Its End, But It Leaves Behind Classic GIFs _ WIRED.htm file most likely: 5
+	 with: 0.578082191781
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\LA's Proposed Parking Signs Are Brilliantly Simple _ WIRED.htm file most likely: 5
+	 with: 0.495384615385
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\McLaren Helps Build a $20,000 Bike, Because Why Not _ WIRED.htm file most likely: 6
+	 with: 0.542857142857
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\NY Cops Used 'Stingray' Spy Tool 46 Times Without Warrant _ WIRED.htm file most likely: 5
+	 with: 0.647457627119
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\On John Oliver, Edward Snowden Says Keep Taking Dick Pics _ WIRED.htm file most likely: 5
+	 with: 0.536
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Snowden's 'Sexy Margaret Thatcher' Password Isn't So Secure _ WIRED.htm file most likely: 5
+	 with: 0.331147540984
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tech Time Warp of the Week  The 1940s RC Copter That Paved the Way for Amazon's Drones _ WIRED.htm file most likely: 5
+	 with: 0.540298507463
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\The 3DR Solo Is One Scary-Smart Drone _ WIRED.htm file most likely: 5
+	 with: 0.560655737705
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Best Alternatives to Apple's New MacBook _ WIRED.htm file most likely: 6
+	 with: 0.580722891566
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Haunting Aftermath of a Deadly Train Wreck _ WIRED.htm file most likely: 5
+	 with: 0.854545454545
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Wild Government Projects You're Funding With Your Taxes _ WIRED.htm file most likely: 5
+	 with: 0.893333333333
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\This Dude Carves the Most Gorgeous Spoons You'll Ever See _ WIRED.htm file most likely: 6
+	 with: 0.551515151515
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tiny 4K Displays Will Be Awesome—Just Not for Smartphones _ WIRED.htm file most likely: 5
+	 with: 0.574603174603
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Today's Hit Movies Reimagined Perfectly as '80s VHS Tapes _ WIRED.htm file most likely: 5
+	 with: 0.415873015873
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turning Old Aircraft Carriers Into a Bridge Is a Bad Idea _ WIRED.htm file most likely: 5
+	 with: 0.462068965517
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Veep GIF and a Graf  Selina Fails Pretty Much Immediately _ WIRED.htm file most likely: 5
+	 with: 0.902040816327
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wall Street's Scrambling to Catch Up With Silicon Valley _ WIRED.htm file most likely: 6
+	 with: 0.84
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Want to See Domestic Spying's Future  Follow the Drug War _ WIRED.htm file most likely: 5
+	 with: 0.274576271186
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\We Need More Kids Apps Like 'Robot F*Topic 0
+- [ u ' a n y o n e '   u ' m e d i c i n e '   u ' y o u n g '   u ' s e c u r i t y '   u ' l e w i s ' ]
+*Topic 1
+- [ u ' a m a z o n '   u ' p a u s e '   u ' m a r g a r e t '   u ' e n g l i s h '   u ' g i g a n t i c ' ]
+*Topic 2
+- [ u ' u n i v e r s i t y '   u ' g a m e '   u ' t r u s t '   u ' g r a p h i c '   u ' a d o b e ' ]
+*Topic 3
+- [ u ' s h a r p '   u ' n o n e '   u ' t i n y '   u ' c a r d b o a r d '   u ' b u f f a l o ' ]
+*Topic 4
+- [ u ' b e l o n g '   u ' r o b o t '   u ' f a c t o r y '   u ' r e a l i s t i c '   u ' t e r m i n a t o r ' ]
+*Topic 5
+- [ u ' s m i t h '   u ' e n g l a n d '   u ' s i n c e r i t y '   u ' m a r s h a l '   u ' n e t w o r k e d ' ]
+*Topic 6
+- [ u ' u s '   u ' c l i c k '   u ' a p p l e '   u ' o b s e s s i o n s '   u ' h a r d ' ]
+*Topic 7
+- [ u ' s o l o '   u ' l i n c o l n '   u ' r e v e l '   u ' l u x u r y '   u ' f o r d ' ]
+*Topic 8
+- [ u ' b r i l l i a n t l y '   u ' a p p l e '   u ' m i a m i '   u ' d o t '   u ' c l a s s i c ' ]
+*Topic 9
+- [ u ' t h r o n e s '   u ' p o r t '   u ' f i r e '   u ' c r e e k '   u ' l i t t l e ' ]
+*Topic 10
+- [ u ' u s '   u ' c l i c k '   u ' h a r d '   u ' r o c k e t '   u ' o b s e s s i o n s ' ]
+*Topic 11
+- [ u ' e l l i s '   u ' l i b e r i a '   u ' a b a n d o n e d '   u ' q u e e n s '   u ' o n l i n e ' ]
+*Topic 12
+- [ u ' o l i v e r '   u ' a m e r i c a n '   u ' a m e r i c a '   u ' f o u r t h '   u ' d a v i d ' ]
+*Topic 13
+- [ u ' n a v y '   u ' w a s h i n g t o n '   u ' b r i d g e '   u ' s e a t t l e '   u ' h o u s e ' ]
+*Topic 14
+- [ u ' w a r r a n t '   u ' i n t e r i o r '   u ' s h e r i f f '   u ' b u f f a l o '   u ' t r a d e m a r k ' ]
+numFiles: 29
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Smart Approach to Sifting Gold From the Twitter Stream _ WIRED.htm file most likely: 10
+	 with: 0.607547169811
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Super-Gross Diagnostic Tool That Could Save Your Life _ WIRED.htm file most likely: 6
+	 with: 0.560655737705
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Amazon's X-Ray Shows Movie Info Whenever You Hit Pause _ WIRED.htm file most likely: 6
+	 with: 0.485057471264
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Anonabox Recalls 350 'Privacy' Routers for Security Flaws _ WIRED.htm file most likely: 10
+	 with: 0.524637681159
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bluetooth Disc Plays Your Digital Music Like a Vinyl Record _ WIRED.htm file most likely: 10
+	 with: 0.605479452055
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton To Make Gender Issues Key to Presidential Bid _ WIRED.htm file most likely: 10
+	 with: 0.720754716981
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Drug Pump's Security Flaw Lets Hackers Raise Dose Limits _ WIRED.htm file most likely: 6
+	 with: 0.639024390244
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Email Phishing Attacks Take Just Minutes to Hook Recipients _ WIRED.htm file most likely: 6
+	 with: 0.893333333333
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Exploring the Creepiest, Craziest Abandoned Spaces of NYC _ WIRED.htm file most likely: 10
+	 with: 0.590243902439
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Florida artist claims Apple stole his style _ Reuters.htm file most likely: 3
+	 with: 0.314285714286
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hacker Lexicon  What Are Phishing and Spear Phishing  _ WIRED.htm file most likely: 10
+	 with: 0.902040816327
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\How Lincoln Crafted Its New Super-Deluxe Sound System _ WIRED.htm file most likely: 6
+	 with: 0.511111111111
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Justified Nears Its End, But It Leaves Behind Classic GIFs _ WIRE*Topic 0
+- [ u ' r e v e l '   u ' s o l o '   u ' t i n y '   u ' p e n t a g r a m '   u ' w a s p ' ]
+*Topic 1
+- [ u ' u s '   u ' u n i v e r s i t y '   u ' m i a m i '   u ' p e n t a g r a m '   u ' b a n k s ' ]
+*Topic 2
+- [ u ' r o b o t '   u ' f a c t o r y '   u ' r e a l i s t i c '   u ' t e r m i n a t o r '   u ' e x p e r t ' ]
+*Topic 3
+- [ u ' y o u n g '   u ' w a s h i n g t o n '   u ' j o h n '   u ' p e r s i a n '   u ' h e a v y ' ]
+*Topic 4
+- [ u ' b r i l l i a n t l y '   u ' w a s p '   u ' j o r d a n '   u ' m o l e '   u ' s o l o ' ]
+*Topic 5
+- [ u ' n a v y '   u ' b r i d g e '   u ' s e a t t l e '   u ' c a r r i e r s '   u ' c r u i s e ' ]
+*Topic 6
+- [ u ' u s '   u ' c l i c k '   u ' a p p l e '   u ' o b s e s s i o n s '   u ' r o c k e t ' ]
+*Topic 7
+- [ u ' j o k e '   u ' p l u s '   u ' c r e e k '   u ' l i t t l e '   u ' b o n d ' ]
+*Topic 8
+- [ u ' s h a r p '   u ' n o n e '   u ' g r a p h i c '   u ' c a r d b o a r d '   u ' g i g a n t i c ' ]
+*Topic 9
+- [ u ' a m a z o n '   u ' f i r e '   u ' p a u s e '   u ' d r o n e s '   u ' t r i v i a ' ]
+*Topic 10
+- [ u ' t h r o n e s '   u ' p o r t '   u ' l u k e '   u ' g a l a x y '   u ' h o u s e ' ]
+*Topic 11
+- [ u ' l i b e r i a '   u ' t r u s t '   u ' f o r d '   u ' i s r a e l '   u ' s o c i e t y ' ]
+*Topic 12
+- [ u ' l i n c o l n '   u ' l u x u r y '   u ' e n g l i s h '   u ' p e n t a g r a m '   u ' g e r m a n ' ]
+*Topic 13
+- [ u ' s m i t h '   u ' m e d i u m '   u ' f u l l '   u ' i n t e r i o r '   u ' b a n g ' ]
+*Topic 14
+- [ u ' m e d i c i n e '   u ' a n y o n e '   u ' f o o d '   u ' t e x a s '   u ' m e d i u m ' ]
+numFiles: 15
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Super-Gross Diagnostic Tool That Could Save Your Life _ WIRED.htm file most likely: 6
+	 with: 0.495081967213
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Amazon's X-Ray Shows Movie Info Whenever You Hit Pause _ WIRED.htm file most likely: 6
+	 with: 0.485057471264
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Drug Pump's Security Flaw Lets Hackers Raise Dose Limits _ WIRED.htm file most likely: 6
+	 with: 0.639024390244
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Email Phishing Attacks Take Just Minutes to Hook Recipients _ WIRED.htm file most likely: 6
+	 with: 0.893333333333
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\How Lincoln Crafted Its New Super-Deluxe Sound System _ WIRED.htm file most likely: 6
+	 with: 0.574603174603
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Snowden's 'Sexy Margaret Thatcher' Password Isn't So Secure _ WIRED.htm file most likely: 6
+	 with: 0.626229508197
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tech Time Warp of the Week  The 1940s RC Copter That Paved the Way for Amazon's Drones _ WIRED.htm file most likely: 6
+	 with: 0.629850746269
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Haunting Aftermath of a Deadly Train Wreck _ WIRED.htm file most likely: 6
+	 with: 0.854545454545
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Wild Government Projects You're Funding With Your Taxes _ WIRED.htm file most likely: 6
+	 with: 0.937777777778
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tiny 4K Displays Will Be Awesome—Just Not for Smartphones _ WIRED.htm file most likely: 6
+	 with: 0.574603174603
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Today's Hit Movies Reimagined Perfectly as '80s VHS Tapes _ WIRED.htm file most likely: 6
+	 with: 0.384126984127
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turning Old Aircraft Carriers Into a Bridge Is a Bad Idea _ WIRED.htm file most likely: 6
+	 with: 0.462068965517
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\We Need More Kids Apps Like 'Robot Factory' _ WIRED.htm file most likely: 6
+	 with: 0.58260869le topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Want to See Domestic Spying's Future  Follow the Drug War _ WIRED.htm file most likely: 5
+	 with: 0.477966101695
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Watch a chimp knock down a drone - Apr. 13, 2015.htm file most likely: 1
+	 with: 0.733333333333
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\We Need More Kids Apps Like 'Robot Factory' _ WIRED.htm file most likely: 5
+	 with: 0.640579710145
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\What's in that Iran bill that Obama doesn't like  - CNN.com.htm file most likely: 0
+	 with: 0.466666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Which $200 laptop is right for you  - Video - Technology.htm file most likely: 1
+	 with: 0.909677419355
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\While You Were Offline  The Brontosaurus Is Back, Baby! _ WIRED.htm file most likely: 7
+	 with: 0.582795698925
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\White House CTO  Government Needs Tech Industry to Show Up _ WIRED.htm file most likely: 5
+	 with: 0.611594202899
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\White House willing to sign compromise Iran bill - CNN.com.htm file most likely: 0
+	 with: 0.466666666667
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why Are So Many People Snobby About Fantasy Fiction  _ WIRED.htm file most likely: 5
+	 with: 0.523287671233
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why Everyone Went Nuts Over Hillary Clinton's New Logo _ WIRED.htm file most likely: 5
+	 with: 0.691803278689
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why is there a Koala sitting in first class  - CNN.com.htm file most likely: 6
+	 with: 0.563636363636
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why It's Likely Impossible to Abolish the IRS _ VICE News.htm file most likely: 8
+	 with: 0.933834586466
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wisconsin's Giving Florida a Run for Its Money When it Comes to Denying Climate Change _ VICE News.htm file most likely: 2
+	 with: 0.955140186916
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Yarmouk  'The deepest circle of hell' - CNN.com.htm file most likely: 6
+	 with: 0.314285714286
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Yarmouk refugees describe ISIS raid on Syrian camp - CNN.com.htm file most likely: 7
+	 with: 0.745454545455
+	 most probable topic is:7
+C:\Users\William\Desktop\CS491Proj\corpus\news\Yemen Descends Deeper Into Chaos as Airstrikes Continue and Civilian Casualties Mount _ VICE News.htm file most likely: 8
+	 with: 0.727433628319
+	 most probable topic is:8
+C:\Users\William\Desktop\CS491Proj\corpus\news\You May Not Want 4K, But Vizio's New Sets Are Worth a Look _ WIRED.htm file most likely: 5
+	 with: 0.779591836735
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\You'll be able to rent an Apple Watch -- but should you  - Apr. 14, 2015.htm file most likely: 1
+	 with: 0.876363636364
+	 most probable topic is:1
+actory' _ WIRED.htm file most likely: 5
+	 with: 0.524637681159
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\White House CTO  Government Needs Tech Industry to Show Up _ WIRED.htm file most likely: 5
+	 with: 0.640579710145
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why Are So Many People Snobby About Fantasy Fiction  _ WIRED.htm file most likely: 1
+	 with: 0.468493150685
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why Everyone Went Nuts Over Hillary Clinton's New Logo _ WIRED.htm file most likely: 5
+	 with: 0.593442622951
+	 most probable topic is:5
+C:\Users\William\Desktop\CS491Proj\corpus\news\You May Not Want 4K, But Vizio's New Sets Are Worth a Look _ WIRED.htm file most likely: 6
+	 with: 0.697959183673
+	 most probable topic is:6
+D.htm file most likely: 10
+	 with: 0.495890410959
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\LA's Proposed Parking Signs Are Brilliantly Simple _ WIRED.htm file most likely: 10
+	 with: 0.649230769231
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\NY Cops Used 'Stingray' Spy Tool 46 Times Without Warrant _ WIRED.htm file most likely: 10
+	 with: 0.681355932203
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\On John Oliver, Edward Snowden Says Keep Taking Dick Pics _ WIRED.htm file most likely: 12
+	 with: 0.429333333333
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\Snowden's 'Sexy Margaret Thatcher' Password Isn't So Secure _ WIRED.htm file most likely: 6
+	 with: 0.626229508197
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tech Time Warp of the Week  The 1940s RC Copter That Paved the Way for Amazon's Drones _ WIRED.htm file most likely: 6
+	 with: 0.629850746269
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\The 3DR Solo Is One Scary-Smart Drone _ WIRED.htm file most likely: 10
+	 with: 0.593442622951
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Haunting Aftermath of a Deadly Train Wreck _ WIRED.htm file most likely: 6
+	 with: 0.915151515152
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Wild Government Projects You're Funding With Your Taxes _ WIRED.htm file most likely: 6
+	 with: 0.893333333333
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tiny 4K Displays Will Be Awesome—Just Not for Smartphones _ WIRED.htm file most likely: 6
+	 with: 0.574603174603
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Today's Hit Movies Reimagined Perfectly as '80s VHS Tapes _ WIRED.htm file most likely: 6
+	 with: 0.479365079365
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turning Old Aircraft Carriers Into a Bridge Is a Bad Idea _ WIRED.htm file most likely: 6
+	 with: 0.531034482759
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Veep GIF and a Graf  Selina Fails Pretty Much Immediately _ WIRED.htm file most likely: 10
+	 with: 0.657142857143
+	 most probable topic is:10
+C:\Users\William\Desktop\CS491Proj\corpus\news\Want to See Domestic Spying's Future  Follow the Drug War _ WIRED.htm file most likely: 12
+	 with: 0.410169491525
+	 most probable topic is:12
+C:\Users\William\Desktop\CS491Proj\corpus\news\We Need More Kids Apps Like 'Robot Factory' _ WIRED.htm file most likely: 6
+	 with: 0.582608695652
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\White House CTO  Government Needs Tech Industry to Show Up _ WIRED.htm file most likely: 6
+	 with: 0.466666666667
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why Everyone Went Nuts Over Hillary Clinton's New Logo _ WIRED.htm file most likely: 6
+	 with: 0.560655737705
+	 most probable topic is:6
+5652
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\White House CTO  Government Needs Tech Industry to Show Up _ WIRED.htm file most likely: 6
+	 with: 0.553623188406
+	 most probable topic is:6
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why Everyone Went Nuts Over Hillary Clinton's New Logo _ WIRED.htm file most likely: 1
+	 with: 0.462295081967
+	 most probable topic is:1

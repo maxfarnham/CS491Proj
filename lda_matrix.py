@@ -119,22 +119,22 @@ def fit(X, vocab, titles, num_topics=15):
         for i, topic_dist in enumerate(topic_word):
             topic_words = np.array(vocab)[np.argsort(topic_dist)][:-(n+1):-1]
             print('*Topic {}\n- {}'.format(i, ' '.join(unicode(topic_words))))
-            lf.write('*Topic {}\n- {}'.format(i, ' '.join(unicode(topic_words))))
+            lf.write('*Topic {}\n- {}\n'.format(i, ' '.join(unicode(topic_words))))
         topic_files_dict = defaultdict(list)       
         numFiles = len(titles)       
         print('numFiles: ' + str(numFiles))
 
-        lf.write('numFiles: ' + str(numFiles))
+        lf.write('numFiles: {}\n'.format(numFiles))
 
         for n in range(numFiles):
             topic_most_pr = doc_topic[n].argmax()
             print("{0} file most likely: {1}".format(titles[n], topic_most_pr))
-            print("\t with: {0}", doc_topic[n][topic_most_pr])
-            print('most probable topic is:' + str(topic_most_pr))
+            print("\t with: {0}\n", doc_topic[n][topic_most_pr])
+            print('most probable topic is{}\n'.format(topic_most_pr))
 
-            lf.write("{0} file most likely: {1}".format(titles[n], topic_most_pr))
-            lf.write("\t with: " + str(doc_topic[n][topic_most_pr]))
-            lf.write('\t most probable topic is:' + str(topic_most_pr))
+            lf.write("{0} file most likely: {1}\n".format(titles[n], topic_most_pr))
+            lf.write('\t with: {}\n'.format(doc_topic[n][topic_most_pr]))
+            lf.write('\t most probable topic is:{}\n'.format(topic_most_pr))
             
             topic_files_dict[topic_most_pr].append(titles[n])  
     
