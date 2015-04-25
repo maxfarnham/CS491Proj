@@ -15,6 +15,7 @@ import lda
 import multiprocessing
 import entity_recognition as er
 from joblib import Parallel, delayed
+log = loc.lda_log
 
 #@profile
 def cross_reference_tokens():
@@ -81,7 +82,7 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
     #rets = Parallel(n_jobs=num_cores)(delayed(vocabs_from_files)(file, interDict, useEntities = True) for file in files)  
     rets = []
     for file in files:
-        rets.append(vocabs_from_files(file, interDict, useEntities = False))
+        rets.append(vocabs_from_files(file, interDict, useEntities = True))
     for fdic in rets:
         keys = set(vocDict.keys())   
         for fword in fdic.keys():         
@@ -106,42 +107,53 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
     return (X, vKeys, titles)
 
 def fit(X, vocab, titles, num_topics=15):
-    model = lda.LDA(n_topics=num_topics, n_iter=200, random_state=1)
-    model.fit(X)
-    doc_topic = model.doc_topic_
-    topic_word = model.topic_word_
-    #print("type(topic_word): {}".format(type(topic_word)))
-    #print("shape: {}".format(topic_word.shape))
-    n = 5 
-    for i, topic_dist in enumerate(topic_word):
-        topic_words = np.array(vocab)[np.argsort(topic_dist)][:-(n+1):-1]
-        print('*Topic {}\n- {}'.format(i, ' '.join(unicode(topic_words))))
-    topic_files_dict = defaultdict(list)       
-    numFiles = len(titles)       
-    print('numFiles: ' + str(numFiles))
-    for n in range(numFiles):
-        print('accessing doc topic ' + str(n))
-        topic_most_pr = doc_topic[n].argmax()
-        #print("{0} file most likely: {1}".format(n, topic_most_pr))
-        #print("\t with: {0}", doc_topic[n][topic_most_pr])
-        #print('most probable topic is:' + str(topic_most_pr))
-        topic_files_dict[topic_most_pr].append(titles[n])  
+    with open(log,'a+') as lf:
+        model = lda.LDA(n_topics=num_topics, n_iter=500, random_state=1)
+        model.fit(X)
+        doc_topic = model.doc_topic_
+        topic_word = model.topic_word_
+        #print("type(topic_word): {}".format(type(topic_word)))
+        #print("shape: {}".format(topic_word.shape))
+        n = 5
+        #print topic
+        for i, topic_dist in enumerate(topic_word):
+            topic_words = np.array(vocab)[np.argsort(topic_dist)][:-(n+1):-1]
+            print('*Topic {}\n- {}'.format(i, ' '.join(unicode(topic_words))))
+            lf.write('*Topic {}\n- {}'.format(i, ' '.join(unicode(topic_words))))
+        topic_files_dict = defaultdict(list)       
+        numFiles = len(titles)       
+        print('numFiles: ' + str(numFiles))
+
+        lf.write('numFiles: ' + str(numFiles))
+
+        for n in range(numFiles):
+            topic_most_pr = doc_topic[n].argmax()
+            print("{0} file most likely: {1}".format(titles[n], topic_most_pr))
+            print("\t with: {0}", doc_topic[n][topic_most_pr])
+            print('most probable topic is:' + str(topic_most_pr))
+
+            lf.write("{0} file most likely: {1}".format(titles[n], topic_most_pr))
+            lf.write("\t with: " + str(doc_topic[n][topic_most_pr]))
+            lf.write('\t most probable topic is:' + str(topic_most_pr))
+            
+            topic_files_dict[topic_most_pr].append(titles[n])  
     
-    for n in range(num_topics):
-        print("topic {0} len: {1}".format(n, len(topic_files_dict[n])))
-        if len(topic_files_dict[n]) > 1:
-            n_X, n_vocab, n_titles = build(files=topic_files_dict[n],intersect=True)
-            print("X: {0}, v: {1}".format(len(n_X), len(n_vocab)))
-            if len(n_X) > 0 and len(n_vocab) > 0:
-                if len(n_X) == len(X) and len(n_vocab) == len(vocab):
-                    print("FOUND LEAF TOPIC FOR ARTICLES:")
-                    print("TOPIC {0}".format(n))
-                    for f in X:
-                        print("\t{0}".format(f))
-                else:
-                    fit(n_X, n_vocab, n_titles)
+        for n in range(num_topics):
+            print("topic {0} len: {1}".format(n, len(topic_files_dict[n])))
+            if len(topic_files_dict[n]) > 1:
+                n_X, n_vocab, n_titles = build(files=topic_files_dict[n],intersect=True)
+                print("X: {0}, v: {1}".format(len(n_X), len(n_vocab)))
+                if len(n_X) > 0 and len(n_vocab) > 0:
+                    if len(n_X) == len(X) and len(n_vocab) == len(vocab):
+                        print("FOUND LEAF TOPIC FOR ARTICLES:")
+                        print("TOPIC {0}".format(n))
+                        for f in X:
+                            print("\t{0}".format(f))
+                    else:
+                        fit(n_X, n_vocab, n_titles)
 
 if __name__ == "__main__":
+    fi.silent_remove(log)
     dir_path = loc.news_dir
     files = fi.getTopLevelFiles(dir_path)
     X, vocab, titles = build(files=files,intersect=True)

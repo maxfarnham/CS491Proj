@@ -1,0 +1,16 @@
+*Topic 0
+- [ u ' t o '   u ' t h e '   u ' a '   u ' o f '   u ' a n d ' ]*Topic 1
+- [ u ' t h e '   u ' C a l i f o r n i a '   u ' w a t e r '   u ' c a r b o n '   u ' N e w ' ]*Topic 2
+- [ u ' t h e '   u ' a n d '   u ' a '   u ' T h e '   u ' w i t h ' ]*Topic 3
+- [ u ' = '   u ' i d '   u ' U . S . '   u ' N e w s '   u ' c l a s s ' ]*Topic 4
+- [ u ' t h e '   u ' t o '   u ' t h a t '   u ' o f '   u ' a ' ]*Topic 5
+- [ u ' t h e '   u ' o f '   u ' i n '   u ' U S '   u ' t o ' ]*Topic 6
+- [ u ' t h e '   u ' t h a t '   u ' I '   u ' a '   u ' o f ' ]*Topic 7
+- [ u ' t o '   u ' s '   u ' i n '   u ' o f '   u ' Y o u ' ]*Topic 8
+- [ u ' t o '   u ' s '   u ' T h e '   u ' I s '   u ' O p p o s i t i o n ' ]*Topic 9
+- [ u ' F o l l o w '   u ' s '   u ' O n '   u ' o n '   u ' h o u r s ' ]*Topic 10
+- [ u ' a '   u ' t o '   u ' o n '   u ' i n '   u ' a n d ' ]*Topic 11
+- [ u ' t h e '   u ' o f '   u ' h e r '   u ' i n '   u ' s h e ' ]*Topic 12
+- [ u ' t o '   u ' a n d '   u ' o n '   u ' w h o '   u ' t h e i r ' ]*Topic 13
+- [ u ' i n '   u ' t h e '   u ' s '   u ' S t a t e '   u ' & ' ]*Topic 14
+- [ u ' o f '   u ' T h e '   u ' s '   u ' t o '   u ' 7 ' ]numFiles: 288C:\Users\William\Desktop\CS491Proj\corpus\news\#IAmAScientistBecause Isn't the Only Feed You Should Follow _ WIRED.htm file most likely: 9
