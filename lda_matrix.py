@@ -75,7 +75,7 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
     fileCount = 0
     dicList = []
     titles = ()
-    for n in range(288):
+    for n in range(len(files)):
         titles += files[n],
     #num_cores = multiprocessing.cpu_count()
     #rets = Parallel(n_jobs=num_cores)(delayed(vocabs_from_files)(file, interDict, useEntities = True) for file in files)  
@@ -106,7 +106,7 @@ def build(files, extension ='htm', recurse = False, intersect = True, intersecto
     return (X, vKeys, titles)
 
 def fit(X, vocab, titles, num_topics=15):
-    model = lda.LDA(n_topics=num_topics, n_iter=100, random_state=1)
+    model = lda.LDA(n_topics=num_topics, n_iter=200, random_state=1)
     model.fit(X)
     doc_topic = model.doc_topic_
     topic_word = model.topic_word_
