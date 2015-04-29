@@ -13,3 +13,6 @@ def naive_bayes(featureFile = 'features.csv'):
 	predictions = du.getPredictions(summaries, testSet)
 	accuracy = du.getAccuracy(testSet, predictions)
 	print('Accuracy: {0}%').format(accuracy)
+
+if __name__ == '__main__':
+	naive_bayes()

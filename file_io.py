@@ -61,7 +61,7 @@ def create_training_file(destination = loc.featureFile):
 	source = loc.not_news_dir
 	label = 0
 	files = getTopLevelFiles(source, 'htm')
-	textfile = open(destination, 'a+')
+	textfile = open(destination, 'w+')
 	textfile.write('periodRatio,countComma,countLetters,longestWordLength,countWspace,class\n')
 	for filename in files: 
 		with open (filename, "r") as htmlfile:

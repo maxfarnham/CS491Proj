@@ -36,8 +36,6 @@ if __name__ == '__main__':
 	# Clustering could be a useful technique, commenting out for now
 	#with io.open(r'lsa.txt', 'w+', encoding='utf-8') as w:
 	#	write_cluster(m.cluster(method=HIERARCHICAL, k=4), w, "")
-	
-
 
 	lsa = m.reduce(30)
 
