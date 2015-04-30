@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>SCM Music Player</title>
+<meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/png" href="http://scmplayer.net/icon.png">
+<link rel="stylesheet" type="text/css" href="scm_data/reset.css">
+<style type="text/css">
+body{ padding-top:25px; overflow:hidden; background:transparent; }
+#contentW, #playlistW, #playerW{ position:absolute; }
+#contentW{
+  z-index:10; top:0; bottom:0; left:0; right:0;
+  background: white;
+}
+#playlistW{ z-index:1; right:0; top:0; bottom:0; width:0; }
+#playerW{z-index:2; left:0; right:0; height:0;}
+#content, #overlay{ position:relative; height:100%; width:100%;  }
+@media (max-width: 750px) { #seeker{ display: none; } }
+@media (max-width: 600px) { #title{ display: none; } }
+@media (max-width: 400px) { #tooltip{ display: none; } }
+</style>
+<link rel="stylesheet" type="text/css" href="scm_data/scm.css">
+<link href="scm_data/skin.css" rel="stylesheet" type="text/css" data-bind="attr:{href:skin}" id="skin">
+<script async="" src="scm_data/www-widgetapi.js" id="www-widgetapi-script" type="text/javascript"></script><script src="scm_data/knockout-min.js" data-requiremodule="knockout" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/jquery.js" data-requiremodule="jquery" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/underscore-min.js" data-requiremodule="underscore" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/text.js" data-requiremodule="text" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/scm.js" data-requiremodule="scm" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/song.js" data-requiremodule="song" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/scm_002.js" data-requiremodule="scm.ui" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/slider.js" data-requiremodule="binding/slider" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/scm_003.js" data-requiremodule="binding/scm" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/pauseable.js" data-requiremodule="lib/knockout/pauseable" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/jquery-ui.js" data-requiremodule="jquery.ui" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/youtube.js" data-requiremodule="playback/youtube" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="scm_data/iframe_api" data-requiremodule="http://www.youtube.com/iframe_api" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script></head>
+<body><iframe src="scm_data/a.htm" title="YouTube video player" allowfullscreen="1" id="SCMYoutube" frameborder="0" height="390" width="640"></iframe>
+	<div style="top: 25px; bottom: 0px; right: 0px;" id="contentW" data-bind="style:{top:placement()=='top'?'25px':'0',
+		bottom:placement()=='top'?'0':'25px', right:showPlaylist()?'201px':'0'}">
+<script type="text/javascript">
+(function(){
+ 	if(window==window.parent)
+		location.href = 'http://scmplayer.net';
+	var addEvent = function(elm, evType, fn) {
+			if(elm.addEventListener) 
+				elm.addEventListener(evType, fn);
+			else if (elm.attachEvent) 
+				elm.attachEvent('on' + evType, fn);
+			else
+				elm['on' + evType] = fn;
+		},
+		url = location.hash.substr(1),
+		host = url.substr(0,url.indexOf('/',10));
+
+	window.SCMQueue = [];
+	addEvent(window,'message',function(e){
+		var data = e.data;
+		if(data.indexOf('SCM')!=0) 
+			return;
+		if(window.SCM && window.Song)
+			(new Function("SCM,Song",data))(SCM,Song);
+		else
+			SCMQueue.push(data);
+	});
+	document.write('<iframe src="javascript:location.replace(\''+url+'\');" frameborder="0" id="content" allowtransparency="true" name="content"></iframe>');
+})();
+</script><iframe style="height: 562px;" src="javascript:location.replace('http://gueule.tumblr.com/page/4');" id="content" allowtransparency="true" name="content" frameborder="0"></iframe>
+</div>
+<div style="top: 0px; bottom: auto; height: 25px;" id="playerW" data-bind="style:{ top:placement()=='top'?'0':'auto', 
+	bottom:placement()=='top'?'auto':'0',height:'25px'}"><div id="player">
+	<div class="item button" data-bind="
+		click:previous,
+		maskBtn:{css:'mainImage'}
+		" id="previous"></div> 
+	<div class="item button" data-bind="
+		click:play,
+		visible:!isPlay(),
+		maskBtn:{hasOffset:false}
+		" id="play"></div> 
+	<div style="display: none;" class="item button" data-bind="
+		click:pause,
+		visible:isPlay(),
+		maskBtn:{css:'mainImage'}
+		" id="pause"></div> 
+	<div class="item button" data-bind="
+		click:next,
+		maskBtn:{css:'mainImage'}
+		" id="next"></div> 
+	<div class="text" id="title" data-bind="
+		followLeft:'#seeker',
+		">
+    <a href="https://www.youtube.com/watch?v=tIyG6iQB7Ao" data-bind="text:display,attr:{
+      href:current() ? current().url() : 'http://scmplayer.net'
+      }" target="_blank" id="titleLink">Pink Sugar Elephants - Vashti Bunyan</a>
+	</div> 
+	<div style="left: 314px;" class="item ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" data-bind="
+		slider:playedFraction, 
+		sliderOptions:{step:0.00001,min:0,max:1,pauseable:true}
+		" id="seeker"> 
+		<div style="left: 0%;" id="seekerSliderBase" class="ui-slider-handle ui-state-default ui-corner-all"></div> 
+		<div id="seekerBase"></div> 
+		<div style="width: 0%;" id="seekerBuffered" data-bind="
+			style:{width:(loadedFraction()*100)+'%'}
+			"></div> 
+	</div> 
+	<div class="text" id="tooltip"> 
+		<a href="http://scmplayer.net/" id="scmLink" target="_blank">SCM Music Player</a> 
+	</div> 
+	<div class="text item" id="timer" data-bind="text:timer">00:00|00:00</div> 
+	<div class="item ui-slider-horizontal" data-bind="
+		innerBound:{bound:'.bound',handle:'.ui-slider-handle'}
+		" id="volume"> 
+		<div style="width: 56px; margin-left: 7px; margin-right: 7px;" class="bound ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" data-bind="
+			slider:volume,
+			sliderOptions:{liveUpdate:true},
+			caption:'Volume: '+volume()+'%',
+			captionOptions:{target:'#tooltip a',trigger:'slide'}
+			">
+		<div style="margin-left: -7px; left: 59%;" class="ui-slider-handle ui-state-default ui-corner-all" id="volumeSlider"></div> 
+		</div>
+	</div> 
+	<div class="item button" id="list" data-bind="maskBtn:{css:'mainImage',align:'right'},
+		click:togglePlaylist,
+		caption:'Toggle Playlist',
+		captionOptions:{target:'#tooltip a',trigger:'hover'}
+		"></div> 
+	<div class="mainImage" id="baseRight"></div> 
+	<div class="mainImage" id="baseLeft"></div> 
+</div>
+</div>
+<div style="top: 25px; bottom: 0px; width: 0px;" id="playlistW" data-bind="style:{top:placement()=='top'?'25px':'0',
+		bottom:placement()=='top'?'0':'25px', width:showPlaylist()?'201px':'0'}"><div id="playlist">
+	<div class="module"> 
+		<h3>Playlist</h3> 
+	</div> 
+  <div class="module" id="playlistContainer">
+    <ol class="items" style="bottom:200px;"> 
+      <!-- ko foreach:playlist -->
+			<li class="item focus odd" data-bind="
+			visible:isValid(),
+			click:$root.play,
+			css:{focus:on, even:$index()%2==1, odd:$index()%2==0}
+			">
+				<span class="title" data-bind="text:title">Pink Sugar Elephants - Vashti Bunyan</span>&nbsp;
+			</li> 
+      
+			<li class="item even" data-bind="
+			visible:isValid(),
+			click:$root.play,
+			css:{focus:on, even:$index()%2==1, odd:$index()%2==0}
+			">
+				<span class="title" data-bind="text:title">Cowboy Dan - Modest Mouse</span>&nbsp;
+			</li> 
+      <!-- /ko -->
+		</ol> 
+    <div class="odd" style="z-index:167; position:absolute; height:200px; left:0; background:black; right:0; bottom:0;">
+      <!-- BuySellAds Zone Code -->
+      <div id="bsap_1299699" class="bsarocks bsap_09cb595ac00d408b4665ea9a271bdd97"></div>
+      <!-- End BuySellAds Zone Code -->
+    </div>
+	</div>
+</div>
+</div>
+
+<script type="text/javascript" src="scm_data/soundmanager2-nodebug-jsmin.js"></script>
+<script type="text/javascript" src="scm_data/config.js"></script>
+<script type="text/javascript" src="scm_data/require.js"></script>
+<script type="text/javascript">
+require([
+	'knockout','jquery','underscore',
+	'text!view/player.html',
+	'text!view/playlist.html',
+	'scm','song','scm.ui',
+
+	'binding/slider',
+	'binding/scm'
+	],function(ko,$,_,playerView,playlistView,SCM,Song){
+		$("#playerW").html(playerView);
+		$("#playlistW").html(playlistView);
+
+		var config = SCM.config;
+    var url = location.hash.substr(1);
+		SCM.config = _.once(function(data){
+			config(data);
+			ko.applyBindings(SCM,$('#skin').get(0));
+			setTimeout(function(){
+				$('#contentW,#playerW,#playlistW').each(function(){
+					ko.applyBindings(SCM,this);
+					$(this).mousedown(function(){
+						return false;
+					});
+				});
+        resize();
+			},200);
+      SCM.showPlaylist.subscribe(checkPlaylist);
+      checkPlaylist();
+		});
+
+		while(SCMQueue.length > 0)
+			(new Function('SCM,Song',SCMQueue.shift()))(SCM,Song);
+		window.SCM = SCM;
+		window.Song = Song;
+
+		var resize = function(){
+			$('#content').height($('#contentW').height());
+		}
+		$(window).resize(_.throttle(resize,100));
+
+    var shown = false, count = 0;
+    function checkPlaylist(){
+      //if((count > 0 || location.hash.indexOf('.blogspot.')===-1) && SCM.showPlaylist() && !shown){
+      //if(count > 0 && SCM.showPlaylist() && !shown){
+      if(SCM.showPlaylist() && !shown){
+        $.getScript('http://s3.buysellads.com/ac/bsa.js');
+        shown = true;
+      }
+      count++;
+    }
+	});
+</script>
+
+
+</body></html>
