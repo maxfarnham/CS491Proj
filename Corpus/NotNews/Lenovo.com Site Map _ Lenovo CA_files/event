@@ -1,0 +1,1 @@
+aam_tnt_cb({"dests":[],"stuff":[{"cn":"aam_sc","cv":"aam_sc=549200","ttl":30,"dmn":""},{"cn":"aam_tnt","cv":"test=123","ttl":120,"dmn":"nocookie.com"},{"cn":"aamtest1","cv":"auto=549200","ttl":30,"dmn":""},{"cn":"aamtest1","cv":"seg=abc,seg=def,seg=ghi","ttl":30,"dmn":""}],"uuid":"61669334558020916343381918651716767670","dcs_region":7})

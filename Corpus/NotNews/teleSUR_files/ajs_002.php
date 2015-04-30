@@ -1,0 +1,3 @@
+var OX_d996b446 = '';
+OX_d996b446 += "<"+"img src=\'http://advert.telesurtv.net/images/367ef99105f41414fecf18bec8922e42.jpg\' alt=\'Los Nuestros teleSUR\' title=\'Los Nuestros teleSUR\' border=\'0\' /><"+"div id=\'beacon_cfeec72bc6\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://advert.telesurtv.net/publicidad/www/delivery/lg.php?bannerid=1120&amp;campaignid=1&amp;zoneid=98&amp;loc=http%3A%2F%2Fwww.telesurtv.net%2Findex.html&amp;cb=cfeec72bc6\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
+document.write(OX_d996b446);

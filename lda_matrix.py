@@ -19,7 +19,6 @@ from joblib import Parallel, delayed
 from textblob import TextBlob
 from pageparser import PageParser
 
-
 log = loc.lda_log
 
 #@profile

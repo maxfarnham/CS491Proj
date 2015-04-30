@@ -1,0 +1,95 @@
+﻿/* ------------------------------ */
+/* GENERAL BEGIN */
+.Bold { font-weight: bold; }
+.StrikeThrough { text-decoration: line-through; }
+/* GENERAL END */
+/* ------------------------------ */
+
+
+/* ------------------------------ */
+/* HEADER BEGIN */
+.CultureFlag { width: 18px; height: 18px; }
+.HeaderLogo__Img { margin-right: auto; margin-left: auto; }
+.HeaderBasket{ text-indent: 2px; overflow: hidden; position: absolute; top: 20px; right: 50px; } 
+.SecondaryNavMenu { list-style-type: none; padding: 10px 0px 0px 10px; }
+.SecondaryNavMenu > li { float: left; margin: 0px 0px 10px 15px; }
+.MainNav__CartIcon { padding-left: 5px; }
+.MainNav__CartIcon .glyphicon { font-size: 1.5em; }
+.MainNavMenu__SaleItems {display: none; }
+/* HEADER END */
+/* ------------------------------ */
+/* ------------------------------ */
+/* FOOTER BEGIN */
+.Footer { text-align: center; }
+.FooterNav { padding-top: 20px; }
+.FooterNav > a { padding: 5px; }
+.FooterSecurity__LinkImg { padding-top: 10px; padding-bottom: 10px; margin-right: auto; margin-left: auto; }
+/* FOOTER END */
+/* ------------------------------ */
+/* ------------------------------ */
+/* BANNER ADS BEGIN */
+.RHSBannerAdsContainer { text-align: center; }
+.SocialMediaLinks { width: 120px; margin: auto; padding-bottom: 5px; }
+.SocialMediaLinks__Facebook, .SocialMediaLinks__Twitter { float: left; }
+.AcceptingPayPalLogo { clear:both; padding-bottom: 5px; }
+.RHSBannerAds__Top, .RHSBannerAds__Middle, .RHSBannerAds__Middle { padding-bottom: 5px; }
+/* BANNER ADS END */
+/* ------------------------------ */
+/* ------------------------------ */
+/* PRODUCT DETAILS BEGIN */
+.ProductSizeSelect__Unavailable { text-align: center; }
+.ProductSocialMediaButtons { padding-bottom: 10px; }
+.ProductDetails__ProductID { padding-top: 5px; padding-bottom: 5px; text-align: center; }
+.MoreProductsCategory__Title { padding: 5px 5px; margin-bottom: 5px; }
+.ProductMessage, .BasketEmpty__Body { padding: 5px 5px; font-size: 1.2em; text-align: center; margin-bottom: 10px; font-weight: bold; }
+/* PRODUCT DETAILS END */
+/* ------------------------------ */
+/* ------------------------------ */
+/* BASKET BEGIN */
+.BasketCheckoutRow { padding-top: 20px; padding-bottom: 20px; }
+.BasketVatRow { font-size: 0.9em; }
+.Checkout__Buttons { margin-bottom: 25px; }
+/* 'back' link on checkout page */
+.Checkout__BackToBasket>a:link { font-weight: normal; color: #333; }
+.Checkout__BackToBasket>a:hover { font-weight: normal; color: #333; }
+.Checkout__BackToBasket>a:visited { font-weight: normal; color: #333; }
+.BasketCheckout__PaymentIcons{ padding-top: 10px; padding-bottom: 20px; margin-left: auto; margin-right: auto; max-width: 300px; }
+.BasketCheckout__PayPalLogo { background-color: #ebebeb; border-radius: 5px; max-width: 190px; padding: 5px; margin-left: auto; margin-right: auto; }
+/* BASKET END */
+/* ------------------------------ */
+/* ------------------------------ */
+/* IMAGE OVERLAY BEGIN */
+.img-responsive { margin-left: auto; margin-right: auto; }
+.ImageOverlay { position: relative; }
+.ImageOverlay__Text { text-align: center; color: white; opacity: 0.8; width: 75%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; position: absolute; bottom: 0.5em; left: 12.5%; font-size: 0.9em; text-transform:uppercase; }
+.ImageOverlay__Text--PreOrderItem { background-color: #168B11; }
+.ImageOverlay__Text--SaleItem { background-color: #C90000; }
+.ImageOverlay__Text--NewItem { background-color: #0026ff; }
+/* IMAGE OVERLAY END */
+/* ------------------------------ */
+/* ------------------------------ */
+/* LINE CLAMP BEGIN */
+/* Single Line Ellipsis */
+.Ellipsis { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+/* Clamping is just a mechanism to limit the number of lines that can be displayed in a container */
+.Clamped { line-height: 1.5; overflow: hidden; }
+/* Clamp to 2 lines, ie line-height x 2: */
+.Clamped-2 { height: 3em; max-height: 3em; }
+/* Clamp to 3 lines, ie line-height x 3: */
+.Clamped-3 { height: 4.5em; max-height: 4.5em; }
+/* LINE CLAMP END */
+/* ------------------------------ */
+.UnsubscribeDetails { text-align: center; }
+
+/* ------------------------------ */
+/* DEBUG BEGIN */
+.DebugData { clear: both; margin-top: 50px; margin-bottom: 10px; margin-left: auto; margin-right: auto; padding: 5px 5px; border: solid 1px #ff0000; background-color:#E8E8E8; color: #171717; word-break:break-all; max-width: 400px; }
+.DebugDataLink { color: #000000; }
+  /* DEBUG END */
+/* ------------------------------ */
+
+/*--------------------------------*/
+/* SITE PAUSED */
+.SitePaused { text-align: center; }
+/*SITE PAUSED END*/
+/*--------------------------------*/

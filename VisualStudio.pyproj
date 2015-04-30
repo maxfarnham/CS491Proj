@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{1080fe75-f41d-4b4e-82aa-06b40dca9b5e}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>lda_matrix.py</StartupFile>
+    <StartupFile>491_Spider\crawltest\startscrape.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -13,6 +13,8 @@
     <LaunchProvider>Standard Python launcher</LaunchProvider>
     <InterpreterId />
     <InterpreterVersion />
+    <InterpreterArguments>crawl news</InterpreterArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
@@ -21,6 +23,8 @@
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="491_Spider\crawltest\spiders\mltools\test.txt" />
+    <Content Include="491_Spider\scrapy.cfg" />
     <Content Include="Corpus\3sources\3sources\README.TXT" />
     <Content Include="Corpus\News\#IAmAScientistBecause Isn%27t the Only Feed You Should Follow _ WIRED.htm" />
     <Content Include="Corpus\News\#IAmAScientistBecause Isn%27t the Only Feed You Should Follow _ WIRED_files\5033302789x96.htm" />
@@ -4469,6 +4473,16 @@
     <Content Include="intersection_entity.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="491_Spider\crawltest\items.py" />
+    <Compile Include="491_Spider\crawltest\pipelines.py" />
+    <Compile Include="491_Spider\crawltest\settings.py" />
+    <Compile Include="491_Spider\crawltest\spiders\mltools\pageparser.py" />
+    <Compile Include="491_Spider\crawltest\spiders\mltools\settings.py" />
+    <Compile Include="491_Spider\crawltest\spiders\mltools\test.py" />
+    <Compile Include="491_Spider\crawltest\spiders\mltools\__init__.py" />
+    <Compile Include="491_Spider\crawltest\spiders\newsspider.py" />
+    <Compile Include="491_Spider\crawltest\spiders\__init__.py" />
+    <Compile Include="491_Spider\crawltest\__init__.py" />
     <Compile Include="buildcorp.py" />
     <Compile Include="dataset_utilities.py" />
     <Compile Include="demo.py" />
@@ -4480,11 +4494,19 @@
     <Compile Include="local.py" />
     <Compile Include="logistic.py" />
     <Compile Include="naive.py" />
+    <Compile Include="pageparser.py" />
+    <Compile Include="491_Spider\crawltest\startscrape.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="texthandler.py" />
     <Compile Include="text_manip.py" />
     <Compile Include="trie.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="491_Spider\" />
+    <Folder Include="491_Spider\crawltest\" />
+    <Folder Include="491_Spider\crawltest\spiders\" />
+    <Folder Include="491_Spider\crawltest\spiders\mltools\" />
     <Folder Include="Corpus\" />
     <Folder Include="Corpus\3sources\" />
     <Folder Include="Corpus\3sources\3sources" />

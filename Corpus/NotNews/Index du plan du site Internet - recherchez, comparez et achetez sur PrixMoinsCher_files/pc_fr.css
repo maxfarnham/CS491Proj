@@ -1,0 +1,57 @@
+.lowpriceshopper nav ul li:hover a,.lowpriceshopper nav ul li:hover span,.lowpriceshopper nav ul li:hover ul li a:hover{color:#0072cf}
+.lowpriceshopper nav ul a:visited,.lowpriceshopper nav ul li:hover ul li a{color:#fff}
+.lowpriceshopper nav ul li:hover ul li a{background:#0072cf}
+.lowpriceshopper nav ul li:hover a,.lowpriceshopper nav ul li:hover span,.lowpriceshopper nav ul li:hover ul li a:hover{background:#fff}
+.lowpriceshopper nav ul ul li{float:none}
+.lowpriceshopper #browse_categories{background:url('../../../br2/images/headers/header-opt.png') no-repeat -330px -140px;cursor:pointer;height:16px;position:absolute;right:87px;top:37px;width:75px;z-index:10}
+.lowpriceshopper #browse_categories #category_arrow{background:url('../../../br2/images/headers/header-opt.png') no-repeat -11px -128px;float:right;height:16px;width:9px}
+.lowpriceshopper #browse_categories #category_arrow.down{background-position:-21px -128px}
+.lowpriceshopper #categories{background:transparent url('../../../br2/images/sprite-x-repeat-opt.png') repeat-x 0 -130px;position:absolute;top:83px;z-index:50}
+.lowpriceshopper #categories,.lowpriceshopper #related_searches #more_searches{left:7px;width:99.3%}
+.lowpriceshopper #categories li a{color:#fff;font-size:11px;font-weight:bold;text-decoration:none;white-space:nowrap}
+.lowpriceshopper #categories ul{float:left;margin:17px 0 0 50px;padding:0;position:relative;width:171px;z-index:51}
+.lowpriceshopper #categories ul li{font:12px Arial,sans-serif;list-style:none;margin:0 0 8px 0}
+.lowpriceshopper #categories ul li.allDepartmentsLink a{background:url('../../../br2/images/bullets/all_departments.png') no-repeat 0 50%;color:#ffcb08;display:inline-block;padding-left:15px}
+.lowpriceshopper #categories.bot{margin:37px 0 0 7px;position:static}
+.lowpriceshopper #categories.closed{display:block;height:0}
+.lowpriceshopper #categories.closed ul{display:none}
+.lowpriceshopper #header_bar{background-image:url('../../../br2/images/headers/header_sg_de.png');height:90px}
+.lowpriceshopper.wide #header_bar{background-image:url('../../../br2/images/headers/header_wide_br.png');width:1004px}
+.lowpriceshopper #less_searches{margin:0 0 0 355px}
+.lowpriceshopper #search_bar{background:0;border:0;position:static}
+.lowpriceshopper #search_bar a.logo{height:36px;margin-left:76px;margin-top:18px;width:291px;float:left}
+.lowpriceshopper #search_bar a.logo span{position:absolute;top:-100000px}
+.lowpriceshopper #searchForm_footer{height:45px;left:390px;position:absolute;top:21px;width:499px}
+.lowpriceshopper #searchInFooter{height:91px;position:relative;width:970px;text-align:left}
+.lowpriceshopper #searchTerm_footer{background:0;border:0;float:left;height:25px;margin:5px 0 0 5px;padding:5px 13px;width:376px}
+.lowpriceshopper .search_box_container{height:46px;left:350px;margin:0;overflow:hidden;padding:0;position:relative;top:20px;width:499px}
+.lowpriceshopper .search_box_container #searchTerm{margin:5px 0 0 5px;padding-top:5px;padding-bottom:5px}
+.lowpriceshopper .search_button{right:5px;top:4px}
+.lowpriceshopper a.logo_link{background:url('../../../br2/images/headers/header_pc_fr.png') no-repeat -649px -91px;height:77px;left:25px;top:7px;width:312px}
+.lowpriceshopper .featuredItemsPod a,.lowpriceshopper .featuredItemsPod a:active,.lowpriceshopper .featuredItemsPod a:visited,.lowpriceshopper .featured_searches_pod a,.lowpriceshopper .featured_searches_pod a:active,.lowpriceshopper .featured_searches_pod a:visited{color:#0072cf}
+.lowpriceshopper .featuredItemsPod article a.view{color:#FFF}
+.lowpriceshopper div.head{width:970px}
+.lowpriceshopper.wide div.head{width:1190px}
+.lowpriceshopper.wide #header{margin-left:-7px}
+.lowpriceshopper footer span,.lowpriceshopper footer a,.lowpriceshopper footer a:visited{color:#333}
+.lowpriceshopper footer a:hover,.lowpriceshopper footer span:hover{color:#0f2d6a}
+.lowpriceshopper a.button.disabled,.lowpriceshopper a.button.disabled:hover,.lowpriceshopper a.button.disabled:active{color:#FFF;cursor:auto;border-bottom:1px solid rgba(0,0,0,0.25);box-shadow:0 1px 3px rgba(0,0,0,0.5);-moz-box-shadow:0 1px 3px rgba(0,0,0,0.5);-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.5);background:-webkit-gradient(linear,left top,left bottom,from(#eee),to(#999));background:-moz-linear-gradient(top,#eee,#999)}
+.lowpriceshopper a.button,.lowpriceshopper span.button,.lowpriceshopper ul.results div.price_details a.button,.lowpriceshopper #popup a.button{background:#0057ac;background:-webkit-gradient(linear,left top,left bottom,from(#0072cf),to(#0057ac));background:-moz-linear-gradient(top,#0072cf,#0057ac);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#0072CF,endColorstr=#0057AC)}
+.lowpriceshopper a.button:hover,.lowpriceshopper ul.results div.price_details a.button:hover,.lowpriceshopper #popup a.button:hover{background:#003f7e;background:-webkit-gradient(linear,left top,left bottom,from(#0072cf),to(#003f7e));background:-moz-linear-gradient(top,#0072cf,#003f7e);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#0072CF,endColorstr=#003F7E)}
+.lowpriceshopper a.button:active,.lowpriceshopper ul.results div.price_details a.button:active,.lowpriceshopper #popup a.button:active{color:#CCC;border:0;background:-webkit-gradient(linear,left top,left bottom,from(#003f7e),to(#0072cf));background:-moz-linear-gradient(top,#003f7e,#0072cf);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#003F7E,endColorstr=#0072CF)}
+.lowpriceshopper #searchForm_footer .search_button{margin:4px 0 0 -3px}
+.lowpriceshopper #related_searches,.lowpriceshopper #related_searches a{color:#fff}.pc_fr #categories ul{display:inline-block;margin:17px 0 0 25px;width:210px}
+.pc_fr #search_bar a.logo{background:url('../../../br2/images/headers/header_pc_fr.png') no-repeat scroll 0 -166px transparent}
+.pc_fr #searchForm_footer{background:url('../../../br2/images/headers/header_pc_fr.png') no-repeat scroll -91px -93px transparent}
+.pc_fr #searchInFooter{background:url('../../../br2/images/headers/header_pc_fr.png') no-repeat scroll 0 0 transparent}
+.pc_fr .featuredItemsPod article a.view{left:35%}
+.pc_fr .review #tab_arrow{left:158px}
+.pc_fr .search_box_container{background:url('../../../br2/images/headers/header_pc_fr.png') no-repeat -91px -92px}
+.pc_fr .search_box_container .search_button{top:5px}
+.pc_fr a.logo_link{background:url('../../../br2/images/headers/header_pc_fr.png') no-repeat -649px -91px}
+.pc_fr header form{width:670px}
+.pc_fr header h1 a{background:url('../../../html5/img/home/lw/fr/PrixMoinsCher_logo.png') no-repeat 0 0;width:282px}
+.pc_fr header input:first-child{width:516px}
+.pc_fr nav ul li span{padding:9px 5px}
+.pc_fr .search_box_container #searchTerm{width:374px}
+.pc_fr #browse_categories{background:url('../../../br2/images/headers/header_pc_fr.png') no-repeat -330px -140px;width:80px;right:25px}

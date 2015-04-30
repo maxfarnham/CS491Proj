@@ -12,6 +12,7 @@ BOT_NAME = 'crawltest'
 
 SPIDER_MODULES = ['crawltest.spiders']
 NEWSPIDER_MODULE = 'crawltest.spiders'
+CONCURRENT_REQUESTS = 75
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'crawltest (+http://www.yourdomain.com)'

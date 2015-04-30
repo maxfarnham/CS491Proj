@@ -1,0 +1,457 @@
+#WSOD_page #SmokeScreen,
+.minicard_popup #SmokeScreen
+{
+	position:absolute;
+	background:#fff;
+	opacity:.5;
+	filter:alpha(opacity=50);
+	z-index:9999;
+}
+#WSOD_page .hiddenContent,
+.minicard_popup .hiddenContent
+{
+	position:absolute;
+	top:-5000px;
+	left:-5000px;
+}
+#WSOD_page .loadingIndicator,
+.minicard_popup .loadingIndicator
+{
+	position:absolute;
+	z-index:99999;
+	background:#fff;
+	opacity:0.6;
+	filter:alpha(opacity=60);
+	width:30px;
+	height:30px;
+	float:left;
+	margin-left:1px;
+}
+
+/* ---------- Hover List / top nav option-group Styles ---------- */
+#WSOD_page .dropdown {
+	cursor: pointer;
+	border: 1px solid #e3e3d3;
+	border-top-color: #b3b3b3;
+}
+#WSOD_page .option-group {
+	position: absolute;
+	border:solid 1px #ccc;
+	background: #fff;
+	z-index:999;
+}
+#WSOD_page .option-group a{
+	_height:1%;
+
+}
+#WSOD_page .option-group a,
+#WSOD_page .option-group a.first,
+#WSOD_page .option-group a:link,
+#WSOD_page .option-group a:visited,
+#WSOD_page .dropdown a,
+#WSOD_page .dropdown a.first,
+#WSOD_page .dropdown a:link,
+#WSOD_page .dropdown a:visited
+ {
+	font-size: 11px;
+	color:#000;
+	text-decoration:none;
+	display:block;
+	padding: 0 9px;
+	border-left: solid 1px #fff;
+	border-right: solid 1px #fff;
+	white-space:nowrap;
+}
+#WSOD_page .option-group a.first, .option-group a.first:hover {
+	border-top:solid 1px #fff;
+}
+#WSOD_page .option-group a.last, .option-group a.last:hover {
+	border-bottom:solid 1px #fff;
+}
+#WSOD_page .option-group a:hover,
+#WSOD_page .option-group a.selected {
+	background:#e7e7e7;
+}
+#WSOD_page .option-group a div {
+	/*border-bottom:solid 1px #e5e5e5;*/
+	padding: 6px 0;
+	margin-top:-1px;
+	line-height: 14px;
+	font-weight: normal;
+	.position:relative;
+	.top: 0px;
+	cursor:pointer;
+	cursor:hand;
+	font-size:11px;
+	color:#444;
+}
+#WSOD_page .option-group a.last div {
+	border:0;
+}
+#WSOD_page .option-group a div div.sm {
+	border:0;
+	padding:0;
+	font-size:11px;
+	font-weight:normal;
+}
+#WSOD_page .option-group a img {
+	float:right;
+	padding-top:2px;
+	border:none;
+}
+#WSOD_page .option-group a img.pad {
+	float:right;
+	padding-top:9px;
+	border:none;
+}
+#WSOD_page .force2Left {
+	background: white url(../../image/screener/gradients/tabMenu_grad.gif) repeat-x;
+}
+
+/* ------ Drag Window ------- */
+#WSOD_page .dragTray {
+	position: relative;
+}
+#WSOD_page .dragViewPort {
+	position: relative;
+	overflow:hidden;
+}
+#WSOD_page .draggable {
+	/*position:relative;*/
+	float: none;
+	top:0;
+}
+#WSOD_page .dragControls {
+	position:relative;
+	float:right;
+	width:9px;
+	background:#f7f3f7;
+}
+#WSOD_page .dragControls .handleTray {
+	opacity:1;
+	filter:alpha(opacity=100);
+}
+#WSOD_page .dragControls .uparrow,
+#WSOD_page .dragControls .downarrow {
+	position:absolute;
+	height: 9px;
+	line-height: 9px;
+	font-size: 6px;
+	background:#b5b6b5;
+	cursor: pointer;
+}
+#WSOD_page .dragControls .handle {
+	border:solid 1px #9c9a9c;
+	position:relative;
+	top:10px;
+	width:7px;
+	background: #cecbce url(../../image/screener/scrollbar/handle.gif) repeat-y top left;
+	cursor: pointer;
+	height: 100px;
+}
+#WSOD_page .dragControls .handleTray.inactive .uparrow,
+#WSOD_page .dragControls .handleTray.inactive .downarrow,
+#WSOD_page .dragControls .handleTray.inactive .handle {
+	opacity:.3;
+	filter:alpha(opacity=30);
+	cursor:default;
+}
+#WSOD_page .dragControls .handle .gripper {
+	height: 100px;
+	background: url(../../image/screener/scrollbar/gripper.gif) no-repeat center center;
+}
+
+/* ------ Minicard Styles ------- */
+/* ---------- Class popup Styles ---------- */
+.minicard_popup{
+	position:absolute;
+	z-index:10000;
+}
+.minicard_popup .box{
+	border: 4px solid #000000;
+	position:absolute;
+	z-index:12;
+	background-color:#fff;
+}
+
+.minicard_popup .leftTopFin,
+.minicard_popup .rightTopFin,
+.minicard_popup .leftBottomFin,
+.minicard_popup .rightBottomFin{
+	position:absolute;
+	width:26px;
+	height:37px;
+}
+.minicard_popup .leftTopFin{
+	left: 20px;
+	top:-37px;
+	background:transparent url(../../image/screener/dialog/small/leftTopFin.gif) no-repeat;
+}
+.minicard_popup .rightTopFin{
+	right: 20px;
+	top:-37px;
+	background:transparent url(../../image/screener/dialog/small/rightTopFin.gif) no-repeat;
+}
+.minicard_popup .leftBottomFin{
+	left: 20px;
+	bottom:-37px;
+	background:transparent url(../../image/screener/dialog/small/leftBottomFin.gif) no-repeat;
+}
+.minicard_popup .rightBottomFin{
+	right: 20px;
+	bottom:-37px;
+	background:transparent url(../../image/screener/dialog/small/rightBottomFin.gif) no-repeat;
+}
+
+.minicard_popup .boxTop{
+	background: url(../../image/screener/dialog/small/t.gif) repeat-x top;
+	height:19px;
+}
+.minicard_popup .boxBottom{
+	background: url(../../image/screener/dialog/small/b.gif) repeat-x bottom;
+	height:19px;
+	clear:both;
+}
+
+.minicard_popup .boxTop .left,
+.minicard_popup .boxTop .right,
+.minicard_popup .boxBottom .left,
+.minicard_popup .boxBottom .right{
+	width:17px;
+	height:19px;
+}
+.minicard_popup .boxTop .left{
+	background:transparent url(../../image/screener/dialog/small/tl.gif) no-repeat;
+}
+.minicard_popup .boxTop .right{
+	background:transparent url(../../image/screener/dialog/small/tr.gif) no-repeat;
+	float: right;
+}
+.minicard_popup .boxBottom .left{
+	background:transparent url(../../image/screener/dialog/small/bl.gif) no-repeat;
+}
+.minicard_popup .boxBottom .right{
+	background:transparent url(../../image/screener/dialog/small/br.gif) no-repeat;
+	float: right;
+}
+
+.minicard_popup .left,
+.minicard_popup .middle,
+.minicard_popup .right{
+	float: left;
+}
+.minicard_popup .left{
+	background:transparent url(../../image/screener/dialog/small/l.gif) repeat-y scroll right center;
+	width:7px;
+	clear:left;
+}
+.minicard_popup .right{
+	background:transparent url(../../image/screener/dialog/small/r.gif) repeat-y scroll left center;
+	width:7px;
+}
+
+.minicard_popup .closeBtn{
+	width:24px;
+	height:24px;
+	cursor:pointer;
+	font-size:1px;
+	position:absolute;
+	right:-8px;
+	top:-6px;
+	z-index:101;
+	background:transparent url(../../image/screener/buttons/dialog_window_close.gif) no-repeat;
+}
+
+#WSOD_page .WSODHoverShadowContainer,
+.minicard_popup .WSODHoverShadowContainer{
+	position: absolute;
+	margin-top: -1px;
+	margin-left: -1px;
+	z-index: 8;
+	height:1%;
+}
+#WSOD_page .WSODHoverShadowLayer,
+.minicard_popup .WSODHoverShadowLayer{
+	-moz-border-radius: 3px;
+	position:absolute;
+	background:#000;
+	z-index:9;
+	height:100%;
+}
+
+.minicard_popup div.minicard {
+	font-size:11px;
+	width: 366px;
+}
+.minicard_popup div.minicard div.header {
+	font-size:18px;
+	font-weight:bold;
+	color:#CB1078;
+	padding-bottom: 7px;
+}
+.minicard_popup div.minicard div.header span {
+	font-size:12px;
+	font-weight:normal;
+	color:#999;
+}
+.minicard_popup div.minicard div.upperMinicard,
+.minicard_popup div.minicard div.lowerMinicard{
+	padding: 12px;
+}
+.minicard_popup div.minicard div.upperMinicard {
+	padding-top: 0;
+}
+.minicard_popup div.minicard div.lowerMinicard {
+	border-top:solid 1px #ececec;
+	padding-bottom:0;
+}
+.minicard_popup div.minicard div.lowerMinicard img {
+	border:0;
+	vertical-align:middle;
+}
+.minicard_popup div.minicard div.quotes {
+	font-size: 12px;
+}
+.minicard_popup div.minicard div.quotes div {
+	float:left;
+	font-weight:bold;
+}
+.minicard_popup div.minicard div.quotes div.last {width: 95px;}
+.minicard_popup div.minicard div.quotes div.change {width: 160px;}
+.minicard_popup div.minicard div.quotes div.volume {float:right;}
+
+.minicard_popup div.minicard div.quotes div span{
+	font-size: 15px;
+}
+.minicard_popup div.minicard div.quotes div.details {
+	clear: both;
+	float: none;
+	font-size: 10px;
+	font-weight: normal;
+	padding-top: 5px;
+	text-align: right;
+	
+}
+.minicard_popup div.minicard div.chart {
+	padding-top:10px;
+}
+.minicard_popup div.minicard div.chart-controls {
+	padding:5px;
+	border-top:solid 1px #ececec;
+	border-bottom:solid 1px #ececec;
+}
+.minicard_popup div.minicard div.buy_sell {
+	float:right;
+	width:150px;
+}
+.minicard_popup div.minicard div.buy_sell a {
+}
+.minicard_popup div.minicard div.linkGroup {
+	padding: 10px 0 0 10px;
+	white-space:nowrap;
+	-padding: 0 0 0 10px;
+	-margin-top: -3px;
+}
+.minicard_popup div.minicard div.linkGroup a {
+	margin: 0 3px;
+}
+
+
+#WSOD_page .jScrollPaneContainer {
+	/*position: relative;*/
+	position: absolute;
+	overflow: hidden;
+	z-index: 9999;
+}
+
+#WSOD_page .jScrollPaneTrack {
+	position: absolute;
+	cursor: pointer;
+	right: 0;
+	top: 0;
+	height: 100%;
+	background: #eee;
+}
+#WSOD_page .jScrollPaneDrag {
+	position: absolute;
+	background: #CECBCE url(../../image/screener/backgrounds/handle.gif) repeat-y scroll 0 0;
+	border:1px solid #9c9a9c;
+	cursor: pointer;
+	overflow: hidden;
+}
+#WSOD_page .jScrollPaneDragTop {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+#WSOD_page .jScrollPaneDragBottom {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	overflow: hidden;
+}
+#WSOD_page .jScrollGripper{
+	background: url(../../image/screener/backgrounds/gripper.gif) no-repeat scroll center;
+	height:100%;
+}
+#WSOD_page a.jScrollArrowUp {
+	display: block;
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	text-indent: -2000px;
+	overflow: hidden;
+	/*background-color: #666;*/
+	background: transparent url(../../image/screener/backgrounds/basic_arrow_up.gif) no-repeat scroll 0 0;
+	height: 9px;
+}
+#WSOD_page a.jScrollArrowUp:hover {
+	/*background-color: #f60;*/
+}
+
+#WSOD_page a.jScrollArrowDown {
+	display: block;
+	position: absolute;
+	z-index: 1;
+	bottom: 0;
+	right: 0;
+	text-indent: -2000px;
+	overflow: hidden;
+	/*background-color: #666;*/
+	background: transparent url(../../image/screener/backgrounds/basic_arrow_down.gif) no-repeat scroll 0 0;
+	height: 9px;
+}
+#WSOD_page a.jScrollArrowDown:hover {
+	/*background-color: #f60;*/
+}
+#WSOD_page a.jScrollActiveArrowButton, a.jScrollActiveArrowButton:hover {
+	/*background-color: #f00;*/
+}
+
+#WSOD_page .loading {
+	position:absolute;
+}
+#WSOD_page .loading .screen {
+	background: #fff;
+	position: absolute;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+}
+#WSOD_page .loading img {
+	vertical-align: middle;
+	padding-right:5px;
+}
+#WSOD_page .loadingBox {
+	z-index: 999;
+	position: absolute;
+	font-size:18px;
+	font-weight: normal;
+	color:#333;
+	width: 270px;
+	height:100px;
+	text-align:center;
+	border:solid 1px #ccc;
+	background: #fff url(../../image/screener/gradients/loadingBG.gif) repeat-x bottom;
+}

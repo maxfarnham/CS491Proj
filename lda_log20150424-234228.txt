@@ -1,0 +1,1296 @@
+*Topic 0
+- [ u ' t h e '   u ' o f '   u ' t o '   u ' i n '   u ' a n d ' ]
+*Topic 1
+- [ u ' t h e '   u ' o f '   u ' a '   u ' o n '   u ' a n d ' ]
+*Topic 2
+- [ u ' t h e '   u ' i n '   u ' a '   u ' o n '   u ' o f ' ]
+*Topic 3
+- [ u ' t o '   u ' t h e '   u ' a '   u ' a n d '   u ' i s ' ]
+numFiles: 288
+C:\Users\William\Desktop\CS491Proj\corpus\news\#IAmAScientistBecause Isn't the Only Feed You Should Follow _ WIRED.htm file most likely: 1
+	 with: 0.564982973893
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\$158m barrels worth of oil discovered in England - CNN Video.htm file most likely: 3
+	 with: 0.733449477352
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\'When a Man Loves a Woman' singer Percy Sledge dies - CNN.com.htm file most likely: 2
+	 with: 0.740173139916
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\'You are all influencers'  How lesbians in tech are gaining ground - Apr. 13, 2015.htm file most likely: 3
+	 with: 0.747261926861
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\15 Questions with Eileen Carey and Lauren Mosenthal - CNNMoney.htm file most likely: 3
+	 with: 0.783751962323
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\2014's most challenged books - CNN.com.htm file most likely: 1
+	 with: 0.471889129153
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\2016 elections candidate status check + emojis - CNN.com.htm file most likely: 2
+	 with: 0.531897034135
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\5 years after the Gulf oil spill  What we know - CNN.com.htm file most likely: 0
+	 with: 0.45263509006
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\500 corgis invade California Beach - CNN.com.htm file most likely: 3
+	 with: 0.400789177001
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\800,000 Nigerian kids displaced by Boko Haram, violence - CNN.com.htm file most likely: 0
+	 with: 0.430224867725
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Crash Course on Derivatives _ WIRED.htm file most likely: 3
+	 with: 0.555228382649
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Missouri Death Row Inmate is Waiting for the Phone Call That Decides if He Lives or Dies Tonight _ VICE News.htm file most likely: 0
+	 with: 0.640433046683
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\A new crisis is brewing between two nuclear-armed neighbors.htm file most likely: 3
+	 with: 0.416469661151
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\A new political order in Scotland threatens to upend the British election - The Washington Post.htm file most likely: 3
+	 with: 0.515680635442
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Smart Approach to Sifting Gold From the Twitter Stream _ WIRED.htm file most likely: 3
+	 with: 0.511808861223
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Super-Gross Diagnostic Tool That Could Save Your Life _ WIRED.htm file most likely: 3
+	 with: 0.493919292427
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\A US Government Agency Quietly Acknowledged That Marijuana May Help Fight Brain Tumors _ VICE News.htm file most likely: 0
+	 with: 0.754674743218
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Yazidi captive's tale  Sold by ISIS as a sex slave - CNN.com.htm file most likely: 3
+	 with: 0.473876466681
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Yazidi family's horrifying tale of escaping ISIS - CNN.com.htm file most likely: 3
+	 with: 0.468734703867
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\After Walter Scott Killing, Black Lives Matter Movement Calls For Citizen Oversight of Police _ VICE News.htm file most likely: 0
+	 with: 0.772255403868
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Agnellis' Exor bids $6.4 billion for PartnerRe to trump Axis _ Reuters.htm file most likely: 3
+	 with: 0.621974371144
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Al Shabaab Fighters Storm Higher Education Ministry in Mogadishu, Killing at Least 10 _ VICE News.htm file most likely: 0
+	 with: 0.916276097145
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Amazon's X-Ray Shows Movie Info Whenever You Hit Pause _ WIRED.htm file most likely: 1
+	 with: 0.486714071856
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\An anatomy of the Chris Christie town hall - CNN.com.htm file most likely: 2
+	 with: 0.680753690113
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Angry Nerd  Unfriended'sScreen-Capture Format Is Lazy, Not Scary _ WIRED.htm file most likely: 1
+	 with: 0.908427876823
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Anonabox Recalls 350 'Privacy' Routers for Security Flaws _ WIRED.htm file most likely: 1
+	 with: 0.542336427439
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\AQAP leader killed in Yemen, group says - CNN.com.htm file most likely: 0
+	 with: 0.439393939394
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Arab Leaders Agree to Create Joint Military Force to Counter 'Unprecedented Unrest' _ VICE News.htm file most likely: 0
+	 with: 0.848345003183
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Asia tentative as mixed China data stoke uncertainty _ Reuters.htm file most likely: 3
+	 with: 0.667931208902
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Asiana Airlines plane skids off Hiroshima runway - CNN.com.htm file most likely: 3
+	 with: 0.428877463582
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Asleep ramp agent in cargo hold leads to Alaska Airlines emergency landing - CNN.com.htm file most likely: 3
+	 with: 0.44825836997
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Australian Golfer Bitten by Crocodile While Looking for Ball in Water Trap _ Bleacher Report.htm file most likely: 3
+	 with: 0.60780669145
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Avon exploring sale of North America business  WSJ _ Reuters.htm file most likely: 3
+	 with: 0.62216532553
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Baby ducklings stop traffic in Washington, D.C. - CNN.com.htm file most likely: 3
+	 with: 0.569614711033
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bangladesh Ignored Pleas from the US, EU, and UN and Hanged an Alleged War Criminal _ VICE News.htm file most likely: 0
+	 with: 0.781334314447
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bank of Japan must maintain stimulus but with eye on risks  OECD _ Reuters.htm file most likely: 3
+	 with: 0.576086956522
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Beehive raises a record-breaking $10 million - Apr. 13, 2015.htm file most likely: 3
+	 with: 0.791034669556
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Being a Woman Doesn’t Guarantee Hillary Clinton the 'Women’s Vote' in 2016 _ VICE News.htm file most likely: 0
+	 with: 0.401002285915
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Believe Or Deny Climate Change  That Depends On Where You Live _ VICE News.htm file most likely: 0
+	 with: 0.679026530186
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ben Carson making May 4 announcement in Detroit - CNN.com.htm file most likely: 2
+	 with: 0.840356871678
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bendy Tableware That Makes Cooking a Cinch _ WIRED.htm file most likely: 1
+	 with: 0.588937093275
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bluetooth Disc Plays Your Digital Music Like a Vinyl Record _ WIRED.htm file most likely: 1
+	 with: 0.514298752662
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bodies of Five Aid Workers From Save the Children Found After Violent Week in Afghanistan _ VICE News.htm file most likely: 0
+	 with: 0.924968274112
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Boehner names allies to negotiate U.S. House-Senate joint budget _ Reuters.htm file most likely: 3
+	 with: 0.500958313368
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Boehner says president not likely to get new war authorization to fight ISIS - CNN.com.htm file most likely: 3
+	 with: 0.384021693784
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Boko Haram kidnapping in Nigeria, one year later - CNN.com.htm file most likely: 3
+	 with: 0.539478322171
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Brave Robots Are Roaming the Oceans for Science _ WIRED.htm file most likely: 1
+	 with: 0.489929162755
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Briny puddles could dot Mars, new research says - CNN.com.htm file most likely: 1
+	 with: 0.940284034967
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bullet ricochets off armadillo, hits mother-in-law - CNN Video.htm file most likely: 3
+	 with: 0.938202247191
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\California's Almond Czar Seems Like a Reasonable Guy _ WIRED.htm file most likely: 1
+	 with: 0.504726160689
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\California's Governor Issues Mandatory Water Cuts — Except for Farmers _ VICE News.htm file most likely: 0
+	 with: 0.471082986222
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Campaigns we can believe in - CNN.com.htm file most likely: 2
+	 with: 0.901322894168
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Can Rubio, Bush both compete for Latino vote  - CNN.com.htm file most likely: 2
+	 with: 0.692906150453
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Chile moves to recognize same-sex civil unions - CNN.com.htm file most likely: 3
+	 with: 0.575194468453
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Chimp takes down drone - CNN Video.htm file most likely: 3
+	 with: 0.687332439678
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\China Accused of Doling Out Counterfeit Digital Certificates in 'Serious' Web Security Breach _ VICE News.htm file most likely: 0
+	 with: 0.600774284374
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\China Is Poised to Overtake the US as the Biggest Modern Contributor to Climate Change _ VICE News.htm file most likely: 0
+	 with: 0.715832710978
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\China's economic growth slows to 7 percent in first quarter, six-year low _ Reuters.htm file most likely: 3
+	 with: 0.736230636833
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Classes Resume in Sierra Leone After Ebola Crisis — But Pregnant Teens Are Banned _ VICE News.htm file most likely: 0
+	 with: 0.59927550421
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton  Unfair that fund managers pay lower tax rate than truckers _ Reuters.htm file most likely: 2
+	 with: 0.459365708622
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton campaign immediately starts fundraising drive - CNN.com.htm file most likely: 3
+	 with: 0.559711736445
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton hits the trail in Iowa, again - The Washington Post.htm file most likely: 3
+	 with: 0.46447347459
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton road trip  Chipotle, cottage cheese and Scooby snacks - CNN.com.htm file most likely: 2
+	 with: 0.940548663019
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton To Make Gender Issues Key to Presidential Bid _ WIRED.htm file most likely: 2
+	 with: 0.351623289509
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Clinton¹s Iowa campaign starts at a coffee shop - CNN.com.htm file most likely: 2
+	 with: 0.573573167433
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Congress and White House strike deal on Iran legislation - The Washington Post.htm file most likely: 3
+	 with: 0.484246123392
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Congress approves formula fixing Medicare doctors pay _ Reuters.htm file most likely: 3
+	 with: 0.588531938737
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Conspiracy Theorists Think an Army Training Exercise Will Bring Martial Law to the US This Summer _ VICE News.htm file most likely: 0
+	 with: 0.64541967509
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Countryside Near London's Gatwick Airport Might Be Hiding Billions of Extra Barrels of Oil _ VICE News.htm file most likely: 0
+	 with: 0.843434343434
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Crime-Weary Argentina Sees More Mob Violence and Vigilante Killings _ VICE News.htm file most likely: 0
+	 with: 0.696743327178
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Dash cam shows cop charged with murder using Taser - CNN Video.htm file most likely: 3
+	 with: 0.665378670788
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Death Toll Rises to 147 After Al Shabaab Gunmen Attack Kenyan University _ VICE News.htm file most likely: 0
+	 with: 0.730714183484
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Detroit Officers Indicted for Fake Drug Busts, Cocaine Possession, and Extortion _ VICE News.htm file most likely: 0
+	 with: 0.79384301138
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Do North Charleston police use racial profiling  - CNN.com.htm file most likely: 3
+	 with: 0.473317433107
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Docker Raises $95M Because Silicon Valley Loves Containers _ WIRED.htm file most likely: 1
+	 with: 0.601952770209
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Dollar smarts after retail sales sting, China data next _ Reuters.htm file most likely: 3
+	 with: 0.544779477948
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Drug Pump's Security Flaw Lets Hackers Raise Dose Limits _ WIRED.htm file most likely: 1
+	 with: 0.512145996094
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters.htm file most likely: 0
+	 with: 0.615692788743
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Egyptian Court Sentences American Citizen Journalist to Life in Prison _ VICE News.htm file most likely: 0
+	 with: 0.634907645546
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Election 2016  Hillary Clinton announces White House run - CNN.com.htm file most likely: 2
+	 with: 0.540714422892
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Election 2016  Who is GOP's foreign policy candidate  - CNN.com.htm file most likely: 2
+	 with: 0.731080534197
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Email Phishing Attacks Take Just Minutes to Hook Recipients _ WIRED.htm file most likely: 1
+	 with: 0.461397058824
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\EU to announce antitrust moves against Google on Wednesday  papers _ Reuters.htm file most likely: 3
+	 with: 0.509770266702
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ev Williams' Rules for Quality Content in the Clickbait Age _ WIRED.htm file most likely: 3
+	 with: 0.545436817473
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ex-Blackwater contractors sentenced in Iraq shooting - CNN.com.htm file most likely: 0
+	 with: 0.504058167061
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Exploring the Creepiest, Craziest Abandoned Spaces of NYC _ WIRED.htm file most likely: 1
+	 with: 0.497646795159
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Explosive House hearing condemns DEA 'sex parties' - CNN Video.htm file most likely: 3
+	 with: 0.799610894942
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Florida artist claims Apple stole his style _ Reuters.htm file most likely: 3
+	 with: 0.385202388852
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Florida Family Releases Video of Cop Killing Their Schizophrenic Son _ VICE News.htm file most likely: 0
+	 with: 0.832141696458
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\French Prime Minister Swears Proposed Spying Law Won’t Lead to 'Widespread Surveillance of Civilians' _ VICE News.htm file most likely: 0
+	 with: 0.633220275108
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Game of Thrones Recap  This Season, Everything Changes _ WIRED.htm file most likely: 3
+	 with: 0.472921087198
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Get Ready For an Explosion of Mining on the Ocean Floor _ VICE News.htm file most likely: 0
+	 with: 0.603356890459
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Global Warming Is Already Clobbering the Amazon _ WIRED.htm file most likely: 1
+	 with: 0.485300413872
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google doesn't care where you went to college - Apr. 9, 2015.htm file most likely: 3
+	 with: 0.835856537803
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google Fiber heading to Salt Lake City - Mar. 24, 2015.htm file most likely: 3
+	 with: 0.80080966104
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Google strikes back at Wall Street Journal - with a laughing baby - Mar. 27, 2015.htm file most likely: 3
+	 with: 0.766084499807
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Graphic New Veteran-Sponsored Ads Are Asking Drone Pilots Not to Fly _ VICE News.htm file most likely: 0
+	 with: 0.601249410655
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Guinea Ramps Up Fight Against Ebola as Outbreak Continues to Burn _ VICE News.htm file most likely: 0
+	 with: 0.659817692767
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Guinea’s Opposition Leader Describes Police Firing Tear Gas and AK-47s at Protests _ VICE News.htm file most likely: 0
+	 with: 0.544318959617
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Gunmen Stormed a Construction Site in Pakistan and Killed 20 Imported Laborers _ VICE News.htm file most likely: 0
+	 with: 0.931561085973
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hacker Lexicon  What Are Chip and PIN Cards  _ WIRED.htm file most likely: 1
+	 with: 0.620573602575
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hacker Lexicon  What Are Phishing and Spear Phishing  _ WIRED.htm file most likely: 1
+	 with: 0.566676350959
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\He's in  Marco Rubio's presidential challenge - CNN.com.htm file most likely: 2
+	 with: 0.613461948412
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Here's How Much Obama Says the US Will Cut Carbon Pollution _ VICE News.htm file most likely: 0
+	 with: 0.592323651452
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Here's what it's like to shop for Apple Watch - Video - Technology.htm file most likely: 3
+	 with: 0.959665144597
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hidden cameras show airport workers stealing from bags - CNN.com.htm file most likely: 0
+	 with: 0.489467949882
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hillary Clinton 2016  Walking a gender tightrope - CNN.com.htm file most likely: 2
+	 with: 0.849063802313
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hillary Clinton video carries warning stamp in Russia - CNN.com.htm file most likely: 3
+	 with: 0.472289890378
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hillary Clinton's no-frills 2016 campaign - CNN.com.htm file most likely: 2
+	 with: 0.821853860346
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hillary Clinton's Wall Street dilemma - CNN.com.htm file most likely: 2
+	 with: 0.836926366894
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hours from deadline, bipartisan Medicare bill heads to White House - The Washington Post.htm file most likely: 3
+	 with: 0.621287128713
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\House Oversight Committee Grills DEA Head Over Scandal - CNN.com.htm file most likely: 0
+	 with: 0.479803979804
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\How does Marco Rubio stand in the polls  - CNN.com.htm file most likely: 2
+	 with: 0.634853743183
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\How hackers spied on Asia for a decade - Apr. 13, 2015.htm file most likely: 3
+	 with: 0.525226213326
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\How Lincoln Crafted Its New Super-Deluxe Sound System _ WIRED.htm file most likely: 1
+	 with: 0.500532339633
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\How Popcorn Time's Piracy App Is Sneaking Onto iPhones _ WIRED.htm file most likely: 1
+	 with: 0.501376056615
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\How the Jalisco New Generation Cartel Is Terrorizing the People of Western Mexico _ VICE News.htm file most likely: 0
+	 with: 0.617667794698
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\How to make rejection work for you - CNN.com.htm file most likely: 3
+	 with: 0.695293481201
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\How to survive the world's biggest water fight - CNN.com.htm file most likely: 3
+	 with: 0.573023854069
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Human Rights Groups Caught in the Crossfire After Kenyan University Attack _ VICE News.htm file most likely: 0
+	 with: 0.666022867738
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\In a Move That Everyone Is Sure to Like, Russia Might Have Just Banned Internet Porn _ VICE News.htm file most likely: 0
+	 with: 0.742861065349
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\In Photos  The Sudanese Refugees Who Fled Intense Fighting and Aerial Bombardment _ VICE News.htm file most likely: 0
+	 with: 0.719227411611
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\In setback, Obama concedes Congress role on Iran deal _ Reuters.htm file most likely: 2
+	 with: 0.474840619308
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Intel sees revenue holding, cuts capital spending, shares up _ Reuters.htm file most likely: 3
+	 with: 0.745645491803
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Intense Video Purportedly Shows Islamic State Suicide Bomb Vehicle Exploding in Midair _ VICE News.htm file most likely: 0
+	 with: 0.744011976048
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Iraqi Prime Minister's visit to White House - CNN.com.htm file most likely: 3
+	 with: 0.382125069175
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Iraqi reinforcements sent to battle ISIS at refinery - CNN.com.htm file most likely: 0
+	 with: 0.474918211559
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Is It Okay to Drill in the Arctic  It's Complicated, According to the Obama Administration _ VICE News.htm file most likely: 0
+	 with: 0.624767225326
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Islamic State Militants Reportedly Kidnap 120 Children in Mosul _ VICE News.htm file most likely: 0
+	 with: 0.887988997555
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\It's Official  Guitar Hero Is Back This Fall _ WIRED.htm file most likely: 1
+	 with: 0.512162714636
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Japan Is Going to Kill Thousands of Whales No Matter What Other Nations Say _ VICE News.htm file most likely: 0
+	 with: 0.688601261692
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\John Kasich  'Seriously considering' presidential bid - CNN.com.htm file most likely: 2
+	 with: 0.48743872549
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Justified Nears Its End, But It Leaves Behind Classic GIFs _ WIRED.htm file most likely: 1
+	 with: 0.413250714967
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Kelley Paul spotlights new book - CNN.com.htm file most likely: 3
+	 with: 0.60030359645
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\L.A. to control all its streelights with a single laptop - Apr. 10, 2015.htm file most likely: 3
+	 with: 0.7183058556
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\LA's Proposed Parking Signs Are Brilliantly Simple _ WIRED.htm file most likely: 3
+	 with: 0.471679956008
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Large Hadron Collider - CNN.com.htm file most likely: 1
+	 with: 0.482739331948
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Look, It's Really Hard to Land a Rocket on a Boat, OK  _ WIRED.htm file most likely: 1
+	 with: 0.757518796992
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Mad Men Recap  Money Can't Buy Don Draper Love _ WIRED.htm file most likely: 3
+	 with: 0.435527199463
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Malaysia Reintroduces Indefinite Detention to Stop 'Terrorists' — and Maybe to Quell Opposition _ VICE News.htm file most likely: 0
+	 with: 0.734813084112
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Man who recorded Walter Scott shooting speaks - CNN Video.htm file most likely: 3
+	 with: 0.711746522411
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Massive Explosion in Zhangzhou, China Highlights Chemical Plant Risks _ VICE News.htm file most likely: 0
+	 with: 0.919027565084
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\McCarthy backs bill giving Congress say on Iran - CNN.com.htm file most likely: 3
+	 with: 0.495416913069
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\McLaren Helps Build a $20,000 Bike, Because Why Not _ WIRED.htm file most likely: 1
+	 with: 0.577638755213
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Meet Cook County Sheriff Tom Dart, the Man Who Runs America's Largest Mental Healthcare Provider _ VICE News.htm file most likely: 3
+	 with: 0.706708201758
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Meet the Afghan Interpreters Who Have Been Abandoned by the French Army _ VICE News.htm file most likely: 0
+	 with: 0.541671397752
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Menendez friend indicted for Medicare fraud - CNN.com.htm file most likely: 2
+	 with: 0.713517353359
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Mexican Workers at Canadian Mines Are Under Constant Threat of Cartel Kidnappings, Killings _ VICE News.htm file most likely: 0
+	 with: 0.616813237676
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Milwaukee driver shot dead after hitting, killing child - CNN Video.htm file most likely: 3
+	 with: 0.81270096463
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Morocco’s New Elite Investigative Unit Has Dismantled an Islamic State-Linked Terror Cell _ VICE News.htm file most likely: 0
+	 with: 0.811383688401
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Mr. Obama rewards Egypt’s repression with military aid - The Washington Post.htm file most likely: 3
+	 with: 0.484949247462
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Must-see islands - CNN.com.htm file most likely: 1
+	 with: 0.493416355993
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly 1 million new malware threats released every day - Apr. 14, 2015.htm file most likely: 3
+	 with: 0.655282966267
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly 90% of Americans now have health insurance - Apr. 13, 2015.htm file most likely: 3
+	 with: 0.863280286208
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly Five Years After the BP Spill, Animals Are Still Dying in the Gulf of Mexico _ VICE News.htm file most likely: 0
+	 with: 0.757916364515
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\New Ford car automatically obeys speed limits - Mar. 25, 2015.htm file most likely: 3
+	 with: 0.799865063788
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\New look inside Fukushima - CNN Video.htm file most likely: 3
+	 with: 0.583904109589
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\New pictures of Kim Jong Un raise more questions - CNN Video.htm file most likely: 3
+	 with: 0.637055837563
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nine Atlanta educators in test-cheating case are sentenced to prison - The Washington Post.htm file most likely: 3
+	 with: 0.67270904042
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nokia in talks to buy Alcatel-Lucent; France backs deal _ Reuters.htm file most likely: 3
+	 with: 0.550821064553
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Carolina college shooting  Possible hate crime  - CNN.com.htm file most likely: 0
+	 with: 0.563337801609
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Korea's 'Rubber Stamp' Parliament Meets as UN Warns of Malnutrition _ VICE News.htm file most likely: 0
+	 with: 0.607823699863
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Korea's first couple  Kim Jong Un and Ri Sol Ju - CNN.com.htm file most likely: 2
+	 with: 0.352873938602
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\NY Cops Used 'Stingray' Spy Tool 46 Times Without Warrant _ WIRED.htm file most likely: 1
+	 with: 0.365244180739
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama acts to remove Cuba from terror list - CNN.com.htm file most likely: 2
+	 with: 0.588638045892
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama holds out on Hillary Clinton endorsement - CNN.com.htm file most likely: 2
+	 with: 0.641012909633
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama removes Cuba from the list of state sponsors of terrorism - The Washington Post.htm file most likely: 3
+	 with: 0.429316431322
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama tells Congress he plans to remove Cuba from terrorism list _ Reuters.htm file most likely: 2
+	 with: 0.412871600253
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama tries to reassure nervous Jewish groups over Iran deal - CNN.com.htm file most likely: 2
+	 with: 0.48181352459
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Obama warns Iran its fighters in Iraq must answer to Baghdad _ Reuters.htm file most likely: 2
+	 with: 0.3593550447
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ohio mom charged for son's fall into cheetah exhibit - CNN.com.htm file most likely: 3
+	 with: 0.598282442748
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Oil prices rise after signs of U.S. production dip _ Reuters.htm file most likely: 3
+	 with: 0.525517751479
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Old-School Cool  Charming Toy Cars Made of Nothin' But Wood _ WIRED.htm file most likely: 1
+	 with: 0.564683344602
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Oldest DNA taken from Neanderthal who fell into well - CNN.com.htm file most likely: 3
+	 with: 0.452275600506
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\On John Oliver, Edward Snowden Says Keep Taking Dick Pics _ WIRED.htm file most likely: 1
+	 with: 0.473607038123
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\On the Frontline of Libya's Fight Against the Islamic State _ VICE News.htm file most likely: 0
+	 with: 0.679603593048
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\One Dead After Blast Causes Panicked Kenyan Students to Leap From Windows Amid al Shabaab Fears _ VICE News.htm file most likely: 0
+	 with: 0.847954077127
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\One of the World's Biggest Extinction Crises Is Being Caused by Cats _ VICE News.htm file most likely: 0
+	 with: 0.658068911816
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pataki criticizes GOP's focus on social issues - CNN.com.htm file most likely: 2
+	 with: 0.570133234641
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pebble Time's Kickstarter project raised more than $20.3 million and broke two Kickstarter records - Mar. 27, 2015.htm file most likely: 3
+	 with: 0.770150200973
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pentagon Panel Proposes Sweeping Changes that Could Impact Guantanamo Force-Feeding _ VICE News.htm file most likely: 0
+	 with: 0.700465803227
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pluto's First Color Portrait From the New Horizons Probe _ WIRED.htm file most likely: 1
+	 with: 0.783660757068
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Poison Shrimp, Porcupines, and Dolphins  Singapore Is Packing Some Serious Heat _ VICE News.htm file most likely: 0
+	 with: 0.565679925994
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Police  Twins drown in canal as mom tries to fend off bee - CNN.com.htm file most likely: 3
+	 with: 0.640625
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Police in India Now Have Drones That Can Shower Unruly Crowds With Pepper Spray _ VICE News.htm file most likely: 0
+	 with: 0.685468219311
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Polish Prince challenges UKIP's Nigel Farage to duel - CNN.com.htm file most likely: 3
+	 with: 0.738588415804
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pope Francis uses 'genocide' for killings of Armenians - CNN.com.htm file most likely: 0
+	 with: 0.461855223234
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Prison time for some Atlanta school educators in cheating scandal - CNN.com.htm file most likely: 3
+	 with: 0.580560420315
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protesters Torch Embassy and Houses in Gabon After Opposition Leader's Death _ VICE News.htm file most likely: 0
+	 with: 0.748637797534
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests Follow Police Slaying of Walter Scott in South Carolina _ VICE News.htm file most likely: 0
+	 with: 0.688446158241
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests in U.S. cities against police violence prompt arrests _ Reuters.htm file most likely: 0
+	 with: 0.514253683536
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Rand Paul's Hair, Mock turtleneck and other secrets only a wife would know - CNN.com.htm file most likely: 2
+	 with: 0.584934543919
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Rand Paul's two-front war - CNN.com.htm file most likely: 2
+	 with: 0.695794830588
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Remembering the Lincoln assassination 150 years later - CNN.com.htm file most likely: 2
+	 with: 0.529787683532
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Revenge porn could get you two years in jail in England - Apr. 13, 2015.htm file most likely: 3
+	 with: 0.722638480064
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Rivalry brews  Jeb and Marco talk friendship - CNN.com.htm file most likely: 3
+	 with: 0.499716231555
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Rubio, GOP paint Hillary Clinton as 'yesterday's' news - CNN.com.htm file most likely: 2
+	 with: 0.745301779855
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Russia confirms Iran oil-for-goods swap, no signs seen _ Reuters.htm file most likely: 3
+	 with: 0.372064955014
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\See U.S. warships head for ISIS fight - CNN Video.htm file most likely: 3
+	 with: 0.385746606335
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Sheriff  No one tried to stop Panama City Beach gang rape - CNN.com.htm file most likely: 3
+	 with: 0.41658124039
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Should California Spend 4 Billion Gallons to Save a Few Fish  _ WIRED.htm file most likely: 1
+	 with: 0.549044767608
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Sika wins support for deal opposition after clipping owner's vote _ Reuters.htm file most likely: 3
+	 with: 0.516924738927
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Siri gets a new voice in Apple's iOS 8.3 update - Apr. 9, 2015.htm file most likely: 3
+	 with: 0.789757040309
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Six takeaways from the NRA convention - CNN.com.htm file most likely: 3
+	 with: 0.431032153472
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Slager says his adrenaline was 'pumping' after shooting - CNN Video.htm file most likely: 3
+	 with: 0.691810344828
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Snowden's 'Sexy Margaret Thatcher' Password Isn't So Secure _ WIRED.htm file most likely: 1
+	 with: 0.455164131305
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\South Carolina Cop Charged With Murder After Video Shows Him Shooting Unarmed Black Man in the Back _ VICE News.htm file most likely: 0
+	 with: 0.94121187801
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\South Carolina Cop Laughed About Adrenaline Rush After Fatally Shooting Walter Scott _ VICE News.htm file most likely: 0
+	 with: 0.802925989673
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\SpaceX attempt at historic booster rocket landing fails again - CNN.com.htm file most likely: 1
+	 with: 0.467306694344
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\SpaceX Falcon Rocket vs. Robot Boat  Round Two! _ WIRED.htm file most likely: 1
+	 with: 0.644679930796
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\SpaceX rocket blasts off, then lands - too hard - on ocean barge _ Reuters.htm file most likely: 1
+	 with: 0.634515119917
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\SpaceX rocket hits barge, Elon Musk says, but ‘too hard for survival’ - The Washington Post.htm file most likely: 3
+	 with: 0.543041293424
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Spanish activists hold hologram protest in Madrid - CNN.com.htm file most likely: 3
+	 with: 0.414125700062
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Split Screen  The Return of Mad Men _ WIRED.htm file most likely: 1
+	 with: 0.83887283237
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Sprint makes house calls to upgrade your cell phone - Apr. 13, 2015.htm file most likely: 3
+	 with: 0.849061967027
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Study  China cybercensors attack with 'Great Cannon' - CNN.com.htm file most likely: 3
+	 with: 0.44819302277
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Submarines With Wheels, Underwater Blimps, and a New Nuclear Arms Race _ VICE News.htm file most likely: 3
+	 with: 0.441758465932
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tech Time Warp of the Week  The 1940s RC Copter That Paved the Way for Amazon's Drones _ WIRED.htm file most likely: 1
+	 with: 0.652305542618
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\The 3DR Solo Is One Scary-Smart Drone _ WIRED.htm file most likely: 1
+	 with: 0.576963534362
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Beijing Five  Calls Grow for Release of Chinese Feminists Held Without Charge _ VICE News.htm file most likely: 0
+	 with: 0.648440807112
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Best Alternatives to Apple's New MacBook _ WIRED.htm file most likely: 1
+	 with: 0.628562313909
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Bizarre Window Displays of Soviet Europe _ WIRED.htm file most likely: 1
+	 with: 0.613716038563
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Chevron Tapes  Video Shows Oil Giant Allegedly Covering Up Amazon Contamination _ VICE News.htm file most likely: 0
+	 with: 0.572508231069
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Chibok Girls Abducted One Year Ago Are Just a Small Percentage of Boko Haram's Victims _ VICE News.htm file most likely: 0
+	 with: 0.687615994601
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The CIA Just Declassified the Document That Supposedly Justified the Iraq Invasion _ VICE News.htm file most likely: 0
+	 with: 0.658542072896
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Federal Government Killed Nearly Three Million Animals Last Year _ VICE News.htm file most likely: 0
+	 with: 0.731473502801
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Georgia Legislature Just Pulled the Plug on Electric Cars _ VICE News.htm file most likely: 0
+	 with: 0.490941647356
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Girls Who Escaped  One Year After the Boko Haram Kidnapping, Some Chibok Schoolgirls Have Left Nigeria _ VICE News.htm file most likely: 0
+	 with: 0.542653285244
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Haunting Aftermath of a Deadly Train Wreck _ WIRED.htm file most likely: 1
+	 with: 0.461525069638
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\The ISIS terror threat - CNN.com.htm file most likely: 0
+	 with: 0.531952752328
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Japanese Military Is Getting Offensively Cute _ VICE News.htm file most likely: 0
+	 with: 0.583175803403
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Netflix of China Is Invading the US With Smartphones _ WIRED.htm file most likely: 3
+	 with: 0.462014134276
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Sale of US Reaper Drones to Australia Could Provoke Regional Tensions _ VICE News.htm file most likely: 0
+	 with: 0.793089207048
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The UK is Going to Send Billions in Arms Exports to Countries on the Human Rights Blacklist _ VICE News.htm file most likely: 0
+	 with: 0.805019305019
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The UN Desperately Needs Funds to Help Manage a Boko Haram Refugee Crisis _ VICE News.htm file most likely: 0
+	 with: 0.779216235129
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Wild Government Projects You're Funding With Your Taxes _ WIRED.htm file most likely: 1
+	 with: 0.69452887538
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\These Two Teenagers Are Suing the Oregon Government Over Climate Change _ VICE News.htm file most likely: 0
+	 with: 0.654547427827
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\They Warned Iran's Ayatollah About a Deal on Nukes, Now the GOP Cautions the World on Climate Pact _ VICE News.htm file most likely: 0
+	 with: 0.69621922626
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\This Dude Carves the Most Gorgeous Spoons You'll Ever See _ WIRED.htm file most likely: 1
+	 with: 0.549017104927
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\This Week's Trailers  True Detective Leaves Us Guessing _ WIRED.htm file most likely: 3
+	 with: 0.564939288812
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Thousands of Sick Sea Lion Pups Are Washing Up Along the California Coast _ VICE News.htm file most likely: 0
+	 with: 0.625385292823
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tiny 4K Displays Will Be Awesome—Just Not for Smartphones _ WIRED.htm file most likely: 3
+	 with: 0.50058702671
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Today's Hit Movies Reimagined Perfectly as '80s VHS Tapes _ WIRED.htm file most likely: 1
+	 with: 0.52819505431
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Transgender Iranian Refugees Are Struggling to Outrun Prostitution and Violence _ VICE News.htm file most likely: 3
+	 with: 0.556775860759
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tsarnaev jury told  Don't go to the Boston Marathon - CNN.com.htm file most likely: 0
+	 with: 0.372892826381
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tulsa shooting  Deputy who shot Eric Harris surrenders - CNN.com.htm file most likely: 3
+	 with: 0.435530679934
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turkey is Pissed at the Pope for Saying a WWI Massacre of Armenians Was Genocide _ VICE News.htm file most likely: 0
+	 with: 0.71184619059
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turn your kitchen into an orchestra with Mogees - CNN.com.htm file most likely: 3
+	 with: 0.460228286071
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turning Old Aircraft Carriers Into a Bridge Is a Bad Idea _ WIRED.htm file most likely: 1
+	 with: 0.531937652812
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Two Embassies in Libya Attacked, the Islamic State Claims Responsibility _ VICE News.htm file most likely: 0
+	 with: 0.852723125178
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\U.S. crude oil output to soar till 2020 despite price rout  EIA _ Reuters.htm file most likely: 3
+	 with: 0.487134207871
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\U.S. says Russian fighter jet intercept was 'unsafe' - CNN.com.htm file most likely: 0
+	 with: 0.597336628226
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\U.S.-Cuba relations  Barack Obama, Raul Castro meet - CNN.com.htm file most likely: 2
+	 with: 0.570404721754
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\UK's Cameron Casts Conservatives as 'the Party of Working People' With Controversial Housing Pledge _ VICE News.htm file most likely: 0
+	 with: 0.696974105324
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\UN Security Council Hits Yemen's Houthis with Arms Embargo and Sanctions _ VICE News.htm file most likely: 0
+	 with: 0.76159511125
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Undocumented Immigrants Pay Billions in Taxes to Fund Programs They’re Banned From Using _ VICE News.htm file most likely: 0
+	 with: 0.577273590279
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\US and Afghan Leaders Discuss Troop Withdrawals as Violence Flares Again _ VICE News.htm file most likely: 0
+	 with: 0.785454985479
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\US Army Will Investigate Allegations of Sexual Abuse by Soldiers and Contractors in Colombia _ VICE News.htm file most likely: 0
+	 with: 0.768774703557
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\US Capitol Building Locked Down After Man Shoots Himself on Steps Outside _ VICE News.htm file most likely: 0
+	 with: 0.856944994064
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Using lasers to preserve the world's treasures - CNN.com.htm file most likely: 1
+	 with: 0.493102861035
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\VA whistleb - CNN.com.htm file most likely: 3
+	 with: 0.383654688869
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Veep GIF and a Graf  Selina Fails Pretty Much Immediately _ WIRED.htm file most likely: 1
+	 with: 0.754073319756
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Appears to Show Texas Officer Punching 9-Months Pregnant Veteran _ VICE News.htm file most likely: 0
+	 with: 0.676166489926
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Cop Yell 'Fuck Your Breath' at Man Wounded by Shooting Deputy Claims Was Accidental _ VICE News.htm file most likely: 0
+	 with: 0.82955618508
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Islamic State Attacking Iraqi Refinery — But Their Oil Money Might be Running Dry _ VICE News.htm file most likely: 0
+	 with: 0.829470198675
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Man Tased By Former North Charleston Cop Michael Slager in August _ VICE News.htm file most likely: 0
+	 with: 0.857831677382
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Syria’s Yarmouk Refugee Camp Reduced to Piles of Smoldering Rubble _ VICE News.htm file most likely: 0
+	 with: 0.864281002639
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Volcanoes Are (Still) Not the Cause of Global Warming _ WIRED.htm file most likely: 1
+	 with: 0.622947080292
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wall Street ends higher after bounce in oil prices _ Reuters.htm file most likely: 3
+	 with: 0.708297132928
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wall Street's Scrambling to Catch Up With Silicon Valley _ WIRED.htm file most likely: 3
+	 with: 0.511870388194
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Want to See Domestic Spying's Future  Follow the Drug War _ WIRED.htm file most likely: 0
+	 with: 0.362044188971
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Watch a chimp knock down a drone - Apr. 13, 2015.htm file most likely: 3
+	 with: 0.711561743341
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\We Need More Kids Apps Like 'Robot Factory' _ WIRED.htm file most likely: 1
+	 with: 0.505312228968
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\What's in that Iran bill that Obama doesn't like  - CNN.com.htm file most likely: 3
+	 with: 0.501657362177
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Which $200 laptop is right for you  - Video - Technology.htm file most likely: 3
+	 wi*Topic 0
+- [ u ' t h e '   u ' i n '   u ' o f '   u ' a '   u ' t o ' ]
+*Topic 1
+- [ u ' t h e '   u ' t h a t '   u ' a n d '   u ' t o '   u ' o f ' ]
+*Topic 2
+- [ u ' t h e '   u ' i n '   u ' t o '   u ' o f '   u ' o n ' ]
+*Topic 3
+- [ u ' t h e '   u ' t o '   u ' o f '   u ' a n d '   u ' a ' ]
+numFiles: 98
+C:\Users\William\Desktop\CS491Proj\corpus\news\5 years after the Gulf oil spill  What we know - CNN.com.htm file most likely: 1
+	 with: 0.442628418946
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\800,000 Nigerian kids displaced by Boko Haram, violence - CNN.com.htm file most likely: 2
+	 with: 0.380621693122
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\A Missouri Death Row Inmate is Waiting for the Phone Call That Decides if He Lives or Dies Tonight _ VICE News.htm file most likely: 3
+	 with: 0.338682432432
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\A US Government Agency Quietly Acknowledged That Marijuana May Help Fight Brain Tumors _ VICE News.htm file most likely: 3
+	 with: 0.497893073479
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\After Walter Scott Killing, Black Lives Matter Movement Calls For Citizen Oversight of Police _ VICE News.htm file most likely: 0
+	 with: 0.401806029579
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Al Shabaab Fighters Storm Higher Education Ministry in Mogadishu, Killing at Least 10 _ VICE News.htm file most likely: 3
+	 with: 0.600979974435
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\AQAP leader killed in Yemen, group says - CNN.com.htm file most likely: 0
+	 with: 0.37136672851
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Arab Leaders Agree to Create Joint Military Force to Counter 'Unprecedented Unrest' _ VICE News.htm file most likely: 3
+	 with: 0.533259070656
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bangladesh Ignored Pleas from the US, EU, and UN and Hanged an Alleged War Criminal _ VICE News.htm file most likely: 3
+	 with: 0.507848908511
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Being a Woman Doesn’t Guarantee Hillary Clinton the 'Women’s Vote' in 2016 _ VICE News.htm file most likely: 1
+	 with: 0.350887990153
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Believe Or Deny Climate Change  That Depends On Where You Live _ VICE News.htm file most likely: 3
+	 with: 0.59755588051
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Bodies of Five Aid Workers From Save the Children Found After Violent Week in Afghanistan _ VICE News.htm file most likely: 3
+	 with: 0.480805837563
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\California's Governor Issues Mandatory Water Cuts — Except for Farmers _ VICE News.htm file most likely: 3
+	 with: 0.469480935598
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\China Accused of Doling Out Counterfeit Digital Certificates in 'Serious' Web Security Breach _ VICE News.htm file most likely: 3
+	 with: 0.505748474894
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\China Is Poised to Overtake the US as the Biggest Modern Contributor to Climate Change _ VICE News.htm file most likely: 3
+	 with: 0.631192432163
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Classes Resume in Sierra Leone After Ebola Crisis — But Pregnant Teens Are Banned _ VICE News.htm file most likely: 3
+	 with: 0.374094380262
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Conspiracy Theorists Think an Army Training Exercise Will Bring Martial Law to the US This Summer _ VICE News.htm file most likely: 3
+	 with: 0.493118231047
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Countryside Near London's Gatwick Airport Might Be Hiding Billions of Extra Barrels of Oil _ VICE News.htm file most likely: 3
+	 with: 0.696310935441
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Crime-Weary Argentina Sees More Mob Violence and Vigilante Killings _ VICE News.htm file most likely: 3
+	 with: 0.355128420346
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Death Toll Rises to 147 After Al Shabaab Gunmen Attack Kenyan University _ VICE News.htm file most likely: 0
+	 with: 0.341419779591
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Detroit Officers Indicted for Fake Drug Busts, Cocaine Possession, and Extortion _ VICE News.htm file most likely: 3
+	 with: 0.496206594689
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters.htm file most likely: 0
+	 with: 0.441762751612
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Egyptian Court Sentences American Citizen Journalist to Life in Prison _ VICE News.htm file most likely: 3
+	 with: 0.404606032266
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ex-Blackwater contractors sentenced in Iraq shooting - CNN.com.htm file most likely: 0
+	 with: 0.477003719986
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Florida Family Releases Video of Cop Killing Their Schizophrenic Son _ VICE News.htm file most likely: 3
+	 with: 0.505524861878
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\French Prime Minister Swears Proposed Spying Law Won’t Lead to 'Widespread Surveillance of Civilians' _ VICE News.htm file most likely: 3
+	 with: 0.376012813265
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Get Ready For an Explosion of Mining on the Ocean Floor _ VICE News.htm file most likely: 3
+	 with: 0.467062089854
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Graphic New Veteran-Sponsored Ads Are Asking Drone Pilots Not to Fly _ VICE News.htm file most likely: 3
+	 with: 0.393800094295
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Guinea Ramps Up Fight Against Ebola as Outbreak Continues to Burn _ VICE News.htm file most likely: 3
+	 with: 0.337791392708
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Guinea’s Opposition Leader Describes Police Firing Tear Gas and AK-47s at Protests _ VICE News.htm file most likely: 1
+	 with: 0.292778918549
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Gunmen Stormed a Construction Site in Pakistan and Killed 20 Imported Laborers _ VICE News.htm file most likely: 3
+	 with: 0.582767722474
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Here's How Much Obama Says the US Will Cut Carbon Pollution _ VICE News.htm file most likely: 3
+	 with: 0.532912108638
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Hidden cameras show airport workers stealing from bags - CNN.com.htm file most likely: 1
+	 with: 0.677410568368
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\House Oversight Committee Grills DEA Head Over Scandal - CNN.com.htm file most likely: 1
+	 with: 0.464953964954
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\How the Jalisco New Generation Cartel Is Terrorizing the People of Western Mexico _ VICE News.htm file most likely: 3
+	 with: 0.287013536379
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Human Rights Groups Caught in the Crossfire After Kenyan University Attack _ VICE News.htm file most likely: 3
+	 with: 0.335367737948
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\In a Move That Everyone Is Sure to Like, Russia Might Have Just Banned Internet Porn _ VICE News.htm file most likely: 3
+	 with: 0.531438769907
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\In Photos  The Sudanese Refugees Who Fled Intense Fighting and Aerial Bombardment _ VICE News.htm file most likely: 2
+	 with: 0.380947184636
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Intense Video Purportedly Shows Islamic State Suicide Bomb Vehicle Exploding in Midair _ VICE News.htm file most likely: 0
+	 with: 0.449600798403
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Iraqi reinforcements sent to battle ISIS at refinery - CNN.com.htm file most likely: 0
+	 with: 0.518538713195
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Is It Okay to Drill in the Arctic  It's Complicated, According to the Obama Administration _ VICE News.htm file most likely: 3
+	 with: 0.402996444896
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Islamic State Militants Reportedly Kidnap 120 Children in Mosul _ VICE News.htm file most likely: 3
+	 with: 0.4570599022
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Japan Is Going to Kill Thousands of Whales No Matter What Other Nations Say _ VICE News.htm file most likely: 3
+	 with: 0.535240374157
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Malaysia Reintroduces Indefinite Detention to Stop 'Terrorists' — and Maybe to Quell Opposition _ VICE News.htm file most likely: 3
+	 with: 0.510254413292
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Massive Explosion in Zhangzhou, China Highlights Chemical Plant Risks _ VICE News.htm file most likely: 3
+	 with: 0.672090352221
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Meet the Afghan Interpreters Who Have Been Abandoned by the French Army _ VICE News.htm file most likely: 1
+	 with: 0.376461905303
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Mexican Workers at Canadian Mines Are Under Constant Threat of Cartel Kidnappings, Killings _ VICE News.htm file most likely: 1
+	 with: 0.298021291368
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Morocco’s New Elite Investigative Unit Has Dismantled an Islamic State-Linked Terror Cell _ VICE News.htm file most likely: 3
+	 with: 0.421885087153
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Nearly Five Years After the BP Spill, Animals Are Still Dying in the Gulf of Mexico _ VICE News.htm file most likely: 3
+	 with: 0.4690597051
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Carolina college shooting  Possible hate crime  - CNN.com.htm file most likely: 0
+	 with: 0.526474530831
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Korea's 'Rubber Stamp' Parliament Meets as UN Warns of Malnutrition _ VICE News.htm file most likely: 3
+	 with: 0.38744852829
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\On the Frontline of Libya's Fight Against the Islamic State _ VICE News.htm file most likely: 0
+	 with: 0.300283147823
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\One Dead After Blast Causes Panicked Kenyan Students to Leap From Windows Amid al Shabaab Fears _ VICE News.htm file most likely: 3
+	 with: 0.530026493965
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\One of the World's Biggest Extinction Crises Is Being Caused by Cats _ VICE News.htm file most likely: 3
+	 with: 0.535429238855
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pentagon Panel Proposes Sweeping Changes that Could Impact Guantanamo Force-Feeding _ VICE News.htm file most likely: 1
+	 with: 0.485173824131
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Poison Shrimp, Porcupines, and Dolphins  Singapore Is Packing Some Serious Heat _ VICE News.htm file most likely: 3
+	 with: 0.435509448923
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Police in India Now Have Drones That Can Shower Unruly Crowds With Pepper Spray _ VICE News.htm file most likely: 3
+	 with: 0.442867540029
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Pope Francis uses 'genocide' for killings of Armenians - CNN.com.htm file most likely: 1
+	 with: 0.485695708713
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protesters Torch Embassy and Houses in Gabon After Opposition Leader's Death _ VICE News.htm file most likely: 3
+	 with: 0.532119300258
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests Follow Police Slaying of Walter Scott in South Carolina _ VICE News.htm file most likely: 0
+	 with: 0.441373893173
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests in U.S. cities against police violence prompt arrests _ Reuters.htm file most likely: 0
+	 with: 0.728859705317
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\South Carolina Cop Charged With Murder After Video Shows Him Shooting Unarmed Black Man in the Back _ VICE News.htm file most likely: 3
+	 with: 0.610152487961
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\South Carolina Cop Laughed About Adrenaline Rush After Fatally Shooting Walter Scott _ VICE News.htm file most likely: 3
+	 with: 0.442709613966
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Beijing Five  Calls Grow for Release of Chinese Feminists Held Without Charge _ VICE News.htm file most likely: 3
+	 with: 0.390927049527
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Chevron Tapes  Video Shows Oil Giant Allegedly Covering Up Amazon Contamination _ VICE News.htm file most likely: 1
+	 with: 0.340541753966
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Chibok Girls Abducted One Year Ago Are Just a Small Percentage of Boko Haram's Victims _ VICE News.htm file most likely: 3
+	 with: 0.331618019234
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The CIA Just Declassified the Document That Supposedly Justified the Iraq Invasion _ VICE News.htm file most likely: 3
+	 with: 0.342807859607
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Federal Government Killed Nearly Three Million Animals Last Year _ VICE News.htm file most likely: 3
+	 with: 0.532205945713
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Georgia Legislature Just Pulled the Plug on Electric Cars _ VICE News.htm file most likely: 3
+	 with: 0.418264166842
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Girls Who Escaped  One Year After the Boko Haram Kidnapping, Some Chibok Schoolgirls Have Left Nigeria _ VICE News.htm file most likely: 1
+	 with: 0.385839736553
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\The ISIS terror threat - CNN.com.htm file most likely: 0
+	 with: 0.834065268418
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Japanese Military Is Getting Offensively Cute _ VICE News.htm file most likely: 3
+	 with: 0.350516213465
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The Sale of US Reaper Drones to Australia Could Provoke Regional Tensions _ VICE News.htm file most likely: 3
+	 with: 0.563188325991
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The UK is Going to Send Billions in Arms Exports to Countries on the Human Rights Blacklist _ VICE News.htm file most likely: 3
+	 with: 0.623849123849
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\The UN Desperately Needs Funds to Help Manage a Boko Haram Refugee Crisis _ VICE News.htm file most likely: 3
+	 with: 0.415325402379
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\These Two Teenagers Are Suing the Oregon Government Over Climate Change _ VICE News.htm file most likely: 3
+	 with: 0.475472107662
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\They Warned Iran's Ayatollah About a Deal on Nukes, Now the GOP Cautions the World on Climate Pact _ VICE News.htm file most likely: 3
+	 with: 0.637602579132
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Thousands of Sick Sea Lion Pups Are Washing Up Along the California Coast _ VICE News.htm file most likely: 3
+	 with: 0.441545574637
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tsarnaev jury told  Don't go to the Boston Marathon - CNN.com.htm file most likely: 0
+	 with: 0.695275009228
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Turkey is Pissed at the Pope for Saying a WWI Massacre of Armenians Was Genocide _ VICE News.htm file most likely: 3
+	 with: 0.412108908526
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Two Embassies in Libya Attacked, the Islamic State Claims Responsibility _ VICE News.htm file most likely: 3
+	 with: 0.533361847733
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\U.S. says Russian fighter jet intercept was 'unsafe' - CNN.com.htm file most likely: 0
+	 with: 0.869165293795
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\UK's Cameron Casts Conservatives as 'the Party of Working People' With Controversial Housing Pledge _ VICE News.htm file most likely: 3
+	 with: 0.574774512656
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\UN Security Council Hits Yemen's Houthis with Arms Embargo and Sanctions _ VICE News.htm file most likely: 3
+	 with: 0.358116577875
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Undocumented Immigrants Pay Billions in Taxes to Fund Programs They’re Banned From Using _ VICE News.htm file most likely: 2
+	 with: 0.437725460414
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\US and Afghan Leaders Discuss Troop Withdrawals as Violence Flares Again _ VICE News.htm file most likely: 3
+	 with: 0.464787028074
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\US Army Will Investigate Allegations of Sexual Abuse by Soldiers and Contractors in Colombia _ VICE News.htm file most likely: 3
+	 with: 0.342313293114
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\US Capitol Building Locked Down After Man Shoots Himself on Steps Outside _ VICE News.htm file most likely: 3
+	 with: 0.593787099327
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Appears to Show Texas Officer Punching 9-Months Pregnant Veteran _ VICE News.htm file most likely: 3
+	 with: 0.408404029692
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Cop Yell 'Fuck Your Breath' at Man Wounded by Shooting Deputy Claims Was Accidental _ VICE News.htm file most likely: 3
+	 with: 0.525810513063
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Islamic State Attacking Iraqi Refinery — But Their Oil Money Might be Running Dry _ VICE News.htm file most likely: 3
+	 with: 0.502859723058
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Man Tased By Former North Charleston Cop Michael Slager in August _ VICE News.htm file most likely: 3
+	 with: 0.494009351257
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Video Shows Syria’s Yarmouk Refugee Camp Reduced to Piles of Smoldering Rubble _ VICE News.htm file most likely: 3
+	 with: 0.49323878628
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Want to See Domestic Spying's Future  Follow the Drug War _ WIRED.htm file most likely: 1
+	 with: 0.623405784085
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wisconsin's Giving Florida a Run for Its Money When it Comes to Denying Climate Change _ VICE News.htm file most likely: 3
+	 with: 0.565581854043
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Yarmouk  'The deepest circle of hell' - CNN.com.htm file most likely: 2
+	 with: 0.805286129971
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Yarmouk refugees describe ISIS raid on Syrian camp - CNN.com.htm file most likely: 2
+	 with: 0.720469171684
+	 most proba*Topic 0
+- [ u ' a '   u ' S c o t t '   u ' t h a t '   u ' o f f i c e r '   u ' s a i d ' ]
+*Topic 1
+- [ u ' p o l i c e '   u ' h a v e '   u ' h e '   u ' b e e n '   u ' h a s ' ]
+*Topic 2
+- [ u ' t h e '   u ' t o '   u ' a n d '   u ' i s '   u ' o n ' ]
+*Topic 3
+- [ u ' o f '   u ' i n '   u ' f o r '   u ' a t '   u ' a g a i n s t ' ]
+numFiles: 2
+C:\Users\William\Desktop\CS491Proj\corpus\news\After Walter Scott Killing, Black Lives Matter Movement Calls For Citizen Oversight of Police _ VICE News.htm file most likely: 2
+	 with: 0.334968714448
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests Follow Police Slaying of Walter Scott in South Carolina _ VICE News.htm file most likely: 2
+	 with: 0.338546129677
+	 most probable topic is:2
+*Topic 0
+- [ u ' o f '   u ' t o '   u ' a '   u ' t h a t '   u ' f o r ' ]
+*Topic 1
+- [ u ' S c o t t '   u ' h a v e '   u ' h e '   u ' w h o '   u ' d e p a r t m e n t ' ]
+*Topic 2
+- [ u ' t h e '   u ' a n d '   u ' o n '   u ' i s '   u ' T h e ' ]
+*Topic 3
+- [ u ' p o l i c e '   u ' a g a i n s t '   u ' i n '   u ' a '   u ' b y ' ]
+numFiles: 3
+C:\Users\William\Desktop\CS491Proj\corpus\news\After Walter Scott Killing, Black Lives Matter Movement Calls For Citizen Oversight of Police _ VICE News.htm file most likely: 0
+	 with: 0.376919795222
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests Follow Police Slaying of Walter Scott in South Carolina _ VICE News.htm file most likely: 0
+	 with: 0.343544701514
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests in U.S. cities against police violence prompt arrests _ Reuters.htm file most likely: 3
+	 with: 0.586322869955
+	 most probable topic is:3
+*Topic 0
+- [ u ' b e e n '   u ' a s '   u ' t i m e '   u ' i t s '   u ' w h o ' ]
+*Topic 1
+- [ u ' a '   u ' i n '   u ' o f '   u ' a n d '   u ' h a s ' ]
+*Topic 2
+- [ u ' t h e '   u ' w a s '   u ' t o '   u ' h e '   u ' f o r ' ]
+*Topic 3
+- [ u ' s a i d '   u ' o n '   u ' a f t e r '   u ' E d i t i o n '   u ' i t ' ]
+numFiles: 2
+C:\Users\William\Desktop\CS491Proj\corpus\news\AQAP leader killed in Yemen, group says - CNN.com.htm file most likely: 1
+	 with: 0.389919604205
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Carolina college shooting  Possible hate crime  - CNN.com.htm file most likely: 2
+	 with: 0.372319034853
+	 most probable topic is:2
+*Topic 0
+- [ u ' w a s '   u ' a '   u ' f o r '   u ' s a i d '   u ' T h e ' ]
+*Topic 1
+- [ u ' a n d '   u ' i n '   u ' o f '   u ' m a n s l a u g h t e r '   u ' c o u n t s ' ]
+*Topic 2
+- [ u ' i n '   u ' o f '   u ' a n d '   u ' o n '   u ' B o s t o n ' ]
+*Topic 3
+- [ u ' t h e '   u ' t o '   u ' a '   u ' t h a t '   u ' w e r e ' ]
+numFiles: 4
+C:\Users\William\Desktop\CS491Proj\corpus\news\AQAP leader killed in Yemen, group says - CNN.com.htm file most likely: 0
+	 with: 0.516697588126
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ex-Blackwater contractors sentenced in Iraq shooting - CNN.com.htm file most likely: 1
+	 with: 0.47193101116
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Carolina college shooting  Possible hate crime  - CNN.com.htm file most likely: 0
+	 with: 0.633713136729
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tsarnaev jury told  Don't go to the Boston Marathon - CNN.com.htm file most likely: 2
+	 with: 0.422111480251
+	 most probable topic is:2
+th: 0.970013947001
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\While You Were Offline  The Brontosaurus Is Back, Baby! _ WIRED.htm file most likely: 3
+	 with: 0.569333564734
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\White House CTO  Government Needs Tech Industry to Show Up _ WIRED.htm file most likely: 1
+	 with: 0.405789990186
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\White House willing to sign compromise Iran bill - CNN.com.htm file most likely: 3
+	 with: 0.45081034973
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why Are So Many People Snobby About Fantasy Fiction  _ WIRED.htm file most likely: 3
+	 with: 0.554376911315
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why Everyone Went Nuts Over Hillary Clinton's New Logo _ WIRED.htm file most likely: 1
+	 with: 0.504635942187
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why is there a Koala sitting in first class  - CNN.com.htm file most likely: 3
+	 with: 0.411735205617
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Why It's Likely Impossible to Abolish the IRS _ VICE News.htm file most likely: 3
+	 with: 0.431531176006
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Wisconsin's Giving Florida a Run for Its Money When it Comes to Denying Climate Change _ VICE News.htm file most likely: 0
+	 with: 0.723372781065
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Yarmouk  'The deepest circle of hell' - CNN.com.htm file most likely: 0
+	 with: 0.560378273521
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Yarmouk refugees describe ISIS raid on Syrian camp - CNN.com.htm file most likely: 0
+	 with: 0.567884575462
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Yemen Descends Deeper Into Chaos as Airstrikes Continue and Civilian Casualties Mount _ VICE News.htm file most likely: 0
+	 with: 0.918204566781
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\You May Not Want 4K, But Vizio's New Sets Are Worth a Look _ WIRED.htm file most likely: 1
+	 with: 0.601622874807
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\You'll be able to rent an Apple Watch -- but should you  - Apr. 14, 2015.htm file most likely: 3
+	 with: 0.866839261594
+	 most probable topic is:3
+ble topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Yemen Descends Deeper Into Chaos as Airstrikes Continue and Civilian Casualties Mount _ VICE News.htm file most likely: 3
+	 with: 0.564748201439
+	 most probable topic is:3
+*Topic 0
+- [ u ' t h e '   u ' o f '   u ' i s '   u ' p o l i c e '   u ' a g a i n s t ' ]
+*Topic 1
+- [ u ' t h e '   u ' a '   u ' i n '   u ' w a s '   u ' o f ' ]
+*Topic 2
+- [ u ' i n '   u ' o n '   u ' t h e '   u ' a '   u ' o f ' ]
+*Topic 3
+- [ u ' t h e '   u ' t o '   u ' a n d '   u ' t h a t '   u ' o f ' ]
+numFiles: 14
+C:\Users\William\Desktop\CS491Proj\corpus\news\After Walter Scott Killing, Black Lives Matter Movement Calls For Citizen Oversight of Police _ VICE News.htm file most likely: 0
+	 with: 0.534769624573
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\AQAP leader killed in Yemen, group says - CNN.com.htm file most likely: 1
+	 with: 0.380643166357
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Death Toll Rises to 147 After Al Shabaab Gunmen Attack Kenyan University _ VICE News.htm file most likely: 3
+	 with: 0.535351366824
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Egypt and Saudi Arabia discuss maneuvers as Yemen battles rage _ Reuters.htm file most likely: 3
+	 with: 0.487688098495
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Ex-Blackwater contractors sentenced in Iraq shooting - CNN.com.htm file most likely: 1
+	 with: 0.578457896517
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\Intense Video Purportedly Shows Islamic State Suicide Bomb Vehicle Exploding in Midair _ VICE News.htm file most likely: 3
+	 with: 0.569361277445
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Iraqi reinforcements sent to battle ISIS at refinery - CNN.com.htm file most likely: 3
+	 with: 0.469465648855
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\North Carolina college shooting  Possible hate crime  - CNN.com.htm file most likely: 1
+	 with: 0.516420911528
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\On the Frontline of Libya's Fight Against the Islamic State _ VICE News.htm file most likely: 3
+	 with: 0.612722124585
+	 most probable topic is:3
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests Follow Police Slaying of Walter Scott in South Carolina _ VICE News.htm file most likely: 0
+	 with: 0.507783490431
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\Protests in U.S. cities against police violence prompt arrests _ Reuters.htm file most likely: 0
+	 with: 0.538276745676
+	 most probable topic is:0
+C:\Users\William\Desktop\CS491Proj\corpus\news\The ISIS terror threat - CNN.com.htm file most likely: 2
+	 with: 0.90486105853
+	 most probable topic is:2
+C:\Users\William\Desktop\CS491Proj\corpus\news\Tsarnaev jury told  Don't go to the Boston Marathon - CNN.com.htm file most likely: 1
+	 with: 0.735880398671
+	 most probable topic is:1
+C:\Users\William\Desktop\CS491Proj\corpus\news\U.S. says Russian fighter jet intercept was 'unsafe' - CNN.com.htm file most likely: 2
+	 with: 0.737369577155
+	 most probable topic is:2

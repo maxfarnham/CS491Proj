@@ -1,0 +1,47 @@
+#WSOD_page .customSelect div {
+	cursor: default;
+	height: 21px !important; /* hate using !important, but for some reason, ONLY on the screener, it's necessary. */
+	padding-right: 13px; /* width of right image */
+	background: url(../../../redesign/image/sprite_buttons_right.gif) no-repeat right -109px;
+}
+	#WSOD_page .customSelect div span {
+		display: block;
+		height: 15px;
+		padding: 3px 5px;
+		background: url(../../../redesign/image/sprite_buttons_left.gif) no-repeat 0 -109px;
+	}
+
+#WSOD_page .customSelect ul {
+	position: absolute;
+	list-style-type: none;
+	background: white;
+	border: 1px solid #CCCCCC;
+	border-top: none;
+	z-index: 100;
+}
+
+#WSOD_page .customSelect ul li {
+	background:#fff;
+	display: block;
+}
+	#WSOD_page .customSelect ul li a {
+		display: block;
+		cursor: default;
+		padding: 3px 5px;
+		color: black;
+		font-weight: normal;
+		font-size: 12px;
+		position: relative; // sucks, but this is necessary for ie6
+	}
+	
+	#WSOD_page .customSelect ul li a:hover {
+		background-color: #F5F5F5;
+	}
+
+#WSOD_page .customSelect .none {
+	display: none;
+}
+
+#WSOD_page .customSelect ul li.disabled a:hover {
+	background-color: white;
+}

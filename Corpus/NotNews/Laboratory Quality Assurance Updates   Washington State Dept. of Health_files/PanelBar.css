@@ -1,0 +1,168 @@
+.RadPanelBar_BlueWave
+{
+	background: #F2F2F2 url('images/subNavRootBG.png') repeat-y 0 0;
+}
+.RadPanelBar_BlueWave_rtl .rpRootGroup
+{
+	text-align: right;
+}
+
+.RadPanelBar_BlueWave .rpLink,
+.RadPanelBar_BlueWave .rpTemplate
+{
+	font: normal 12px Arial, Verdana, Sans-serif;
+	color: #36516A;
+}
+
+.RadPanelBar_BlueWave .rpLink
+{
+	overflow-x: hidden;
+	padding:2px 0;
+}
+
+.RadPanelBar_BlueWave .rpSelected,
+.RadPanelBar_BlueWave .rpSelected:hover,
+.RadPanelBar_BlueWave .rpSelectedPathHeaderItem,
+.RadPanelBar_BlueWave .rpSelectedPathHeaderItem:hover
+{
+    background: transparent url('images/subNavHoverBG.png') repeat-y 0 0;
+	color: #FFF;
+}
+
+
+.RadPanelBar_BlueWave_rtl .rpItem .rpLink
+{
+	background-position: top right;
+}
+
+.RadPanelBar_BlueWave .rpText
+{
+	overflow-x: hidden;
+	padding: 0;
+	margin:2px 6px 2px 10px;
+}
+
+.RadPanelBar_BlueWave_rtl .rpText
+{
+	margin-left: 7px;
+	margin-right: 17px;
+}
+
+.RadPanelBar_BlueWave .rpSlide
+{
+	padding: 0 0 0 8px;
+	background: #C6CBD1 url('images/subNavBG.gif') repeat-y 0 0;
+}
+.RadPanelBar_BlueWave ul.rpRootGroup > li > div.rpSlide {padding-left:16px;}
+.RadPanelBar_BlueWave .rpLevel1 .rpSlide
+{
+    background:transparent none;
+}
+
+.RadPanelBar_BlueWave .rpGroup .rpLink,
+.RadPanelBar_BlueWave .rpGroup .rpTemplate
+{
+	font-size: 12px;
+	color: #666;
+}
+.RadPanelBar_BlueWave .rpSlide .rpLink:hover
+{
+	color:maroon;
+}
+
+.RadPanelBar_BlueWave .rpGroup .rpLink
+{
+	background: transparent;
+}
+
+.RadPanelBar_BlueWave .rpGroup .rpText
+{
+	color: #224152;
+	line-height: 15px;
+	padding: 0 6px 0 0;
+	margin:0;
+}
+
+.RadPanelBar_BlueWave .rpSlide .rpSelected .rpText,
+.RadPanelBar_BlueWave .rpGroup .rpText:hover
+{
+	color:maroon;
+}
+
+.RadPanelBar_BlueWave_rtl .rpText
+{
+	padding: 5px 3px 5px 7px;
+}
+
+.RadPanelBar_BlueWave .rpDisabled .rpText
+{
+	cursor: default;
+	color: #888;
+}
+
+.RadPanelBar_BlueWave .rpDisabled,
+.RadPanelBar_BlueWave .rpDisabled:hover
+{
+	cursor: default;
+	color: #bbb;
+	background: none;
+	border-bottom-color: #999;
+}
+
+.RadPanelBar_BlueWave .rpGroup .rpDisabled:hover
+{
+	cursor: default;
+	text-decoration: none;
+}
+
+.RadPanelBar_BlueWave .rpImage
+{
+	margin-left:2px;
+}
+
+.RadPanelBar_BlueWave .rpImage + .rpText
+{
+	padding-left: 4px;
+}
+
+.RadPanelBar_BlueWave .rpExpandable .rpExpandHandle
+{
+	background: transparent url('images/arrowDkDown.png') no-repeat center;
+}
+.RadPanelBar_BlueWave .rpExpanded .rpExpandHandle
+{
+	background: transparent url('images/arrowDkUp.png') no-repeat center;
+}
+
+.RadPanelBar_BlueWave .rpSelectedPathHeaderItem.rpExpandable .rpExpandHandle
+{
+	background: transparent url('images/arrowLtDown.png') no-repeat center;
+}
+.RadPanelBar_BlueWave .rpSelectedPathHeaderItem.rpExpanded .rpExpandHandle
+{
+	background: transparent url('images/arrowLtUp.png') no-repeat center;
+}
+
+.RadPanelBar_BlueWave .rpSelectedPathHeaderItem .rpExpanded .rpExpandHandle
+{
+	background: transparent url('images/arrowLtUp.png') no-repeat center;
+}
+
+.RadPanelBar_BlueWave .rpSelectedPathHeaderItem .rpExpanded:hover .rpExpandHandle
+{
+	background: transparent url('images/arrowLtUp.png') no-repeat center;
+}
+.RadPanelBar_BlueWave .rpLevel1 .rpExpandable:hover .rpExpandHandle
+{
+	background: transparent url('images/arrowDkDown.png') no-repeat center;
+}
+.RadPanelBar_BlueWave .rpLevel1 .rpExpanded:hover .rpExpandHandle
+{
+	background: transparent url('images/arrowDkUp.png') no-repeat center;
+}
+.RadPanelBar_BlueWave .rpLevel1 .rpExpanded .rpExpandHandle
+{
+	background: transparent url('images/arrowDkUp.png') no-repeat center;
+}
+
+

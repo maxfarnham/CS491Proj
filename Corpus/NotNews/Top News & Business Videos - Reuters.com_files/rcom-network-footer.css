@@ -1,0 +1,196 @@
+#network-footer {
+	float: left;
+	background: transparent url("/resources/media/global/assets/multivariate/bg_grid4-8.gif") 10px 0 repeat-y;
+	margin: 0 0 10px 0;
+}
+
+#network-footer .sectionDivider {
+	height: 41px;
+	background: #FFF url("/resources_v2/images/bg_gray.gif") 0 20px repeat-x;
+	margin: 0;
+}
+
+#network-footer .networkFooterHeader {
+	border-top: 3px solid #CCC;
+	padding: 20px 0; margin: 0 10px;
+	background: #FFF;
+}
+#network-footer .networkFooterHeader div {
+	background: url("/resources_v2/images/sprite-article.gif") no-repeat 0 -388px;
+	text-indent: -9999px;
+	width: 291px;
+	height: 22px;
+}
+#network-footer .module .moduleBody ul li {
+	background: transparent url("/resources_v2/images/dotsHorizontal.gif") left bottom repeat-x;
+}
+
+#network-footer #networkFooterA h1 a,
+#network-footer #networkFooterA h2 a {
+	font-size: 24px;
+	font-weight: normal;
+	color: black;
+}
+
+#network-footer #networkFooterA .topStory {
+	background: none;
+}
+
+#network-footer #networkFooterB #bigIssue-a {
+	width: 300px !important;
+}
+
+#network-footer #networkFooterB .photo img {
+	width: 120px;
+}
+
+#network-footer #networkFooterB .feature p {
+	display: inline;
+}
+
+#network-footer #networkFooterC div.actionButton,
+#network-footer #networkFooterC div.actionButton a {
+	width: 100%;
+	background: transparent;
+	color: #006E97 !important;
+	padding: 0;
+	margin: 2px 0 0 0;
+	text-transform: none;
+}
+
+#network-footer #networkFooterD .moduleBody ul li {
+	font-size: 12px;
+}
+
+#network-footer #networkFooterE .moduleBody .module,
+#network-footer #networkFooterE .moduleBody .module .moduleBody,
+#network-footer #networkFooterE .moduleBody .module .moduleBody .feature {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+#network-footer #networkFooterE .moduleBody .module .moduleBody .feature h2 {
+	font-size: 12px;
+}
+
+#network-footer #networkFooterE .moduleBody .module .moduleBody .feature .attribution a {
+	color: #000;
+}
+
+#network-footer #networkFooterE .moduleBody .module .moduleBody .feature .photo img {
+	margin: 0 0 4px 0;
+	width: 60px;
+}
+
+#network-footer #networkFooterE .gallery .photo img { width: 120px; }
+
+#network-footer #networkFooterE .feature {
+	background: url("/resources_v2/images/dotsHorizontal.gif") bottom left repeat-x;
+}
+
+#network-footer #networkFooterF .feature .photo img { width:220px; }
+
+#network-footer #networkFooterF h2 {
+	background: url("/resources_v2/images/dotsHorizontal.gif") bottom left repeat-x;
+	padding: 0 0 8px 0;
+	margin: 0;
+}
+
+#network-footer #networkFooterA .module,
+#network-footer #networkFooterB .module,
+#network-footer #networkFooterC .module,
+#network-footer #networkFooterD .module,
+#network-footer #networkFooterE .module,
+#network-footer #networkFooterF .module {
+	margin: 0;
+}
+
+#network-footer #networkFooterG .module {
+	margin: 0;
+}
+
+#network-footer #networkFooterG .module .moduleHeader,
+#network-footer #networkFooterH .module .moduleHeader,
+#network-footer #networkFooterH .module .moduleBody .moreLink {
+	background: url("/resources_v2/images/dotsHorizontal.gif") top left repeat-x;
+	padding: 10px 0 0 0;
+}
+
+#network-footer #networkFooterG .module .moduleHeader h3,
+#network-footer #networkFooterH .module .moduleHeader h3 {
+	font-size: 11px;
+	text-transform: none;
+}
+
+#network-footer .column2 h2 {
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0 0 6px 0;
+	padding: 0;
+	text-transform: uppercase;
+}
+
+#network-footer .column2 h2 a {
+	color: #000 !important;
+}
+
+#network-footer .quoteUnit {
+	padding: 0 0 8px 0;
+}
+
+#network-footer .quoteUnit .data {
+	font-size: 12px;
+	margin: 0 0 2px 0;
+}
+
+#network-footer .quoteUnit .data.neg {
+	color: #DC0A0A;
+	background-image: none;
+	padding: 0;
+}
+
+#network-footer .quoteUnit .data.pos {
+	color: #458D37;
+	background-image: none;
+	padding: 0;
+}
+
+#network-footer .moduleHeader {
+	border-top: none;
+	border-bottom: none;
+	background: none;
+	padding: 0;
+	margin: 0;
+}
+
+#network-footer .moduleHeader h3 {
+	color: #000;
+	text-align: left;
+	margin: 0 0 8px 0;
+	font-size: 12px;
+}
+
+#network-footer .moduleHeader h3 a {
+	color: #000;
+}
+
+#network-footer .feature {
+	padding-top: 0 !important;
+	margin-top: 0 !important;
+	background: none;
+}
+
+#network-footer .feature h2,
+#network-footer .feature p {
+	margin: 0 0 2px 0;
+}
+
+#network-footer .byline {
+	font-size: 9px;
+	color: #666;
+	white-space: nowrap;
+}
+
+#network-footer .byline a {
+	color: #666;
+}

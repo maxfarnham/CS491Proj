@@ -2,8 +2,8 @@ from os import path
 import time
 
 
-news_dir = path.abspath(r'C:\Users\maxfa_000\Documents\491\Corpus\news')
-not_news_dir = path.abspath(r'C:\Users\maxfa_000\Documents\491\Corpus\notnews')
+news_dir = path.abspath(r'C:\Users\William\Desktop\CS491Proj\Corpus\News')
+not_news_dir = path.abspath(r'C:\Users\William\Desktop\CS491Proj\Corpus\notNews')
 
 newsspace = path.abspath('Corpus/newsspace200.xml/newsspace200.xml')
 

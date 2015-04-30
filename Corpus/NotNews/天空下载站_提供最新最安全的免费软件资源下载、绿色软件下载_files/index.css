@@ -1,0 +1,305 @@
+/* 焦点图 */
+.idx-focus{
+    float: left;
+}
+.idx-focus,
+.focus-pic li{
+    width: 560px;
+    height: 290px;
+    position: relative;
+    overflow: hidden;
+}
+.idx-foc-tmp{
+    height: 230px;
+}
+.focus-pic{
+    height: 230px;
+}
+.focus-pic li{
+    float: left;
+    height: 230px;
+}
+.focus-pic li img{
+    width: 560px;
+    height: 230px;
+}
+.focus-pic .bg{
+    height: 30px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: #000;
+    opacity: .6;
+    filter:Alpha(opacity=60);
+    z-index: 1;
+}
+.focus-pic .txt{
+    height: 30px;
+    position: absolute;
+    width: 100%;
+    line-height: 30px;
+    text-indent: 10px;
+    overflow: hidden;
+    z-index: 2;
+    left: 0;
+    bottom: 0;
+}
+.idx-focus .xtaber-tabs{
+    height: 60px;
+    background: #565656;
+}
+.idx-focus .xtaber-tabs li{
+    float: left;
+    padding: 3px;
+    margin-right: -3px;
+    position: relative;
+    cursor: pointer;
+    z-index: 3;
+}
+.idx-focus .xtaber-tabs img{
+    width: 90px;
+    height: 54px;
+}
+.idx-focus .xtaber-tabs .current{
+    background: #2ba4d7;
+}
+.idx-focus .xtaber-tabs .current i{
+    width: 7px;
+    height: 4px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: -4px;
+    overflow: hidden;
+    background-position: -46px -28px;
+}
+.idx-focus .btn-prev,
+.idx-focus .btn-next{
+    background: url(../Images/foc_btn.png) no-repeat;
+    _background: url(../Images/foc_btn_8.png) no-repeat;
+    width: 31px;
+    height: 50px;
+    position: absolute;
+    z-index: 4;
+    top: 85px;
+    _filter:Alpha(opacity=70);
+}
+.idx-focus .btn-prev{
+    background-position: 0 0;
+    left: 10px;
+}
+.idx-focus .btn-next{
+    background-position: -33px 0;
+    right: 10px;
+}
+
+.idx-rec{
+    width: 218px;
+    height: 288px;
+    border:1px solid #e9e9e9;
+    float: right;
+    overflow: hidden;
+    background: #fff;
+}
+.rec-soft{
+    height: 168px;
+}
+.rec-soft .til{
+    font-weight: bold;
+    height: 36px;
+    padding-left: 12px;
+    line-height: 36px;
+}
+.rec-dl{
+    padding:9px 0 0 25px; 
+}
+.rec-pic{
+    float: left;
+    width: 48px;
+    height: 48px;
+    overflow: hidden;
+    
+}
+.rec-dl p{
+    float: left;
+    padding:0 10px;
+    width: 120px;
+}
+.rec-dl .soft-name{
+    display: block;
+    height: 26px;
+    overflow: hidden;
+    line-height: 26px;
+    font-weight: bold;
+}
+.rec-dl-btn{
+    padding-top: 5px;
+}
+.rec-dl-btn a{
+    width: 110px;
+    height: 34px;
+    margin: 0 auto;
+    display: block;
+    background: url(../Images/btn.png) no-repeat 0 -24px;
+    font-size: 0;
+    line-height: 0;
+    color: #82c936;
+    text-indent: -999em;
+}
+.rec-dl-btn a:hover{
+    background-position: 0 -292px;
+}
+.rec-dl-btn a:active{
+    background-position: 0 -326px;
+}
+.market-list li{
+    height: 58px;
+    border-top: 1px solid #e9e8d5;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.market-list .m-az{background: #f5f5f5;}
+
+.rec-soft-box{
+    width: 560px;
+    float: left;
+    height: 542px;
+}
+.rec-soft-box .txt{
+    float: left;
+    line-height: 36px;
+    color: #1f6491;
+    text-shadow: #66c8fc 1px 1px 1px;
+    margin-right: 5px;
+}
+.rec-soft-box .txt i{
+    color: #eaff00;
+    font-size: 14px;
+}
+.rec-soft-box .btn{
+    background: url(../Images/btn.png) no-repeat;
+}
+.rec-soft-box .mark-ext .btn{
+    float: left;
+    height: 24px;
+    font-size: 0;
+    line-height: 0;
+    text-indent: -999em;
+    margin-top: 6px;
+}
+.rec-soft-box .btn-bag{
+    width: 70px;
+    background-position: 0 0;
+}
+.rec-soft-box .btn-ok{
+    width: 44px;
+    background-position: -70px 0;
+    margin-right: 5px;
+}
+.rec-soft-box .btn-no{
+    width: 44px;
+    background-position: -114px 0;
+}
+.rec-con-box{
+    height: 505px;
+    border: 1px solid #e9e9e9;
+    background: #fff;
+}
+.rec-con-box .soft-list{
+    padding: 0 0 0 9px;
+}
+.rec-con-box .soft-list li{
+    padding: 10px 0 6px;
+    height: 97px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+/* 下载排行榜 */
+.soft-top-box{
+    border: 1px solid #e9e9e9;
+    background: #fff;
+    height: 541px;
+    float: right;
+    width: 218px;
+    *overflow: hidden;
+}
+.soft-top-wrap{
+    height: 507px;
+    *overflow: hidden;
+}
+.soft-top-wrap .soft-top-list{
+    height: 506px;
+    overflow: hidden;
+}
+/* 最新推荐 */
+.new-rec-box{
+    border: 1px solid #e9e9e9;
+    background: #fff;
+    overflow: hidden;
+    zoom: 1;
+}
+.new-rec-box .tab-style-2{
+    left: 120px;
+    right: auto;
+}
+.new-rec-box .mark-ext{
+    line-height: 35px;
+}
+.new-rec-box .soft-list li{
+    width: 87px;
+    margin-top: 18px;
+}
+.new-rec-soft{
+    height: 200px;
+    overflow: hidden;
+}
+/* 常用推荐 */
+.used-box .mark-ext{
+    line-height: 36px;
+}
+.used-box .tab-style-2{
+    left: 120px;
+    right: auto;
+    top: 7px;
+}
+.used-box .tab-style-2 li{
+    color: #fff;
+}
+.used-box .tab-style-2 .current{
+    height: 29px;
+    padding: 0 10px;
+    border:none;
+    color: #52b9fb;
+    border-radius: 2px 2px 0 0;
+}
+.used-soft{
+    background: #fff;
+    height: 429px;
+    width: 788px;
+    overflow: hidden;
+    border:1px solid #e9e9e9;
+}
+.used-items{
+    width: 800px;
+}
+.used-item{
+    float: left;
+    width: 157px;
+    height: 214px;
+    border-color: #e9e9e9;
+    border-width: 0 1px 1px 0;
+    border-style: solid;
+}
+.used-name{
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    background: #f0f2f3;
+    color: #666;
+}
+.used-item .soft-list li{
+    width: 78px;
+    margin-top: 15px;
+}

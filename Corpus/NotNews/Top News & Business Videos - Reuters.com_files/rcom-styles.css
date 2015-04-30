@@ -1,0 +1,1699 @@
+/*
+REUTERS Style Sheet | September 2014
+Built upon normalize.css v3.0.1 | git.io/normalize
+*/
+html {
+    font-family: helvetica, arial, sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+body {
+    min-width: 1024px;
+    margin: 0;
+    font-size: 10px; /* base */
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+    display: block;
+}
+audio,
+canvas,
+progress,
+video {
+    display: inline-block;
+    vertical-align: baseline;
+}
+audio:not([controls]) {
+    display: none;
+    height: 0;
+}
+[hidden],
+template {
+    display: none;
+}
+a {
+    background: transparent;
+    text-decoration: none;
+}
+a:active,
+a:hover {
+    outline: 0;
+}
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+b,
+strong {
+    font-weight: bold;
+}
+dfn {
+    font-style: italic;
+}
+mark {
+    background: #ff0;
+    gridor: #000;
+}
+small {
+    font-size: 80%;
+}
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup {
+    top: -0.5em;
+}
+sub {
+    bottom: -0.25em;
+}
+img {
+    border: 0;
+}
+svg:not(:root) {
+    overflow: hidden;
+}
+figure {
+    margin: 1em 40px;
+}
+hr {
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    height: 0;
+}
+pre {
+    overflow: auto;
+}
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, monospace;
+    font-size: 1em;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+    gridor: inherit;
+    font: inherit;
+    margin: 0;
+}
+button {
+    overflow: visible;
+}
+button,
+select {
+    text-transform: none;
+}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+button[disabled],
+html input[disabled] {
+    cursor: default;
+}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+input {
+    line-height: normal;
+}
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box;
+    padding: 0;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    height: auto;
+}
+input[type="search"] {
+    -webkit-appearance: textfield;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+legend {
+    border: 0;
+    padding: 0;
+}
+textarea {
+    overflow: auto;
+}
+optgroup {
+    font-weight: bold;
+}
+table {
+    border-gridlapse: gridlapse;
+    border-spacing: 0;
+}
+td,
+th {
+    padding: 0;
+}
+
+/* Helper */
+.hide {
+    display: none;
+}
+
+/* Group = Clearfix */
+.group:before,
+.group:after,
+.horizontal-list:before,
+.horizontal-list:after,
+.sponsored-content .video-sponsor:before,
+.sponsored-content .video-sponsor:after { /* get rid of this and fix the html */
+    content: "";
+    display: table;
+}
+
+.group:after,
+.horizontal-list:after,
+.sponsored-content .video-sponsor:after {
+    clear: both;
+}
+
+.group,
+.horizontal-list,
+.sponsored-content .video-sponsor {
+    zoom: 1; /* IE 7 - trigger hasLayout */
+}
+
+/* Grid - 1016 */
+/*.sectionContent*/
+.wrap,
+.container {
+    width: 976px;
+    margin: 0 auto;
+}
+
+.wrap-wide {
+    width: 1016px;
+    margin: 0 auto;
+}
+
+.grid1,
+.grid2,
+.grid3,
+.grid4,
+.grid5,
+.grid6,
+.grid7,
+.grid8,
+.grid9,
+.grid10,
+.grid11,
+.grid12 {
+    display: inline;
+    float: left;
+    margin-left: 20px;
+}
+
+.grid1 { width: 63px; }
+.grid2 { width: 146px; }
+.grid3 { width: 229px; }
+.grid4 { width: 312px; }
+.grid5 { width: 395px; }
+.grid6 { width: 478px; }
+.grid7 { width: 561px; }
+.grid8 { width: 644px; }
+.grid9 { width: 727px; }
+.grid10 { width: 810px; }
+.grid11 { width: 893px; }
+.grid12 { width: 976px; }
+.grid-inside { margin-left:0; }
+
+/* Typography */
+h1, h2, h3, h4, h5, h6, p { margin: 0; }
+
+h1 { font-size: 3.6em; }
+h2 { font-size: 3em; }
+h3 { font-size: 2.4em; }
+h4 { font-size: 1.8em; }
+h5 { font-size: 1.4em; }
+h6 { font-size: 1.2em; }
+
+p {
+    font-size: 1.4em;
+    line-height: 1.2em;
+}
+
+.horizontal-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.horizontal-list li {
+    float: left;
+}
+
+/* video page header */
+.header,
+.header a {
+    color: #555;
+}
+
+.header {
+    background: #161616;
+    padding: 14px 0;
+}
+
+ @media only screen and (orientation : portrait) {
+    .header,
+    .content,
+    .footer {
+        width: 1048px;
+    }
+}
+
+
+.header a:hover,
+.header a:active {
+    color: #fff;
+}
+
+.header h2,
+.header .edition-list,
+.header .utilities {
+    display: inline;
+    float: left;
+}
+
+.header .logo-video {
+    display: block;
+    width: 315px;
+    height: 48px;
+    background: url("http://s3.reutersmedia.net/resources_v2/images/rcom-sprite-logo.png") -209px 0px no-repeat;
+    text-indent: -999em;
+}
+
+.header .edition-list {
+    margin: 20px 0 0 15px;
+}
+
+.header .edition-list a {
+    padding: 0 2px;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: bold;
+    line-height: 1em;
+}
+.header .edition-list .active {
+    color: #fff;
+}
+
+.header .utilities {
+    display: block;
+    margin: 19px 0 0 84px;
+}
+
+.utilities .first {
+    padding-right: 6px;
+    border-right: 1px solid #666;
+    margin-right: 6px;
+}
+
+.utilities .last {
+    padding-left: 6px;
+    border-left: 1px solid #666;
+    margin-left: 6px;
+}
+
+.utilities .new-social {
+    padding: 0;
+    border: none;
+    margin: -5px 0 0 18px;
+}
+
+.utilities a {
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.utilities a:hover {
+    text-decoration: underline;
+}
+
+.utilities div {
+    background-image: url("http://s2.reutersmedia.net/resources_v2/images/rcom-sprite.png");
+}
+
+.twitter_head {
+     width: 12px;
+     height: 16px;
+     margin-right: 10px;
+     background-position: -134px -364px;
+}
+
+.twitter_head:hover {
+     background-position: -106px -377px;
+}
+
+.facebook_head {
+     width: 9px;
+     height: 15px;
+     margin-right: 11px;
+     background-position: -83px -392px;
+}
+
+.facebook_head:hover {
+     background-position: -55px -407px;
+}
+
+.linkedin_head {
+    width: 14px;
+    height: 14px;
+    background-position: -27px -422px;
+}
+
+.linkedin_head:hover {
+     background-position: 0px -436px;
+}
+
+/* Header - Search */
+.header .search {
+    display: inline-block;
+    float: right;
+    margin: 10px 0 0;
+}
+
+.header .search #searchForm {
+    background: #161616;
+    border: 1px solid #555;
+    padding: 5px 7px;
+}
+
+.header .search #searchfield {
+    background: none;
+    border: none;
+    color: #555;
+    font-size: 1.1em;
+    outline: none;
+}
+
+.header .search #searchfield:focus,
+.header .search #searchfield:active {
+    color: #fff;
+}
+
+.header .search #searchbuttonNav {
+    display: inline-block;
+    height: 12px;
+    border: none;
+    background: url("http://s2.reutersmedia.net/resources_v2/images/rcom-sprite.png") no-repeat 0 -164px;
+    vertical-align: middle;
+    width: 12px;
+}
+
+.header .search #searchfield:focus ~ #searchbuttonNav,
+.header .search #searchfield:active ~ #searchbuttonNav,
+.header .search #searchbuttonNav:hover {
+    background: url("http://s2.reutersmedia.net/resources_v2/images/rcom-sprite.png") no-repeat -12px -152px;
+}
+
+#content {
+    background: #f9f9f9;
+}
+
+/* Nav */
+.video-nav {
+    background: #161616;
+}
+
+.video-nav .wrap {
+    border-bottom: 1px solid #333;
+    border-top: 1px solid #333;
+    padding: 5px 3px;
+}
+
+.video-nav-list a {
+    display: inline-block;
+    padding: 4px 0;
+    border-bottom: 2px solid #161616;
+    margin: 0 12px;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 1.4em;
+    color: #fff;
+}
+
+.video-nav-list li:first-child a {
+    margin: 0 12px 0 0;
+}
+
+.video-nav-list a:hover,
+.video-nav-list a.active {
+    border-bottom: 2px solid #ff8000;
+}
+
+.video-nav-list.video-nav-more{
+    margin-left: 20px;
+}
+
+.video-nav-list.video-nav-more li:first-child a {
+    padding: 4px 28px 2px 12px;
+    margin: 0;
+    background: url("http://s2.reutersmedia.net/resources_v2/images/rcom-sprite.png") no-repeat 52px -111px;
+}
+
+.video-nav-list.video-nav-more li a:hover {
+    border-bottom: 2px solid #000;
+    background: url("http://s2.reutersmedia.net/resources_v2/images/rcom-sprite.png") no-repeat 27px -83px;
+}
+
+.video-nav-list.video-nav-more li {
+    float: right;
+    border-left: 1px solid #333;
+}
+
+.video-nav-channel {
+    height: 26px;
+    overflow: hidden;
+}
+
+
+/* Base Slide List */
+
+/* Slick Slide CSS */
+.slick-slider {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -ms-touch-action: none;
+    touch-action: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list {
+    position: relative;
+    overflow: hidden;
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.slick-list:focus {
+    outline: none;
+}
+
+/*
+.slick-loading .slick-list {
+    background: white url('ajax-loader.gif') center center no-repeat;
+}
+*/
+
+.slick-list.dragging {
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-list,
+.slick-track,
+.slick-slide,
+.slick-slide img {
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.slick-track {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+    zoom: 1;
+}
+
+.slick-track:before,
+.slick-track:after {
+    content: "";
+    display: table;
+}
+
+.slick-track:after {
+    clear: both;
+}
+
+.slick-loading .slick-track {
+    visibility: hidden;
+}
+
+.slick-slide {
+    display: none;
+    height: 100%;
+    min-height: 1px;
+    float: left;
+}
+
+.slick-slide img {
+    display: block;
+}
+
+.slick-slide.slick-loading img {
+    display: none;
+}
+
+.slick-slide.dragging img {
+    pointer-events: none;
+}
+
+.slick-initialized .slick-slide {
+    display: block;
+}
+
+.slick-loading .slick-slide {
+    visibility: hidden;
+}
+
+.slick-vertical .slick-slide {
+    display: block;
+    height: auto;
+    border: 1px solid transparent;
+}
+
+.slide-list-container {
+    position: relative;
+    width: 993px;
+}
+
+.slide-list {
+    position: relative;
+    left: 0;
+}
+
+.slide-list .slide {
+    box-shadow: 0 0 3px #d7d7d7;
+    float: left;
+}
+
+.slide-list .slide:last-child {
+    margin-right: 0 !important;
+}
+
+.slide-inset {
+    width: 229px;
+    height: 203px;
+    overflow: hidden;
+}
+
+.slide-thumb {
+    display: block;
+    line-height: 0;
+}
+
+.slide-thumb img {
+    width: 229px;
+    height: 129px;
+    background: #161616 url("http://s4.reutersmedia.net/resources_v2/images/rcom-play.png") 50% 50% no-repeat;
+}
+
+.slide-text {
+    height: 55px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    background: #fff;
+    display: block;
+}
+
+.slide-text a {
+    display: inline-block;
+    padding: 0 0 5px;
+    font-size: 1.4em;
+    line-height: 1.2em;
+    color: #006e97;
+}
+
+.slide-text a:hover {
+    text-decoration: underline;
+}
+
+.slide-meta {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.slide-container .arrow-left,
+.slide-container .arrow-right {
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+}
+
+.slide-container .arrow-left:hover,
+.slide-container .arrow-right:hover {
+    cursor: pointer;
+}
+
+.slide-container .arrow-left {
+    left: -25px;
+    padding: 35px 14px 35px 6px;
+}
+
+.slide-container .arrow-right {
+    right: -8px;
+    padding: 35px 6px 35px 14px;
+}
+.related-slide-container .arrow-left {
+    left: -26px;
+}
+.related-slide-container .arrow-right{
+    right: -26px;
+}
+
+.arrow-left .arrow-left-ico,
+.arrow-right .arrow-right-ico {
+    background: url("http://s2.reutersmedia.net/resources_v2/images/rcom-sprite.png");
+}
+
+.arrow-left .arrow-left-ico,
+.arrow-right .arrow-right-ico {
+    height: 18px;
+    width: 10px;
+}
+
+.arrow-left .arrow-left-ico {
+    background-position: -134px -416px;
+}
+
+.arrow-left:hover .arrow-left-ico {
+    background-position: -144px -398px;
+}
+
+.arrow-right .arrow-right-ico {
+    background-position: -164px -416px;
+}
+
+.arrow-right:hover .arrow-right-ico {
+    background-position: -174px -398px;
+}
+
+/* Ad Skin */
+
+#ad-div-2 {
+    top: 114px;
+    height: 690px;
+    overflow: hidden;
+}
+
+#ad-div-2 iframe {
+    width: 100% !important;
+    max-width: none;
+}
+
+@media only screen and (max-width: 1499px) {
+    #ad-div-2 {
+        left: 0;
+        width: 100%;
+        margin: 0;
+    }
+}
+
+@media only screen and (min-width: 1500px) {
+    #ad-div-2 {
+        left: 50%;
+        width: 1500px;
+        margin: 0 0 0 -750px;
+    }
+}
+
+@media only screen and (max-height: 1050px) {
+    #ad-div-2 {
+        height: 509px;
+    }
+}
+
+#ad-div-2.current-channel-sponsor{
+	left: 0;
+	margin: 0 auto;
+	width: 100%;
+}
+
+/* Video Player */
+.current-channel-container {
+    padding: 10px 0 15px;
+    margin: 0 0 30px;
+    background: #161616;
+}
+
+.current-channel-container .current-channel-sponsor {
+    position: absolute;
+    top: 4px;
+}
+
+.current-channel-header {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.current-channel-title {
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    font-family: arial, helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 2.4em;
+    color: #fff;
+}
+
+.current-slide-container {
+    list-style: none;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    background: #161616;
+}
+
+@media only screen and (max-height: 1050px) {
+    .current-slide-container {
+        padding-bottom: 24px;
+    }
+}
+
+.current-slide-container .video-player {
+    min-height: 367px;
+}
+
+.current-slide-container .yospace-player-container,
+.current-slide-container .yospace-player {
+    width: 976px !important;
+    height: 549px !important;
+    background-size: 976px 549px;
+}
+
+@media only screen and (max-height: 1050px) {
+    .current-slide-container .yospace-player-container,
+    .current-slide-container .yospace-player {
+        width: 652px !important;
+        height: 367px !important;
+        background-size: 652px 367px;
+    }
+
+    .current-slide-container .yospace-player > div {
+        margin: 147.5px 0 0 290px !important;
+    }
+}
+
+/* related slide container */
+
+.related-slide-container {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 91px;
+    padding: 0 0 15px;
+    margin: 2px 0 15px !important;
+}
+
+.related-slide-container .slide-list-container {
+    width: 976px;
+}
+
+.related-slide-container .slide-list {
+    height: 91px;
+    overflow: hidden;
+}
+
+.related-slide-container .slide-list .slide {
+    position: relative;
+    width: 163px;
+    height: 91px;
+    box-shadow: none;
+    background: #242424;
+}
+
+.related-slide-container .related-slide-thumb,
+.related-slide-container .active a:hover .related-slide-thumb {
+    background: #161616;
+    opacity: 0.4;
+}
+
+.related-slide-container a:hover .related-slide-thumb {
+    opacity: 0.8;
+}
+
+.related-slide-container .related-slide-desc {
+    display: none;
+}
+
+.related-slide-container a:hover .related-slide-desc {
+    position: absolute;
+    bottom: 0;
+    display: block;
+    width: 151px;
+    padding: 5px;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    color: #fff;
+    letter-spacing: .01em;
+    text-shadow: 3px 3px 3px #000;
+}
+
+.related-slide-container .video-playing {
+    position: absolute;
+    top: 40px;
+    left: 35px;
+}
+
+.related-slide-container .video-playing .ico.ico-play {
+    display: inline-block;
+    width: 10px;
+    height: 14px;
+    vertical-align: top;
+    background: url("http://s2.reutersmedia.net/resources_v2/images/rcom-sprite.png") no-repeat -20px -48px;
+}
+
+.related-slide-container .video-playing .video-playing-text {
+    color: #fff;
+    font-size: 1.4em;
+    letter-spacing: .01em;
+    line-height: 1.29em;
+}
+
+.related-slide-container .related-slide-thumb > img {
+    width: 161px;
+    height: 91px;
+    background: url("http://s4.reutersmedia.net/resources_v2/images/rcom-play.png") no-repeat 50% 50% #161616;
+}
+
+.related-slide-container .active .related-slide-thumb > img {
+    background: none;
+}
+
+/* Main Video Sidebar */
+
+.current-slide-sidebar {
+    width: 100%;
+}
+
+.current-slide-info {
+    width: 652px;
+    float: left;
+    color: #fff;
+}
+
+@media only screen and (max-height: 1050px) {
+    .current-slide-info {
+        width: 976px;
+    }
+}
+
+.current-slide-sidebar h2 {
+    font-weight: bold;
+    font-size: 1.8em;
+    line-height: 1.3334;
+    color: #fff;
+}
+
+.current-slide-info h2 {
+    margin-right: 20px;
+}
+
+.current-slide-sidebar .current-slide-date {
+    margin: 0 0 9px 0;
+    font-weight: normal;
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: #999;
+}
+
+.current-slide-info .current-slide-desc {
+    margin: 0 0 15px 0;
+}
+
+.video-info .current-slide-desc p,
+.video-info .current-slide-transcript p {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+.current-slide-transcript {
+    display: none;
+}
+
+.hide-transcript-button,
+.show-transcript-button {
+    color: #999;
+    margin-top: 12px;
+}
+
+.hide-transcript-button:hover,
+.show-transcript-button:hover {
+    text-decoration: underline;
+}
+
+.hide-transcript-button,
+.show-transcript-button {
+    display: none;
+}
+
+.hide-transcript-button.active,
+.show-transcript-button.active {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.current-slide-transcript.active {
+    display: block;
+}
+
+.current-slide-transcript.active p {
+    font-size: 1.2em;
+    line-height: 1.3334;
+}
+
+.current-slide-social {
+    margin: 20px 0;
+}
+
+.current-slide-social li {
+    margin-right: 15px;
+}
+
+.current-slide-social li:last-child {
+    margin-right: 0;
+}
+
+.current-slide-social a {
+    display: block;
+    height: 30px;
+    padding: 0;
+    background: url("http://s2.reutersmedia.net/resources_v2/images/rcom-sprite.png");
+    font-size: 1.2em;
+    line-height: 1.8;
+    color: #808080;
+    text-align: center;
+}
+.current-slide-social a .count {
+    padding: 5px 0 0 36px;
+}
+.current-slide-social .shr-twitter a {
+    background-position: 0 -216px;
+}
+.current-slide-social .shr-facebook a {
+    background-position: -30px -186px;
+}
+.current-slide-social .shr-linkedin a {
+    background-position: -60px -156px;
+}
+.current-slide-social .shr-reddit a {
+    background-position: -90px -126px;
+}
+.current-slide-social .shr-google a {
+    background-position: -120px -96px;
+}
+.current-slide-social .shr-mail a {
+    background-position: -150px -66px;
+}
+.current-slide-social .shr-more a {
+    background-position: -180px -36px;
+}
+
+.current-slide-social .shr-twitter a:hover {
+    background-position: 0 -356px;
+}
+.current-slide-social .shr-facebook a:hover {
+    background-position: -30px -326px;
+}
+.current-slide-social .shr-linkedin a:hover {
+    background-position: -60px -296px;
+}
+.current-slide-social .shr-reddit a:hover {
+    background-position: -90px -266px;
+}
+.current-slide-social .shr-google a:hover {
+    background-position: -120px -236px;
+}
+.current-slide-social .shr-mail a:hover {
+    background-position: -150px -206px;
+}
+.current-slide-social .shr-more a:hover {
+    background-position: -180px -176px;
+}
+.current-slide-social li .at16nc {
+    display: none;
+}
+
+/* Slide Right Sidebar */
+
+.current-slide-right-sidebar {
+    width: 300px;
+    height: 250px;
+    float: right;
+}
+
+.current-slide-right-sidebar h2,
+.current-slide-right-sidebar .current-slide-date {
+    display: none;
+}
+
+@media only screen and (max-height: 1050px) {
+    .current-slide-right-sidebar {
+        position: absolute;
+        top: 0;
+        right: 0;
+        display: block;
+        height: 359px;
+        padding: 8px 12px 0;
+        background: #242424;
+    }
+
+    .current-slide-right-sidebar h2,
+    .current-slide-right-sidebar .current-slide-date {
+        display: block;
+    }
+}
+
+.current-slide-ad {
+    width: 300px;
+    height: 250px;
+}
+
+@media only screen and (max-height: 1050px) {
+    .current-slide-ad {
+        position: absolute;
+        right: 12px;
+        bottom: 12px;
+    }
+}
+
+/* Slide Channel */
+
+.slide-container {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.slide-channel-title {
+    margin-bottom: 8px;
+    font-size: 1.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.slide-channel-title,
+.slide-channel-title a,
+.video-channel-title a:active {
+    color: #000;
+}
+.slide-channel-title a:hover {
+    text-decoration: underline;
+}
+
+/* Featured Slides */
+
+.featured-slide-container {
+    width: 1024px;
+    margin: 0 auto 30px;
+}
+
+.featured-slide-container .slide-channel-title {
+    margin-left: 25px;
+}
+
+.featured-slide-container .slide-list-container {
+    position: relative;
+    width: 1024px;
+    overflow: hidden;
+}
+
+.featured-slide-container .slide {
+    display: inline-block;
+    width: 1024px;
+    height: 228px;
+    margin-right: 0;
+    box-shadow: none;
+}
+
+.featured-slide-thumb,
+.featured-slide-text {
+    float: left;
+}
+
+.featured-slide-thumb {
+    display: block;
+    width: 512px;
+    height: 228px;
+    overflow: hidden;
+}
+
+.featured-slide-text {
+    display: block;
+    width: 462px;
+    height: 178px;
+    padding: 24px;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+
+.featured-slide-text h2 {
+    margin-bottom: 9px;
+    font-weight: bold;
+    font-size: 2.6em;
+    line-height: 1.1em;
+    color: #333;
+}
+
+.featured-slide-text h2 a {
+    color: #333;
+}
+
+.featured-slide-text h2 a:hover {
+    color: #FF9100;
+}
+
+.featured-slide-text p {
+    color: #333;
+    font-size: 1.4em;
+    line-height: 1.3em;
+}
+
+.featured-slide-container .arrow-left {
+    left: 0;
+}
+
+.featured-slide-container .arrow-right {
+    right: 0;
+}
+
+.featured-slide-container .arrow-left,
+.featured-slide-container .arrow-right {
+    margin: -60px;
+}
+
+.featured-slide-container .arrow-left-ico,
+.featured-slide-container .arrow-right-ico {
+    width: 24px;
+    height: 48px;
+}
+
+.featured-slide-container .arrow-left-ico {
+    background-position: 0 -562px;
+}
+
+.featured-slide-container .arrow-left:hover .arrow-left-ico {
+    background-position: -24px -514px;
+}
+
+.featured-slide-container .arrow-right-ico {
+    background-position: -69px -478px;
+}
+
+.featured-slide-container .arrow-right:hover .arrow-right-ico {
+    background-position: -93px -430px;
+}
+
+.featured-slide-container .arrow-left,
+.featured-slide-container .arrow-right {
+    padding: 0;
+    margin: -30px 0 0 0;
+}
+
+/* Native Ad */
+
+.slide-sponsor-container .slide-text {
+    background: #f0f0f0;
+}
+
+.slide-sponsor {
+    float: right;
+}
+
+.slide-sponsor-text,
+.slide-sponsor-logo {
+    float: left;
+}
+
+.slide-sponsor-text {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 1.1em;
+    color: #666;
+}
+
+.slide-sponsor-logo {
+    max-width: 100px;
+    height: 24px;
+    margin: -7px 0 0 7px;
+}
+
+
+/* Footer */
+.footer {
+    background: #2c2c2c;
+}
+#footerHead .sectionContent,
+#footer .sectionContent{
+    margin: 0 auto;
+    width: 1016px;
+}
+
+/* Footer - from main site */
+.footer .grid12{
+    margin: 0;
+}
+
+.editionArrow,
+#header #utilities ul li#signin-control,
+input#searchbuttonNav,
+#ticker-controls li#prev,
+#ticker-controls li#next,
+#footerLogo,
+#tr-footer,
+#topLink {
+     background: url("http://s1.reutersmedia.net/resources_v2/images/sprite-core2.png") no-repeat scroll left top transparent;
+}
+
+#foot-facebook,
+#foot-linkedin,
+#foot-twitter,
+#foot-rssfeed,
+#foot-podcasts,
+#foot-newsletters,
+#foot-mobile {
+     background: url("http://s4.reutersmedia.net/resources_v2/images/sprite_footer_icons.gif") no-repeat scroll left top transparent;
+}
+
+#footerHead {
+     clear: both;
+     margin: auto;
+     padding-top: 10px;
+}
+
+#footerHead .sectionContent {
+     padding: 0px;
+}
+
+#footer .sectionContent:before,
+#footer .sectionContent:after{
+    content: "";
+    display: table;
+}
+#footer .sectionContent:after {
+    clear: both;
+}
+#footer .sectionContent  {
+    zoom: 1; /* IE 7 - trigger hasLayout */
+}
+
+#footer {
+     background: none repeat scroll 0px 0px #333333 ! important;
+     clear: both ! important;
+     margin: 0px auto ! important;
+     max-width: 100% ! important;
+     padding: 12px 0px 30px ! important;
+}
+
+
+#footer ul {
+     display: inline;
+     height: 15px;
+     margin: 0px;
+}
+
+#footer h2 {
+     color: #FFFFFF;
+     font-size: 14px;
+     font-weight: bold;
+     margin: 0px 0px 5px;
+     text-transform: uppercase;
+}
+
+#footer h3 {
+     color: #FF8100;
+     display: inline;
+     font-size: 11px;
+     font-weight: bold;
+     margin: 0px 0px 5px;
+     padding-right: 10px;
+     text-transform: none ! important;
+}
+
+#footer ul li {
+     display: inline;
+     font-size: 11px;
+     font-style: italic;
+     margin: 0px ! important;
+     padding: 0px;
+}
+
+#footer ul li.h-links {
+     border-right: 1px solid #666666;
+     float: left;
+     padding-left: 5px;
+     padding-right: 7px;
+}
+
+#footer ul li.h-linkend {
+     float: left;
+     padding-left: 5px;
+}
+
+#footer ul li a {
+     color: #FFFFFF;
+     font-style: normal;
+}
+
+#footer .copyright {
+     color: #999999;
+     font-size: 11px;
+     margin: 10px 0px;
+     text-align: right;
+}
+
+#footer .footerparent {
+     -moz-box-sizing: border-box;
+     color: #FF8100;
+     display: inline;
+     float: left;
+     font-size: 11px;
+     font-weight: bold;
+     text-transform: none ! important;
+     width: 150px;
+}
+
+#footer .footerparent a {
+     color: #FF8100;
+}
+
+#footerHead #topLink {
+     background-position: 0px -604px;
+     color: #999999;
+     float: right;
+     font-size: 10px;
+     font-weight: bold;
+     margin-top: 10px;
+     padding: 0px 0px 0px 14px;
+}
+
+#footerHead #topLink p {
+     font-size: 12px;
+     line-height: 1;
+     margin: 0px;
+}
+
+#footerHead #topLink a {
+     color: #999999;
+     font-weight: bold;
+}
+
+#footer .columnLeft {
+     height: 30px;
+}
+#footerHeader .logo{
+    display: inline-block;
+    float: left;
+}
+#footerHeader #footerLogo {
+     background-position: 0px -556px;
+     height: 38px;
+     padding-bottom: 10px;
+     width: 168px;
+}
+
+#tr-footer {
+     background-position: 0px -504px;
+     height: 40px;
+     width: 164px;
+}
+
+#footer .footerHalf {
+     width: 110px;
+}
+
+#footerMap #editionChangeForm {
+     color: #666666;
+     font-size: 11px;
+     margin: 0px 0px 5px;
+}
+
+#footerHeader .gridPanel {
+     margin: 0px;
+}
+
+#footerHeader .columnLeft, #footerHeader .columnRight {
+     clear: none ! important;
+     display: block ! important;
+     margin-right: 0px ! important;
+}
+
+#footer #tr-description {
+     border-top: 4px solid #2C2C2C;
+     color: #D6D6D6;
+     font-size: 20px;
+     padding: 14px 0px 8px;
+     width: 100%;
+}
+
+#footer #disclaimer {
+     color: #999999 ! important;
+     display: inline;
+     float: left;
+     margin: 15px 10px;
+}
+
+#footer #disclaimer p {
+     color: #999999 ! important;
+     font-size: 10px;
+     margin: 0px 0px 8px;
+     padding: 0px;
+}
+
+#footer #disclaimer a {
+     color: #CCCCCC;
+}
+
+#foot-facebook {
+     background-position: 0px 0px;
+     float: left;
+     height: 17px;
+     padding: 2px 0px 0px 22px ! important;
+}
+
+#foot-linkedin {
+     background-position: 0px -27px;
+     float: left;
+     height: 17px;
+     padding: 2px 0px 0px 22px ! important;
+}
+
+#foot-mobile {
+     background-position: 0px -54px;
+     float: left;
+     height: 17px;
+     padding: 2px 0px 0px 22px ! important;
+}
+
+#foot-newsletters {
+     background-position: 0px -81px;
+     float: left;
+     height: 17px;
+     padding: 2px 0px 0px 22px ! important;
+}
+
+#foot-podcasts {
+     background-position: 0px -108px;
+     float: left;
+     height: 17px;
+     padding: 2px 0px 0px 22px ! important;
+}
+
+#foot-rssfeed {
+     background-position: 0px -135px;
+     float: left;
+     height: 17px;
+     padding: 2px 0px 0px 22px ! important;
+}
+
+#foot-twitter {
+     background-position: 0px -162px;
+     float: left;
+     height: 17px;
+     padding: 2px 0px 0px 22px ! important;
+}
+
+#evidon-footer {
+     border-right: medium none ! important;
+     float: left;
+     height: 20px ! important;
+     padding: 0px 8px ! important;
+}
+
+#evidon-footer #_bapw-icon {
+     border: 0px none ! important;
+     display: inline ! important;
+     float: left;
+     margin-top: -2px;
+     overflow: visible ! important;
+     vertical-align: top ! important;
+}
+
+#evidon-footer #evidon-text {
+     margin-left: 3px;
+     vertical-align: top ! important;
+}
+
+#footer-endrow {
+     border-left: 1px solid #666666;
+}
+.tr-products {
+     display: inline;
+     float: left;
+}
+
+.tr-products #tr-eikon, .tr-products #tr-elektron, .tr-products #tr-accelus, .tr-products #tr-westlaw, .tr-products #tr-onesource {
+     background-color: #2C2C2C;
+     display: inline;
+     float: left;
+     height: 140px;
+     margin: 4px;
+     width: 140px;
+}
+
+.tr-products #tr-linklist {
+     display: inline;
+     float: left;
+     height: 140px;
+     margin: 0px 0px 0px 10px;
+     width: 140px;
+}
+
+#tr-linklist ul {
+     float: left;
+     height: 140px;
+}
+
+#tr-linklist ul li {
+     border-bottom: 1px solid #2C2C2C;
+     clear: left;
+     display: block ! important;
+     float: left;
+     font-size: 11px;
+     font-style: normal ! important;
+     height: 19px;
+     margin: 0px 0px 6px ! important;
+     padding: 2px 0px ! important;
+     width: 140px;
+}
+
+#tr-intro, #tr-info, #tr-logo {
+     clear: left;
+     display: inline;
+     float: left;
+}
+
+.tr-header1 a, .tr-header3 a, .tr-descr a {
+     color: #FFFFFF;
+}
+
+.tr-header2 a, .tr-westlaw a {
+     color: #FF8100;
+}
+
+#tr-eikon .tr-header1 a, #tr-elektron .tr-header1 a, #tr-accelus .tr-header1 a, #tr-westlaw .tr-header3 a, #tr-onesource .tr-header1 a {
+     background: url("http://s1.reutersmedia.net/resources_v2/images/sprite-core2.png") no-repeat scroll 0px 0px transparent;
+}
+
+#tr-accelus .tr-header1 a {
+     background-position: 0px -846px;
+     display: block;
+     height: 30px;
+}
+
+#tr-eikon .tr-header1 a {
+     background-position: 0px -888px;
+     display: block;
+     height: 30px;
+}
+
+#tr-elektron .tr-header1 a {
+     background-position: 0px -933px;
+     display: block;
+     height: 30px;
+}
+
+#tr-onesource .tr-header1 a {
+     background-position: 0px -974px;
+     display: block;
+     height: 30px;
+}
+
+#tr-westlaw .tr-header3 a {
+     background-position: 0px -1006px;
+     display: block;
+     height: 30px;
+}
+
+.tr-header1 {
+     color: #FFFFFF;
+     font-size: 14px;
+     height: 30px;
+     margin: 10px 8px 0px;
+     padding-top: 2px;
+     text-transform: uppercase;
+}
+
+.tr-header2 {
+     color: #FF8100;
+     font-size: 14px;
+     margin: 0px 4px;
+     padding-top: 2px;
+     text-transform: uppercase;
+}
+
+.tr-header3 {
+     color: #FFFFFF;
+     font-size: 14px;
+     height: 30px;
+     margin: 10px 8px 0px;
+     padding-top: 2px;
+}
+
+.tr-westlaw {
+     color: #FF8100;
+}
+
+.tr-descr {
+     color: #FFFFFF;
+     font-size: 11px;
+     margin: 4px 10px 0px;
+     padding-top: 6px;
+}
+#editionsFooter {
+    display: none;
+}

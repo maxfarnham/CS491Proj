@@ -1,5 +1,5 @@
 from pattern.vector import NB, SVM, Document, Vector, count
-from pattern.en 	import tag
+from pattern.text.en 	import tag
 from pageparser   	import PageParser
 import settings as sett
 import random
@@ -9,54 +9,65 @@ import operator
 import functools
 
 def raw_text_features(text, t=-1):
-	if t != -1:
-		doc = Document(PageParser.parse(text)[0], type=t, stopwords=True)
-	else:
-		doc = Document(PageParser.parse(text)[0], stopwords=True)
-	return doc
+    if t != -1:
+	    doc = Document(PageParser.parse(text)[0], type=t, stopwords=True)
+    else:
+	    doc = Document(PageParser.parse(text)[0], stopwords=True)
+    return doc
 
 def frame_features(text, t=-1):
-	parsed_text, html_tag_counts = PageParser.parse(text)
+    parsed_text, html_tag_counts = PageParser.parse(text)
 
-	d = {
-		 'periods': 0,
-		 'commas': 0,
-		 'questions': 0,
-		 'exclamations': 0,
-		 'whitespace': 0,
-		 'letters': 0,
-		 'longestword': 0
-		}
+    d = {
+            'periods': 0,
+            'commas': 0,
+            'questions': 0,
+            'exclamations': 0,
+            'whitespace': 0,
+            'letters': 0,
+            'longestword': 0,
+            'news': 0,
+            'article': 0,
+            'sale': 0
+        }
 
-	# add html tag counts
-	d.update(html_tag_counts)
-	# add pos tag counts
-	#d.update(count([pos for word,pos in tag(parsed_text)])) 
+    # add html tag counts
+    d.update(html_tag_counts)
+    # add pos tag counts
+    d.update(count([pos for word,pos in tag(parsed_text)])) 
 
-	longestWordLength = 0
-	currentWordLength = 0
-	for letter in parsed_text:
-		d['letters'] += 1
-		if letter == '.':
-			d['periods'] +=1
-		if letter == ',':
-			d['commas'] +=1
-		if letter == '?':
-			d['questions'] +=1
-		if letter == '!':
-			d['exclamations'] +=1
-		if letter == ' ':
-			d['whitespace'] += 1
-			if currentWordLength > d['longestword']:
-				d['longestword'] = currentWordLength
-			currentWordLength = 0            
-		else:
-			currentWordLength += 1
-
-	if t != -1:
-		return Document(Vector(d), type=t)
-	else:
-		return Document(Vector(d))
+    longestWordLength = 0
+    currentWordLength = 0
+    currentWord = ''
+    for letter in parsed_text:
+        d['letters'] += 1
+        if letter == '.':
+            d['periods'] +=1
+        if letter == ',':
+            d['commas'] +=1
+        if letter == '?':
+            d['questions'] +=1
+        if letter == '!':
+            d['exclamations'] +=1
+        if letter == ' ':
+            d['whitespace'] += 1
+            if currentWordLength > d['longestword']:
+                d['longestword'] = currentWordLength
+            if currentWord.lower() == 'news':
+                d['news'] += 1
+            elif 'article' in currentWord.lower():
+                d['article'] += 1
+            elif currentWord.lower() == 'sale':
+                d['sale'] += 1                                                 
+            currentWordLength = 0
+            currentWord = ''
+        else:
+            currentWordLength += 1
+            currentWord += letter
+    if t != -1:
+        return Document(Vector(d), type=t)
+    else:
+	    return Document(Vector(d))
 
 # generator for training data
 def get_training_data():
