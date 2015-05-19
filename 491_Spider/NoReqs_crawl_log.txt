@@ -1,0 +1,2362 @@
+vistinghttp://live.huffingtonpost.com/r/segment/5552589678c90a3a24000055
+	the current length of the visited set is : 29
+crawled http://live.huffingtonpost.com/r/segment/5552589678c90a3a24000055 it wasn't  news 
+vistinghttp://privacy.aol.com/
+	the current length of the visited set is : 30
+crawled http://privacy.aol.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/crime/
+	the current length of the visited set is : 31
+crawled http://www.huffingtonpost.com/crime/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/education/
+	the current length of the visited set is : 32
+crawled http://www.huffingtonpost.com/education/ it wasn't  news 
+vistinghttp://live.huffingtonpost.com/r/segment/553fd90e2b8c2adf690005b9
+	the current length of the visited set is : 33
+crawled http://live.huffingtonpost.com/r/segment/553fd90e2b8c2adf690005b9 it wasn't  news 
+vistinghttp://www.engadget.com/
+	the current length of the visited set is : 33
+crawled http://www.engadget.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/less-stress-more-living/
+	the current length of the visited set is : 34
+crawled http://www.huffingtonpost.com/news/less-stress-more-living/ it wasn't  news 
+vistinghttp://live.huffingtonpost.com/r/segment/5558ddbcfe3444fb0d0002cc
+	the current length of the visited set is : 34
+crawled http://live.huffingtonpost.com/r/segment/5558ddbcfe3444fb0d0002cc it wasn't  news 
+vistinghttp://videos.huffingtonpost.com/world
+	the current length of the visited set is : 34
+crawled http://videos.huffingtonpost.com/world it wasn't  news 
+vistinghttp://www.huffingtonpost.com/college/
+	the current length of the visited set is : 34
+crawled http://www.huffingtonpost.com/college/ it wasn't  news 
+vistinghttp://adinfo.aol.com/about-our-ads/
+	the current length of the visited set is : 34
+crawled http://adinfo.aol.com/about-our-ads/ it wasn't  news 
+vistinghttp://www.moviefone.com/
+	the current length of the visited set is : 34
+crawled http://www.moviefone.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/crossing-the-line/
+	the current length of the visited set is : 34
+crawled http://www.huffingtonpost.com/news/crossing-the-line/ it wasn't  news 
+vistinghttp://www.aol.com/
+	the current length of the visited set is : 34
+crawled http://www.aol.com/ it wasn't  news 
+vistinghttp://live.huffingtonpost.com/r/segment/5554986efe3444e1c200001c
+	the current length of the visited set is : 35
+crawled http://live.huffingtonpost.com/r/segment/5554986efe3444e1c200001c it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/comedy-original-video/
+	the current length of the visited set is : 35
+vistinghttp://techcrunch.com/
+	the current length of the visited set is : 35
+vistinghttp://live.huffingtonpost.com/r/segment/5558d8ed78c90a532d000248
+	the current length of the visited set is : 35
+crawled http://live.huffingtonpost.com/r/segment/5558d8ed78c90a532d000248 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/political-humor/
+	the current length of the visited set is : 35
+crawled http://www.huffingtonpost.com/news/political-humor/ it wasn't  news 
+vistinghttp://live.huffingtonpost.com/
+	the current length of the visited set is : 35
+crawled http://live.huffingtonpost.com/ it wasn't  news 
+vistinghttp://www.moviefone.com/about
+	the current length of the visited set is : 35
+vistinghttp://www.huffingtonpost.com/news/comedy-club/
+	the current length of the visited set is : 35
+crawled http://www.huffingtonpost.com/news/comedy-club/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/funny-videos/
+	the current length of the visited set is : 35
+crawled http://www.huffingtonpost.com/news/funny-videos/ it wasn't  news 
+vistinghttp://www.aol.com/newsletter/
+	the current length of the visited set is : 35
+crawled http://www.aol.com/newsletter/ it wasn't  news 
+vistinghttp://news.moviefone.com/2014/05/05/new-moviefone-faq
+	the current length of the visited set is : 36
+crawled http://news.moviefone.com/2014/05/05/new-moviefone-faq it wasn't  news 
+vistinghttp://mobile.aol.com/
+	the current length of the visited set is : 36
+crawled http://mobile.aol.com/ it wasn't  news 
+vistinghttp://www.whalerockindustries.com/
+	the current length of the visited set is : 37
+crawled http://www.whalerockindustries.com/ it wasn't  news 
+vistinghttp://feeds.feedburner.com/LeadStoriesFromAol
+	the current length of the visited set is : 41
+crawled http://feeds.feedburner.com/LeadStoriesFromAol it wasn't  news 
+vistinghttps://help.aol.com/
+	the current length of the visited set is : 41
+crawled https://help.aol.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/unnecessary-censorship-bears_n_7305620.html
+	the current length of the visited set is : 42
+vistinghttps://itunes.apple.com/us/app/commute-traffic-road-conditions/id905449457
+	the current length of the visited set is : 42
+vistinghttp://legal.aol.com/copyright-reporting/
+	the current length of the visited set is : 42
+crawled http://legal.aol.com/copyright-reporting/ it wasn't  news 
+vistinghttp://www.pawnation.com/
+	the current length of the visited set is : 42
+crawled http://www.pawnation.com/ it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/aim-free-edition/id281704574
+	the current length of the visited set is : 42
+crawled https://itunes.apple.com/us/app/aim-free-edition/id281704574 it wasn't  news 
+vistinghttps://twitter.com/aolsupporthelp
+	the current length of the visited set is : 42
+crawled https://twitter.com/aolsupporthelp it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/16/killer-mike-bill-oreilly-maher_n_7297958.html
+	the current length of the visited set is : 42
+vistinghttp://www.huffingtonpost.com/2015/05/17/louis-ck-snl-monologue-child-molesting_n_7300632.html
+	the current length of the visited set is : 42
+vistinghttps://www.facebook.com/aol/app_128953167177144
+	the current length of the visited set is : 42
+crawled https://www.facebook.com/aol/app_128953167177144 it wasn't  news 
+vistinghttp://www.apple.com/
+	the current length of the visited set is : 42
+crawled http://www.apple.com/ it wasn't  news 
+vistinghttp://mom.me/latina-mom/
+	the current length of the visited set is : 42
+crawled http://mom.me/latina-mom/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/john-oliver-chicken_n_7303688.html
+	the current length of the visited set is : 43
+vistinghttp://glo.com/
+	the current length of the visited set is : 43
+crawled http://glo.com/ it wasn't  news 
+vistinghttp://www.apple.com/privacy/privacy-policy/
+	the current length of the visited set is : 43
+crawled http://www.apple.com/privacy/privacy-policy/ it wasn't  news 
+vistinghttp://www.apple.com/jobs/us/
+	the current length of the visited set is : 43
+vistinghttp://www.huffingtonpost.com/own/
+	the current length of the visited set is : 43
+crawled http://www.huffingtonpost.com/own/ it wasn't  news 
+vistinghttps://twitter.com/lastweektonight/status/498672023917584385
+	the current length of the visited set is : 43
+vistinghttps://instagram.com/paw_nation/
+	the current length of the visited set is : 43
+crawled https://instagram.com/paw_nation/ it wasn't  news 
+vistinghttp://www.apple.com/macbook/
+	the current length of the visited set is : 43
+vistinghttp://time.com/3882115/john-oliver-last-week-tonight-chicken-farmers/
+	the current length of the visited set is : 43
+vistinghttps://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/buyCharityGiftWizard
+	the current length of the visited set is : 50
+crawled https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/buyCharityGiftWizard it wasn't  news 
+vistinghttp://www.huffingtonpost.com/taste/
+	the current length of the visited set is : 50
+crawled http://www.huffingtonpost.com/taste/ it wasn't  news 
+vistinghttp://www.imdb.com/title/tt3914686/
+	the current length of the visited set is : 50
+crawled http://www.imdb.com/title/tt3914686/ it wasn't  news 
+vistinghttp://www.apple.com/environment/
+	the current length of the visited set is : 50
+vistinghttp://www.oprah.com/newsletters.html
+	the current length of the visited set is : 50
+crawled http://www.oprah.com/newsletters.html it wasn't  news 
+vistinghttp://www.apple.com/iphone/world-gallery/
+	the current length of the visited set is : 50
+vistinghttp://www.oprah.com/privacy_policy.html
+	the current length of the visited set is : 50
+crawled http://www.oprah.com/privacy_policy.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/50/
+	the current length of the visited set is : 50
+crawled http://www.huffingtonpost.com/50/ it wasn't  news 
+vistinghttp://www.imdb.com/
+	the current length of the visited set is : 50
+crawled http://www.imdb.com/ it wasn't  news 
+vistinghttps://www.pinterest.com/pawnation/
+	the current length of the visited set is : 50
+crawled https://www.pinterest.com/pawnation/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/becoming-fearless/
+	the current length of the visited set is : 50
+crawled http://www.huffingtonpost.com/news/becoming-fearless/ it wasn't  news 
+vistinghttp://www.oprah.com/app/rob-bell-joy-meaning.html?utm_source=HuffPostOWNBanner&utm_medium=20141107&utm_campaign=1
+	the current length of the visited set is : 57
+crawled http://www.oprah.com/app/rob-bell-joy-meaning.html?utm_source=HuffPostOWNBanner&utm_medium=20141107&utm_campaign=1 it wasn't  news 
+vistinghttp://coupons.smartsource.com:80
+	the current length of the visited set is : 57
+crawled http://coupons.smartsource.com:80 it wasn't  news 
+vistinghttp://www.oprah.com/app/helpfaq.html
+	the current length of the visited set is : 57
+crawled http://www.oprah.com/app/helpfaq.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/sleep/
+	the current length of the visited set is : 57
+vistinghttp://www.imdb.com/list/create
+	the current length of the visited set is : 57
+crawled http://www.imdb.com/list/create it wasn't  news 
+vistinghttp://www.huffingtonpost.com/health-news/
+	the current length of the visited set is : 57
+crawled http://www.huffingtonpost.com/health-news/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/health-fitness/
+	the current length of the visited set is : 57
+crawled http://www.huffingtonpost.com/health-fitness/ it wasn't  news 
+vistinghttps://www.pinterest.com/login/
+	the current length of the visited set is : 57
+crawled https://www.pinterest.com/login/ it wasn't  news 
+vistinghttp://www.oprah.com/career_submission_terms.html
+	the current length of the visited set is : 57
+crawled http://www.oprah.com/career_submission_terms.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/gps-for-the-soul/
+	the current length of the visited set is : 57
+crawled http://www.huffingtonpost.com/gps-for-the-soul/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/starbucks-mini-frappucino_n_7307074.html
+	the current length of the visited set is : 57
+vistinghttps://w1.buysub.com/Error.jsp
+	the current length of the visited set is : 58
+crawled https://w1.buysub.com/Error.jsp it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/juice-cleanse-healthy-you-shall-be-hungry_n_7286668.html
+	the current length of the visited set is : 58
+vistinghttps://subscribe.hearstmags.com/subscribe/splits/oprah/opr_sub_footer
+	the current length of the visited set is : 58
+crawled https://subscribe.hearstmags.com/subscribe/splits/oprah/opr_sub_footer it wasn't  news 
+vistinghttp://finance.yahoo.com/news/-1-million-is-no-longer-enough-to-retire-on-185400615.html
+	the current length of the visited set is : 58
+vistinghttp://www.huffingtonpost.com/kelly-fitzgerald/6-things-i-learned-during-two-years-without-alcohol_b_7235048.html
+	the current length of the visited set is : 58
+vistinghttps://www.flickr.com/photos/91555706@N00/3879260297
+	the current length of the visited set is : 59
+crawled https://www.flickr.com/photos/91555706@N00/3879260297 it wasn't  news 
+vistinghttps://subscribe.hearstmags.com/subscribe/splits/oprah/opr_sub_96x120_footer
+	the current length of the visited set is : 60
+crawled https://subscribe.hearstmags.com/subscribe/splits/oprah/opr_sub_96x120_footer it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/anxiety-photos-katie-crawford_n_7292548.html
+	the current length of the visited set is : 60
+vistinghttp://www.huffingtonpost.com/healthy-living/
+	the current length of the visited set is : 60
+crawled http://www.huffingtonpost.com/healthy-living/ it wasn't  news 
+vistinghttp://blogs.sciencemag.org/newsblog/
+	the current length of the visited set is : 60
+vistinghttp://www.google.com/gen_204?reason=EmptyAdURL
+	the current length of the visited set is : 62
+crawled http://www.google.com/gen_204?reason=EmptyAdURL it wasn't  news 
+vistinghttps://twitter.com/flickr
+	the current length of the visited set is : 62
+crawled https://twitter.com/flickr it wasn't  news 
+vistinghttps://subscribe.hearstmags.com/subscribe/splits/oprah/opr_f_ipad
+	the current length of the visited set is : 62
+crawled https://subscribe.hearstmags.com/subscribe/splits/oprah/opr_f_ipad it wasn't  news 
+vistinghttp://www.huffingtonpost.com/travel/
+	the current length of the visited set is : 62
+crawled http://www.huffingtonpost.com/travel/ it wasn't  news 
+vistinghttps://subscribe.hearstmags.com/subscribe/splits/oprah/opr_gift_nav_left
+	the current length of the visited set is : 62
+crawled https://subscribe.hearstmags.com/subscribe/splits/oprah/opr_gift_nav_left it wasn't  news 
+vistinghttp://www.bustle.com/articles/83320-what-flavors-can-i-get-a-starbucks-mini-frappuccino-in-here-are-five-options-you-should
+	the current length of the visited set is : 62
+crawled http://www.bustle.com/articles/83320-what-flavors-can-i-get-a-starbucks-mini-frappuccino-in-here-are-five-options-you-should it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/syria/
+	the current length of the visited set is : 62
+crawled http://www.huffingtonpost.com/news/syria/ it wasn't  news 
+vistinghttps://subscribe.hearstmags.com/subscribe/crosssite/176111
+	the current length of the visited set is : 62
+crawled https://subscribe.hearstmags.com/subscribe/crosssite/176111 it wasn't  news 
+vistinghttp://subscribe.hearstmags.com/circulation/shared/privacy.html
+	the current length of the visited set is : 62
+crawled http://subscribe.hearstmags.com/circulation/shared/privacy.html it wasn't  news 
+vistinghttp://www.bustle.com/
+	the current length of the visited set is : 62
+crawled http://www.bustle.com/ it wasn't  news 
+vistinghttps://w1.buysub.com/pubs/HR/OPR/OPR_nameAddrEntry_combo.jsp?cds_page_id=41205&cds_mag_code=OPR&id=1432061484418&lsid=51391351244010719&vid=1
+	the current length of the visited set is : 62
+crawled https://w1.buysub.com/pubs/HR/OPR/OPR_nameAddrEntry_combo.jsp?cds_page_id=41205&cds_mag_code=OPR&id=1432061484418&lsid=51391351244010719&vid=1 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/afghanistan-war-blog/
+	the current length of the visited set is : 62
+crawled http://www.huffingtonpost.com/news/afghanistan-war-blog/ it wasn't  news 
+vistinghttp://www.sciencemag.org/
+	the current length of the visited set is : 62
+crawled http://www.sciencemag.org/ it wasn't  news 
+vistinghttp://www.meghandaum.com/columns/
+	the current length of the visited set is : 62
+crawled http://www.meghandaum.com/columns/ it wasn't  news 
+vistinghttp://www.wired.com/2015/05/feds-say-banned-researcher-commandeered-plane/
+	the current length of the visited set is : 62
+vistinghttp://www.meghandaum.com/new-page/
+	the current length of the visited set is : 62
+crawled http://www.meghandaum.com/new-page/ it wasn't  news 
+vistinghttps://plus.google.com/+flickr
+	the current length of the visited set is : 63
+vistinghttp://www.huffingtonpost.com/news/foreign-affairs/
+	the current length of the visited set is : 63
+vistinghttps://subscribe.hearstmags.com/subscribe/splits/DoctorOzMag/ozmcsb
+	the current length of the visited set is : 64
+crawled https://subscribe.hearstmags.com/subscribe/splits/DoctorOzMag/ozmcsb it wasn't  news 
+vistinghttp://subscribe.hearstmags.com/circulation/shared/custsvc/omn_svc02_hearstmags/omn_svc02_hearstmags.html
+	the current length of the visited set is : 64
+crawled http://subscribe.hearstmags.com/circulation/shared/custsvc/omn_svc02_hearstmags/omn_svc02_hearstmags.html it wasn't  news 
+vistinghttps://w1.buysub.com/pubs/HR/FNM/FNM_nameAddrEntry_combo.jsp?cds_page_id=52635&cds_mag_code=FNM&id=1432061485747&lsid=51391351244010719&vid=2
+	the current length of the visited set is : 64
+crawled https://w1.buysub.com/pubs/HR/FNM/FNM_nameAddrEntry_combo.jsp?cds_page_id=52635&cds_mag_code=FNM&id=1432061485747&lsid=51391351244010719&vid=2 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/saudi-arabia-executioners_n_7307840.html
+	the current length of the visited set is : 64
+crawled http://www.huffingtonpost.com/2015/05/18/saudi-arabia-executioners_n_7307840.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/ramadi-isis_n_7303222.html
+	the current length of the visited set is : 64
+vistinghttps://w1.buysub.com/pubs/HR/ELM/nameAddrEntry_combo.jsp?cds_page_id=106175&cds_mag_code=ELM&id=1432061486494&lsid=51391351244010719&vid=4
+	the current length of the visited set is : 64
+crawled https://w1.buysub.com/pubs/HR/ELM/nameAddrEntry_combo.jsp?cds_page_id=106175&cds_mag_code=ELM&id=1432061486494&lsid=51391351244010719&vid=4 it wasn't  news 
+vistinghttp://www.barnesandnoble.com/w/my-misspent-youth-meghan-daum/1110887485
+	the current length of the visited set is : 64
+vistinghttp://www.huffingtonpost.com/2015/05/18/elian-gonzalez-back-to-america_n_7307794.html
+	the current length of the visited set is : 64
+vistinghttp://www.indiebound.org/book/9781890447267
+	the current length of the visited set is : 64
+crawled http://www.indiebound.org/book/9781890447267 it wasn't  news 
+vistinghttps://w1.buysub.com/pubs/HR/HGT/nameAddrEntry_combo.jsp?cds_page_id=103388&cds_mag_code=HGT&id=1432061485831&lsid=51391351244010719&vid=3
+	the current length of the visited set is : 65
+crawled https://w1.buysub.com/pubs/HR/HGT/nameAddrEntry_combo.jsp?cds_page_id=103388&cds_mag_code=HGT&id=1432061485831&lsid=51391351244010719&vid=3 it wasn't  news 
+vistinghttp://time.com/3528476/tinder-mobile-dating-app/
+	the current length of the visited set is : 65
+crawled http://time.com/3528476/tinder-mobile-dating-app/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/indian-nurse-dies_n_7303408.html
+	the current length of the visited set is : 65
+vistinghttps://subscribe.hearstmags.com/subscribe/splits/DoctorOzMag/ozm_f_ipad
+	the current length of the visited set is : 65
+crawled https://subscribe.hearstmags.com/subscribe/splits/DoctorOzMag/ozm_f_ipad it wasn't  news 
+vistinghttp://www.amazon.com/My-Misspent-Youth-Meghan-Daum/dp/1890447269
+	the current length of the visited set is : 66
+crawled http://www.amazon.com/My-Misspent-Youth-Meghan-Daum/dp/1890447269 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/silvan-shalom-israel-palestine_n_7309072.html
+	the current length of the visited set is : 66
+vistinghttp://www.powells.com/biblio/2-9781890447267-6
+	the current length of the visited set is : 66
+vistinghttp://www.barnesandnoble.com/w/dr-oz-the-good-life-hearst-us/1118353760
+	the current length of the visited set is : 66
+vistinghttp://www.huffingtonpost.com/theworldpost/
+	the current length of the visited set is : 66
+crawled http://www.huffingtonpost.com/theworldpost/ it wasn't  news 
+vistinghttp://www.independent.co.uk/news/world/middle-east/isis-takes-ramadi-islamic-state-secures-largest-military-victory-for-almost-a-year-as-last-government-troops-flee-anbar-state-capital-10256693.html
+	the current length of the visited set is : 66
+crawled http://www.independent.co.uk/news/world/middle-east/isis-takes-ramadi-islamic-state-secures-largest-military-victory-for-almost-a-year-as-last-government-troops-flee-anbar-state-capital-10256693.html it wasn't  news 
+vistinghttp://time.com/3528685/aziz-ansari-sesame-street-grover/
+	the current length of the visited set is : 66
+vistinghttp://www.huffingtonpost.com/religion/
+	the current length of the visited set is : 66
+crawled http://www.huffingtonpost.com/religion/ it wasn't  news 
+vistinghttp://www.cnn.com/2015/05/17/asia/isis-ramadi/
+	the current length of the visited set is : 66
+vistinghttp://time.com/3528555/led-zeppelin-loses-first-round-in-stairway-to-heaven-lawsuit/
+	the current length of the visited set is : 66
+crawled http://time.com/3528555/led-zeppelin-loses-first-round-in-stairway-to-heaven-lawsuit/ it wasn't  news 
+vistinghttp://time.com/
+	the current length of the visited set is : 66
+crawled http://time.com/ it wasn't  news 
+vistinghttp://time.com/3881916/iraq-ramadi-isis/
+	the current length of the visited set is : 66
+crawled http://time.com/3881916/iraq-ramadi-isis/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/the-backstory/
+	the current length of the visited set is : 66
+vistinghttp://www.bbc.com/news/world-asia-india-32776897
+	the current length of the visited set is : 66
+vistinghttp://www.usatoday.com/story/news/world/2015/05/18/indian-coma-nurse-dies/27518771/
+	the current length of the visited set is : 66
+vistinghttp://www.theguardian.com/world/2015/may/18/raped-indian-nurse-dies-after-42-years-in-coma
+	the current length of the visited set is : 66
+vistinghttps://www.dailystar.com.lb/News/Middle-East/2015/May-18/298361-shiite-militias-converge-on-iraqs-ramadi-after-isis-takeover.ashx
+	the current length of the visited set is : 66
+vistinghttp://www.huffingtonpost.com/news/eat-the-press/
+	the current length of the visited set is : 66
+vistinghttp://www.ynetnews.com/articles/0,7340,L-4658802,00.html
+	the current length of the visited set is : 67
+crawled http://www.ynetnews.com/articles/0,7340,L-4658802,00.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/19/charlie-hebdo-cartoonist-resigns_n_7310892.html
+	the current length of the visited set is : 67
+vistinghttp://www.jpost.com/Israel/Silvan-Shalom-Palestinians-using-freeze-as-excuse
+	the current length of the visited set is : 68
+vistinghttp://www.israelnationalnews.com/News/Flash.aspx/326538
+	the current length of the visited set is : 68
+crawled http://www.israelnationalnews.com/News/Flash.aspx/326538 it wasn't  news 
+vistinghttp://www.haaretz.com/news/diplomacy-defense/.premium-1.657074
+	the current length of the visited set is : 68
+vistinghttps://twitter.com/HuffPostMedia
+	the current length of the visited set is : 68
+crawled https://twitter.com/HuffPostMedia it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/whats-working-cell-phone-ban-teens-school_n_7305538.html
+	the current length of the visited set is : 68
+vistinghttps://www.dailystar.com.lb/Default.aspx
+	the current length of the visited set is : 68
+vistinghttp://www.bbc.com/
+	the current length of the visited set is : 68
+crawled http://www.bbc.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/19/secondhand-trauma-journalists_n_7305992.html
+	the current length of the visited set is : 68
+vistinghttp://www.ynetnews.com/home/0,7340,L-3083,00.html
+	the current length of the visited set is : 68
+crawled http://www.ynetnews.com/home/0,7340,L-3083,00.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/mental-health-journalism-trauma_n_7305460.html
+	the current length of the visited set is : 68
+vistinghttp://crowdignite.totallyher.com/v/29255/678023029/0/1/54824409
+	the current length of the visited set is : 68
+crawled http://crowdignite.totallyher.com/v/29255/678023029/0/1/54824409 it wasn't  news 
+vistinghttp://crowdignite.totallyher.com/v/29255/690712797/0/1/59392739
+	the current length of the visited set is : 68
+crawled http://crowdignite.totallyher.com/v/29255/690712797/0/1/59392739 it wasn't  news 
+vistinghttps://twitter.com/HuffPostMedia/status/600481114201976832/photo/1
+	the current length of the visited set is : 68
+vistinghttp://www.huffingtonpost.com/2015/05/18/serial-asia-mcclain_n_7307756.html
+	the current length of the visited set is : 68
+vistinghttp://www.inn.co.il/
+	the current length of the visited set is : 68
+vistinghttp://crowdignite.totallyher.com/v/29255/761441559/0/1/62007683
+	the current length of the visited set is : 68
+crawled http://crowdignite.totallyher.com/v/29255/761441559/0/1/62007683 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/san-francisco/
+	the current length of the visited set is : 68
+crawled http://www.huffingtonpost.com/san-francisco/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/new-york/
+	the current length of the visited set is : 68
+vistinghttp://www.israelvideonetwork.com/
+	the current length of the visited set is : 68
+crawled http://www.israelvideonetwork.com/ it wasn't  news 
+vistinghttp://crowdignite.totallyher.com/
+	the current length of the visited set is : 68
+crawled http://crowdignite.totallyher.com/ it wasn't  news 
+vistinghttp://www.ynetnews.com/home/0,7340,L-3131,00.html
+	the current length of the visited set is : 68
+crawled http://www.ynetnews.com/home/0,7340,L-3131,00.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/science/
+	the current length of the visited set is : 68
+crawled http://www.huffingtonpost.com/science/ it wasn't  news 
+vistinghttps://www.dailystar.com.lb/Entity/Political%20group/133181/ISIS.ashx
+	the current length of the visited set is : 69
+vistinghttp://www.livekotel.com/a_freecam_1.cfm
+	the current length of the visited set is : 69
+crawled http://www.livekotel.com/a_freecam_1.cfm it wasn't  news 
+vistinghttp://www.ynetnews.com/articles/0,7340,L-4658187,00.html
+	the current length of the visited set is : 69
+crawled http://www.ynetnews.com/articles/0,7340,L-4658187,00.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/social-media/
+	the current length of the visited set is : 69
+crawled http://www.huffingtonpost.com/news/social-media/ it wasn't  news 
+vistinghttp://www.ynetnews.com/articles/0,7340,L-4658761,00.html
+	the current length of the visited set is : 69
+crawled http://www.ynetnews.com/articles/0,7340,L-4658761,00.html it wasn't  news 
+vistinghttps://twitter.com/HuffPostNY
+	the current length of the visited set is : 69
+crawled https://twitter.com/HuffPostNY it wasn't  news 
+vistinghttp://www.huffingtonpost.com/tedweekends/
+	the current length of the visited set is : 69
+crawled http://www.huffingtonpost.com/tedweekends/ it wasn't  news 
+vistinghttp://crowdignite.totallyher.com/v/29255/761441559/8584/2
+	the current length of the visited set is : 69
+crawled http://crowdignite.totallyher.com/v/29255/761441559/8584/2 it wasn't  news 
+vistinghttp://www.bbc.co.uk/indonesia
+	the current length of the visited set is : 69
+crawled http://www.bbc.co.uk/indonesia it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/nissan-self-driving-cars_n_7305394.html
+	the current length of the visited set is : 69
+vistinghttp://www.realitytea.com/2015/05/03/porsha-williams-claudia-jordans-lies-peter-thomas-hostility-rhoa-reunion/
+	the current length of the visited set is : 69
+vistinghttp://www.shefinds.com/2015/14-reality-stars-you-didnt-know-were-really-really-rich/
+	the current length of the visited set is : 69
+crawled http://www.shefinds.com/2015/14-reality-stars-you-didnt-know-were-really-really-rich/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/19/click-wheel-keyboard-ios_n_7308176.html
+	the current length of the visited set is : 69
+crawled http://www.huffingtonpost.com/2015/05/19/click-wheel-keyboard-ios_n_7308176.html it wasn't  news 
+vistinghttp://crowdignite.totallyher.com/v/29255/690712797/8584/2
+	the current length of the visited set is : 69
+crawled http://crowdignite.totallyher.com/v/29255/690712797/8584/2 it wasn't  news 
+vistinghttp://www.bbc.co.uk/hindi
+	the current length of the visited set is : 69
+vistinghttps://twitter.com/HuffPostSF
+	the current length of the visited set is : 69
+crawled https://twitter.com/HuffPostSF it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/amazon-choice_n_7306158.html
+	the current length of the visited set is : 69
+vistinghttp://www.shefinds.com/
+	the current length of the visited set is : 69
+crawled http://www.shefinds.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/new-emoji_n_7306370.html
+	the current length of the visited set is : 69
+vistinghttp://www.huffingtonpost.com/2015/05/18/great-suspender-chrome_n_7307432.html
+	the current length of the visited set is : 69
+crawled http://www.huffingtonpost.com/2015/05/18/great-suspender-chrome_n_7307432.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/style/
+	the current length of the visited set is : 69
+crawled http://www.huffingtonpost.com/style/ it wasn't  news 
+vistinghttp://time.com/3860431/amazon-voice-buying/
+	the current length of the visited set is : 69
+crawled http://time.com/3860431/amazon-voice-buying/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/books/
+	the current length of the visited set is : 69
+crawled http://www.huffingtonpost.com/books/ it wasn't  news 
+vistinghttp://www.shefinds.com/collections/the-best-hangers-for-all-the-clothing-in-your-closet/
+	the current length of the visited set is : 69
+crawled http://www.shefinds.com/collections/the-best-hangers-for-all-the-clothing-in-your-closet/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/comedy/
+	the current length of the visited set is : 69
+crawled http://www.huffingtonpost.com/comedy/ it wasn't  news 
+vistinghttp://lifehacker.com/the-great-suspender-frees-up-memory-by-suspending-brows-1702778962
+	the current length of the visited set is : 69
+vistinghttp://www.huffingtonpost.com/tv/
+	the current length of the visited set is : 69
+crawled http://www.huffingtonpost.com/tv/ it wasn't  news 
+vistinghttps://twitter.com/VLuck
+	the current length of the visited set is : 70
+crawled https://twitter.com/VLuck it wasn't  news 
+vistinghttp://time.com/3766581/amazon-dash-button-ordering-april-fool/
+	the current length of the visited set is : 70
+crawled http://time.com/3766581/amazon-dash-button-ordering-april-fool/ it wasn't  news 
+vistinghttp://www.itworld.com/article/2921669/personal-technology/my-favorite-new-chrome-extension-lets-me-keep-47-tabs-open.html
+	the current length of the visited set is : 70
+vistinghttp://www.huffingtonpost.com/celebrity/
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/celebrity/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/contact/
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/contact/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/p/huffington-post.html
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/p/huffington-post.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/newsletter/daily
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/newsletter/daily it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/richard-martin-houston-police_n_7308138.html
+	the current length of the visited set is : 70
+vistinghttp://www.huffingtonpost.com/2015/05/18/jason-falbo-ducklings-lawn-mower-kill-laugh_n_7306232.html
+	the current length of the visited set is : 70
+vistinghttp://huffingtonpostreprints.magreprints.com/
+	the current length of the visited set is : 70
+crawled http://huffingtonpostreprints.magreprints.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/victorino-chua-convicted-murder-insulin_n_7306488.html
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/2015/05/18/victorino-chua-convicted-murder-insulin_n_7306488.html it wasn't  news 
+vistinghttp://www.khou.com/story/news/crime/2015/05/18/2-suspects-in-custody-after-chase-carjacking/27519649/
+	the current length of the visited set is : 70
+crawled http://www.khou.com/story/news/crime/2015/05/18/2-suspects-in-custody-after-chase-carjacking/27519649/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/amber-arellano/heres-how-michigan-can-be-a-top-10-education-state_b_7309540.html
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/amber-arellano/heres-how-michigan-can-be-a-top-10-education-state_b_7309540.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/amber-arellano/
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/amber-arellano/ it wasn't  news 
+vistinghttp://www.itworld.com/article/2917436/development/the-gourmet-ios-developers-cookbook.html
+	the current length of the visited set is : 70
+crawled http://www.itworld.com/article/2917436/development/the-gourmet-ios-developers-cookbook.html it wasn't  news 
+vistinghttp://abc13.com/news/officer-killed-during-high-speed-police-chase/728332/
+	the current length of the visited set is : 70
+crawled http://abc13.com/news/officer-killed-during-high-speed-police-chase/728332/ it wasn't  news 
+vistinghttp://www.khou.com/
+	the current length of the visited set is : 70
+crawled http://www.khou.com/ it wasn't  news 
+vistinghttp://www.bbc.com/news/uk-england-32782153
+	the current length of the visited set is : 70
+vistinghttp://www.huffingtonpost.com/frank-breslin/
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/frank-breslin/ it wasn't  news 
+vistinghttp://www.khou.com/story/news/local/neighborhood/2015/05/16/firefighters-save-sw-houston-church-from-blaze/27435785/
+	the current length of the visited set is : 70
+crawled http://www.khou.com/story/news/local/neighborhood/2015/05/16/firefighters-save-sw-houston-church-from-blaze/27435785/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/frank-breslin/the-end-of-reading-in-ame_b_7290146.html
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/frank-breslin/the-end-of-reading-in-ame_b_7290146.html it wasn't  news 
+vistinghttp://abc13.com/
+	the current length of the visited set is : 70
+crawled http://abc13.com/ it wasn't  news 
+vistinghttp://www.khou.com/story/news/local/texas/2015/05/16/deputies-four-dead-in-plane-crash-near-san-antonio/27450843/
+	the current length of the visited set is : 70
+crawled http://www.khou.com/story/news/local/texas/2015/05/16/deputies-four-dead-in-plane-crash-near-san-antonio/27450843/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/12/02/end-procrastination-video_n_6249460.html
+	the current length of the visited set is : 70
+vistinghttp://www.khou.com/story/news/local/texas/2015/05/16/silver-alert-issued-for-man-last-seen-in-san-antonio/27456013/
+	the current length of the visited set is : 70
+crawled http://www.khou.com/story/news/local/texas/2015/05/16/silver-alert-issued-for-man-last-seen-in-san-antonio/27456013/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/12/08/mitigate-holiday-stress_n_6278138.html
+	the current length of the visited set is : 70
+vistinghttp://www.cbs.com/
+	the current length of the visited set is : 70
+crawled http://www.cbs.com/ it wasn't  news 
+vistinghttp://www.cars.com/
+	the current length of the visited set is : 70
+crawled http://www.cars.com/ it wasn't  news 
+vistinghttp://abc13.com/about/
+	the current length of the visited set is : 70
+crawled http://abc13.com/about/ it wasn't  news 
+vistinghttp://www.khou.com/media/cinematic/gallery/27525123/photos-hpd-officer-killed-in-high-speed-chase/
+	the current length of the visited set is : 70
+crawled http://www.khou.com/media/cinematic/gallery/27525123/photos-hpd-officer-killed-in-high-speed-chase/ it wasn't  news 
+vistinghttp://static.khou.com/about/justice-network/
+	the current length of the visited set is : 70
+crawled http://static.khou.com/about/justice-network/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/04/15/cool-irs-tweets_n_7073708.html
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/2015/04/15/cool-irs-tweets_n_7073708.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/12/10/how-to-get-over-divorce_n_6291382.html
+	the current length of the visited set is : 70
+vistinghttp://www.huffingtonpost.com/2015/04/17/hillary-clinton-chipotle-strategy_n_7088198.html
+	the current length of the visited set is : 70
+vistinghttp://abc13.com/entertainment/the-houston-symphony/234322/
+	the current length of the visited set is : 70
+crawled http://abc13.com/entertainment/the-houston-symphony/234322/ it wasn't  news 
+vistinghttp://abc13.com/pets/houston-pets/25857/
+	the current length of the visited set is : 70
+crawled http://abc13.com/pets/houston-pets/25857/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2008/03/25/star-trek-casts-scottie-2_n_93342.html
+	the current length of the visited set is : 70
+vistinghttp://abc13.com/tag/do-it-yourself/
+	the current length of the visited set is : 70
+crawled http://abc13.com/tag/do-it-yourself/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2009/10/19/peter-serafinowicz-screws_n_326443.html
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/2009/10/19/peter-serafinowicz-screws_n_326443.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/news.xml
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/feeds/news.xml it wasn't  news 
+vistinghttps://www.cbs.com/user/signup/
+	the current length of the visited set is : 70
+crawled https://www.cbs.com/user/signup/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/john-oliver-chicken-farmers/
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/news/john-oliver-chicken-farmers/ it wasn't  news 
+vistinghttp://abc13.com/entertainment/two-bachelorettes-two-nights-only-one-will-be-left-standing/729820/
+	the current length of the visited set is : 70
+crawled http://abc13.com/entertainment/two-bachelorettes-two-nights-only-one-will-be-left-standing/729820/ it wasn't  news 
+vistinghttps://twitter.com/HuffPostEnt
+	the current length of the visited set is : 70
+crawled https://twitter.com/HuffPostEnt it wasn't  news 
+vistinghttp://abc13.com/hobbies/diy-valentines-day-decor/501990/
+	the current length of the visited set is : 70
+crawled http://abc13.com/hobbies/diy-valentines-day-decor/501990/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/01/21/hydeia-broadbent-oprah-guest-aids_n_4620122.html
+	the current length of the visited set is : 70
+vistinghttp://abc13.com/pets/dog-does-household-chores-better-than-most-humans/726237/
+	the current length of the visited set is : 70
+crawled http://abc13.com/pets/dog-does-household-chores-better-than-most-humans/726237/ it wasn't  news 
+vistinghttp://abc13.com/hobbies/organizing-after-the-holidays/469751/
+	the current length of the visited set is : 70
+crawled http://abc13.com/hobbies/organizing-after-the-holidays/469751/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/michael-mulligan/teenagers-and-pot_b_5433712.html
+	the current length of the visited set is : 70
+crawled http://www.huffingtonpost.com/michael-mulligan/teenagers-and-pot_b_5433712.html it wasn't  news 
+vistinghttp://abc13.com/food/diy-chocolate-swirled-heart-cookies/512565/
+	the current length of the visited set is : 70
+crawled http://abc13.com/food/diy-chocolate-swirled-heart-cookies/512565/ it wasn't  news 
+vistinghttp://www.couponbug.com/couponweb/Offers.aspx?alt=yes&pid=11227&nid=15&zid=uy27
+	the current length of the visited set is : 70
+crawled http://www.couponbug.com/couponweb/Offers.aspx?alt=yes&pid=11227&nid=15&zid=uy27 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/15/1-million-is-no-longer-en_n_7291448.html
+	the current length of the visited set is : 70
+vistinghttp://abc13.com/hobbies/photos-war-vet-amputee-turned-yoga-instructor/688782/
+	the current length of the visited set is : 70
+crawled http://abc13.com/hobbies/photos-war-vet-amputee-turned-yoga-instructor/688782/ it wasn't  news 
+vistinghttps://cbsi.secure.force.com/CBSi/articles/FAQ/mManaging-Cookies?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default
+	the current length of the visited set is : 71
+crawled https://cbsi.secure.force.com/CBSi/articles/FAQ/mManaging-Cookies?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default it wasn't  news 
+vistinghttps://cbsi.secure.force.com/CBSi/articles/FAQ/CBS-Interactive-Mobile-App-End-User-License-Agreement?template=template_eula&referer=eula.com
+	the current length of the visited set is : 71
+crawled https://cbsi.secure.force.com/CBSi/articles/FAQ/CBS-Interactive-Mobile-App-End-User-License-Agreement?template=template_eula&referer=eula.com it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/what-to-do-with-a-retired_n_7305500.html
+	the current length of the visited set is : 71
+vistinghttp://abc13.com/hobbies/aggies-put-new-twist-on-idea-of-school-band/698599/
+	the current length of the visited set is : 71
+crawled http://abc13.com/hobbies/aggies-put-new-twist-on-idea-of-school-band/698599/ it wasn't  news 
+vistinghttps://cbsi.secure.force.com/CBSi/knowledgehome?referer=tougl.com
+	the current length of the visited set is : 71
+crawled https://cbsi.secure.force.com/CBSi/knowledgehome?referer=tougl.com it wasn't  news 
+vistinghttp://abc13.com/food/cadillac-culinary-masters-may/690641/
+	the current length of the visited set is : 71
+crawled http://abc13.com/food/cadillac-culinary-masters-may/690641/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/andrew-pulsipher-man-hiv-positive-family-negative_n_7306782.html
+	the current length of the visited set is : 71
+vistinghttp://www.huffingtonpost.com/sara-gottfried-md/
+	the current length of the visited set is : 71
+crawled http://www.huffingtonpost.com/sara-gottfried-md/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/healthy-living/index.xml
+	the current length of the visited set is : 71
+crawled http://www.huffingtonpost.com/feeds/verticals/healthy-living/index.xml it wasn't  news 
+vistinghttp://abc13.com/food/houston-restaurant-food-truck-reports/30618/
+	the current length of the visited set is : 71
+crawled http://abc13.com/food/houston-restaurant-food-truck-reports/30618/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/healthy-living/blog.xml
+	the current length of the visited set is : 71
+crawled http://www.huffingtonpost.com/feeds/verticals/healthy-living/blog.xml it wasn't  news 
+vistinghttp://abc13.com/holiday/
+	the current length of the visited set is : 71
+crawled http://abc13.com/holiday/ it wasn't  news 
+vistinghttps://batchgeo.com/map/34b2db15c05cb7a663a9151337c11898
+	the current length of the visited set is : 71
+crawled https://batchgeo.com/map/34b2db15c05cb7a663a9151337c11898 it wasn't  news 
+vistinghttp://abc13.com/tag/cadillacculinarymasters/
+	the current length of the visited set is : 71
+crawled http://abc13.com/tag/cadillacculinarymasters/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/nancy-brown/
+	the current length of the visited set is : 71
+vistinghttps://www.zocdoc.com/
+	the current length of the visited set is : 71
+crawled https://www.zocdoc.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/nancy-brown/imagine-a-surgeon-practic_b_7292556.html
+	the current length of the visited set is : 71
+vistinghttp://www.huffingtonpost.com/melissa-miles-mccarter/
+	the current length of the visited set is : 71
+crawled http://www.huffingtonpost.com/melissa-miles-mccarter/ it wasn't  news 
+vistinghttp://abc13.com/food/cadillac-culinary-masters-november/411328/
+	the current length of the visited set is : 71
+crawled http://abc13.com/food/cadillac-culinary-masters-november/411328/ it wasn't  news 
+vistinghttps://www.zocdoc.com/privacypolicy/updated
+	the current length of the visited set is : 71
+vistinghttp://abc13.com/374002/
+	the current length of the visited set is : 71
+crawled http://abc13.com/374002/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/drug-war/
+	the current length of the visited set is : 71
+crawled http://www.huffingtonpost.com/news/drug-war/ it wasn't  news 
+vistinghttp://abc13.com/tag/restaurant/
+	the current length of the visited set is : 71
+crawled http://abc13.com/tag/restaurant/ it wasn't  news 
+vistinghttps://www.zocdoc.com/terms
+	the current length of the visited set is : 71
+vistinghttps://www.zocdoc.com/privacypolicy
+	the current length of the visited set is : 71
+vistinghttp://abc13.com/hobbies/decoding-flowers-for-valentines-day/513250/
+	the current length of the visited set is : 71
+crawled http://abc13.com/hobbies/decoding-flowers-for-valentines-day/513250/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/politics/index.xml
+	the current length of the visited set is : 71
+crawled http://www.huffingtonpost.com/feeds/verticals/politics/index.xml it wasn't  news 
+vistinghttp://wearemadeinny.com/
+	the current length of the visited set is : 71
+crawled http://wearemadeinny.com/ it wasn't  news 
+vistinghttp://abc13.com/society/laissez-les-bon-temps-rouler/516782/
+	the current length of the visited set is : 71
+crawled http://abc13.com/society/laissez-les-bon-temps-rouler/516782/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/ruth-bader-ginsburg-gay-wedding_n_7306584.html
+	the current length of the visited set is : 71
+vistinghttp://abc13.com/society/st-patricks-day-2015-by-the-numbers/555362/
+	the current length of the visited set is : 71
+crawled http://abc13.com/society/st-patricks-day-2015-by-the-numbers/555362/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/17/isis-ramadi-iraq_n_7300746.html
+	the current length of the visited set is : 71
+vistinghttp://abc13.com/pets/photos-celebrate-national-puppy-day-with-these-precious-pups/567369/
+	the current length of the visited set is : 71
+crawled http://abc13.com/pets/photos-celebrate-national-puppy-day-with-these-precious-pups/567369/ it wasn't  news 
+vistinghttp://abcnews.go.com/2020/fullpage/bruce-jenner-the-interview-30471558
+	the current length of the visited set is : 71
+vistinghttp://www.huffingtonpost.com/news/woman-42-years-in-coma/
+	the current length of the visited set is : 71
+crawled http://www.huffingtonpost.com/news/woman-42-years-in-coma/ it wasn't  news 
+vistinghttp://abc13.com/religion/waving-fronds-around-the-world-christians-mark-palm-sunday/584332/
+	the current length of the visited set is : 71
+crawled http://abc13.com/religion/waving-fronds-around-the-world-christians-mark-palm-sunday/584332/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/saeb-erekat/
+	the current length of the visited set is : 71
+crawled http://www.huffingtonpost.com/news/saeb-erekat/ it wasn't  news 
+vistinghttp://abc13.com/food/where-to-get-best-deal-on-easter-candy/593386/
+	the current length of the visited set is : 71
+crawled http://abc13.com/food/where-to-get-best-deal-on-easter-candy/593386/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/19/bomb-kabul_n_7312662.html
+	the current length of the visited set is : 71
+vistinghttp://abc13.com/hobbies/easter-artists-transform-marshmallow-peeps-into-works-of-art/620609/
+	the current length of the visited set is : 71
+crawled http://abc13.com/hobbies/easter-artists-transform-marshmallow-peeps-into-works-of-art/620609/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/19/burundi-police-beat-protesters_n_7312452.html
+	the current length of the visited set is : 71
+vistinghttp://www.politico.com/story/2015/04/supreme-court-gay-marriage-arguments-awkward-moments-117444.html
+	the current length of the visited set is : 71
+crawled http://www.politico.com/story/2015/04/supreme-court-gay-marriage-arguments-awkward-moments-117444.html it wasn't  news 
+vistinghttp://abc13.com/food/cadillac-culinary-masters/54779/
+	the current length of the visited set is : 71
+crawled http://abc13.com/food/cadillac-culinary-masters/54779/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/china/
+	the current length of the visited set is : 71
+crawled http://www.huffingtonpost.com/news/china/ it wasn't  news 
+vistinghttp://www.reuters.com/article/2015/05/15/us-mideast-crisis-iraq-ramadi-idUSKBN0O013X20150515
+	the current length of the visited set is : 73
+vistinghttp://abc13.com/family/man-proposes-to-his-ex-wife-inside-walmart-43-years-after-divorce/520324/
+	the current length of the visited set is : 73
+crawled http://abc13.com/family/man-proposes-to-his-ex-wife-inside-walmart-43-years-after-divorce/520324/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/clarence-b-jones/
+	the current length of the visited set is : 73
+vistinghttp://www.theguardian.com/world/video/2015/may/17/aftermath-of-kabul-car-bomb-that-left-at-least-three-dead-video
+	the current length of the visited set is : 73
+vistinghttp://abc13.com/family/husband-arranged-to-have-flowers-sent-to-his-widow/520606/
+	the current length of the visited set is : 73
+crawled http://abc13.com/family/husband-arranged-to-have-flowers-sent-to-his-widow/520606/ it wasn't  news 
+vistinghttp://www.usatoday.com/story/news/world/2015/05/17/syuicide-bomber-kabul-airport/27480581/
+	the current length of the visited set is : 73
+vistinghttp://abc13.com/society/harriet-tubman-wins-contest-to-be-on-the-$20-bill/723168/
+	the current length of the visited set is : 74
+crawled http://abc13.com/society/harriet-tubman-wins-contest-to-be-on-the-$20-bill/723168/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/clarence-b-jones/the-moral-challenge-of-our-time_b_7260340.html
+	the current length of the visited set is : 74
+crawled http://www.huffingtonpost.com/clarence-b-jones/the-moral-challenge-of-our-time_b_7260340.html it wasn't  news 
+vistinghttp://abc13.com/entertainment/photos-mardi-gras-on-galveston-island/517544/
+	the current length of the visited set is : 74
+crawled http://abc13.com/entertainment/photos-mardi-gras-on-galveston-island/517544/ it wasn't  news 
+vistinghttp://www.dw.de/pakistan-afghanistan-intelligence-agencies-to-cooperate-on-fighting-taliban/a-18457817
+	the current length of the visited set is : 74
+crawled http://www.dw.de/pakistan-afghanistan-intelligence-agencies-to-cooperate-on-fighting-taliban/a-18457817 it wasn't  news 
+vistinghttp://abc13.com/society/photos-mardi-gras-and-carnival-celebrations-around-the-world/522272/
+	the current length of the visited set is : 74
+crawled http://abc13.com/society/photos-mardi-gras-and-carnival-celebrations-around-the-world/522272/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/bill-schneider/
+	the current length of the visited set is : 74
+vistinghttp://www.huffingtonpost.com/alicia/
+	the current length of the visited set is : 74
+crawled http://www.huffingtonpost.com/alicia/ it wasn't  news 
+vistinghttp://abc13.com/tag/black-history/
+	the current length of the visited set is : 74
+crawled http://abc13.com/tag/black-history/ it wasn't  news 
+vistinghttp://www.telegraph.co.uk/news/worldnews/africaandindianocean/burundi/11598890/Female-police-officer-stoned-and-dragged-through-the-streets-of-Burundian-capital.html
+	the current length of the visited set is : 74
+crawled http://www.telegraph.co.uk/news/worldnews/africaandindianocean/burundi/11598890/Female-police-officer-stoned-and-dragged-through-the-streets-of-Burundian-capital.html it wasn't  news 
+vistinghttp://news.yahoo.com/burundi-crisis-pits-brother-against-brother-103123181.html
+	the current length of the visited set is : 74
+crawled http://news.yahoo.com/burundi-crisis-pits-brother-against-brother-103123181.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/alicia/3-ways-to-have-more-posit_b_7302944.html
+	the current length of the visited set is : 74
+crawled http://www.huffingtonpost.com/alicia/3-ways-to-have-more-posit_b_7302944.html it wasn't  news 
+vistinghttp://abc13.com/tag/trending/
+	the current length of the visited set is : 74
+crawled http://abc13.com/tag/trending/ it wasn't  news 
+vistinghttps://news.vice.com/article/video-shows-protesters-beat-up-female-police-officer-in-burundi-as-election-demonstrations-continue
+	the current length of the visited set is : 74
+crawled https://news.vice.com/article/video-shows-protesters-beat-up-female-police-officer-in-burundi-as-election-demonstrations-continue it wasn't  news 
+vistinghttp://www.huffingtonpost.com/david-finkle/
+	the current length of the visited set is : 74
+vistinghttp://www.huffingtonpost.com/steven-cohen/
+	the current length of the visited set is : 74
+vistinghttp://www.dw.de/program/quadriga/s-7296-9798
+	the current length of the visited set is : 74
+vistinghttp://www.dw.de/suspects-arrested-after-london-hatton-garden-gem-heist/a-18462025
+	the current length of the visited set is : 74
+crawled http://www.dw.de/suspects-arrested-after-london-hatton-garden-gem-heist/a-18462025 it wasn't  news 
+vistinghttps://news.vice.com/shows
+	the current length of the visited set is : 74
+crawled https://news.vice.com/shows it wasn't  news 
+vistinghttp://www.amazon.com/Behind-Dream-Making-Speech-Transformed/dp/0230103685
+	the current length of the visited set is : 74
+crawled http://www.amazon.com/Behind-Dream-Making-Speech-Transformed/dp/0230103685 it wasn't  news 
+vistinghttp://www.dw.de/all-bodies-from-germanwings-plane-crash-identified/a-18462204
+	the current length of the visited set is : 74
+crawled http://www.dw.de/all-bodies-from-germanwings-plane-crash-identified/a-18462204 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/steven-cohen/federal-dysfunction-conti_b_7203700.html
+	the current length of the visited set is : 74
+crawled http://www.huffingtonpost.com/steven-cohen/federal-dysfunction-conti_b_7203700.html it wasn't  news 
+vistinghttp://www.amazon.com/What-Would-Martin-Clarence-Jones/dp/0061253200
+	the current length of the visited set is : 75
+crawled http://www.amazon.com/What-Would-Martin-Clarence-Jones/dp/0061253200 it wasn't  news 
+vistinghttps://news.vice.com/article/11th-hour-deal-with-far-right-party-brings-netanyahu-back-for-fourth-term-as-israels-pm
+	the current length of the visited set is : 75
+vistinghttps://news.vice.com/article/10-year-old-girl-raped-by-stepfather-is-refused-an-abortion-in-paraguay
+	the current length of the visited set is : 75
+crawled https://news.vice.com/article/10-year-old-girl-raped-by-stepfather-is-refused-an-abortion-in-paraguay it wasn't  news 
+vistinghttps://news.vice.com/article/4000-migrants-rescued-in-two-days-in-the-mediterranean
+	the current length of the visited set is : 75
+crawled https://news.vice.com/article/4000-migrants-rescued-in-two-days-in-the-mediterranean it wasn't  news 
+vistinghttp://www.huffingtonpost.com/tedtalks/faith-jegede-ted-autism_b_5772816.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/tedtalks/faith-jegede-ted-autism_b_5772816.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/christie-taylor/how-my-sons-differences-a_b_5774928.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/christie-taylor/how-my-sons-differences-a_b_5774928.html it wasn't  news 
+vistinghttps://www.yahoo.com/
+	the current length of the visited set is : 75
+vistinghttps://news.vice.com/topic/women39s-health
+	the current length of the visited set is : 75
+crawled https://news.vice.com/topic/women39s-health it wasn't  news 
+vistinghttp://www.huffingtonpost.com/sue-scheff/bullying-and-bigotry-bein_b_5812886.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/sue-scheff/bullying-and-bigotry-bein_b_5812886.html it wasn't  news 
+vistinghttps://news.vice.com/topic/bibi
+	the current length of the visited set is : 75
+crawled https://news.vice.com/topic/bibi it wasn't  news 
+vistinghttps://policies.yahoo.com/us/en/yahoo/terms/utos/index.htm
+	the current length of the visited set is : 75
+crawled https://policies.yahoo.com/us/en/yahoo/terms/utos/index.htm it wasn't  news 
+vistinghttps://news.vice.com/topic/north-africa
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/feeds/verticals/technology/index.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/technology/index.xml it wasn't  news 
+vistinghttps://news.vice.com/topic/civil-war
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/ipod-classic/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/ipod-classic/ it wasn't  news 
+vistinghttps://mlogin.yahoo.com/w/login/
+	the current length of the visited set is : 75
+crawled https://mlogin.yahoo.com/w/login/ it wasn't  news 
+vistinghttps://news.vice.com/topic/un
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/best-google-chrome-extensions/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/best-google-chrome-extensions/ it wasn't  news 
+vistinghttp://penniesoftime.com/
+	the current length of the visited set is : 75
+crawled http://penniesoftime.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/18/best-bronzer-makeup_n_7291714.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2015/05/18/best-bronzer-makeup_n_7291714.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/brandi-megan-mantha/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/brandi-megan-mantha/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/brandi-megan-mantha/fat-girl-walking-a-conver_b_7302830.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/brandi-megan-mantha/fat-girl-walking-a-conver_b_7302830.html it wasn't  news 
+vistinghttp://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx
+	the current length of the visited set is : 75
+crawled http://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx it wasn't  news 
+vistinghttp://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern
+	the current length of the visited set is : 75
+crawled http://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern it wasn't  news 
+vistinghttp://www.huffingtonpost.com/ben-evans/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/ben-evans/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/19/rebel-wilson-name-age_n_7320604.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/heather-kasdan/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/heather-kasdan/ it wasn't  news 
+vistinghttp://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear
+	the current length of the visited set is : 75
+crawled http://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear it wasn't  news 
+vistinghttp://www.huffingtonpost.com/heather-kasdan/humanity-in-7-pieces_b_7286928.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/heather-kasdan/humanity-in-7-pieces_b_7286928.html it wasn't  news 
+vistinghttp://www.bis.doc.gov/
+	the current length of the visited set is : 75
+crawled http://www.bis.doc.gov/ it wasn't  news 
+vistinghttps://help.yahoo.com/mkb/index.php?locale=en_US
+	the current length of the visited set is : 75
+crawled https://help.yahoo.com/mkb/index.php?locale=en_US it wasn't  news 
+vistinghttps://m.yahoo.com/w/legobpengine/frontpage/?.intl=US&.lang=en
+	the current length of the visited set is : 75
+crawled https://m.yahoo.com/w/legobpengine/frontpage/?.intl=US&.lang=en it wasn't  news 
+vistinghttps://batchgeo.com/map/kml/34b2db15c05cb7a663a9151337c11898
+	the current length of the visited set is : 75
+vistinghttp://www.eonline.com/news/658095/rebel-wilson-responds-to-rumors-that-she-s-lying-about-her-name-and-age
+	the current length of the visited set is : 75
+crawled http://www.eonline.com/news/658095/rebel-wilson-responds-to-rumors-that-she-s-lying-about-her-name-and-age it wasn't  news 
+vistinghttp://www.dailymail.co.uk/tvshowbiz/article-3085888/No-one-knew-Rebel-Wilson-Beloved-actress-former-classmate-opens-teenage-years-including-Pitch-Perfect-starlet-s-REAL-name.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/richard-martin-houston-police/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/richard-martin-houston-police/ it wasn't  news 
+vistinghttp://www.bis.doc.gov/index.php/forms-documents/doc_download/709-guidelines-for-foreign-national-license-applications
+	the current length of the visited set is : 75
+vistinghttps://m.yahoo.com/w/legobpengine/frontpage/international/
+	the current length of the visited set is : 75
+crawled https://m.yahoo.com/w/legobpengine/frontpage/international/ it wasn't  news 
+vistinghttp://www.sbs.com.au/comedy/article/2015/05/19/rebel-wilson-actually-immortal-lying-about-having-age
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/huffpost-backstage/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/huffpost-backstage/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/17/sam-smith-billboard-music-awards-speech_n_7302986.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/feeds/verticals/education/blog.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/education/blog.xml it wasn't  news 
+vistinghttp://www.heatherwebbauthor.com/sample-page-2/rodins-lover/
+	the current length of the visited set is : 75
+vistinghttp://www.heatherwebbauthor.com/sample-page-2/book-list/
+	the current length of the visited set is : 75
+crawled http://www.heatherwebbauthor.com/sample-page-2/book-list/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/michigan-student-achievement/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/michigan-student-achievement/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/frank-breslin/a-schools-moral-vision_b_5731696.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/frank-breslin/a-schools-moral-vision_b_5731696.html it wasn't  news 
+vistinghttp://www.dailymail.co.uk/news/article-3086757/Bristol-Palin-s-wedding-CALLED-Sarah-Palin-announces-cancelled-nuptials-Facebook-post-days-ex-Marine-groom-s-secret-ex-wife-revealed.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/frank-breslin/dickens-and-standardized-testing_b_5760932.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/frank-breslin/dickens-and-standardized-testing_b_5760932.html it wasn't  news 
+vistinghttps://mlogin.yahoo.com/w/login/user?_done=https%3A%2F%2Fm.yahoo.com%2Fw%2Fygo-mail%2Fhome.bp%3F.intl%3DUS%26.lang%3Den&.src=ym&.intl=US&.lang=en&_httpHost=m.yahoo.com
+	the current length of the visited set is : 75
+crawled https://mlogin.yahoo.com/w/login/user?_done=https%3A%2F%2Fm.yahoo.com%2Fw%2Fygo-mail%2Fhome.bp%3F.intl%3DUS%26.lang%3Den&.src=ym&.intl=US&.lang=en&_httpHost=m.yahoo.com it wasn't  news 
+vistinghttp://www.dailymail.co.uk/news/article-3086337/Former-Denver-Broncos-star-Adrian-Robinson-Jr-25-passes-away-leaving-infant-daughter.html
+	the current length of the visited set is : 75
+vistinghttp://www.dailymail.co.uk/news/article-3085486/ISIS-claim-taken-control-Iraqi-city-Ramadi-security-forces-flee-following-series-suicide-car-bombings.html
+	the current length of the visited set is : 75
+vistinghttp://www.heatherwebbauthor.com/fun-stuff/authors-notes/
+	the current length of the visited set is : 75
+vistinghttp://www.dailymail.co.uk/news/article-3087774/America-s-biggest-ranch-larger-LONDON-goes-sale-713million-Texas.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/christmas/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/christmas/ it wasn't  news 
+vistinghttp://corporate.comcast.com/news-information/nbcuniversal-transaction/independent-programming
+	the current length of the visited set is : 75
+crawled http://corporate.comcast.com/news-information/nbcuniversal-transaction/independent-programming it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/stress-management/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/stress-management/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/09/25/breakup-advice-_n_5884046.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2014/09/25/breakup-advice-_n_5884046.html it wasn't  news 
+vistinghttp://www.goodreads.com/book/show/18079742-becoming-josephine
+	the current length of the visited set is : 75
+vistinghttp://www.dailymail.co.uk/news/article-3087149/Alabama-boy-begs-mother-buy-homeless-man-dinner-Waffle-House.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/hillary-clinton-chipotle-order/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/hillary-clinton-chipotle-order/ it wasn't  news 
+vistinghttp://corporate.comcast.com/news-information/nbcuniversal-transaction/comcast-sportsnet-new-england
+	the current length of the visited set is : 75
+crawled http://corporate.comcast.com/news-information/nbcuniversal-transaction/comcast-sportsnet-new-england it wasn't  news 
+vistinghttp://www.dailymail.co.uk/tvshowbiz/article-3087006/Leah-Jenner-jokes-growing-baby-bump-new-Instagram-photo.html
+	the current length of the visited set is : 75
+crawled http://www.dailymail.co.uk/tvshowbiz/article-3087006/Leah-Jenner-jokes-growing-baby-bump-new-Instagram-photo.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/peter-serafinowicz-classic-movie-lines/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/peter-serafinowicz-classic-movie-lines/ it wasn't  news 
+vistinghttp://www.dailymail.co.uk/tvshowbiz/article-3087326/Taye-Diggs-returns-Broadway-replace-Darren-Criss-lead-role-musical-Hedwig-Angry-Inch.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/classic-movie-lines/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/classic-movie-lines/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/peter-serafinowicz-movie-lines/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/peter-serafinowicz-movie-lines/ it wasn't  news 
+vistinghttp://www.dailymail.co.uk/tvshowbiz/article-3087476/Cara-Delevingne-turns-ethereal-goddess-play-TWIN-mermaids-new-Pan-trailer.html
+	the current length of the visited set is : 75
+vistinghttp://www.reddit.com/r/AskReddit/comments/2hcey9/how_did_you_get_over_your_ex_and_how_long_did_it/ckrj2vr
+	the current length of the visited set is : 75
+crawled http://www.reddit.com/r/AskReddit/comments/2hcey9/how_did_you_get_over_your_ex_and_how_long_did_it/ckrj2vr it wasn't  news 
+vistinghttp://www.dailymail.co.uk/news/article-3085236/ISIS-make-millions-misery-migrants-Libya-desperate-Europe-hide-agents-amid-human-tide.html
+	the current length of the visited set is : 75
+vistinghttp://www.dailymail.co.uk/news/article-3086675/PIERS-MORGAN-ISIS-winning-war-Mr-President-person-world-stop-going-start.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/becoming-fearless/6/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/becoming-fearless/6/ it wasn't  news 
+vistinghttp://www.dailymail.co.uk/wires/ap/article-3057868/Hedwig-creator-John-Cameron-Mitchell-special-Tony.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/sara-gottfried-md/hormone-doctors_b_1533160.html
+	the current length of the visited set is : 75
+vistinghttp://www.dailymail.co.uk/tvshowbiz/article-3037744/Glee-s-Darren-Criss-unveils-new-look-takes-lead-Broadway-s-Hedwig-Angry-Inch.html
+	the current length of the visited set is : 75
+crawled http://www.dailymail.co.uk/tvshowbiz/article-3037744/Glee-s-Darren-Criss-unveils-new-look-takes-lead-Broadway-s-Hedwig-Angry-Inch.html it wasn't  news 
+vistinghttp://www.reddit.com/help/privacypolicy
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/opheart/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/opheart/ it wasn't  news 
+vistinghttp://www.dailymail.co.uk/tvshowbiz/article-2935887/Taye-Diggs-praises-ex-wife-Idina-Menzel-s-rendition-national-anthem-Super-Bowl.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/transposition-of-the-great-arteries/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/transposition-of-the-great-arteries/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/melissa-miles-mccarter/what-bruce-jenner-can-teach_b_7172296.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/melissa-miles-mccarter/what-bruce-jenner-can-teach_b_7172296.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/syria/10/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/syria/10/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/04/30/justice-ginsburg-eviscera_n_7180044.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2015/05/16/iraq-troops-ramadi_n_7298888.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/becoming-fearless/5/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/becoming-fearless/5/ it wasn't  news 
+vistinghttp://thinkprogress.org/justice/2015/04/29/3652468/justice-ginsburg-eviscerates-case-marriage-equality-just-five-sentences/
+	the current length of the visited set is : 75
+crawled http://thinkprogress.org/justice/2015/04/29/3652468/justice-ginsburg-eviscerates-case-marriage-equality-just-five-sentences/ it wasn't  news 
+vistinghttp://www.huffingtonpost.co.uk/2014/10/29/islamic-state-massacre-30-men-in-town-of-hit-near-baghdad_n_6070850.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.co.uk/2014/10/29/islamic-state-massacre-30-men-in-town-of-hit-near-baghdad_n_6070850.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/steve-clemons/palestine-papers-source-o_b_861966.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/steve-clemons/palestine-papers-source-o_b_861966.html it wasn't  news 
+vistinghttp://www.huffingtonpost.co.uk/p/huffpost-uk-contact-us.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.co.uk/p/huffpost-uk-contact-us.html it wasn't  news 
+vistinghttps://ssl1.americanprogress.org/o/507/p/salsa/donation/common/public/?donate_page_KEY=2072
+	the current length of the visited set is : 75
+crawled https://ssl1.americanprogress.org/o/507/p/salsa/donation/common/public/?donate_page_KEY=2072 it wasn't  news 
+vistinghttp://www.huffingtonpost.co.uk/p/huffingtonpostcouk-about-us.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.co.uk/p/huffingtonpostcouk-about-us.html it wasn't  news 
+vistinghttp://www.huffingtonpost.co.uk/p/huffingtonpostcouk-comment-policy.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.co.uk/p/huffingtonpostcouk-comment-policy.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/clarence-b-jones/duck-dynasty-race_b_4488950.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/clarence-b-jones/post_6559_b_4524160.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/feeds/verticals/black-voices/blog.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/black-voices/blog.xml it wasn't  news 
+vistinghttp://www.advertising.aol.co.uk/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/feeds/verticals/new-york/blog.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/new-york/blog.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/abraham-joshua-heschel/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/abraham-joshua-heschel/ it wasn't  news 
+vistinghttps://www.facebook.com/HuffPostUK
+	the current length of the visited set is : 75
+crawled https://www.facebook.com/HuffPostUK it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/social-interaction/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/social-interaction/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/patience/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/be-a-good-person/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/be-a-good-person/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/david-finkle/first-nighter-broadways-r_b_6482220.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/steven-cohen/mayor-bill-de-blasio-pivo_b_5860700.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/steven-cohen/mayor-bill-de-blasio-pivo_b_5860700.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/social-media/10/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/social-media/10/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/social-media/9/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/social-media/9/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/social-media/8/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/social-media/8/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/social-media/7/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/social-media/7/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/christie-taylor/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/christie-taylor/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/tedtalks/aimee-mullins-ted-prosthetics_b_5700309.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/tedtalks/aimee-mullins-ted-prosthetics_b_5700309.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/tedtalks/ed-yong-ted-parasites_b_5737836.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/tedtalks/ed-yong-ted-parasites_b_5737836.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/tedweekends/blog.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/tedweekends/blog.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/sue-scheff/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/sue-scheff/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/02/25/nishinoshima-island-japan-growth_n_6754420.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/tedtalks/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/tedtalks/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/summer-makeup/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/summer-makeup/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/bronzer-makeup/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/bronzer-makeup/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/brandi-megan-mantha/how-the-sport-of-archery-_b_6498170.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/brandi-megan-mantha/how-the-sport-of-archery-_b_6498170.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/brandi-megan-mantha/creating-voices-for-women_b_6539126.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/ben-evans/art-and-entertainment-a-b_b_610717.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/ben-evans/art-and-entertainment-a-b_b_610717.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/sam-smith/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/heather-kasdan/the-brilliant-thing-that-happened-when-i-lost-my-phone_b_5938770.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/heather-kasdan/the-brilliant-thing-that-happened-when-i-lost-my-phone_b_5938770.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/comedy/blog.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/comedy/blog.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/teaching/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/teaching/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/moral-education/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/moral-education/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/schools/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2012/05/03/all-girls-prom-tharima-ahmed-detroit-hamtramck_n_1475436.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2012/05/03/all-girls-prom-tharima-ahmed-detroit-hamtramck_n_1475436.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2012/05/04/terri-cole-fearless_n_1476304.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2012/05/04/terri-cole-fearless_n_1476304.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2012/05/04/i-will-not-get-married-for-my-family_n_1479140.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/hormones/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/hormones/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/functional-medicine/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/functional-medicine/ it wasn't  news 
+vistinghttp://theamericanmuslim.org/tam.php/features/articles/all-girl-prom-offends-pamela-geller/0019102
+	the current length of the visited set is : 75
+crawled http://theamericanmuslim.org/tam.php/features/articles/all-girl-prom-offends-pamela-geller/0019102 it wasn't  news 
+vistinghttps://twitter.com/HuffPostWomen
+	the current length of the visited set is : 75
+crawled https://twitter.com/HuffPostWomen it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/drug-war/10/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/drug-war/10/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/drug-war/9/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/drug-war/9/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/drug-war/8/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/drug-war/8/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/drug-war/7/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/drug-war/7/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/10/29/syrian-rebels-aleppo-idlib_n_6070532.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/ziyad-clot/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/ziyad-clot/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/clayton-swisher/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/clayton-swisher/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2012/06/06/amy-yasbeck-on-john-ritter_n_1572128.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2012/06/06/amy-yasbeck-on-john-ritter_n_1572128.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2012/06/07/fearless-negotiation-tips_n_1578203.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2015/05/15/feminist-catalyst-wedding-magazine-is-here_n_7287784.html?utm_hp_ref=women&ir=Women&ncid=tweetlnkushpmg00000050
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/china/10/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/china/10/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/world/blog.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/world/blog.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/politics/blog.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/politics/blog.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/p/huffingtonpostca-about-us.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/china/9/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/china/9/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/guns/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/china/8/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/china/8/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/drones/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/drones/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/10/21/what-is-ello_n_6022104.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2014/10/22/kansas-city-royals-kctv-world-series-tweet-baseball_n_6028090.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2014/11/12/why-we-love-to-be-liked_n_6133534.html
+	the current length of the visited set is : 75
+vistinghttp://en.wikipedia.org/wiki/Drone
+	the current length of the visited set is : 75
+vistinghttp://en.wikipedia.org/wiki/General_Atomics_MQ-1_Predator
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/tony-phillips/regardless-of-ability-bea_b_5709151.html
+	the current length of the visited set is : 75
+vistinghttp://en.wikipedia.org/wiki/Unmanned_aerial_vehicle
+	the current length of the visited set is : 75
+vistinghttp://grantland.com/the-triangle/2014-mlb-playoffs-kansas-city-royals-world-series-preview/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/sue-scheff/catfish_b_2529769.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/sue-scheff/catfish_b_2529769.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/sue-scheff/teens-and-tumblr_b_2482848.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/sue-scheff/teens-and-tumblr_b_2482848.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/green/index.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/green/index.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/tedtalks/watch-this-choir-might-re_b_4508793.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/tedtalks/watch-this-choir-might-re_b_4508793.html it wasn't  news 
+vistinghttp://www.amputee-coalition.org/
+	the current length of the visited set is : 75
+crawled http://www.amputee-coalition.org/ it wasn't  news 
+vistinghttp://phprosthetics.com/
+	the current length of the visited set is : 75
+crawled http://phprosthetics.com/ it wasn't  news 
+vistinghttp://www.ossur.com/prosthetic-solutions/products/feet/feet/flex-run
+	the current length of the visited set is : 75
+vistinghttp://www.challengedathletes.org/site/c.4nJHJQPqEiKUE/b.6449023/k.BD6D/Home.htm
+	the current length of the visited set is : 75
+crawled http://www.challengedathletes.org/site/c.4nJHJQPqEiKUE/b.6449023/k.BD6D/Home.htm it wasn't  news 
+vistinghttp://www.nytimes.com/2014/10/22/sports/baseball/world-series-2014-sf-giants-kansas-city-royals-game-1.html?_r=0
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/historical-fiction/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/historical-fiction/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/sports/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/sports/ it wasn't  news 
+vistinghttp://www.nami.org/
+	the current length of the visited set is : 75
+crawled http://www.nami.org/ it wasn't  news 
+vistinghttp://www.amazon.com/Google-Bomb-Verdict-Changed-Internet/dp/0757314155
+	the current length of the visited set is : 75
+crawled http://www.amazon.com/Google-Bomb-Verdict-Changed-Internet/dp/0757314155 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/lady-antebellum/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/lady-antebellum/ it wasn't  news 
+vistinghttp://www.hangerclinic.com/Pages/default.aspx
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/splice/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/splice/ it wasn't  news 
+vistinghttp://www.amazon.com/Andy-Beal/e/B001JSF7BE
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/feeds/verticals/parents/blog.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/parents/blog.xml it wasn't  news 
+vistinghttp://www.roth.com/
+	the current length of the visited set is : 75
+crawled http://www.roth.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/buzzfeed/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/buzzfeed/ it wasn't  news 
+vistinghttp://typeg.com/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/inner-peace/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/inner-peace/ it wasn't  news 
+vistinghttp://www.roth.com/default.aspx
+	the current length of the visited set is : 75
+crawled http://www.roth.com/default.aspx it wasn't  news 
+vistinghttps://instagram.com/phprosthetics/
+	the current length of the visited set is : 75
+crawled https://instagram.com/phprosthetics/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/quiet/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/quiet/ it wasn't  news 
+vistinghttp://www.roth.com/main/page.aspx
+	the current length of the visited set is : 75
+crawled http://www.roth.com/main/page.aspx it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/lost-phone/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/lost-phone/ it wasn't  news 
+vistinghttps://plus.google.com/+ChallengedathletesOrg
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/silence/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/silence/ it wasn't  news 
+vistinghttp://www.finra.org/
+	the current length of the visited set is : 75
+crawled http://www.finra.org/ it wasn't  news 
+vistinghttp://www.sipc.org/
+	the current length of the visited set is : 75
+vistinghttps://www.youtube.com/user/ChallengedAthletes
+	the current length of the visited set is : 75
+crawled https://www.youtube.com/user/ChallengedAthletes it wasn't  news 
+vistinghttp://www.sipc.org/site-map
+	the current length of the visited set is : 75
+crawled http://www.sipc.org/site-map it wasn't  news 
+vistinghttps://www.youtube.com/
+	the current length of the visited set is : 75
+vistinghttp://www.sipc.org/about-sipc/leadership/dagostino
+	the current length of the visited set is : 75
+crawled http://www.sipc.org/about-sipc/leadership/dagostino it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/matthieu-ricard/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/matthieu-ricard/ it wasn't  news 
+vistinghttp://www.sipc.org/about-sipc/leadership/karawan
+	the current length of the visited set is : 75
+crawled http://www.sipc.org/about-sipc/leadership/karawan it wasn't  news 
+vistinghttp://www.sipc.org/about-sipc/leadership/eichner
+	the current length of the visited set is : 75
+crawled http://www.sipc.org/about-sipc/leadership/eichner it wasn't  news 
+vistinghttps://www.youtube.com/testtube
+	the current length of the visited set is : 75
+crawled https://www.youtube.com/testtube it wasn't  news 
+vistinghttp://www.sipc.org/about-sipc/leadership/jasien
+	the current length of the visited set is : 75
+crawled http://www.sipc.org/about-sipc/leadership/jasien it wasn't  news 
+vistinghttp://www.sipc.org/about-sipc/leadership/kaufman
+	the current length of the visited set is : 75
+crawled http://www.sipc.org/about-sipc/leadership/kaufman it wasn't  news 
+vistinghttps://survey.googleratings.com/wix/p5092995.aspx
+	the current length of the visited set is : 75
+crawled https://survey.googleratings.com/wix/p5092995.aspx it wasn't  news 
+vistinghttps://www.google.com/usability/faq/
+	the current length of the visited set is : 75
+vistinghttps://www.google.com/policies/privacy/
+	the current length of the visited set is : 75
+crawled https://www.google.com/policies/privacy/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/teen/index.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/teen/index.xml it wasn't  news 
+vistinghttps://www.google.com/intl/en/policies/terms/
+	the current length of the visited set is : 75
+vistinghttps://www.google.com/intl/en/about/
+	the current length of the visited set is : 75
+crawled https://www.google.com/intl/en/about/ it wasn't  news 
+vistinghttps://www.confirmit.com/
+	the current length of the visited set is : 75
+crawled https://www.confirmit.com/ it wasn't  news 
+vistinghttps://www.google.com/
+	the current length of the visited set is : 75
+crawled https://www.google.com/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/fearlessness/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/fearlessness/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/heart-disease/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/heart-disease/ it wasn't  news 
+vistinghttps://www.google.com/policies/technologies/voice/
+	the current length of the visited set is : 75
+crawled https://www.google.com/policies/technologies/voice/ it wasn't  news 
+vistinghttps://www.google.com/intl/en/contact/
+	the current length of the visited set is : 75
+crawled https://www.google.com/intl/en/contact/ it wasn't  news 
+vistinghttps://www.confirmit.com/investors.aspx
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/pulse-oximetry/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/pulse-oximetry/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/brycen-principe/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/brycen-principe/ it wasn't  news 
+vistinghttps://www.google.com/imghp
+	the current length of the visited set is : 75
+crawled https://www.google.com/imghp it wasn't  news 
+vistinghttps://extranet.confirmit.com/login/client.aspx
+	the current length of the visited set is : 75
+crawled https://extranet.confirmit.com/login/client.aspx it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/04/22/marijuana-brain-study_n_5170422.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2014/05/20/heroin-crisis_n_5360449.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2014/05/20/marijuana-water-use_n_5359654.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2014/05/20/latinos-war-on-drugs_n_5360165.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2014/05/21/colorado-medical-marijuana_n_5365644.html
+	the current length of the visited set is : 75
+vistinghttps://twitter.com/confirmit
+	the current length of the visited set is : 75
+vistinghttp://www.washingtonpost.com/news/morning-mix/wp/2014/04/16/even-casually-smoking-marijuana-can-change-your-brain-study-says/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2014/05/21/banks-mexican-drug-cartels-sec-merrill-schwab_n_5367841.html
+	the current length of the visited set is : 75
+vistinghttp://thechart.blogs.cnn.com/2014/04/16/casual-marijuana-use-may-damage-your-brain/comment-page-8/
+	the current length of the visited set is : 75
+vistinghttp://www.prweb.com/releases/marijuana-attorney/california/prweb9316223.htm
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2014/05/23/don-johnson-heroin_n_5378727.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/white-house/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/white-house/ it wasn't  news 
+vistinghttp://www.smithsonianmag.com/ist/?next=/smart-news/marijuana-grow-ops-are-drying-out-californias-water-supply-180951125/
+	the current length of the visited set is : 75
+crawled http://www.smithsonianmag.com/ist/?next=/smart-news/marijuana-grow-ops-are-drying-out-californias-water-supply-180951125/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/john-ritter/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/john-ritter/ it wasn't  news 
+vistinghttp://www.amarimed.com/BECOMEAPATIENT/tabid/108/Default.aspx
+	the current length of the visited set is : 75
+crawled http://www.amarimed.com/BECOMEAPATIENT/tabid/108/Default.aspx it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/06/30/china-hyper-growth-pics_n_5542732.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2014/06/30/china-hyper-growth-pics_n_5542732.html it wasn't  news 
+vistinghttp://www.thedenverchannel.com/news/local-news/charlottes-web-medical-cannabis-soon-to-be-widely-available-to-colorado-children
+	the current length of the visited set is : 75
+crawled http://www.thedenverchannel.com/news/local-news/charlottes-web-medical-cannabis-soon-to-be-widely-available-to-colorado-children it wasn't  news 
+vistinghttp://www.wncn.com/story/25547384/marijuana-business-booming-for-colorado
+	the current length of the visited set is : 75
+vistinghttp://www.safeaccessnow.org/becoming_a_patient_in_colorado
+	the current length of the visited set is : 75
+crawled http://www.safeaccessnow.org/becoming_a_patient_in_colorado it wasn't  news 
+vistinghttp://colorado.medicalmarijuana.net/
+	the current length of the visited set is : 75
+vistinghttp://www.denverrelief.com/obtaining-card.php
+	the current length of the visited set is : 75
+crawled http://www.denverrelief.com/obtaining-card.php it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/07/01/china-internet-boot-camp_n_5546846.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2014/07/01/china-internet-boot-camp_n_5546846.html it wasn't  news 
+vistinghttp://www.amarimed.com/HOME/tabid/38/Default.aspx
+	the current length of the visited set is : 75
+crawled http://www.amarimed.com/HOME/tabid/38/Default.aspx it wasn't  news 
+vistinghttp://www.thedenverchannel.com/
+	the current length of the visited set is : 75
+vistinghttps://www.linkedin.com/directory/groups/
+	the current length of the visited set is : 75
+vistinghttp://www.safeaccessnow.org/
+	the current length of the visited set is : 75
+crawled http://www.safeaccessnow.org/ it wasn't  news 
+vistinghttp://www.mantecabulletin.com/archives/105980/
+	the current length of the visited set is : 75
+crawled http://www.mantecabulletin.com/archives/105980/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/07/02/hong-kong-protest-arrests_n_5550130.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/mining/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/mining/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/07/02/china-bans-ramadan_n_5551063.html
+	the current length of the visited set is : 75
+vistinghttp://www.mantecabulletin.com/m/
+	the current length of the visited set is : 75
+crawled http://www.mantecabulletin.com/m/ it wasn't  news 
+vistinghttp://www.denverrelief.com/mission-statement.php
+	the current length of the visited set is : 75
+crawled http://www.denverrelief.com/mission-statement.php it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/07/03/xi-jinping-south-korea_n_5554551.html
+	the current length of the visited set is : 75
+vistinghttp://www.thedailybeast.com/articles/2014/01/20/web-junkie-is-a-harrowing-documentary-on-china-s-internet-addiction-rehab-clinics.html
+	the current length of the visited set is : 75
+vistinghttp://www.ibtimes.co.uk/web-junkie-chinese-bootcamps-cure-teenagers-addicted-internet-1433214
+	the current length of the visited set is : 75
+vistinghttp://qz.com/224591/chinas-cure-for-teenage-internet-addiction-is-worse-than-the-supposed-disease/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2014/07/03/one-billion-drinkers-can-_n_5555563.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2014/07/03/one-billion-drinkers-can-_n_5555563.html it wasn't  news 
+vistinghttp://www.voanews.com/content/student-organizations-occupy-central-hong-kong/1948234.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/david-patterson/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/david-patterson/ it wasn't  news 
+vistinghttp://www.npr.org/2014/07/01/327369358/marchers-take-to-streets-of-hong-kong-to-protest-eroding-autonomy
+	the current length of the visited set is : 75
+crawled http://www.npr.org/2014/07/01/327369358/marchers-take-to-streets-of-hong-kong-to-protest-eroding-autonomy it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/thomas-gelmi/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/thomas-gelmi/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/healthy-living-spirit/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/healthy-living-spirit/ it wasn't  news 
+vistinghttp://abcnews.go.com/International
+	the current length of the visited set is : 75
+crawled http://abcnews.go.com/International it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/be-a-better-person/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/be-a-better-person/ it wasn't  news 
+vistinghttps://www.linkedin.com/today/ibtimes.co.uk
+	the current length of the visited set is : 75
+crawled https://www.linkedin.com/today/ibtimes.co.uk it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/change-the-world/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/change-the-world/ it wasn't  news 
+vistinghttp://www.ibtimes.com.au/
+	the current length of the visited set is : 75
+crawled http://www.ibtimes.com.au/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/net-neutrality/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/net-neutrality/ it wasn't  news 
+vistinghttps://www.linkedin.com/psettings/guest-controls
+	the current length of the visited set is : 75
+crawled https://www.linkedin.com/psettings/guest-controls it wasn't  news 
+vistinghttps://plus.google.com/+ABCNews
+	the current length of the visited set is : 75
+vistinghttp://live.huffingtonpost.com/r/segment/5554ef1d78c90a532d0000c5
+	the current length of the visited set is : 75
+crawled http://live.huffingtonpost.com/r/segment/5554ef1d78c90a532d0000c5 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/technology/blog.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/technology/blog.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/tony-phillips/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/teenagers/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/teenagers/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/blogging/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/blogging/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/eve-pearl/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/eve-pearl/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/laura-cococcia/embracing-the-latency-the_b_4501209.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/laura-cococcia/embracing-the-latency-the_b_4501209.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/maxwell-pichan/how-i-jumpstarted-my-post_b_5686554.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/maxwell-pichan/how-i-jumpstarted-my-post_b_5686554.html it wasn't  news 
+vistinghttps://twitter.com/lauracococcia
+	the current length of the visited set is : 75
+crawled https://twitter.com/lauracococcia it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/suburbs/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/suburbs/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/youth-sports-coaching/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/youth-sports-coaching/ it wasn't  news 
+vistinghttps://twitter.com/hashtag/TNY90
+	the current length of the visited set is : 75
+crawled https://twitter.com/hashtag/TNY90 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/uk-football/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/uk-football/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/white-like-me-book/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/white-like-me-book/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/breakups/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/breakups/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/tim-wise/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/tim-wise/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/rwanda/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/rwanda/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/sudan/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/sudan/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2008/03/24/watch-the-happiest-man-in_n_93050.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2008/03/24/watch-the-happiest-man-in_n_93050.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/black-men/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/alienation/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/alienation/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/arianna-huffington/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/arianna-huffington/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/latino-voices/index.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/latino-voices/index.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/business/index.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/business/index.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/davos-2013/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/davos-2013/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/china-80s-generation/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/china-80s-generation/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/china-south-korea/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/china-south-korea/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/xi-jinping/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/xi-jinping/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/baijiu/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/baijiu/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/rick-horowitz/its-a-swamp-thing_b_485423.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/rick-horowitz/its-a-swamp-thing_b_485423.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/tony-phillips/test_49_b_873668.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/tony-phillips/republican-debate-new-hampshire-_b_876585.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/laura-cococcia/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/laura-cococcia/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/macklemore-and-ryan-lewis/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/macklemore-and-ryan-lewis/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/pop-music/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/ascap/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/ascap/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/karmin/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/karmin/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/mila-kunis/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/mila-kunis/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/wait-staff/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/wait-staff/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/servers/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/servers/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/waiters/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/waiters/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/soul-mate/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/soul-mate/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/adapting-to-difficult-situations/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/adapting-to-difficult-situations/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2011/07/14/how-to-apply-false-eyelashes_n_929877.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2011/07/14/how-to-apply-false-eyelashes_n_929877.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/entry-level/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/entry-level/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/mri-research/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/mri-research/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/11/26/breakup-like-olivia-pope_n_6226980.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/the-happiest-man-in-the-world/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/the-happiest-man-in-the-world/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/the-inner-life/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/the-inner-life/ it wasn't  news 
+vistinghttp://www.dailymail.co.uk/femail/article-2767017/Kerry-Washington-helps-launch-Scandal-collection.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/the-habits-of-happiness-ted/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/the-habits-of-happiness-ted/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/happiest-man-alive/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/happiest-man-alive/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/matthieu-ricard-happiness/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/matthieu-ricard-happiness/ it wasn't  news 
+vistinghttp://www.dailymail.co.uk/tvshowbiz/article-3088252/Alec-Hilaria-Baldwin-leave-little-Carmen-enjoy-working-breakfast-cafe-near-home.html
+	the current length of the visited set is : 75
+crawled http://www.dailymail.co.uk/tvshowbiz/article-3088252/Alec-Hilaria-Baldwin-leave-little-Carmen-enjoy-working-breakfast-cafe-near-home.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/challenges/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/challenges/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/be-fearless-change-your-life-in-28-days/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/be-fearless-change-your-life-in-28-days/ it wasn't  news 
+vistinghttp://www.dailymail.co.uk/debate/index.html
+	the current length of the visited set is : 75
+crawled http://www.dailymail.co.uk/debate/index.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/heart-disease/8/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/heart-disease/8/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/heart-disease/7/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/heart-disease/7/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/ali-akbar-khan/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/ali-akbar-khan/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/white-house/4/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/white-house/4/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/wynton-marsalis/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/wynton-marsalis/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/white-house/2/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/white-house/2/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/white-house/3/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/white-house/3/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/michele-bachmann/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/michele-bachmann/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/se-ron-johnson/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/se-ron-johnson/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/russ-feingold/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/russ-feingold/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/united-nations/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/congo/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/congo/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/new-york-state-senate/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/new-york-state-senate/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/driver-seat/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/driver-seat/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/externally-driven/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/externally-driven/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/net-neutrality/8/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/net-neutrality/8/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/bad-ideas/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/bad-ideas/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/changing-the-world-ideas/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/changing-the-world-ideas/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/net-neutrality/6/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/net-neutrality/6/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/net-neutrality/7/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/net-neutrality/7/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/net-neutrality/5/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/net-neutrality/5/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/net-neutrality/4/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/net-neutrality/4/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/elections-2010/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/elections-2010/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/margaret-marshall/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/margaret-marshall/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/democrats/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/democrats/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/freelance-writing/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/new-hampshire-debates/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/new-hampshire-debates/ it wasn't  news 
+vistinghttp://readwrite.com/2010/09/14/internet_founder_tim_berners-lee_details_4_concerns_about_future_of_mobile
+	the current length of the visited set is : 75
+crawled http://readwrite.com/2010/09/14/internet_founder_tim_berners-lee_details_4_concerns_about_future_of_mobile it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/michelle-bachman-new-hampshire/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/michelle-bachman-new-hampshire/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/republican-debate-new-hampshire/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/republican-debate-new-hampshire/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/laura-cococcia/quitting-sugar_b_3348392.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/laura-cococcia/quitting-sugar_b_3348392.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2014/06/12/mila-kunis-ashton-kutcher_n_5487929.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/tony-posnanski/dear-arizona-can-we-ban-the-pscm-from-restaurants_b_4875065.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/false-eyelashes/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/false-eyelashes/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/apply-makeup/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/apply-makeup/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/honey-seltzer/the-real-me_1_b_4292651.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/american-travel/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/american-travel/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/small-towns/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/coaching-youth-sports/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/coaching-youth-sports/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/college-basketball/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/college-basketball/ it wasn't  news 
+vistinghttp://www.amazon.com/Halles-Comet-Honey-Seltzer/dp/1501020374
+	the current length of the visited set is : 75
+crawled http://www.amazon.com/Halles-Comet-Honey-Seltzer/dp/1501020374 it wasn't  news 
+vistinghttps://twitter.com/HuffPostSports
+	the current length of the visited set is : 75
+crawled https://twitter.com/HuffPostSports it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/george-wallace/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/george-wallace/ it wasn't  news 
+vistinghttps://twitter.com/hashtag/NFLPA
+	the current length of the visited set is : 75
+crawled https://twitter.com/hashtag/NFLPA it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/strom-thurmond/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/strom-thurmond/ it wasn't  news 
+vistinghttps://twitter.com/NFLObjectors/status/600411766221312000
+	the current length of the visited set is : 75
+crawled https://twitter.com/NFLObjectors/status/600411766221312000 it wasn't  news 
+vistinghttps://twitter.com/NFLObjectors
+	the current length of the visited set is : 75
+crawled https://twitter.com/NFLObjectors it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/05/15/odell-beckham-jr-nfl-pay_n_7290492.html?utm_hp_ref=tw
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/sudan/9/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/sudan/9/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/sudan/10/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/sudan/10/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/sudan/8/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/sudan/8/ it wasn't  news 
+vistinghttps://twitter.com/NFLObjectors/status/600347811637534721
+	the current length of the visited set is : 75
+crawled https://twitter.com/NFLObjectors/status/600347811637534721 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/sudan/7/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/sudan/7/ it wasn't  news 
+vistinghttps://twitter.com/hashtag/NIH
+	the current length of the visited set is : 75
+crawled https://twitter.com/hashtag/NIH it wasn't  news 
+vistinghttps://twitter.com/hashtag/Harvard
+	the current length of the visited set is : 75
+crawled https://twitter.com/hashtag/Harvard it wasn't  news 
+vistinghttps://twitter.com/NFLObjectors/status/600349312623767552
+	the current length of the visited set is : 75
+crawled https://twitter.com/NFLObjectors/status/600349312623767552 it wasn't  news 
+vistinghttps://twitter.com/caitlin__owens
+	the current length of the visited set is : 75
+vistinghttps://twitter.com/Michaeel_97/status/598309360457162753
+	the current length of the visited set is : 75
+crawled https://twitter.com/Michaeel_97/status/598309360457162753 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/jonathan-alpert/how-to-bring-the-sex-back_b_5780170.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/jonathan-alpert/how-to-bring-the-sex-back_b_5780170.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/media-bias/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/media-bias/ it wasn't  news 
+vistinghttps://twitter.com/Michaeel_97
+	the current length of the visited set is : 75
+crawled https://twitter.com/Michaeel_97 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/arianna-huffington/10/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/arianna-huffington/10/ it wasn't  news 
+vistinghttps://twitter.com/kimberlyarchie/status/600345496801054721
+	the current length of the visited set is : 75
+crawled https://twitter.com/kimberlyarchie/status/600345496801054721 it wasn't  news 
+vistinghttps://twitter.com/DivestHarvard/status/598442866709536770/photo/1
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2010/02/10/the-crucial-connection-be_n_457424.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2010/02/10/the-crucial-connection-be_n_457424.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/arianna-huffington/9/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/arianna-huffington/9/ it wasn't  news 
+vistinghttps://twitter.com/DivestHarvard/status/598442866709536770
+	the current length of the visited set is : 75
+vistinghttps://twitter.com/mariel_klein/status/598443457745690624/photo/1
+	the current length of the visited set is : 75
+crawled https://twitter.com/mariel_klein/status/598443457745690624/photo/1 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/arianna-huffington/8/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/arianna-huffington/8/ it wasn't  news 
+vistinghttp://www.webmd.com/heart-disease/default.htm
+	the current length of the visited set is : 75
+crawled http://www.webmd.com/heart-disease/default.htm it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/arianna-huffington/6/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/arianna-huffington/6/ it wasn't  news 
+vistinghttp://well.blogs.nytimes.com/2010/02/10/low-i-q-predicts-heart-disease/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/ian-bremmer-davos/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/ian-bremmer-davos/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/arianna-huffington/7/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/arianna-huffington/7/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2010/02/11/bill-clinton-hospitalized_n_459066.html
+	the current length of the visited set is : 75
+vistinghttp://www.webmd.com/manage-ibsc-cic-symptoms/default.htm
+	the current length of the visited set is : 75
+crawled http://www.webmd.com/manage-ibsc-cic-symptoms/default.htm it wasn't  news 
+vistinghttp://www.mayoclinic.org/diseases-conditions/heart-disease/basics/definition/con-20034056
+	the current length of the visited set is : 75
+vistinghttp://health.usnews.com/health-news/blogs/on-women/2010/02/10/heart-disease-prevention-mistakes-women-make
+	the current length of the visited set is : 75
+crawled http://health.usnews.com/health-news/blogs/on-women/2010/02/10/heart-disease-prevention-mistakes-women-make it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2010/02/15/clinton-says-heart-troubl_n_462438.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2010/02/15/clinton-says-heart-troubl_n_462438.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2010/02/17/federal-government-sued-a_n_465562.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2010/02/17/federal-government-sued-a_n_465562.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/george-heymont/artists-on-a-mission_b_1280970.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/george-heymont/artists-on-a-mission_b_1280970.html it wasn't  news 
+vistinghttp://content.time.com/time/video/player/0,32068,1810809391001_0,00.html
+	the current length of the visited set is : 75
+crawled http://content.time.com/time/video/player/0,32068,1810809391001_0,00.html it wasn't  news 
+vistinghttp://www.cnn.com/2004/ALLPOLITICS/09/03/clinton.tests/index.html
+	the current length of the visited set is : 75
+crawled http://www.cnn.com/2004/ALLPOLITICS/09/03/clinton.tests/index.html it wasn't  news 
+vistinghttp://www.bloombergview.com/articles/2014-09-25/samsung-should-avoid-apple-envy
+	the current length of the visited set is : 75
+vistinghttp://www.bloombergview.com/
+	the current length of the visited set is : 75
+crawled http://www.bloombergview.com/ it wasn't  news 
+vistinghttp://www.hon.ch/HONcode/Conduct.html
+	the current length of the visited set is : 75
+crawled http://www.hon.ch/HONcode/Conduct.html it wasn't  news 
+vistinghttp://www.news-leader.com/article/20100215/LIFE04/2150307/Heart%20stents%20in%20the%20spotlight%20after%20Clinton%20s%20hospital%20visit
+	the current length of the visited set is : 75
+crawled http://www.news-leader.com/article/20100215/LIFE04/2150307/Heart%20stents%20in%20the%20spotlight%20after%20Clinton%20s%20hospital%20visit it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/muhtar-kent/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/muhtar-kent/ it wasn't  news 
+vistinghttp://en.wikipedia.org/wiki/Bill_Clinton
+	the current length of the visited set is : 75
+vistinghttp://www.hon.ch/home1.html
+	the current length of the visited set is : 75
+vistinghttps://bba.bloomberg.net/
+	the current length of the visited set is : 75
+crawled https://bba.bloomberg.net/ it wasn't  news 
+vistinghttp://m.bloomberg.com/bba/blackberry/
+	the current length of the visited set is : 75
+crawled http://m.bloomberg.com/bba/blackberry/ it wasn't  news 
+vistinghttp://m.bloomberg.com/bba/android/
+	the current length of the visited set is : 75
+crawled http://m.bloomberg.com/bba/android/ it wasn't  news 
+vistinghttp://m.bloomberg.com/business/
+	the current length of the visited set is : 75
+crawled http://m.bloomberg.com/business/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/worlds-most-popular-liquor/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/worlds-most-popular-liquor/ it wasn't  news 
+vistinghttp://m.bloomberg.com/
+	the current length of the visited set is : 75
+crawled http://m.bloomberg.com/ it wasn't  news 
+vistinghttp://archive.news-leader.com/section/privacy
+	the current length of the visited set is : 75
+crawled http://archive.news-leader.com/section/privacy it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2009/09/21/fcc-chairman-argues-for-o_n_293667.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2011/10/02/verizon-sues-to-overturn-net-neutrality_n_991329.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2012/03/12/dccc-launches-new-website_n_1338270.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2013/11/04/net-neutrality_n_4215549.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2009/10/30/john-mccain-was-for-actua_n_340694.html
+	the current length of the visited set is : 75
+vistinghttp://archive.news-leader.com/section/subscription-options-learn-more
+	the current length of the visited set is : 75
+crawled http://archive.news-leader.com/section/subscription-options-learn-more it wasn't  news 
+vistinghttp://www.huffingtonpost.com/pearl-korn/
+	the current length of the visited set is : 75
+vistinghttp://www.reuters.com/article/2011/09/30/fcc-netneutrality-verizon-idUSS1E78T1P120110930
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/pearl-korn/senator-bernie-sanders-la_b_7283224.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/pearl-korn/senator-bernie-sanders-la_b_7283224.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/bryan-fischer/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/bryan-fischer/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/christian-avard/obama-camp-locks-out-pres_b_80467.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/america-scores/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/america-scores/ it wasn't  news 
+vistinghttp://archive.news-leader.com/viewint/article/99999999/MISC/120430008/facebook-faq
+	the current length of the visited set is : 75
+crawled http://archive.news-leader.com/viewint/article/99999999/MISC/120430008/facebook-faq it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/ricky-martin/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/ricky-martin/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/france/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/france/ it wasn't  news 
+vistinghttp://archive.news-leader.com/viewint/article/99999999/MISC/120430007/news-leader-faq
+	the current length of the visited set is : 75
+crawled http://archive.news-leader.com/viewint/article/99999999/MISC/120430007/news-leader-faq it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/sugar-and-diet/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/sugar-and-health/
+	the current length of the visited set is : 75
+vistinghttp://archive.news-leader.com/section/data
+	the current length of the visited set is : 75
+crawled http://archive.news-leader.com/section/data it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/couple-gives-big-tip/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/couple-gives-big-tip/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/sexual-harassment/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/sexual-harassment/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/women/blog.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/women/blog.xml it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/news-leader/id520202089
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/news-leader/id520202089 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/seniority-in-the-workplace/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/seniority-in-the-workplace/ it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/azcentral-for-iphone/id815248536
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/azcentral-for-iphone/id815248536 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/paying-dues/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/paying-dues/ it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/army-times/id892929833
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/army-times/id892929833 it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/courier-post/id566331284
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/courier-post/id566331284 it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/daily-record-morris-co.-nj/id520571562
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/daily-record-morris-co.-nj/id520571562 it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/us-army-news-information/id342689843
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/us-army-news-information/id342689843 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/the-inner-life/3/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/the-inner-life/3/ it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/abc-6-news-now/id521167681
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/abc-6-news-now/id521167681 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/the-inner-life/2/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/the-inner-life/2/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2013/06/28/mike-duggan-write-in-mayor-detroit_n_3516125.html
+	the current length of the visited set is : 75
+vistinghttps://itunes.apple.com/us/app/military-24-7-for-iphone/id448736678
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/military-24-7-for-iphone/id448736678 it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/the-white-house/id350190807
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/the-white-house/id350190807 it wasn't  news 
+vistinghttp://www.army.mil/contact/
+	the current length of the visited set is : 75
+crawled http://www.army.mil/contact/ it wasn't  news 
+vistinghttps://kb.defense.gov/
+	the current length of the visited set is : 75
+crawled https://kb.defense.gov/ it wasn't  news 
+vistinghttp://www.army.mil/faq/
+	the current length of the visited set is : 75
+crawled http://www.army.mil/faq/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/suffering/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/suffering/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2009/07/29/lubna-hussein-pants-trial_n_246901.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2009/07/29/lubna-hussein-pants-trial_n_246901.html it wasn't  news 
+vistinghttp://www.wxyz.com/news/will-mike-duggan-run-as-a-write-in-candidate
+	the current length of the visited set is : 75
+crawled http://www.wxyz.com/news/will-mike-duggan-run-as-a-write-in-candidate it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/npr-news/id324906251
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/npr-news/id324906251 it wasn't  news 
+vistinghttp://www.faithstreet.com/onfaith/2008/07/09/sally-quinn-and-communion-with/183
+	the current length of the visited set is : 75
+crawled http://www.faithstreet.com/onfaith/2008/07/09/sally-quinn-and-communion-with/183 it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2010/01/11/sudan365-musicians-team-u_n_418684.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2010/01/11/sudan365-musicians-team-u_n_418684.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/new-years-resolutions/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/new-years-resolutions/ it wasn't  news 
+vistinghttp://www.army.mil/contact/index.php
+	the current length of the visited set is : 75
+crawled http://www.army.mil/contact/index.php it wasn't  news 
+vistinghttps://itunes.apple.com/us/app/c-span-radio/id322447301
+	the current length of the visited set is : 75
+crawled https://itunes.apple.com/us/app/c-span-radio/id322447301 it wasn't  news 
+vistinghttps://kb.defense.gov/app/answers/list/page/6
+	the current length of the visited set is : 75
+crawled https://kb.defense.gov/app/answers/list/page/6 it wasn't  news 
+vistinghttp://www.wxyz.com/
+	the current length of the visited set is : 75
+vistinghttps://kb.defense.gov/app/answers/list/page/5
+	the current length of the visited set is : 75
+crawled https://kb.defense.gov/app/answers/list/page/5 it wasn't  news 
+vistinghttp://www.defense.gov/landing/privacy.aspx
+	the current length of the visited set is : 75
+crawled http://www.defense.gov/landing/privacy.aspx it wasn't  news 
+vistinghttp://www.dod.mil/pubs/foi/dfoipo/
+	the current length of the visited set is : 75
+crawled http://www.dod.mil/pubs/foi/dfoipo/ it wasn't  news 
+vistinghttp://www.defense.gov/landing/external_link.aspx
+	the current length of the visited set is : 75
+crawled http://www.defense.gov/landing/external_link.aspx it wasn't  news 
+vistinghttp://www.mirayafm.org/index2.php
+	the current length of the visited set is : 75
+crawled http://www.mirayafm.org/index2.php it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2012/06/07/watch-mondays-with-marlo-_n_1577968.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2012/06/07/watch-mondays-with-marlo-_n_1577968.html it wasn't  news 
+vistinghttp://www.wxyz.com/money/consumer/dont-waste-your-money/consumer-reports-leasing-vs-buying-a-car
+	the current length of the visited set is : 75
+crawled http://www.wxyz.com/money/consumer/dont-waste-your-money/consumer-reports-leasing-vs-buying-a-car it wasn't  news 
+vistinghttp://www.dod.mil/pubs/foi/dfoipo/index.html
+	the current length of the visited set is : 75
+crawled http://www.dod.mil/pubs/foi/dfoipo/index.html it wasn't  news 
+vistinghttp://www.defense.gov/home/features/widgets/
+	the current length of the visited set is : 75
+crawled http://www.defense.gov/home/features/widgets/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2012/06/12/huffington-post-women-first-birthday_n_1591304.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2012/06/12/huffington-post-women-first-birthday_n_1591304.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2012/08/27/bryan-rafanelli-oasis-republican-national-convention_n_1834681.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2012/08/28/joel-stein-massage-arianna-huffington_n_1838018.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2012/08/28/joel-stein-massage-arianna-huffington_n_1838018.html it wasn't  news 
+vistinghttp://www.defense.gov/news/rss/
+	the current length of the visited set is : 75
+crawled http://www.defense.gov/news/rss/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2013/06/06/company-wellness-programs-aetna-ceo_n_3398670.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2013/06/06/third-metric-conference-mind-body_n_3397456.html
+	the current length of the visited set is : 75
+vistinghttp://www.consumerreports.org/cro/index.htm
+	the current length of the visited set is : 75
+crawled http://www.consumerreports.org/cro/index.htm it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2013/06/07/26-things-every-woman-should-know-about-success_n_3404523.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/bill-clinton/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/bill-clinton/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/bill-clinton-heart-procedure/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/bill-clinton-heart-procedure/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/danny-kaye/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/danny-kaye/ it wasn't  news 
+vistinghttp://m.bloomberg.com/bba/android/bbanywhere.apk
+	the current length of the visited set is : 75
+vistinghttp://www.consumerreports.org/cro/car-prices/index.htm
+	the current length of the visited set is : 75
+crawled http://www.consumerreports.org/cro/car-prices/index.htm it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/denver/index.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/denver/index.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/alam-khan/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/alam-khan/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/national-endowment-for-the-arts/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/national-endowment-for-the-arts/ it wasn't  news 
+vistinghttps://ec.consumerreports.org/ec/cro/order.htm
+	the current length of the visited set is : 75
+crawled https://ec.consumerreports.org/ec/cro/order.htm it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/michele-bachmann/5/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/michele-bachmann/5/ it wasn't  news 
+vistinghttp://www.consumerreports.org/cro/car-prices/wyoming.htm
+	the current length of the visited set is : 75
+crawled http://www.consumerreports.org/cro/car-prices/wyoming.htm it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/cbs-this-morning/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/cbs-this-morning/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/simon-and-garfunkel/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/simon-and-garfunkel/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2007/12/06/cocacola-ceo-isdell-to-st_n_75573.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2007/12/06/cocacola-ceo-isdell-to-st_n_75573.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/the-sound-of-silence/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/the-sound-of-silence/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/john-sununu/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/john-sununu/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/congo/8/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/congo/8/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/congo/7/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/congo/7/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/congo/6/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/congo/6/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/congo/5/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/congo/5/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/oliver-koppell/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/oliver-koppell/ it wasn't  news 
+vistinghttp://www.nytimes.com/2010/11/06/world/africa/06congo.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/off-the-bus/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/off-the-bus/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/state-and-local-government/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/state-and-local-government/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/fcc/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/fcc/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/julius-genachowski/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/julius-genachowski/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/douglas-holtz-eakin/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/douglas-holtz-eakin/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/internet-freedom-act/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/internet-freedom-act/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/john-mccain/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/john-mccain/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/democrats/10/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/democrats/10/ it wasn't  news 
+vistinghttp://sunlightprojects.org/
+	the current length of the visited set is : 75
+crawled http://sunlightprojects.org/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/progressives/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/progressives/ it wasn't  news 
+vistinghttp://sunlightprojects.org/privacy/
+	the current length of the visited set is : 75
+crawled http://sunlightprojects.org/privacy/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/supreme-court/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/supreme-court/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/citizens-united/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/citizens-united/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/01/20/obama-gay-christian-bryan-fischer-_n_6509366.html
+	the current length of the visited set is : 75
+vistinghttp://sunlightprojects.org/past-clients/
+	the current length of the visited set is : 75
+crawled http://sunlightprojects.org/past-clients/ it wasn't  news 
+vistinghttp://sunlightprojects.org/focus-of-services/
+	the current length of the visited set is : 75
+crawled http://sunlightprojects.org/focus-of-services/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/puerto-rico/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/puerto-rico/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/laurence-watts/my-2012-lgbt-predictions-scorecard_b_2244091.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/zach-udko/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/zach-udko/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/how-to-apply-makeup/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/how-to-apply-makeup/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/how-to-do-makeup-without-brush/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/how-to-do-makeup-without-brush/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/richmond-great-bull-run/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/richmond-great-bull-run/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/20th-century-travel/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/20th-century-travel/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/helicopter-parents/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/helicopter-parents/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/racial-segregation/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/racial-segregation/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2008/03/18/our-pastors-keeper_n_92045.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/feeds/verticals/detroit/index.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/detroit/index.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/flogging-women/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/flogging-women/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/torah/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/torah/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/wires/2009/07/14/women-flogged-for-wearing_ws_231415.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/wires/2009/07/14/women-flogged-for-wearing_ws_231415.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/cbc/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/cbc/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/feeds/verticals/marlothomas/index.xml
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/feeds/verticals/marlothomas/index.xml it wasn't  news 
+vistinghttp://www.huffingtonpost.com/dr-matt-goldenberg-do-/4-simple-things-you-can-d_b_6501676.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/dr-matt-goldenberg-do-/4-simple-things-you-can-d_b_6501676.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/the-huffington-post/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/the-huffington-post/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/successful-women/
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/success/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/success/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/first-birthday-photos/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/first-birthday-photos/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/huffington-post-women/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/huffington-post-women/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/joel-stein/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/joel-stein/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/joel-stein-arianna-huffington-massage/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/joel-stein-arianna-huffington-massage/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/news/joel-stein-massage/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/joel-stein-massage/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2015/04/10/hillary-clinton-nonpolitical-facts_n_7021036.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/news/coke/
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/news/coke/ it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2009/01/08/gorillia-warfare-primates_n_156337.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2009/01/08/gorillia-warfare-primates_n_156337.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2010/11/07/hundreds-raped-on-congoan_n_780159.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2010/11/07/hundreds-raped-on-congoan_n_780159.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2010/11/22/jeanpierre-bemba-trial-co_n_786781.html
+	the current length of the visited set is : 75
+vistinghttp://www.huffingtonpost.com/2010/11/23/jeanpierre-bemba-trial-wi_n_787749.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2010/11/23/jeanpierre-bemba-trial-wi_n_787749.html it wasn't  news 
+vistinghttp://www.huffingtonpost.com/2010/12/10/human-rights-offenses-aro_n_794705.html
+	the current length of the visited set is : 75
+crawled http://www.huffingtonpost.com/2010/12/10/human-rights-offenses-aro_n_794705.html it wasn't  news 

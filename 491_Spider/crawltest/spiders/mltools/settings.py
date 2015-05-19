@@ -1,6 +1,12 @@
 from os import path
 import time
 
+#DEPTH_PRIORITY = 1
+#SCHEDULER_DISK_QUEUE = 'scrapy.squeue.PickleFifoDiskQueue'
+#SCHEDULER_MEMORY_QUEUE = 'scrapy.squeue.FifoMemoryQueue'
+
+featuresOn = True
+svmpickle = 'svmpickle.pkl'
 
 news_dir = path.abspath(r'C:\Users\William\Desktop\CS491Proj\Corpus\News')
 not_news_dir = path.abspath(r'C:\Users\William\Desktop\CS491Proj\Corpus\notNews')

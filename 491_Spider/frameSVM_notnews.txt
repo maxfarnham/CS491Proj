@@ -1,0 +1,42 @@
+http://privacy.aol.com/
+	outdegree : 22
+http://www.huffingtonpost.com/users/logout/
+	outdegree : 183
+http://elections.huffingtonpost.com/pollster
+	outdegree : 41
+http://www.huffingtonpost.com/social/
+	outdegree : 184
+http://elections.huffingtonpost.com/2014/results
+	outdegree : 9
+http://www.engadget.com/
+	outdegree : 168
+http://www.moviefone.com/
+	outdegree : 217
+https://twitter.com/HuffingtonPost
+	outdegree : 114
+http://privacy.aol.com/definitions
+	outdegree : 11
+http://www.huffingtonpost.com/big-news/
+	outdegree : 424
+http://www.aol.com/
+	outdegree : 185
+https://twitter.com/
+	outdegree : 82
+http://www.huffingtonpost.com/news/offthebus/
+	outdegree : 236
+http://privacy.aol.com/privacy-policy/
+	outdegree : 30
+http://www.aol.com/
+	outdegree : 185
+http://www.huffingtonpost.com/news/culture/
+	outdegree : 243
+http://www.huffingtonpost.com/news/trail-to-the-chief/
+	outdegree : 209
+http://www.aol.com/?mobile=true
+	outdegree : 184
+http://www.dailyfinance.com/2015/05/19/13simple-ways-stop-wasting-food-money/
+	outdegree : 154
+http://www.huffingtonpost.com/politics/
+	outdegree : 432
+http://www.huffingtonpost.com/2015/05/17/under-armour-iwo-jima_n_7302084.html
+	outdegree : 247

@@ -1,0 +1,8 @@
+http://www.huffingtonpost.com/2015/05/18/supreme-court-campaign-finance_n_7306210.html
+	outdegree : 229
+http://www.huffingtonpost.com/2015/05/18/bristol-palin-dakota-meyer-break-up_n_7307580.html
+	outdegree : 232
+http://www.huffingtonpost.com/
+	outdegree : 568
+http://www.huffingtonpost.com/scott-santens/self-driving-trucks-are-going-to-hit-us_b_7308874.html
+	outdegree : 283

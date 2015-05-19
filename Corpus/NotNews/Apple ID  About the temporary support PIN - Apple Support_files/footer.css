@@ -1,0 +1,2149 @@
+@charset "UTF-8";
+
+/*!========================================================================================================================
+//
+// ToolKit core module (requied)
+//
+========================================================================================================================*/
+/**
+ * The `base-font-size` is what's used when calculating `em()`s.
+ *
+ * @group settings
+ * @type Number
+ * @access public
+ */
+/**
+ * The default border-radius for components
+ *
+ * @group settings
+ * @type Number
+ * @access public
+ */
+/**
+ * The default color of text
+ *
+ * @group settings
+ * @type Color
+ * @access public
+ *
+ * @todo Deprecate this
+ */
+/**
+ * The default color of links
+ *
+ * @group settings
+ * @type Color
+ * @access public
+ *
+ * @todo Deprecate this
+ */
+/**
+ * The default color of the background
+ *
+ * @group settings
+ * @type Color
+ * @access public
+ *
+ * @todo Deprecate this
+ */
+/**
+ * Whether or not the project has JS-based feature detection
+ *
+ * @group settings
+ * @type Boolean
+ * @access public
+ */
+/**
+ * A map containing the names and paths to places assets could live. Defaults to false as this must be set on a per-project basis
+ *
+ * @group settings
+ * @type {Map|Boolean}
+ * @access public
+ */
+/**
+ * The class to use for IE7
+ *
+ * @group ie
+ *
+ * @type String
+ *
+ * @access public
+ *
+ */
+/**
+ * The class to use for IE8
+ *
+ * @group ie
+ *
+ * @type String
+ *
+ * @access public
+ *
+ */
+/**
+ * Output styles only for IE7/8
+ *
+ * @group ie
+ *
+ * @access public
+ *
+ * @requires $ie7-selector
+ * @requires $ie8-selector
+ *
+ */
+/**
+ * Output styles only for IE7
+ *
+ * @group ie
+ *
+ * @access public
+ *
+ * @requires $ie7-selector
+ *
+ */
+/**
+ * Output styles only for IE8
+ *
+ * @group ie
+ *
+ * @access public
+ *
+ * @requires $ie8-selector
+ *
+ */
+/**
+ * IE7 hack for the `inherit` value. Uses expressions.
+ *
+ * @group ie
+ *
+ * @access public
+ *
+ * @param {String} $property - CSS property  whose value should be set to `inherit`
+ *
+ * @requires {mixin} ie7
+ *
+ */
+/**
+ * IE7 hack for the `inline-block`.
+ *
+ * @group ie
+ *
+ * @access public
+ *
+ * @requires {mixin} ie7
+ *
+ */
+/**
+ * Removes units from a value
+ *
+ * @group utilities
+ *
+ * @param {Number} $value
+ *
+ * @return {Number} Value without units
+ *
+ */
+/**
+ * Converts a Number to em units
+ *
+ * @group utilities
+ *
+ * @param {Number} $value
+ * @param {Number} $context ($base-font-size)
+ *
+ * @requires $base-font-size
+ * @requires strip-units
+ *
+ * @return {Number} The $value converted to em's
+ *
+ */
+/**
+ * Converts a Number to rem units
+ *
+ * @group utilities
+ *
+ * @param {Number} $value
+ *
+ * @requires strip-units
+ * @requires em
+ *
+ * @return {Number} The $value converted to rem's
+ *
+ */
+/**
+ * Returns the first item in a list
+ *
+ * @group utilities
+ *
+ * @param {List} $list
+ *
+ * @return {Number | String | Color | Boolean | List | Map} First value in the list
+ *
+ */
+/**
+ * Returns the last item in a list
+ *
+ * @group utilities
+ *
+ * @param {List} $list
+ *
+ * @return {Number | String | Color | Boolean | List | Map} Last value in the list
+ *
+ */
+/**
+ * Converts rgba/hsla to an opaque color
+ *
+ * @group utilities
+ *
+ * @param {Color} $alpha - The alpha color
+ * @param {Boolean | Color} $mix (false) - A color to mix with
+ *
+ * @return {Color} An opaque color
+ *
+ */
+/**
+ * Get the full path of an asset with a base path from `$path-urls`
+ *
+ * @param {String} $asset - The relative asset path
+ * @param {String} $base ('default') - Which base path to use
+ *
+ * @return {String} A full asset path
+ *
+ */
+/**
+ * Get the full `url()` of an asset with a base path from `$path-urls`
+ *
+ * @param {String} $asset - The relative asset path
+ * @param {String} $base ('default') - Which base path to use
+ *
+ * @requires path
+ *
+ * @return {String} A full asset path wraped in `url()`
+ *
+ */
+/**
+ * Convenience method for setting a key-value pair in an existing map
+ *
+ * @group utilities
+ *
+ * @param {Map} $map - An existing map
+ * @param {String} $key - The value's key
+ * @param {Number | String | Color | Boolean | List | Map} $value - The value
+ *
+ * @returns {Map} A new map with the additional key-value pair
+ *
+ */
+/**
+ * Center an element or offset it if it's large than the content-width
+ *
+ * @group helpers
+ *
+ * @access public
+ *
+ * @param {Boolean|Number} $width (false) - width of element to be centered
+ * @param {Number} $content-width (980px ) - width of parent element
+ */
+/**
+ * Center an element and the text within it
+ *
+ * @group helpers
+ *
+ * @access public
+ *
+ * @param {Boolean|Number} $width (false) - width of element to be centered
+ * @param {Number} $content-width (980px) - width of parent element
+ *
+ * @requires {mixin} center
+ *
+ */
+/**
+ * Self clear an element (a clearfix)
+ *
+ * @group helpers
+ *
+ * @access public
+ *
+ * @link https://nicolasgallagher.com/micro-clearfix-hack/
+ */
+/**
+ * Visually hide an element
+ *
+ * @group helpers
+ *
+ * @access public
+ *
+ */
+/**
+ * Hide text for image replacement
+ *
+ * @group helpers
+ *
+ * @access public
+ *
+ */
+/**
+ * CSS3 cursor fallbacks
+ *
+ * @group helpers
+ *
+ * @access public
+ *
+ * @param {String} $value - cursor property value
+ *
+ */
+/**
+ * Add a selector on the `html` element
+ *
+ * @group helpers
+ *
+ * @access public
+ *
+ * @param {String} $selector - selector to append to the HTML element
+ *
+ */
+/**
+ * Target SVG Support
+ *
+ * @group helpers
+ *
+ * @access public
+ *
+ * @param {Boolean} $support  (true) - False for `.no-svg`
+ *
+ */
+/**
+ * Target Touch Devices
+ *
+ * @group helpers
+ *
+ * @access public
+ *
+ * @param {Boolean} $support (true) -  False for `.no-touch`
+ *
+ */
+/**
+ * Mouse-hover only, ingnore touch events
+ *
+ * @group helpers
+ *
+ * @access public
+ */
+/**
+ *
+ * 1. Media queries in em's are always relative to 16px,
+ * regardless of the <html> or <body> font size
+ *
+ * @group media
+ *
+ */
+/**
+ * Returns a string for min-width conditions
+ *
+ * @group media
+ *
+ * @param {Number} $width - The width
+ *
+ * @returns {String}
+ *
+ */
+/**
+ * Returns a string for max-width conditions
+ *
+ * @group media
+ *
+ * @param {Number} $width - The width
+ *
+ * @returns {String}
+ *
+ */
+/**
+ * Returns a string for min-height conditions
+ *
+ * @group media
+ *
+ * @param {Number} $height - The height
+ *
+ * @returns {String}
+ *
+ */
+/**
+ * Returns a string for max-height conditions
+ *
+ * @group media
+ *
+ * @param {Number} $height - The height
+ *
+ * @returns {String}
+ *
+ */
+/**
+ * Returns a string for portrait conditions
+ *
+ * @group media
+ *
+ * @returns {String}
+ *
+ */
+/**
+ * Returns a string for landscape conditions
+ *
+ * @group media
+ *
+ * @returns {String}
+ *
+ */
+/**
+ * Returns a string for retina conditions
+ *
+ * @group media
+ *
+ * @returns {List}
+ *
+ */
+/**
+ * Output a media query with the specified conditions
+ *
+ * @group media
+ *
+ * @param {String} $query - The media query conditions
+ * @param {Boolean} $screen (true) - Add `only screen` condition
+ *
+ */
+/**
+ * Apply CSS only to viewports of max-width
+ *
+ * @group media
+ *
+ * @param {Number} $width - The max-width of the viewport
+ *
+ * @requires {mixin} media
+ * @requires max-width
+ *
+ */
+/**
+ * Apply CSS only to viewports of min-width
+ *
+ * @group media
+ *
+ * @param {Number} $width - The min-width of the viewport
+ *
+ * @requires {mixin} media
+ * @requires min-width
+ *
+ */
+/**
+ * Apply CSS only to viewports of max-height
+ *
+ * @group media
+ *
+ * @param {Number} $height - The max-height of the viewport
+ *
+ * @requires {mixin} media
+ * @requires max-height
+ *
+ */
+/**
+ * Apply CSS only to viewports of min-height
+ *
+ * @group media
+ *
+ * @param {Number} $height - The min-height of the viewport
+ *
+ * @requires {mixin} media
+ * @requires min-height
+ *
+ */
+/**
+ * Apply CSS only to viewports in portrait orientation
+ *
+ * @group media
+ *
+ * @requires {mixin} media
+ * @requires portrait
+ *
+ */
+/**
+ * Apply CSS only to viewports in landscape orientation
+ *
+ * @group media
+ *
+ * @requires {mixin} media
+ * @requires landscape
+ *
+ */
+/**
+ * The base-width for viewports. This determines whether to us `min-width` or `max-width` when using `viewport()`
+ * @group viewports
+ * @type Number
+ * @access public
+ */
+/**
+ * Use percentages for this viewport (and down)
+ * @group viewports
+ * @type List
+ * @access public
+ */
+/**
+ * Each viewport defintion includes a `width` and `content-width` for that viewport. Optionally a custom `query` can be defined, as well as being able to __always__ output styles for IE `oldie:true`
+ *
+ * @group viewports
+ *
+ * @type Viewport Dictionary
+ *
+ * @access private
+ *
+ * @param {Number} $width - Viewport width; min/max determined from base width; can be a range with `to` or `through`
+ * @param {Number} $width - Content width for the viewport-content() mixin
+ * @param {String|Boolean} $query - A custom query or `false` for no media query
+ * @param {Boolean} $oldie - `@content` for this viewport should always apply for oldie
+ */
+/**
+ * Check if a viewport with the given name exists
+ *
+ * @group viewports
+ *
+ * @access public
+ *
+ * @param {String} $name - the name of the viewport
+ *
+ * @requires $-viewports
+ *
+ * @returns {Boolean} - Whether the viewport exists or not
+ */
+/**
+ * Get viewport of a given name
+ *
+ * @group viewports
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the viewport
+ *
+ * @requires $-viewports
+ * @requires viewport-exists
+ *
+ * @returns {Map|Boolean} - Viewport or False
+ */
+/**
+ * Get dpr for a viewport of a given name
+ *
+ * @group viewports
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the viewport
+ *
+ * @requires $-viewports
+ * @requires viewport-exists
+ *
+ * @returns {String|Boolean} - dpr or False
+ */
+/**
+ * Add a viewport to the Viewports Dictionary
+ *
+ * @group viewports
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the viewport
+ * @param {Map} $properties - A map of viewport properties
+ *
+ * @requires map-set
+ * @requires $-viewports
+ *
+ */
+/**
+ * Remove a viewport from the Viewports Dictionary
+ *
+ * @group viewports
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the viewport
+ *
+ * @requires $-viewports
+ *
+ */
+/**
+ * Outputs the CSS at a viewport
+ *
+ * @group viewports
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the viewport
+ *
+ * @requires viewport-get
+ * @requires $viewport-base-width
+ * @requires {mixin} media
+ * @requires {mixin} supports-touch
+ *
+ */
+/**
+ * Outputs the CSS property at each viewport
+ *
+ * @group viewports
+ *
+ * @access public
+ *
+ * @param {String} $property - The name of the property
+ * @param {Map} $values - The values in the form `viewport: value`
+ *
+ * @requires viewport-exists
+ * @requires {mixin} viewport
+ *
+ */
+/**
+ * Get the min-width of a viewport
+ *
+ * @group viewports
+ *
+ * @param {String} $name - name of viewport
+ *
+ * @requires viewport-exists
+ * @requires viewport-get
+ *
+ */
+/**
+ * Get the max-width of a viewport
+ *
+ * @group viewports
+ *
+ * @param {String} $name - name of viewport
+ *
+ * @requires viewport-exists
+ * @requires viewport-get
+ *
+ */
+/**
+ * Sets the width of the element to the content-width at each viewport
+ *
+ * @group viewports
+ *
+ * @access public
+ *
+ * @requires $-viewports
+ * @requires {mixin} viewport-property
+ *
+ */
+/**
+ * Gets the content width for a specific viewport
+ *
+ * @group viewports
+ *
+ * @access public
+ *
+ * @requires $-viewports
+ * @requires {function} viewport-get
+ *
+ * @returns {Number|String} - Viewport content width or "auto" if viewport is not defined
+ *
+ */
+/**
+ * Gets the content padding for a specific viewport
+ *
+ * @group viewports
+ *
+ * @access public
+ *
+ * @param {String | List} $name - name of viewport
+ *
+ * @requires viewport-exists
+ * @requires viewport-get
+ * @requires viewport-get-min
+ * @requires viewport-get-max
+ * @requires viewport-content-width-for
+ * @requires $viewports-flexible-from
+ *
+ */
+/**
+ * The number of columns to use in the outputted grid
+ * @group grid
+ * @type Number
+ * @access public
+ */
+/**
+ * The column float direction
+ * @group grid
+ * @type Number
+ * @access public
+ */
+/**
+ * The column class name
+ * @group grid
+ * @type String
+ * @access public
+ */
+/**
+ * Row width
+ * @group grid
+ * @type Percentage
+ * @access private
+ */
+/**
+ * Row width for IE&/8 (oldie)
+ * @group grid
+ * @type Percentage
+ * @access private
+ */
+/**
+ * Make your own grid system
+ *
+ * @group grid
+ *
+ * @access public
+ *
+ * @param {Number} $columns ($grid-columns) -  Number of columns
+ * @param {String} $class ($grid-default-class) - Class to denote columns
+ * @param {String} $oldie ($grid-oldie-class) - Class name for columns in IE7/8
+ *
+ */
+/**
+ * Include column widths on an element without using the grid system's classes
+ *
+ * @group grid
+ *
+ * @access public
+ *
+ * @param {Number} $column-count ($grid-columns) - Width of the column in _n_ columns
+ * @param {Number} $total-columns ($grid-columns) - Total number of columns in the grid
+ * @param {String} $oldie ($grid-oldie-class) - Class name for columns in IE7/8
+ *
+ * @requires $grid-column-float
+ * @requires $grid-full-width
+ * @requires $grid-full-width-oldie
+ *
+ */
+/**
+ * Create a new row without using the grid system's classes
+ *
+ * @group grid
+ *
+ * @access public
+ *
+ */
+/**
+ * Helpers for show/hide and auto positioning classes.
+ *
+ * @group grid
+ *
+ * @access public
+ *
+ * @param {String} $class ($grid-default-class) - The prefix for the helper classes
+ *
+ */
+/**
+ * Each image defintion is a map of supported viewports for that image key. Each of those maps contain a `src`, `width` and `height` property.
+ *
+ * @group images
+ *
+ * @type Image Dictionary
+ *
+ * @access private
+ *
+ */
+/**
+ * Check if a image with the given name exists
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - the name of the image
+ *
+ * @requires $-images
+ *
+ * @returns {Boolean} - Whether the images exists or not
+ */
+/**
+ * Check if a image by the given name exists for a given type (usually viewport-name or svg)
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ * @param {String} $type - The name of the viewport or 'svg'
+ *
+ * @requires $-images
+ * @requires image-get
+ *
+ * @returns {Boolean} - Whether the images exists or not
+ */
+/**
+ * Get image data for a given name
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ *
+ * @requires -images
+ * @requires image-exists
+ *
+ * @returns {Map|Boolean} - Image object or False
+ */
+/**
+ * Get image data for a given name and a given type (usually a viewport or 'svg')
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ * @param {String} $type - The name of the viewport or 'svg'
+ *
+ * @requires image-get
+ * @requires image-exists-for
+ *
+ * @returns {Map|Boolean} - Image object or False
+ */
+/**
+ * Get the width for a given image of a given type (usually viewport-name or 'svg')
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ * @param {String} $type - The name of the viewport or 'svg'
+ *
+ * @requires image-get-for
+ * @requires image-exists-for
+ *
+ * @returns {Number|Boolean} - Image width or False
+ */
+/**
+ * Get the height for a given image of a given type (usually viewport-name or 'svg')
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ * @param {String} $type - The name of the viewport or 'svg'
+ *
+ * @requires image-get-for
+ * @requires image-exists-for
+ *
+ * @returns {Number|Boolean} - Image height or False
+ */
+/**
+ * Get the src for a given image of a given type (usually viewport-name or 'svg')
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ * @param {String} $type - The name of the viewport or 'svg'
+ *
+ * @requires image-get-for
+ * @requires image-exists-for
+ *
+ * @returns {String|Boolean} - Image src or False
+ */
+/**
+ * Check if a 2x asset exists for a given image and viewport
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ * @param {String} $type - The name of the viewport or 'svg'
+ *
+ * @requires image-get-for
+ * @requires image-exists-for
+ *
+ * @returns {Boolean} - Image src or False
+ */
+/**
+ * Get the 2x-src for a given image of a given viewport
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ * @param {String} $type - The name of the viewport or 'svg'
+ *
+ * @requires image-get-for
+ * @requires image-exists-for
+ *
+ * @returns {String|Boolean} - Image src or False
+ */
+/**
+ * Output the image dimensions for a given image name at each viewport
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ *
+ * @requires image-exists
+ * @requires image-exists-for
+ * @requires image-width-for
+ * @requires image-height-for
+ * @requires $-viewports
+ * @requires {mixin} viewport
+ *
+ */
+/**
+ * Add an image to the Image Dictionary of a type (usually viewport-name or 'svg')
+ *
+ * @group images
+ *
+ * @access private
+ *
+ * @param {String} $name - The name of the image
+ * @param {String} $type - The name of the viewport
+ * @param {Map} $properties - The image properties (`src`, `width`, `height`)
+ *
+ * @requires $-images
+ * @requires image-exists
+ * @requires image-exists-for
+ * @requires image-get
+ * @requires map-set
+ *
+ * @returns {Image Dictionary}
+ */
+/**
+ * Add an image to the Image Dictionary
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ * @param {Map} $attributes - A map of viewports, each containing a map of image properties (`src`, `width`, `height`) for that viewport
+ *
+ * @requires image-add-of-type
+ *
+ */
+/**
+ * Output retina media query with _2x image path
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $path - The path to the image
+ *
+ * @requires {mixin} retina
+ *
+ */
+/**
+ * Output size for element with background-image
+ *
+ * @group images
+ *
+ * @param {Number} $width - The width of the image
+ * @param {Number} $height - The height of the image
+ * @param {Boolean} $size - Should we make the size of the element the size of the image
+ * @param {Boolean} $center - Should we center the element in the content width. (Requires content-width to be passed.)
+ * @param {Number} $viewport-content-width - The content width of a viewport
+ * @access private
+ *
+ * @requires {mixin} retina
+ *
+ */
+/**
+ * Generates the CSS for a background image at each viewport
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ * @param {Boolean} $size (true) - Output the image size. Defaults to true.
+ * @param {Boolean} $center (false) - Center image in each viewport. Defaults to false.
+ *
+ * @requires $-viewports
+ * @requires {mixin} viewport
+ * @requires viewport-dpr
+ * @requires image-exists
+ * @requires image-exists-for
+ * @requires image-width-for
+ * @requires image-height-for
+ * @requires image-src-for
+ * @requires center
+ *
+ * @todo Use `image-get-for` instead of `map-get($image, $viewport-name)`
+ */
+/**
+ * Generates the CSS for a SVG background image at each viewport
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the image
+ * @param {String} $sizes - Map of the image ratios at each viewport (xlarge: 1.2, large: 1, medium: .7, small: .4, xsmall: .3 )
+ * @param {Boolean} $size (true) - Output the image size. Defaults to true.
+ * @param {Boolean} $center (false) - Center image in each viewport. Defaults to false.
+ *
+ * @requires $-viewports
+ * @requires {mixin} viewport
+ * @requires image-exists
+ * @requires image-exists-for
+ * @requires image-width-for
+ * @requires image-height-for
+ * @requires image-src-for
+ * @requires center
+ *
+ * @todo Use `image-get-for` instead of `map-get($image, $viewport-name)`
+ */
+/**
+ * Generates the CSS for a SVG headline based upon defined typography sizes
+ *
+ * @group images
+ *
+ * @access public
+ *
+ * @param {String} $image - The name of the image
+ * @param {String} $typography-style-name - The name of the typography style to grab ratios from
+ * @param {Boolean} $default (large) - The default viewport size (native SVG size)
+ *
+ * @requires $-viewports
+ * @requires {mixin} image-svg
+ * @requires typography-get-fontsize-withoutunit-for
+ *
+ */
+/**
+ * Apply CSS only to retina devices
+ *
+ * @group retina
+ *
+ */
+/**
+ * AC Retina Equivalent Media Query
+ *
+ * @group retina
+ *
+ */
+/**
+ * A list of font stacks to use for different locales
+ *
+ * @group typography
+ *
+ * @type Map
+ *
+ * @access private
+ *
+ */
+/**
+ * Outputs font-family with the correct Applecom font stack for all locales
+ *
+ * @group typography
+ *
+ * @access public
+ *
+ */
+/**
+ * Outputs font-weight with IE support
+ *
+ * @group typography
+ *
+ * @access public
+ *
+ * @param {String} $weight - The desired font-weight
+ *
+ */
+/**
+ * Each typography defintion is a map of supported viewports for that typography key. Each of those maps contain the properties for that type style (each property maps to a CSS property.)
+ *
+ * @group typography
+ *
+ * @type Typography Dictionary
+ *
+ * @access private
+ *
+ */
+/**
+ * Check if a typography style with the given name exists
+ *
+ * @group typography
+ *
+ * @access public
+ *
+ * @param {String} $name - the name of the typography style
+ *
+ * @requires $-typography
+ *
+ * @returns {Boolean} - Whether the typography style exists or not
+ */
+/**
+ * Check if a typography style by the given name exists for a given viewport
+ *
+ * @group typography
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the typography style
+ * @param {String} $viewport - The name of the viewport
+ *
+ * @requires $-typography
+ * @requires typography-get
+ *
+ * @returns {Boolean} - Whether the typography style exists or not
+ */
+/**
+ * Get typography style of a given name
+ *
+ * @group typography
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the typography style
+ *
+ * @requires $-typography
+ * @requires typography-exists
+ *
+ * @returns {Map|Boolean} - Typography Style or False
+ */
+/**
+ * Get a unitless font-size for a style of a given name for a given viewport
+ *
+ * @group typography
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the typography style
+ * @param {String} $viewport-name - The name of the viewport
+ *
+ * @requires typography-get
+ *
+ * @returns {Number} - Unitless font-size for type-style at a given viewport.
+ */
+/**
+ * Add a typography style to the Typography Dictionary for a particular viewport
+ *
+ * @group typography
+ *
+ * @access private
+ *
+ * @param {String} $name - The name of the typography style
+ * @param {String} $viewport - The name of the viewport
+ * @param {Map} $styles - The style properties (`font-size`, `line-height`, `font-weight`)
+ *
+ * @requires $-typography
+ * @requires typography-exists
+ * @requires typography-exists-for-viewport
+ * @requires typography-get
+ * @requires map-set
+ *
+ * @todo Use `typography-get-for-viewport` instead of `map-get(typography-get($name), $viewport)`
+ *
+ * @returns {Typography Dictionary}
+ */
+/**
+ * Add a typography style to the Typography Dictionary
+ *
+ * @group typography
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the typography style
+ * @param {Map|List} $styles - A map of viewports, each containing a map of style properties (`font-size:`, `line-height:`, `font-weight:`) for that viewport or a list of 2x pt values from the PSD _(font size, line-height, font weight)_.
+ *
+ * @requires typography-add-to-viewport
+ *
+ */
+/**
+ * Generates the CSS for a typography style at each viewport
+ *
+ * @group typography
+ *
+ * @access public
+ *
+ * @param {String} $name - The name of the typography style
+ *
+ * @requires $-viewports
+ * @requires {mixin} viewport
+ * @requires typography-get
+ * @requires typography-exists-for-viewport
+ *
+ * @todo Use `typography-get-for-viewport` instead of `map-get($typography-styles, $viewport-name)`
+ */
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*!========================================================================================================================
+//
+// Icons - required
+//
+======================================================================================================================== */
+
+@font-face {
+  font-family: 'Apple Icons';
+  font-style: normal;
+  font-weight: 100;
+  src: url("/static_resources/fonts/AppleIcons-Ultralight.eot");
+  src: url("/static_resources/fonts/AppleIcons-Ultralight.eot?#iefix") format("embedded-opentype"), url("/static_resources/fonts/AppleIcons-Ultralight.woff") format("woff"), url("/static_resources/fonts/AppleIcons-Ultralight.ttf") format("truetype"); }
+@font-face {
+  font-family: 'Apple Icons';
+  font-style: normal;
+  font-weight: 200;
+  src: url("/static_resources/fonts/AppleIcons-Thin.eot");
+  src: url("/static_resources/fonts/AppleIcons-Thin.eot?#iefix") format("embedded-opentype"), url("/static_resources/fonts/AppleIcons-Thin.woff") format("woff"), url("/static_resources/fonts/AppleIcons-Thin.ttf") format("truetype"); }
+@font-face {
+  font-family: 'Apple Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url("/static_resources/fonts/AppleIcons-Text.eot");
+  src: url("/static_resources/fonts/AppleIcons-Text.eot?#iefix") format("embedded-opentype"), url("/static_resources/fonts/AppleIcons-Text.woff") format("woff"), url("/static_resources/fonts/AppleIcons-Text.ttf") format("truetype"); }
+.icon, .more, .breadcrumbs-list > li {
+  behavior: url("https://www.apple.com/support/assets/behaviors/icons.htc");
+}
+.icon:before, .more:before, .breadcrumbs-list > li:before {
+  display: none;
+  padding-right: 0.3em;
+}
+.icon:after, .more:after, .breadcrumbs-list > li:after {
+  display: inline-block;
+  padding-left: 0.3em;
+}
+.icon .icon-htc, .more .icon-htc, .breadcrumbs-list > li .icon-htc {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+.icon:before, .more:before, .breadcrumbs-list > li:before, .icon:after, .more:after, .breadcrumbs-list > li:after,
+.icon .icon-htc,
+.more .icon-htc,
+.breadcrumbs-list > li .icon-htc {
+  color: inherit;
+  font-family: 'Apple Icons';
+  font-style: normal;
+  font-weight: inherit;
+  font-size: 1em;
+  line-height: 1;
+  text-decoration: none;
+  position: relative;
+  z-index: 1;
+}
+
+.icon-before:before, .breadcrumbs-list > li:before {
+  display: inline-block;
+  position: relative;
+  top: -0.125em; }
+.icon-before:after, .breadcrumbs-list > li:after {
+  display: none; }
+
+.icon-ie-parent:link {
+  text-decoration: none; }
+  .no-js .icon-ie-parent:link:hover {
+    text-decoration: none; }
+    .no-js .icon-ie-parent:link:hover .icon-ie-link {
+      text-decoration: underline; }
+  html.no-touch .icon-ie-parent:link:hover {
+    text-decoration: none; }
+    html.no-touch .icon-ie-parent:link:hover .icon-ie-link {
+      text-decoration: underline; }
+
+
+
+.icon-apple:before, .icon-apple:after {
+  content: ""; }
+
+.icon-more:before, .more:before, .icon-more:after, .more:after {
+  content: ""; }
+
+.icon-chevronright:before, .icon-chevronright:after {
+  content: ""; }
+
+.icon-chevronrightalt:before, .icon-chevronrightalt:after {
+  content: ""; }
+
+.icon-chevrondown:before, .icon-chevrondown:after {
+  content: ""; }
+
+.icon-chevrondownalt:before, .icon-chevrondownalt:after {
+  content: ""; }
+
+.icon-chevronleft:before, .icon-chevronleft:after {
+  content: ""; }
+
+.icon-chevronleftalt:before, .icon-chevronleftalt:after {
+  content: ""; }
+
+.icon-chevronup:before, .icon-chevronup:after {
+  content: ""; }
+
+.icon-chevronupalt:before, .icon-chevronupalt:after {
+  content: ""; }
+
+.icon-close:before, .icon-close:after {
+  content: ""; }
+
+.icon-closealt:before, .icon-closealt:after {
+  content: ""; }
+
+.icon-closeinlinealt:before, .icon-closeinlinealt:after {
+  content: ""; }
+
+.icon-download:before, .icon-download:after {
+  content: ""; }
+
+.icon-downloadalt:before, .icon-downloadalt:after {
+  content: ""; }
+
+.icon-external:before, .icon-external:after {
+  content: ""; }
+
+.icon-info:before, .icon-info:after {
+  content: ""; }
+
+.icon-list:before, .icon-list:after {
+  content: ""; }
+
+.icon-paddledown:before, .icon-paddledown:after {
+  content: ""; }
+
+.icon-paddleleft:before, .icon-paddleleft:after {
+  content: ""; }
+
+.icon-paddleright:before, .breadcrumbs-list > li:before, .icon-paddleright:after, .breadcrumbs-list > li:after {
+  content: ""; }
+
+.icon-paddleup:before, .icon-paddleup:after {
+  content: ""; }
+
+.icon-pause:before, .icon-pause:after {
+  content: ""; }
+
+.icon-play:before, .icon-play:after {
+  content: ""; }
+
+.icon-playalt:before, .icon-playalt:after {
+  content: ""; }
+
+.icon-replay:before, .icon-replay:after {
+  content: ""; }
+
+.icon-zoom:before, .icon-zoom:after {
+  content: ""; }
+
+.icon-grid:before, .icon-grid:after {
+  content: ""; }
+
+.icon-checkalt:before, .icon-checkalt:after {
+  content: ""; }
+
+chevronright:before, .icon-chevronright:after {
+  content: ""; }
+
+.icon-chevronrightalt:before, .icon-chevronrightalt:after {
+  content: ""; }
+
+.icon-chevrondown:before, .icon-chevrondown:after {
+  content: ""; }
+
+.icon-chevrondownalt:before, .icon-chevrondownalt:after {
+  content: ""; }
+
+.icon-chevronleft:before, .icon-chevronleft:after {
+  content: ""; }
+
+.icon-chevronleftalt:before, .icon-chevronleftalt:after {
+  content: ""; }
+
+.icon-chevronup:before, .icon-chevronup:after {
+  content: ""; }
+
+.icon-chevronupalt:before, .icon-chevronupalt:after {
+  content: ""; }
+
+.icon-close:before, .icon-close:after {
+  content: ""; }
+
+.icon-closealt:before, .icon-closealt:after {
+  content: ""; }
+
+.icon-closeinlinealt:before, .icon-closeinlinealt:after {
+  content: ""; }
+
+.icon-download:before, .icon-download:after {
+  content: ""; }
+
+.icon-downloadalt:before, .icon-downloadalt:after {
+  content: ""; }
+
+.icon-external:before, .icon-external:after {
+  content: ""; }
+
+.icon-info:before, .icon-info:after {
+  content: ""; }
+
+.icon-list:before, .icon-list:after {
+  content: ""; }
+
+.icon-paddledown:before, .icon-paddledown:after {
+  content: ""; }
+
+.icon-paddleleft:before, .icon-paddleleft:after {
+  content: ""; }
+
+.icon-paddleright:before, .breadcrumbs-list > li:before, .icon-paddleright:after, .breadcrumbs-list > li:after {
+  content: ""; }
+
+.icon-paddleup:before, .icon-paddleup:after {
+  content: ""; }
+
+.icon-pause:before, .icon-pause:after {
+  content: ""; }
+
+.icon-play:before, .icon-play:after {
+  content: ""; }
+
+.icon-playalt:before, .icon-playalt:after {
+  content: ""; }
+
+.icon-replay:before, .icon-replay:after {
+  content: ""; }
+
+.icon-zoom:before, .icon-zoom:after {
+  content: ""; }
+
+.icon-grid:before, .icon-grid:after {
+  content: ""; }
+
+.icon-checkalt:before, .icon-checkalt:after {
+  content: ""; }
+
+.more-block {
+  margin-top: 0.5em; }
+
+.list-square {
+  list-style: square outside; }
+
+.list-circle {
+  list-style: circle outside; }
+
+.list-disc {
+  list-style: disc outside; }
+
+
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*!========================================================================================================================
+//
+// Footer
+
+========================================================================================================================*/
+
+.sosumi {
+  color: #999999; }
+  .sosumi a {
+    color: #666666; }
+    .no-js .sosumi a:hover {
+      text-decoration: underline; }
+    html.no-touch .sosumi a:hover {
+      text-decoration: underline; }
+  .sosumi ol, .sosumi ul {
+    margin: 0;
+    padding-right: 16px;
+    padding-left: 16px;
+    list-style-position: outside; }
+  .sosumi ul {
+    list-style: none;
+    margin-right: -16px;
+    margin-left: -16px; }
+  .sosumi li {
+    padding-bottom: 5px; }
+  .sosumi p, .sosumi li {
+    font-size: 12px;
+    line-height: 1.33333;
+    font-weight: 400; }
+  .sosumi small {
+    font-size: 1em; }
+  .footer-wrapper .sosumi {
+    max-width: 980px;
+    padding: 16px 0 11px;
+    border-bottom: 1px solid #e3e3e3;
+    margin-left: auto;
+    margin-right: auto; }
+    @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+      .footer-wrapper .sosumi {
+        width: auto;
+        padding-left: 5%;
+        padding-right: 5%; } }
+    html.oldie .footer-wrapper .sosumi {
+      max-width: 948px;
+      padding-right: 16px;
+      padding-left: 16px; }
+      html.oldie .footer-wrapper .sosumi ul {
+        padding-right: 0;
+        padding-left: 0; }
+
+.footer-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  background: #f2f2f2;
+  padding-left: 22px;
+  padding-right: 22px; }
+  .footer-wrapper:before, .footer-wrapper:after {
+    content: " ";
+    display: table; }
+  .footer-wrapper:after {
+    clear: both; }
+  html.oldie .footer-wrapper {
+    zoom: 1; }
+  @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .footer-wrapper {
+      padding-left: 0;
+      padding-right: 0; } }
+
+.footer-global {
+  max-width: 980px;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  color: #999999;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  line-height: 1;
+  font-size: 1em; }
+  .footer-global:before, .footer-global:after {
+    content: " ";
+    display: table; }
+  .footer-global:after {
+    clear: both; }
+  html.oldie .footer-global {
+    zoom: 1; }
+  .footer-global a {
+    color: #666666; }
+    .no-js .footer-global a:hover {
+      color: #333333; }
+    html.no-touch .footer-global a:hover {
+      color: #333333; }
+  @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .footer-global {
+      width: auto;
+      padding-left: 5%;
+      padding-right: 5%; } }
+
+.footer-breadory {
+  border-bottom: 1px solid #e3e3e3;
+  margin-bottom: 22px;
+  position: relative;
+  line-height: 1.38889; }
+  .footer-breadory:before, .footer-breadory:after {
+    content: " ";
+    display: table; }
+  .footer-breadory:after {
+    clear: both; }
+  html.oldie .footer-breadory {
+    zoom: 1; }
+  @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .footer-breadory:after {
+      content: "";
+      display: block;
+      width: 100%;
+      height: 10px;
+      background: #f2f2f2;
+      top: 32px;
+      position: absolute;
+      left: 0;
+      z-index: 1; } }
+
+.breadcrumbs {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  white-space: nowrap;
+  direction: rtl; }
+  html.oldie .breadcrumbs {
+    overflow: visible; }
+@media only screen and (max-width: 735px) and (max-device-width: 768px) and (orientation: portrait) {
+  .breadcrumbs {
+    display: inline-block; } }
+
+.breadcrumbs-list {
+  color: #666666;
+  padding-bottom: 16px;
+  float: right;
+  min-width: 100%;
+  direction: ltr; }
+  .breadcrumbs-list:before, .breadcrumbs-list:after {
+    content: " ";
+    display: table; }
+  .breadcrumbs-list:after {
+    clear: both; }
+  html.oldie .breadcrumbs-list {
+    zoom: 1; }
+  .breadcrumbs-list > li:first-child {
+    margin-left: 12px; }
+    @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+      .breadcrumbs-list > li:first-child {
+        margin-left: 32px; }
+        .breadcrumbs-list > li:first-child:before {
+          display: none; } }
+  .breadcrumbs-list > li {
+    font-size: 12px;
+    line-height: 2;
+    font-weight: 400;
+    display: inline-block;
+    padding-left: 0.8em;
+    white-space: nowrap; }
+    @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+      .breadcrumbs-list > li {
+        font-size: 14px;
+        line-height: 2;
+       /*   font-weight: 600; removed as fix for <rdar://problem/20045142>*/  } }
+    html.oldie .breadcrumbs-list > li {
+      display: block;
+      float: left;
+      margin-left: 14px;
+      margin-top: 2px; }
+    .breadcrumbs-list > li a {
+      color: #666666; }
+      .no-js .breadcrumbs-list > li a:hover {
+        color: #333333;
+        text-decoration: none; }
+      html.no-touch .breadcrumbs-list > li a:hover {
+        color: #333333;
+        text-decoration: none; }
+    .no-js .breadcrumbs-list > li:hover.icon-ie-parent:last-child .icon-ie-link {
+      text-decoration: none; }
+    html.no-touch .breadcrumbs-list > li:hover.icon-ie-parent:last-child .icon-ie-link {
+      text-decoration: none; }
+    .breadcrumbs-list > li:before {
+      font-size: 1.33333em;
+      line-height: 1;
+      padding-right: 0.5em;
+      top: 0.1em;
+      color: #d6d6d6;
+      font-weight: 400; }
+  @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .breadcrumbs-list > li {
+      padding-left: .2em; } }
+
+.breadcrumbs-home {
+  color: #666666;
+  background: #f2f2f2;
+  display: block;
+  font-size: 1.11111em;
+  line-height: 1;
+  height: 1em;
+  position: absolute;
+  top: 0.22222em;
+  left: 0;
+  z-index: 2;
+  font-family: 'Apple Icons', 'Myriad Set Pro', 'Apple TP', 'MHei', 'PingHei', 'Sukhumvit Set', 'Yoon Gothic'; }
+  html.oldie .breadcrumbs-home {
+    line-height: 0.9; }
+  .no-js .breadcrumbs-home:hover {
+    color: #333333;
+    text-decoration: none; }
+  html.no-touch .breadcrumbs-home:hover {
+    color: #333333;
+    text-decoration: none; }
+  @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .breadcrumbs-home {
+      border-right: 1px solid #e3e3e3;
+      padding-right: 0.5em; } }
+
+.breadcrumbs-home-label {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
+
+.directorynav {
+  position: relative;
+  z-index: 1;
+  margin-top: 0;
+  margin-bottom: 18px; }
+  .directorynav:before, .directorynav:after {
+    content: " ";
+    display: table; }
+  .directorynav:after {
+    clear: both; }
+  html.oldie .directorynav {
+    zoom: 1; }
+  .directorynav > .column input {
+    display: none; }
+  .directorynav > .column li {
+    line-height: 1; }
+  .directorynav > .column a {
+    font-size: 12px;
+    line-height: 1.41667;
+    font-weight: 400;
+    display: inline;
+    color: #666666;
+    white-space: normal; }
+    @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+      .directorynav > .column a {
+        font-size: 14px;
+        line-height: 2.28571;
+        font-weight: 400; } }
+    .no-js .directorynav > .column a:hover {
+      color: #333333; }
+    html.no-touch .directorynav > .column a:hover {
+      color: #333333; }
+  .directorynav > .column h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    line-height: 1.41667;
+    font-weight: 600;
+    color: #333333;
+    letter-spacing: 0; }
+    html.oldie .directorynav > .column h3 {
+      font-weight: normal;
+      font-family: "Myriad Set Pro 600", "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif"; }
+    html.oldie[lang=ja-JP] .directorynav > .column h3 {
+      font-family: "Apple TP 600", "Apple TP", "Helvetica Neue", "Helvetica", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Arial", "Verdana", "sans-serif"; }
+    html.oldie[lang=zh-CN] .directorynav > .column h3 {
+      font-family: "PingHei 600", "PingHei", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif"; }
+    html.oldie[lang=zh-TW] .directorynav > .column h3 {
+      font-family: "MHei 600", "MHei", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif"; }
+    html.oldie[lang=zh-HK] .directorynav > .column h3 {
+      font-family: "MHei 600", "MHei", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif"; }
+    html.oldie[lang=th-TH] .directorynav > .column h3 {
+      font-family: "Sukhumvit Set 600", "Sukhumvit Set", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif"; }
+    html.oldie[lang=ko-KR] .directorynav > .column h3 {
+      font-family: "Yoon Gothic 600", "Yoon Gothic", "Helvetica Neue", "Helvetica", "Dotum", "Arial", "Verdana", "sans-serif"; }
+    @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+      .directorynav > .column h3 {
+        font-size: 14px;
+        line-height: 2.28571;
+        font-weight: 400; } }
+
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {
+  .directorynav {
+    margin-bottom: 0; }
+    .directorynav > .column label {
+      -webkit-tap-highlight-color: transparent; }
+    .directorynav > .column h3 {
+      border-top: 1px solid #e3e3e3; }
+    .directorynav > .column h3, .directorynav > .column li a {
+      position: relative;
+      padding: 0.22222em 0.33333em; }
+    .directorynav > .column h3:after {
+      content: "+";
+      float: right;
+      padding: 0.45em 0.44444em;
+      font-size: 1.11111em;
+      font-weight: 200;
+      line-height: 1;
+      transform: rotate(0deg) scale(0.9);
+      transition: transform 0.3s ease-out;
+      transform-origin: center center; }
+    .directorynav > .column li {
+      transform: translateY(-120px);
+      opacity: 0;
+      transition: opacity 0.3s ease-in, transform 0.3s ease-out; }
+    .directorynav > .column ul {
+      text-indent: 1em;
+      padding-bottom: 0;
+      max-height: 0;
+      overflow: hidden;
+      padding: 0; }
+    .directorynav > .column input:checked ~ ul {
+      max-height: 100%; }
+      .directorynav > .column input:checked ~ ul li {
+        opacity: 1;
+        transform: translateY(0); }
+    .directorynav > .column input:checked + label h3 {
+      font-weight: 600; }
+      .directorynav > .column input:checked + label h3:before {
+        width: 100%;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        content: "";
+        height: 16px;
+        z-index: 1;
+        background: linear-gradient(#f2f2f2 30%, rgba(242, 242, 242, 0) 80%); }
+      .directorynav > .column input:checked + label h3:after {
+        transform: rotate(45deg) scale(1); } }
+.directorynav-subcol + .directorynav-subcol {
+  margin-top: 1.16667em; }
+  @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .directorynav-subcol + .directorynav-subcol {
+      margin-top: 0; } }
+
+.footer-shop,
+.footer-links,
+.footer-sosumi {
+  font-size: 12px;
+  line-height: 1.33333;
+  font-weight: 400;
+  width: auto;
+  float: left;
+  margin-top: 0;
+  margin-bottom: 0.66667em;
+  margin-right: 0.5em; }
+
+p.footer-shop {
+  margin-bottom: 0.66667em;
+    max-width: 55%; }
+ul.piped.right {float: right;}
+.footer-links {
+  float: right; }
+
+.footer-education + .footer-links {
+  margin-left: 0;
+  float: left; }
+  @media only screen and (min-width: 1442px) {
+    .footer-education + .footer-links {
+      float: right; } }
+
+.footer-sosumi {
+  width: 100%; }
+  .footer-sosumi > p {
+    margin-right: 0.5em; }
+
+.footer-sosumi > p,
+.footer-sosumi > ul,
+.footer-sosumi > ul > li {
+  display: inline;
+  margin-left: 0;
+  margin-top: 0; }
+  .footer-sosumi > p > a,
+  .footer-sosumi > ul > a,
+  .footer-sosumi > ul > li > a {
+    padding: 0 0 0 0.5em;
+    margin-left: 0.33333em;
+    border-left: 1px solid #e3e3e3;
+    }
+  .footer-sosumi > p li:first-child a,
+  .footer-sosumi > ul li:first-child a,
+  .footer-sosumi > ul > li li:first-child a {
+    border-left: none; }
+
+.footer-links > li {
+  display: inline-block;
+  margin-left: 0; }
+  html.oldie .footer-links > li {
+    display: inline;
+    zoom: 1; }
+  .footer-links > li > a {
+    padding: 0 0.5em 0 0;
+    margin-right: 0.33333em;
+    border-right: 1px solid #e3e3e3;
+    white-space: nowrap; }
+    .footer-links > li > a.choose {
+      border-right: none;
+      margin-right: 0;
+      padding-right: 0;
+      position: relative;
+      padding-left: 16px; }
+      html.oldie .footer-links > li > a.choose {
+        display: inline;
+        zoom: 1; }
+      html.oldie .footer-links > li > a.choose {
+        height: .8em; }
+        .piped > li > a.choose >img {
+			position: relative;
+			 top: 3px;
+		}
+      .footer-links > li > a.choose > img {
+        position: absolute;
+        left: 0;
+        top: -3px; }
+		/* Added for th-th footer issue */
+		html[lang=th-TH] .footer-links span {
+		padding: 0 .5em 0 0;
+		margin-right: .33333em;
+		border-right: 1px solid #e3e3e3;
+		white-space: nowrap;
+		}
+		ul.piped.right {float: right;}
+@media only screen and (max-width: 1023px) {
+  .footer-links {
+    float: left;
+    clear: both;
+    margin-left: 0; }
+    p.footer-shop {
+    max-width: 100%; }
+     
+     }
+@media only screen and (max-width: 28em) and (max-device-width: 735px) {
+  .footer-shop span {
+    display: block; }
+
+  .footer-links {
+    line-height: 2; } }
+html.oldie .footer-links {
+  white-space: nowrap; }
+.footer-white {
+  background: white; }
+  .footer-white .footer-global {
+    color: #999999; }
+    .footer-white .footer-global a {
+      color: #666666; }
+      .no-js .footer-white .footer-global a:hover {
+        color: #333333; }
+      html.no-touch .footer-white .footer-global a:hover {
+        color: #333333; }
+  .footer-white .footer-breadory {
+    border-color: #e3e3e3; }
+    .footer-white .footer-breadory:after {
+      background: white; }
+  .footer-white .breadcrumbs {
+    color: #666666; }
+    .footer-white .breadcrumbs > li a {
+      color: #666666; }
+      .no-js .footer-white .breadcrumbs > li a:hover {
+        color: #333333; }
+      html.no-touch .footer-white .breadcrumbs > li a:hover {
+        color: #333333; }
+    .footer-white .breadcrumbs > li:before {
+      color: #e3e3e3; }
+  .footer-white .directorynav a {
+    color: #666666; }
+    .no-js .footer-white .directorynav a:hover {
+      color: #333333; }
+    html.no-touch .footer-white .directorynav a:hover {
+      color: #333333; }
+  .footer-white .directorynav h3 {
+    color: #333333; }
+  .footer-white .footer-links > li > a,
+  .footer-white .footer-sosumi > p > a,
+  .footer-white .footer-sosumi > ul > a,
+  .footer-white .footer-sosumi > ul > li > a {
+    border-color: #e3e3e3; }
+  .footer-white .footer-links > li:first-child > a,
+  .footer-white .footer-sosumi > p:first-child > a,
+  .footer-white .footer-sosumi > ul:first-child > a,
+  .footer-white .footer-sosumi > ul > li:first-child > a {
+    border-left: none; }
+  @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .footer-white .directorynav > .column {
+      border-color: #e3e3e3; }
+      .footer-white .directorynav > .column input:checked + label h3:before {
+        background: linear-gradient(white 30%, rgba(255, 255, 255, 0) 80%); } }
+  .footer-white .breadcrumbs-home {
+    background: white; }
+    @media only screen and (max-width: 735px) and (max-device-width: 768px) {
+      .footer-white .breadcrumbs-home:after {
+        background-image: linear-gradient(to right, white 10%, rgba(255, 255, 255, 0)); } }
+
+
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*!========================================================================================================================
+//
+// Global Header medium breakpoint
+//
+========================================================================================================================*/
+
+@media only screen and (max-width: 1023px) {
+  
+  #globalheader .gh-content {
+    width: 724px;
+  }
+  #globalheader .gh-nav-list {
+    width: 748px;
+    margin-left: -12px;
+    margin-right: -12px;
+  }
+  #globalheader .gh-tab-link {
+    background-size: auto 18px;
+  }
+  #globalheader .gh-tab-search.enhance, #globalheader .gh-tab-search.enhance.active {
+    -webkit-transition-duration: 0s;
+            transition-duration: 0s;
+    margin: 0;
+  }
+  #globalheader .gh-tab-search.enhance .gh-search, #globalheader .gh-tab-search.enhance.active .gh-search {
+    display: none;
+  }
+  #globalheader .gh-tab-search.enhance a.gh-search-magnify, #globalheader .gh-tab-search.enhance.active a.gh-search-magnify {
+    display: block;
+  }
+}
+@media only screen and (max-width: 766px) {
+  html.touch #globalheader .gh-nav-list {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  html.touch #globalheader .gh-tab-link {
+    background-size: auto 1.11111em;
+  }
+  html.touch #globalheader .gh-content {
+    width: 100%;
+  }
+}
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/* fixes for footer flag css */
+.footer-links { margin-right:0; }
+.footer-links > li:last-child > a { border:none; margin-right:0; padding-right:0; }
+
+#localeSelector { margin:-44px auto 0; }
+#localeSelector a.more { background:none; padding-right:0; }
+#localeSelector a.more img { width:16px; height:16px; }
+
+
+@media only screen and (max-width:766px) {
+
+   #localeSelector { width: 100%; margin: -44px 22px; }
+   .footer-global { margin-bottom:22px; }
+
+}
+
+/* fixes for legacy css */
+
+body { width:auto; }
+
+.footer-global { 
+	font-family: "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+	line-height: 1.44;
+}
+
+.piped a { border-left:none; margin-left:0; }
+.breadcrumbs-list { margin-bottom:0; }
+.piped li {float: none;}
+
+html[lang=pl] p.footer-shop {max-width:50%;}
+html[lang=de] p.footer-shop {max-width:50%;}
+html[lang=es-ES] .footer-shop {
+	max-width: 40%;
+}
+html[lang=ca-ES] .footer-shop {
+	max-width: 40%;
+}
+html[lang=sv-SE] .footer-shop {
+	max-width: 45%;
+}
+html[lang=hr] ul.footer-links.gf-links.piped {
+	float :left;
+}
+html[lang=ro] ul.footer-links.gf-links.piped {
+	float :left;
+}
+@media only screen and (max-width:1023px) {
+	html[lang=es].no-touch .footer-shop {
+		max-width: 100%
+	}
+	html[lang=ro] p.footer-shop {
+		width:100%;
+	}
+	html[lang=hr] p.footer-shop {
+		width:100%;
+	}
+	html[lang=ro] ul.piped.right {
+    	float: none;
+	}
+	html[lang=hr] ul.piped.right {
+    	float: none;
+	}
+	 p.footer-shop {
+    max-width: 100% !important; }
+}
+
+/* Start : The below mentioned changes are for <rdar://problem/20062583> */
+
+/* Adding changes for country flag for HT/TS articles specifically for Firefox */
+@-moz-document url-prefix() {
+	#localeSelector a.more {
+    margin-top: -27px;
+    float: right;
+	}
+@media only screen and (max-width:1023px) {
+	#localeSelector,
+	.footer-global { 
+		width: 724px !important;
+		margin-left: auto !important;
+		margin-right: auto !important; 
+	}
+	#localeSelector { 
+		text-align: left;
+	}
+	#localeSelector a.more {
+    	margin-top: -0;
+    	float: none;
+	}
+}
+@media only screen and (max-width:766px) { /* change from 767px to 766px! */
+	#localeSelector,
+	.footer-global { 
+		width:508px !important; 
+		margin-left: auto !important;
+		margin-right: auto !important; 
+	}
+}
+@media only screen and (max-width:539px) {
+	#localeSelector,
+	.footer-global { 
+		width:288px !important; 
+		margin-left: auto !important;
+		margin-right: auto !important; 
+	}
+}
+
+}
+
+/* Adding changes for country flag for HT/TS articles specifically for IE>=9 */
+@media screen and (min-width:0\0) {
+	#localeSelector a.more {
+    margin-top: -27px;
+    float: right;
+	}
+}
+@media only screen and (min-width:0\0) and (max-width:1023px) {
+	#localeSelector,
+	.footer-global { 
+		width: 724px !important;
+		margin-left: auto !important;
+		margin-right: auto !important; 
+	}
+	#localeSelector { 
+		text-align: left;
+	}
+	#localeSelector a.more {
+    	margin-top: -0;
+    	float: none;
+	}
+}
+@media only screen and (min-width:0\0) and (max-width:766px) { /* change from 767px to 766px! */
+	#localeSelector,
+	.footer-global { 
+		width:508px !important; 
+		margin-left: auto !important;
+		margin-right: auto !important; 
+	}
+}
+@media only screen and (min-width:0\0) and (max-width:539px) {
+	#localeSelector,
+	.footer-global { 
+		width:288px !important; 
+		margin-left: auto !important;
+		margin-right: auto !important; 
+	}
+}
+/* End : The below mentioned changes are for <rdar://problem/20062583> */
+.footer-global[lang="es_US"] .footer-shop{
+	max-width: 40%;
+}
+.footer-global[lang="es_LA"] .footer-shop {
+	max-width: 40%;
+}
+.footer-global[lang="es_MX"] .footer-shop {
+	max-width: 40%;
+}
+.footer-global[lang="es_ES"] .footer-shop{
+	max-width: 40%;
+}
+.footer-global[lang="de_DE"] .footer-shop{
+	max-width: 50%;
+}
+.footer-global[lang="pl_PL"] .footer-shop{
+	max-width: 50%;
+}
+.footer-global[lang="sv_SE"] .footer-shop{
+	max-width: 45%;
+}
+.footer-global[lang="zh_CN"] .footer-shop{
+	max-width: 60%;
+}
