@@ -11635,6 +11635,9 @@
     <Compile Include="491_Spider\crawltest\spiders\startscrapy.py" />
     <Compile Include="491_Spider\crawltest\spiders\__init__.py" />
     <Compile Include="491_Spider\crawltest\__init__.py" />
+    <Compile Include="491_Spider\crawltest\middlewares.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="buildcorp.py" />
     <Compile Include="dataset_utilities.py" />
     <Compile Include="demo.py" />

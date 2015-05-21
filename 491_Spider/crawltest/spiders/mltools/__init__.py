@@ -42,10 +42,9 @@ def raw_text_features(text, t=-1):
 		doc = Document(PageParser.parse(text)[0], stopwords=True)
 	return doc
 
-def frame_features(text, t=-1, features = {}):
+def frame_features(text, t=-1, features = {}, dg=''):
 
 	parsed_text, html_tag_counts = PageParser.parse(text)
-	
 	d = {
 			'periods': 0,
 			'commas': 0,

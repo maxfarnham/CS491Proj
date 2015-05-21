@@ -1,214 +1,25 @@
-vistinghttp://privacy.aol.com/
+visiting http://www.vice.com/en_us
+	priority is 0
 	the current length of the visited set is : 1
-shouldn't visit http://privacy.aol.com/
-crawled http://privacy.aol.com/ it wasn't  news 
+crawled http://www.vice.com/en_us it wasn't  news 
 returning reqs
-vistinghttp://www.huffingtonpost.com/users/logout/
-	the current length of the visited set is : 2
-shouldn't visit http://www.huffingtonpost.com/users/logout/
-shouldn't visit http://privacy.aol.com/
-crawled http://www.huffingtonpost.com/users/logout/ it wasn't  news 
-returning reqs
-vistinghttp://elections.huffingtonpost.com/pollster
-	the current length of the visited set is : 3
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://privacy.aol.com/
-crawled http://elections.huffingtonpost.com/pollster it wasn't  news 
-returning reqs
-vistinghttp://www.huffingtonpost.com/social/
-	the current length of the visited set is : 4
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://privacy.aol.com/
-crawled http://www.huffingtonpost.com/social/ it wasn't  news 
-returning reqs
-vistinghttp://elections.huffingtonpost.com/2014/results
-	the current length of the visited set is : 5
-shouldn't visit http://elections.huffingtonpost.com/2014/results
-shouldn't visit http://privacy.aol.com/
-crawled http://elections.huffingtonpost.com/2014/results it wasn't  news 
-returning reqs
-vistinghttp://www.engadget.com/
-	the current length of the visited set is : 6
-shouldn't visit http://www.engadget.com/
-shouldn't visit http://privacy.aol.com/
-crawled http://www.engadget.com/ it wasn't  news 
-returning reqs
-vistinghttp://www.moviefone.com/
-	the current length of the visited set is : 7
-shouldn't visit http://www.moviefone.com/
-shouldn't visit http://privacy.aol.com/
-crawled http://www.moviefone.com/ it wasn't  news 
-returning reqs
-vistinghttps://twitter.com/HuffingtonPost
-	the current length of the visited set is : 8
-shouldn't visit https://twitter.com/HuffingtonPost
-crawled https://twitter.com/HuffingtonPost it wasn't  news 
-returning reqs
-vistinghttp://privacy.aol.com/definitions
-	the current length of the visited set is : 9
-shouldn't visit http://privacy.aol.com/
-crawled http://privacy.aol.com/definitions it wasn't  news 
-returning reqs
-vistinghttp://www.huffingtonpost.com/big-news/
-	the current length of the visited set is : 10
-shouldn't visit http://www.huffingtonpost.com/big-news/
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit https://twitter.com/HuffingtonPost
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://www.moviefone.com/
-shouldn't visit http://www.engadget.com/
-shouldn't visit http://privacy.aol.com/
-crawled http://www.huffingtonpost.com/big-news/ it wasn't  news 
-returning reqs
-vistinghttp://www.aol.com/
-	the current length of the visited set is : 11
-shouldn't visit http://www.aol.com/
-shouldn't visit http://privacy.aol.com/
-crawled http://www.aol.com/ it wasn't  news 
-returning reqs
-vistinghttps://twitter.com/
-	the current length of the visited set is : 12
-shouldn't visit https://twitter.com/
-crawled https://twitter.com/ it wasn't  news 
-returning reqs
-vistinghttp://www.huffingtonpost.com/news/offthebus/
-	the current length of the visited set is : 13
-shouldn't visit http://www.huffingtonpost.com/news/offthebus/
-shouldn't visit http://www.huffingtonpost.com/big-news/
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://www.moviefone.com/
-shouldn't visit http://www.engadget.com/
-shouldn't visit https://twitter.com/HuffingtonPost
-shouldn't visit http://privacy.aol.com/
-crawled http://www.huffingtonpost.com/news/offthebus/ it wasn't  news 
-returning reqs
-returning reqs
-returning reqs
-vistinghttp://privacy.aol.com/privacy-policy/
-	the current length of the visited set is : 14
-shouldn't visit http://www.aol.com/
-shouldn't visit http://privacy.aol.com/
-shouldn't visit http://privacy.aol.com/privacy-policy/
-shouldn't visit http://privacy.aol.com/definitions
-crawled http://privacy.aol.com/privacy-policy/ it wasn't  news 
-returning reqs
-vistinghttp://www.aol.com/
-	the current length of the visited set is : 14
-shouldn't visit http://www.aol.com/
-shouldn't visit http://privacy.aol.com/
-crawled http://www.aol.com/ it wasn't  news 
-returning reqs
-vistinghttp://www.huffingtonpost.com/news/culture/
-	the current length of the visited set is : 15
-shouldn't visit http://www.huffingtonpost.com/news/culture/
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://www.moviefone.com/
-shouldn't visit http://www.engadget.com/
-shouldn't visit https://twitter.com/HuffingtonPost
-shouldn't visit http://privacy.aol.com/
-crawled http://www.huffingtonpost.com/news/culture/ it wasn't  news 
-returning reqs
-vistinghttp://www.huffingtonpost.com/news/trail-to-the-chief/
-	the current length of the visited set is : 16
-shouldn't visit http://www.huffingtonpost.com/big-news/
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://www.huffingtonpost.com/news/trail-to-the-chief/
-shouldn't visit http://www.moviefone.com/
-shouldn't visit http://www.engadget.com/
-shouldn't visit http://privacy.aol.com/
-crawled http://www.huffingtonpost.com/news/trail-to-the-chief/ it wasn't  news 
-returning reqs
-vistinghttp://www.aol.com/?mobile=true
-	the current length of the visited set is : 17
-shouldn't visit http://www.aol.com/?mobile=true
-shouldn't visit http://privacy.aol.com/
-crawled http://www.aol.com/?mobile=true it wasn't  news 
-returning reqs
-vistinghttp://www.huffingtonpost.com/2015/05/18/supreme-court-campaign-finance_n_7306210.html
-	the current length of the visited set is : 18
-shouldn't visit http://privacy.aol.com/
-shouldn't visit http://www.huffingtonpost.com/big-news/
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://www.huffingtonpost.com/news/trail-to-the-chief/
-shouldn't visit http://www.moviefone.com/
-shouldn't visit http://www.engadget.com/
-shouldn't visit http://www.huffingtonpost.com/2015/05/18/supreme-court-campaign-finance_n_7306210.html
-shouldn't visit https://twitter.com/HuffingtonPost
-returning reqs
-vistinghttp://www.huffingtonpost.com/2015/05/18/bristol-palin-dakota-meyer-break-up_n_7307580.html
-	the current length of the visited set is : 19
-shouldn't visit http://privacy.aol.com/
-shouldn't visit http://www.huffingtonpost.com/big-news/
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://www.huffingtonpost.com/news/trail-to-the-chief/
-shouldn't visit http://www.moviefone.com/
-shouldn't visit http://www.engadget.com/
-shouldn't visit http://www.huffingtonpost.com/2015/05/18/bristol-palin-dakota-meyer-break-up_n_7307580.html
-shouldn't visit http://www.huffingtonpost.com/2015/05/18/supreme-court-campaign-finance_n_7306210.html
-shouldn't visit https://twitter.com/HuffingtonPost
-returning reqs
-vistinghttp://www.dailyfinance.com/2015/05/19/13simple-ways-stop-wasting-food-money/
-	the current length of the visited set is : 20
-shouldn't visit http://www.aol.com/
-shouldn't visit http://www.dailyfinance.com/2015/05/19/13simple-ways-stop-wasting-food-money/
-shouldn't visit http://privacy.aol.com/
-crawled http://www.dailyfinance.com/2015/05/19/13simple-ways-stop-wasting-food-money/ it wasn't  news 
-returning reqs
-vistinghttp://www.huffingtonpost.com/2015/05/19/golf-team-fire-rescue_n_7313596.html?ncid=tweetlnkushpmg00000067
-	the current length of the visited set is : 21
-shouldn't visit http://privacy.aol.com/
-shouldn't visit http://www.huffingtonpost.com/big-news/
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://www.huffingtonpost.com/news/trail-to-the-chief/
-shouldn't visit http://www.moviefone.com/
-shouldn't visit http://www.engadget.com/
-shouldn't visit http://www.huffingtonpost.com/2015/05/19/golf-team-fire-rescue_n_7313596.html?ncid=tweetlnkushpmg00000067
-shouldn't visit https://twitter.com/HuffingtonPost
-vistinghttp://www.huffingtonpost.com/
-	the current length of the visited set is : 22
-shouldn't visit http://privacy.aol.com/
-shouldn't visit http://www.huffingtonpost.com/news/culture/
-shouldn't visit http://www.huffingtonpost.com/big-news/
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit http://www.huffingtonpost.com/
-shouldn't visit https://twitter.com/HuffingtonPost
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://www.huffingtonpost.com/news/trail-to-the-chief/
-shouldn't visit http://www.moviefone.com/
-shouldn't visit http://www.engadget.com/
-returning reqs
-vistinghttp://www.huffingtonpost.com/politics/
-	the current length of the visited set is : 23
-shouldn't visit http://privacy.aol.com/
-shouldn't visit http://www.huffingtonpost.com/big-news/
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit http://www.huffingtonpost.com/politics/
-shouldn't visit http://www.huffingtonpost.com/
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://www.huffingtonpost.com/news/trail-to-the-chief/
-shouldn't visit http://www.moviefone.com/
-shouldn't visit http://www.engadget.com/
-shouldn't visit https://twitter.com/HuffingtonPost
-crawled http://www.huffingtonpost.com/politics/ it wasn't  news 
-returning reqs
-vistinghttp://www.huffingtonpost.com/2015/05/17/under-armour-iwo-jima_n_7302084.html
-	the current length of the visited set is : 24
-shouldn't visit http://privacy.aol.com/
-shouldn't visit http://www.huffingtonpost.com/big-news/
-shouldn't visit http://www.huffingtonpost.com/social/
-shouldn't visit http://www.huffingtonpost.com/
-shouldn't visit http://www.huffingtonpost.com/politics/
-shouldn't visit http://elections.huffingtonpost.com/pollster
-shouldn't visit http://www.huffingtonpost.com/news/trail-to-the-chief/
-shouldn't visit http://www.engadget.com/
-shouldn't visit http://www.huffingtonpost.com/2015/05/17/under-armour-iwo-jima_n_7302084.html
-shouldn't visit https://twitter.com/HuffingtonPost
-crawled http://www.huffingtonpost.com/2015/05/17/under-armour-iwo-jima_n_7302084.html it wasn't  news 
-returning reqs
+visiting http://www.vice.com/en_us
+visiting http://www.vice.com/en_us
+visiting http://www.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 1
+visiting http://www.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 1
+visiting http://www.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 1
+visiting http://www.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 1
+visiting http://www.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 1
+visiting http://www.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 1

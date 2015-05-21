@@ -31,7 +31,7 @@ MAX_LINKS = 100000
 class NewsSpider(CrawlSpider):
 	name = "news"
 	#allowed_domains = ["huffingtonpost.com"]
-	start_urls = ["http://huffingtonpost.com"]
+	start_urls = ["http://vice.com"]
 	deny = ('softpedia',)
 	total_links = 0
 	#allowed_domains = ["arstechnica.com"]
@@ -47,11 +47,13 @@ class NewsSpider(CrawlSpider):
 				Rule(LinkExtractor(allow=(r'.*',), deny=deny, process_value=remove_querystring), callback='process_node', follow=True),
 			)
 	def process_node(self, response):
-		#try:
+		
 		url = response.url
 		isNews = False
+
 		with open('crawl_log.txt', 'a') as f:
-			f.write('visting' + url + '\n')
+			f.write('visiting ' + url + '\n')
+			f.write('\tpriority is ' + str(self.dg.ordered_links[response.url]) + '\n')
 			self.dg.visited.add(str(url))
 			f.write('\tthe current length of the visited set is : ' + str(len(self.dg.visited)) + '\n')
 			if self.total_links < MAX_LINKS:
@@ -62,16 +64,24 @@ class NewsSpider(CrawlSpider):
 					dests.append(dest)
 					req = self.make_requests_from_url(dest)
 					req.callback = self.process_node					
-					if dest in self.dg.visited:
+					if dest in set(self.dg.ordered_links.keys()):
 						req.priority = -1
 						self.dg.ordered_links[dest] = -1
-						f.write("shouldn't visit " + dest + '\n')
-					reqs.append(req)
+					else:
+						reqs.append(req)
 				add_edges(self.dg,url,dests)
 				features = {}
 				if featuresOn:
 					features = {'outdegree' : len(dests)}
-				doc = frame_features(response.body,features=features)
+				try:
+					doc = frame_features(response.body,features=features, dg=self.dg)
+				except UnicodeDecodeError:
+					try:
+						doc = frame_features(unicode(response.body),features=features, dg=self.dg)
+					except UnicodeDecodeError:
+						with open('dadbods.txt','a+') as db:
+							db.write(url+'\n')
+						return []
 				if frameSVM.classify(doc) == 1:
 					isNews = True
 					with open('frameSVM_news.txt', 'a') as nf:
@@ -88,16 +98,23 @@ class NewsSpider(CrawlSpider):
 						if req.priority != -1:		
 							self.dg.ordered_links[req.url] = self.dg.ordered_links[req.url] + 1
 							req.priority = self.dg.ordered_links[req.url]
+							#with open('recursion.txt','a') as rf:
+								#rf.write('bout to recurse on: ' + some_request.url + '\n')
+								#process_node(self, some_request)
+								#rf.write('can u smell what the re is cursin! \n')
+				reqs = [i for i in reqs if i.priority != -1]
 				NewsSpider.total_links += 1
 				req = scrapy.http.Request(url)
 				whether_it_was = " it was "
 				if not isNews:
 					whether_it_was = " it wasn't "
-					f.write('crawled ' + url + whether_it_was + ' news ' + '\n')
+				f.write('crawled ' + url + whether_it_was + ' news ' + '\n')
 				f.write('returning reqs\n')
 				#plt.show()
 				#nx.draw(self.dg)
 				return reqs
+
+
 		#		total_links_observed = len(self.dg.ordered_links.keys())
 		#		if len(self.news_dests) > self.news_dest_top and total_links_observed % 2 == 0:
 		#			f.write('starting requests on news link: ' + self.news_dests[self.news_dest_top] + '\n')
