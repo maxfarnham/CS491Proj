@@ -44,75 +44,146 @@ class NewsSpider(CrawlSpider):
 		new_url = o.scheme + "://" + o.netloc + o.path
 		return new_url
 	rules = (
-				Rule(LinkExtractor(allow=(r'.*',), deny=deny, process_value=remove_querystring), callback='process_node', follow=True),
+				Rule(LinkExtractor(allow=(r'.*',), deny=deny, process_value=remove_querystring), callback='process', follow=True),
 			)
-	def process_node(self, response):
-		
-		url = response.url
-		isNews = False
 
-		with open('crawl_log.txt', 'a') as f:
-			f.write('visiting ' + url + '\n')
-			f.write('\tpriority is ' + str(self.dg.ordered_links[response.url]) + '\n')
-			self.dg.visited.add(str(url))
-			f.write('\tthe current length of the visited set is : ' + str(len(self.dg.visited)) + '\n')
-			if self.total_links < MAX_LINKS:
-				dests = []
-				reqs = []
-				for link in LinkExtractor().extract_links(response):
-					dest = link.url
-					dests.append(dest)
-					req = self.make_requests_from_url(dest)
-					req.callback = self.process_node					
-					if dest in set(self.dg.ordered_links.keys()):
-						req.priority = -1
-						self.dg.ordered_links[dest] = -1
-					else:
-						reqs.append(req)
-				add_edges(self.dg,url,dests)
-				features = {}
-				if featuresOn:
-					features = {'outdegree' : len(dests)}
-				try:
-					doc = frame_features(response.body,features=features, dg=self.dg)
-				except UnicodeDecodeError:
+	def _process_node(self, response, requests):
+			def _make_edge_list(dg,src,dests=[]):
+				out_edges = []
+				src_index = dg.url_to_index(src)
+				dg.add_node(src_index)
+				for dest in dests:
+					edge = (src_index,dg.url_to_index(dest))
+					out_edges.append(edge) 
+				return out_edges
+			def _add_edges(dg,src,dests=[]):
+				dg.add_edges_from(_make_edge_list(dg,src,dests=dests))
+			url = response.url
+			isNews = False
+			with open('crawl_log.txt', 'a') as f:
+				f.write('visiting ' + url + '\n')
+				f.write('\tpriority is ' + str(self.dg.ordered_links[response.url]) + '\n')
+				self.dg.visited.add(str(url))
+				f.write('\tthe current length of the visited set is : ' + str(len(self.dg.visited)) + '\n')
+				if self.total_links < MAX_LINKS:
+					dests = []
+					reqs = []
+					for req in requests:
+						dest = req.url
+						dests.append(dest)				
+						if dest in set(self.dg.ordered_links.keys()):
+							req.priority = -1
+							self.dg.ordered_links[dest] = -1
+						else:
+							reqs.append(req)
+					_add_edges(self.dg,url,dests)
+					features = {}
+					if featuresOn:
+						features = {'outdegree' : len(dests)}
 					try:
-						doc = frame_features(unicode(response.body),features=features, dg=self.dg)
+						doc = frame_features(response.body,features=features, dg=self.dg)
 					except UnicodeDecodeError:
-						with open('dadbods.txt','a+') as db:
-							db.write(url+'\n')
-						return []
-				if frameSVM.classify(doc) == 1:
+							return []
+					cls = frameSVM.classify(doc)
 					isNews = True
-					with open('frameSVM_news.txt', 'a') as nf:
-						self.news_dests+=dests
-						nf.write(response.url + '\n')
-						nf.write('\t' + 'outdegree : ' + str(doc.vector['outdegree']) + '\n')
-				else:
-					with open('frameSVM_notnews.txt', 'a') as nf:
-						nf.write(response.url + '\n')
-						nf.write('\t' + 'outdegree : ' + str(doc.vector['outdegree']) + '\n')
-				if isNews:
-					self.crawler
-					for req in reqs:
-						if req.priority != -1:		
-							self.dg.ordered_links[req.url] = self.dg.ordered_links[req.url] + 1
-							req.priority = self.dg.ordered_links[req.url]
-							#with open('recursion.txt','a') as rf:
-								#rf.write('bout to recurse on: ' + some_request.url + '\n')
-								#process_node(self, some_request)
-								#rf.write('can u smell what the re is cursin! \n')
-				reqs = [i for i in reqs if i.priority != -1]
-				NewsSpider.total_links += 1
-				req = scrapy.http.Request(url)
-				whether_it_was = " it was "
-				if not isNews:
-					whether_it_was = " it wasn't "
-				f.write('crawled ' + url + whether_it_was + ' news ' + '\n')
-				f.write('returning reqs\n')
-				#plt.show()
-				#nx.draw(self.dg)
-				return reqs
+					try:
+						if cls == 1:							
+							with open('frameSVM_news.txt', 'a') as nf:
+								self.news_dests+=dests
+								nf.write(response.url + '\n')
+								nf.write('\t' + 'outdegree : ' + str(doc.vector['outdegree']) + '\n')
+						else:
+							with open('frameSVM_notnews.txt', 'a') as nf:
+								nf.write(response.url + '\n')
+								nf.write('\t' + 'outdegree : ' + str(doc.vector['outdegree']) + '\n')
+					except KeyError as e:
+						print 'Key error on: ' + str(url)
+					if isNews:
+						self.crawler
+						for req in reqs:
+							if req.priority != -1:		
+								self.dg.ordered_links[req.url] = self.dg.ordered_links[req.url] + 1
+								req.priority = self.dg.ordered_links[req.url]
+					reqs = [i for i in reqs if i.priority != -1]
+					self.total_links += 1
+					req = scrapy.http.Request(url)
+					whether_it_was = " it was "
+					if not isNews:
+						whether_it_was = " it wasn't "
+					f.write('crawled ' + url + whether_it_was + ' news ' + '\n')
+					f.write('returning reqs\n')
+					#plt.show()
+					#nx.draw(self.dg)
+					return reqs
+	def process(self, response):
+		print 'visiting : ' + str(response.url)
+	#def process_node(self, response):
+		
+	#	url = response.url
+	#	isNews = False
+
+	#	with open('crawl_log.txt', 'a') as f:
+	#		f.write('visiting ' + url + '\n')
+	#		f.write('\tpriority is ' + str(self.dg.ordered_links[response.url]) + '\n')
+	#		self.dg.visited.add(str(url))
+	#		f.write('\tthe current length of the visited set is : ' + str(len(self.dg.visited)) + '\n')
+	#		if self.total_links < MAX_LINKS:
+	#			dests = []
+	#			reqs = []
+	#			for link in LinkExtractor().extract_links(response):
+	#				dest = link.url
+	#				dests.append(dest)
+	#				req = self.make_requests_from_url(dest)
+	#				req.callback = self.process_node					
+	#				if dest in set(self.dg.ordered_links.keys()):
+	#					req.priority = -1
+	#					self.dg.ordered_links[dest] = -1
+	#				else:
+	#					reqs.append(req)
+	#			add_edges(self.dg,url,dests)
+	#			features = {}
+	#			if featuresOn:
+	#				features = {'outdegree' : len(dests)}
+	#			try:
+	#				doc = frame_features(response.body,features=features, dg=self.dg)
+	#			except UnicodeDecodeError:
+	#				try:
+	#					doc = frame_features(unicode(response.body),features=features, dg=self.dg)
+	#				except UnicodeDecodeError:
+	#					with open('dadbods.txt','a+') as db:
+	#						db.write(url+'\n')
+	#					return []
+	#			if frameSVM.classify(doc) == 1:
+	#				isNews = True
+	#				with open('frameSVM_news.txt', 'a') as nf:
+	#					self.news_dests+=dests
+	#					nf.write(response.url + '\n')
+	#					nf.write('\t' + 'outdegree : ' + str(doc.vector['outdegree']) + '\n')
+	#			else:
+	#				with open('frameSVM_notnews.txt', 'a') as nf:
+	#					nf.write(response.url + '\n')
+	#					nf.write('\t' + 'outdegree : ' + str(doc.vector['outdegree']) + '\n')
+	#			if isNews:
+	#				self.crawler
+	#				for req in reqs:
+	#					if req.priority != -1:		
+	#						self.dg.ordered_links[req.url] = self.dg.ordered_links[req.url] + 1
+	#						req.priority = self.dg.ordered_links[req.url]
+	#						#with open('recursion.txt','a') as rf:
+	#							#rf.write('bout to recurse on: ' + some_request.url + '\n')
+	#							#process_node(self, some_request)
+	#							#rf.write('can u smell what the re is cursin! \n')
+	#			reqs = [i for i in reqs if i.priority != -1]
+	#			NewsSpider.total_links += 1
+	#			req = scrapy.http.Request(url)
+	#			whether_it_was = " it was "
+	#			if not isNews:
+	#				whether_it_was = " it wasn't "
+	#			f.write('crawled ' + url + whether_it_was + ' news ' + '\n')
+	#			f.write('returning reqs\n')
+	#			#plt.show()
+	#			#nx.draw(self.dg)
+	#			return reqs
 
 
 		#		total_links_observed = len(self.dg.ordered_links.keys())

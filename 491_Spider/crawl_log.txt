@@ -23,3 +23,3245 @@ visiting http://www.vice.com/en_us
 visiting http://www.vice.com/en_us
 	priority is 0
 	the current length of the visited set is : 1
+visiting http://www.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 1
+visiting http://www.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 1
+visiting http://www.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 1
+crawled http://www.vice.com/en_us it wasn't  news 
+returning reqs
+visiting http://thump.vice.com/en_us/article/did-david-guetta-and-nicki-minaj-steal-from-burning-man-for-their-billboard-music-awards-performance
+	priority is 0
+	the current length of the visited set is : 2
+visiting http://thump.vice.com/en_us/article/did-david-guetta-and-nicki-minaj-steal-from-burning-man-for-their-billboard-music-awards-performance
+	priority is 0
+	the current length of the visited set is : 2
+visiting http://fightland.vice.com/blog/fighting-for-identity-the-life-of-a-transgender-kickboxer-in-rural-thailand
+	priority is 0
+	the current length of the visited set is : 3
+crawled http://fightland.vice.com/blog/fighting-for-identity-the-life-of-a-transgender-kickboxer-in-rural-thailand it was  news 
+returning reqs
+visiting http://fightland.vice.com/blog/fighting-for-identity-the-life-of-a-transgender-kickboxer-in-rural-thailand
+	priority is 0
+	the current length of the visited set is : 3
+crawled http://fightland.vice.com/blog/fighting-for-identity-the-life-of-a-transgender-kickboxer-in-rural-thailand it was  news 
+returning reqs
+visiting http://munchies.vice.com/articles/science-says-being-drunk-and-falling-in-love-are-basically-the-same-feeling
+	priority is 0
+	the current length of the visited set is : 4
+visiting http://munchies.vice.com/articles/science-says-being-drunk-and-falling-in-love-are-basically-the-same-feeling
+	priority is 0
+	the current length of the visited set is : 4
+visiting http://store.vice.com/
+	priority is 0
+	the current length of the visited set is : 5
+crawled http://store.vice.com/ it wasn't  news 
+returning reqs
+visiting http://store.vice.com/
+	priority is 0
+	the current length of the visited set is : 5
+visiting http://link.vice.com/join/3nh/viceussignup
+	priority is 0
+	the current length of the visited set is : 6
+visiting http://link.vice.com/join/3nh/viceussignup
+	priority is 0
+	the current length of the visited set is : 6
+visiting http://www.vice.com/author/joel-golby
+	priority is 0
+	the current length of the visited set is : 7
+visiting http://www.vice.com/author/joel-golby
+	priority is 0
+	the current length of the visited set is : 7
+visiting https://www.youtube.com/user/vice
+	priority is -1
+	the current length of the visited set is : 8
+crawled https://www.youtube.com/user/vice it wasn't  news 
+returning reqs
+visiting https://www.youtube.com/user/vice
+	priority is -1
+	the current length of the visited set is : 8
+crawled https://www.youtube.com/user/vice it wasn't  news 
+returning reqs
+visiting https://twitter.com/vice
+	priority is -1
+	the current length of the visited set is : 9
+crawled https://twitter.com/vice it wasn't  news 
+returning reqs
+visiting https://twitter.com/vice
+	priority is -1
+	the current length of the visited set is : 9
+crawled https://twitter.com/vice it wasn't  news 
+returning reqs
+visiting http://www.vice.com/author/eleanor-morgan
+	priority is 0
+	the current length of the visited set is : 10
+visiting http://www.vice.com/author/eleanor-morgan
+	priority is 0
+	the current length of the visited set is : 10
+visiting http://www.vice.com/articles
+	priority is 0
+	the current length of the visited set is : 11
+crawled http://www.vice.com/articles it wasn't  news 
+returning reqs
+visiting http://www.vice.com/articles
+	priority is 0
+	the current length of the visited set is : 11
+crawled http://www.vice.com/articles it wasn't  news 
+returning reqs
+visiting http://www.vice.com/read/heres-every-one-of-the-150-friends-you-have-303
+	priority is -1
+	the current length of the visited set is : 12
+visiting http://www.vice.com/read/heres-every-one-of-the-150-friends-you-have-303
+	priority is -1
+	the current length of the visited set is : 12
+visiting https://plus.google.com/+VICE
+	priority is -1
+	the current length of the visited set is : 13
+visiting https://plus.google.com/+VICE
+	priority is -1
+	the current length of the visited set is : 13
+visiting https://www.facebook.com/VICE
+	priority is 0
+	the current length of the visited set is : 14
+crawled https://www.facebook.com/VICE it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/VICE
+	priority is 0
+	the current length of the visited set is : 14
+crawled https://www.facebook.com/VICE it wasn't  news 
+returning reqs
+visiting https://www.tumblr.com/register/follow/vicemag
+	priority is 0
+	the current length of the visited set is : 15
+crawled https://www.tumblr.com/register/follow/vicemag it wasn't  news 
+returning reqs
+visiting https://www.tumblr.com/register/follow/vicemag
+	priority is 0
+	the current length of the visited set is : 15
+crawled https://www.tumblr.com/register/follow/vicemag it wasn't  news 
+returning reqs
+visiting http://www.vice.com/read/some-of-the-worlds-biggest-banks-just-copped-to-gaming-the-currency-market-521
+	priority is -1
+	the current length of the visited set is : 16
+visiting http://www.vice.com/read/some-of-the-worlds-biggest-banks-just-copped-to-gaming-the-currency-market-521
+	priority is -1
+	the current length of the visited set is : 16
+visiting http://www.vice.com/author/mitchell-sunderland
+	priority is -1
+	the current length of the visited set is : 17
+visiting http://www.vice.com/author/mitchell-sunderland
+	priority is -1
+	the current length of the visited set is : 17
+visiting http://www.vice.com/author/allie-conti
+	priority is -1
+	the current length of the visited set is : 18
+visiting http://www.vice.com/author/allie-conti
+	priority is -1
+	the current length of the visited set is : 18
+visiting http://www.vice.com/read/ryan-oconnell-wrote-a-memoir-about-being-gay-with-cerebral-palsy
+	priority is -1
+	the current length of the visited set is : 19
+visiting http://www.vice.com/read/ryan-oconnell-wrote-a-memoir-about-being-gay-with-cerebral-palsy
+	priority is -1
+	the current length of the visited set is : 19
+visiting https://www.facebook.com/help/
+	priority is 0
+	the current length of the visited set is : 20
+crawled https://www.facebook.com/help/ it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/help/
+	priority is 0
+	the current length of the visited set is : 20
+crawled https://www.facebook.com/help/ it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/not-over-my-yacht-rich-folks-are-worried-about-spy-drones
+	priority is 0
+	the current length of the visited set is : 21
+crawled http://motherboard.vice.com/read/not-over-my-yacht-rich-folks-are-worried-about-spy-drones it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/not-over-my-yacht-rich-folks-are-worried-about-spy-drones
+	priority is 0
+	the current length of the visited set is : 21
+crawled http://motherboard.vice.com/read/not-over-my-yacht-rich-folks-are-worried-about-spy-drones it wasn't  news 
+returning reqs
+visiting https://twitter.com/hashtag/OnTheLine
+	priority is 0
+	the current length of the visited set is : 22
+crawled https://twitter.com/hashtag/OnTheLine it wasn't  news 
+returning reqs
+visiting https://twitter.com/hashtag/OnTheLine
+	priority is 0
+	the current length of the visited set is : 22
+crawled https://twitter.com/hashtag/OnTheLine it wasn't  news 
+returning reqs
+visiting https://accounts.google.com/ServiceLogin
+	priority is 0
+	the current length of the visited set is : 23
+crawled https://accounts.google.com/ServiceLogin it wasn't  news 
+returning reqs
+visiting https://accounts.google.com/ServiceLogin
+	priority is 0
+	the current length of the visited set is : 23
+crawled https://accounts.google.com/ServiceLogin it wasn't  news 
+returning reqs
+visiting http://www.vice.com/read/catching-up-with-damien-echols-of-the-west-memphis-three-333
+	priority is -1
+	the current length of the visited set is : 24
+visiting http://www.vice.com/read/catching-up-with-damien-echols-of-the-west-memphis-three-333
+	priority is -1
+	the current length of the visited set is : 24
+visiting https://www.facebook.com/help/cookies/
+	priority is 0
+	the current length of the visited set is : 25
+crawled https://www.facebook.com/help/cookies/ it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/help/cookies/
+	priority is 0
+	the current length of the visited set is : 25
+crawled https://www.facebook.com/help/cookies/ it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/3046484
+	priority is 0
+	the current length of the visited set is : 26
+crawled https://support.google.com/youtube/answer/3046484 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/3046484
+	priority is 0
+	the current length of the visited set is : 26
+crawled https://support.google.com/youtube/answer/3046484 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/
+	priority is 0
+	the current length of the visited set is : 27
+crawled https://support.google.com/youtube/ it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/
+	priority is 0
+	the current length of the visited set is : 27
+crawled https://support.google.com/youtube/ it wasn't  news 
+returning reqs
+visiting http://www.vice.com/author/hilary-pollack
+	priority is -1
+	the current length of the visited set is : 28
+visiting http://www.vice.com/author/hilary-pollack
+	priority is -1
+	the current length of the visited set is : 28
+visiting https://www.youtube.com/user/%22https://accounts.google.com/ServiceLogin
+	priority is 0
+	the current length of the visited set is : 29
+visiting http://www.vice.com/read/how-improv-made-its-way-into-corporate-america-521
+	priority is -1
+	the current length of the visited set is : 30
+visiting http://www.vice.com/read/how-improv-made-its-way-into-corporate-america-521
+	priority is -1
+	the current length of the visited set is : 30
+visiting http://motherboard.vice.com/read/your-porn-is-watching-you
+	priority is 0
+	the current length of the visited set is : 31
+visiting http://motherboard.vice.com/read/your-porn-is-watching-you
+	priority is 0
+	the current length of the visited set is : 31
+visiting https://www.youtube.com/user/fightlandtv
+	priority is 0
+	the current length of the visited set is : 32
+visiting https://www.youtube.com/user/fightlandtv
+	priority is 0
+	the current length of the visited set is : 32
+visiting https://www.facebook.com/careers/
+	priority is 0
+	the current length of the visited set is : 33
+visiting https://www.facebook.com/careers/
+	priority is 0
+	the current length of the visited set is : 33
+visiting https://twitter.com/hashtag/Skype
+	priority is 0
+	the current length of the visited set is : 34
+visiting https://twitter.com/hashtag/Skype
+	priority is 0
+	the current length of the visited set is : 34
+visiting http://www.vice.com/read/tom-six-the-human-centipede-director-is-very-proud-of-his-work
+	priority is -1
+	the current length of the visited set is : 35
+visiting http://www.vice.com/read/tom-six-the-human-centipede-director-is-very-proud-of-his-work
+	priority is -1
+	the current length of the visited set is : 35
+visiting http://motherboard.vice.com/read/how-mt-gox-imploded
+	priority is 0
+	the current length of the visited set is : 36
+visiting http://motherboard.vice.com/read/how-mt-gox-imploded
+	priority is 0
+	the current length of the visited set is : 36
+visiting http://www.vice.com/read/james-ellroy-interview
+	priority is -1
+	the current length of the visited set is : 37
+visiting http://www.vice.com/read/james-ellroy-interview
+	priority is -1
+	the current length of the visited set is : 37
+visiting https://developers.facebook.com/
+	priority is 0
+	the current length of the visited set is : 38
+crawled https://developers.facebook.com/ it wasn't  news 
+returning reqs
+visiting https://developers.facebook.com/
+	priority is 0
+	the current length of the visited set is : 38
+crawled https://developers.facebook.com/ it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/30084
+	priority is 0
+	the current length of the visited set is : 39
+crawled https://support.google.com/youtube/topic/30084 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/30084
+	priority is 0
+	the current length of the visited set is : 39
+crawled https://support.google.com/youtube/topic/30084 it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/policies/
+	priority is 0
+	the current length of the visited set is : 40
+crawled https://www.facebook.com/policies/ it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/policies/
+	priority is 0
+	the current length of the visited set is : 40
+visiting http://www.vice.com/film
+	priority is -1
+	the current length of the visited set is : 41
+crawled http://www.vice.com/film it wasn't  news 
+returning reqs
+visiting http://www.vice.com/film
+	priority is -1
+	the current length of the visited set is : 41
+visiting http://motherboard.vice.com/read/the-last-time-our-oceans-got-this-acidic-it-drove-earths-greatest-extinction
+	priority is 0
+	the current length of the visited set is : 42
+visiting http://motherboard.vice.com/read/the-last-time-our-oceans-got-this-acidic-it-drove-earths-greatest-extinction
+	priority is 0
+	the current length of the visited set is : 42
+visiting https://support.google.com/youtube/topic/3030592
+	priority is 0
+	the current length of the visited set is : 43
+crawled https://support.google.com/youtube/topic/3030592 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/3030592
+	priority is 0
+	the current length of the visited set is : 43
+crawled https://support.google.com/youtube/topic/3030592 it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/diy-morphine-bioengineered-yeast-could-be-used-to-brew-opiates
+	priority is 0
+	the current length of the visited set is : 44
+visiting http://motherboard.vice.com/read/diy-morphine-bioengineered-yeast-could-be-used-to-brew-opiates
+	priority is 0
+	the current length of the visited set is : 44
+visiting https://twitter.com/hashtag/Ukraine
+	priority is 0
+	the current length of the visited set is : 45
+crawled https://twitter.com/hashtag/Ukraine it wasn't  news 
+returning reqs
+visiting https://twitter.com/hashtag/Ukraine
+	priority is 0
+	the current length of the visited set is : 45
+crawled https://twitter.com/hashtag/Ukraine it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/interview-with-a-troll-whisperer
+	priority is 0
+	the current length of the visited set is : 46
+visiting http://motherboard.vice.com/read/interview-with-a-troll-whisperer
+	priority is 0
+	the current length of the visited set is : 46
+visiting http://www.vice.com/stuff
+	priority is -1
+	the current length of the visited set is : 47
+crawled http://www.vice.com/stuff it wasn't  news 
+returning reqs
+visiting http://www.vice.com/stuff
+	priority is -1
+	the current length of the visited set is : 47
+visiting https://support.google.com/youtube/topic/2676339
+	priority is 0
+	the current length of the visited set is : 48
+crawled https://support.google.com/youtube/topic/2676339 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/2676339
+	priority is 0
+	the current length of the visited set is : 48
+crawled https://support.google.com/youtube/topic/2676339 it wasn't  news 
+returning reqs
+visiting http://www.vice.com/read/a-washington-state-cop-shoot-two-men-for-attempting-to-shoplift-beer-vgtrn
+	priority is -1
+	the current length of the visited set is : 49
+visiting http://www.vice.com/read/a-washington-state-cop-shoot-two-men-for-attempting-to-shoplift-beer-vgtrn
+	priority is -1
+	the current length of the visited set is : 49
+visiting http://www.vice.com/author/drew-millard
+	priority is -1
+	the current length of the visited set is : 50
+visiting http://www.vice.com/author/drew-millard
+	priority is -1
+	the current length of the visited set is : 50
+visiting https://www.facebook.com/mobile/
+	priority is 0
+	the current length of the visited set is : 51
+crawled https://www.facebook.com/mobile/ it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/mobile/
+	priority is 0
+	the current length of the visited set is : 51
+crawled https://www.facebook.com/mobile/ it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/x37-b-the-militarys-secretive-space-drone-goes-back-into-orbit
+	priority is 0
+	the current length of the visited set is : 52
+crawled http://motherboard.vice.com/read/x37-b-the-militarys-secretive-space-drone-goes-back-into-orbit it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/x37-b-the-militarys-secretive-space-drone-goes-back-into-orbit
+	priority is 0
+	the current length of the visited set is : 52
+crawled http://motherboard.vice.com/read/x37-b-the-militarys-secretive-space-drone-goes-back-into-orbit it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/2676378
+	priority is 0
+	the current length of the visited set is : 53
+crawled https://support.google.com/youtube/topic/2676378 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/2676378
+	priority is 0
+	the current length of the visited set is : 53
+crawled https://support.google.com/youtube/topic/2676378 it wasn't  news 
+returning reqs
+visiting https://www.youtube.com/oops
+	priority is 0
+	the current length of the visited set is : 54
+crawled https://www.youtube.com/oops it wasn't  news 
+returning reqs
+visiting https://www.youtube.com/oops
+	priority is 0
+	the current length of the visited set is : 54
+crawled https://www.youtube.com/oops it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/when-we-go-to-mars-well-need-a-flag-for-earth
+	priority is 0
+	the current length of the visited set is : 55
+visiting http://motherboard.vice.com/read/when-we-go-to-mars-well-need-a-flag-for-earth
+	priority is 0
+	the current length of the visited set is : 55
+visiting http://motherboard.vice.com/blog/youre-probably-not-invited-end-times-living-with-the-doomsday-1-percent
+	priority is 0
+	the current length of the visited set is : 56
+crawled http://motherboard.vice.com/blog/youre-probably-not-invited-end-times-living-with-the-doomsday-1-percent it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/youre-probably-not-invited-end-times-living-with-the-doomsday-1-percent
+	priority is 0
+	the current length of the visited set is : 56
+crawled http://motherboard.vice.com/blog/youre-probably-not-invited-end-times-living-with-the-doomsday-1-percent it wasn't  news 
+returning reqs
+visiting https://www.youtube.com/
+	priority is -1
+	the current length of the visited set is : 57
+visiting https://www.youtube.com/
+	priority is -1
+	the current length of the visited set is : 57
+visiting https://www.facebook.com/pages/create/
+	priority is 0
+	the current length of the visited set is : 58
+crawled https://www.facebook.com/pages/create/ it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/pages/create/
+	priority is 0
+	the current length of the visited set is : 58
+visiting http://www.vice.com/read/what-the-hell-is-a-hot-feminist-157
+	priority is -1
+	the current length of the visited set is : 59
+visiting http://www.vice.com/read/what-the-hell-is-a-hot-feminist-157
+	priority is -1
+	the current length of the visited set is : 59
+visiting http://motherboard.vice.com/read/hackers-stole-more-than-1-million-records-from-a-health-care-company
+	priority is 0
+	the current length of the visited set is : 60
+visiting http://motherboard.vice.com/read/hackers-stole-more-than-1-million-records-from-a-health-care-company
+	priority is 0
+	the current length of the visited set is : 60
+visiting https://support.google.com/youtube/topic/2691078
+	priority is 0
+	the current length of the visited set is : 61
+crawled https://support.google.com/youtube/topic/2691078 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/2691078
+	priority is 0
+	the current length of the visited set is : 61
+crawled https://support.google.com/youtube/topic/2691078 it wasn't  news 
+returning reqs
+visiting https://accounts.google.com/ServiceLogin?hl=en&service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Ffeed%252Fsubscriptions%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&passive=true
+	priority is 0
+	the current length of the visited set is : 62
+crawled https://accounts.google.com/ServiceLogin?hl=en&service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Ffeed%252Fsubscriptions%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&passive=true it wasn't  news 
+returning reqs
+visiting https://accounts.google.com/ServiceLogin?hl=en&service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Ffeed%252Fsubscriptions%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&passive=true
+	priority is 0
+	the current length of the visited set is : 62
+crawled https://accounts.google.com/ServiceLogin?hl=en&service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Ffeed%252Fsubscriptions%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&passive=true it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/
+	priority is -1
+	the current length of the visited set is : 63
+crawled https://www.facebook.com/ it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/
+	priority is -1
+	the current length of the visited set is : 63
+visiting http://motherboard.vice.com/read/encryption-is-depressing-the-fbi-says
+	priority is 0
+	the current length of the visited set is : 64
+visiting http://motherboard.vice.com/read/encryption-is-depressing-the-fbi-says
+	priority is 0
+	the current length of the visited set is : 64
+visiting https://www.youtube.com/user/Motherboard
+	priority is 0
+	the current length of the visited set is : 65
+visiting https://twitter.com/hashtag/unheardvoices
+	priority is 0
+	the current length of the visited set is : 66
+crawled https://twitter.com/hashtag/unheardvoices it wasn't  news 
+returning reqs
+visiting https://twitter.com/hashtag/unheardvoices
+	priority is 0
+	the current length of the visited set is : 66
+crawled https://twitter.com/hashtag/unheardvoices it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/12634
+	priority is 0
+	the current length of the visited set is : 67
+crawled https://support.google.com/youtube/topic/12634 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/12634
+	priority is 0
+	the current length of the visited set is : 67
+crawled https://support.google.com/youtube/topic/12634 it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/how-drones-could-help-an-indigenous-community-fight-mining-and-deforestation
+	priority is 0
+	the current length of the visited set is : 68
+visiting http://motherboard.vice.com/read/how-drones-could-help-an-indigenous-community-fight-mining-and-deforestation
+	priority is 0
+	the current length of the visited set is : 68
+visiting https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Ffriends%2Frequests%2F%3Ffcref%3Dffi
+	priority is 0
+	the current length of the visited set is : 69
+crawled https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Ffriends%2Frequests%2F%3Ffcref%3Dffi it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Ffriends%2Frequests%2F%3Ffcref%3Dffi
+	priority is 0
+	the current length of the visited set is : 69
+crawled https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Ffriends%2Frequests%2F%3Ffcref%3Dffi it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/badges/
+	priority is 0
+	the current length of the visited set is : 70
+crawled https://www.facebook.com/badges/ it wasn't  news 
+returning reqs
+visiting https://www.facebook.com/badges/
+	priority is 0
+	the current length of the visited set is : 70
+visiting https://support.google.com/youtube/topic/1115889
+	priority is 0
+	the current length of the visited set is : 71
+crawled https://support.google.com/youtube/topic/1115889 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/1115889
+	priority is 0
+	the current length of the visited set is : 71
+crawled https://support.google.com/youtube/topic/1115889 it wasn't  news 
+returning reqs
+visiting https://twitter.com/search-home
+	priority is 0
+	the current length of the visited set is : 72
+crawled https://twitter.com/search-home it wasn't  news 
+returning reqs
+visiting https://twitter.com/search-home
+	priority is 0
+	the current length of the visited set is : 72
+visiting http://www.vice.com/pages/privacy-and-terms
+	priority is -1
+	the current length of the visited set is : 73
+visiting http://www.vice.com/pages/privacy-and-terms
+	priority is -1
+	the current length of the visited set is : 73
+visiting http://motherboard.vice.com/read/drone-inadvertently-and-unwillingly-becomes-a-submarine
+	priority is 0
+	the current length of the visited set is : 74
+crawled http://motherboard.vice.com/read/drone-inadvertently-and-unwillingly-becomes-a-submarine it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/drone-inadvertently-and-unwillingly-becomes-a-submarine
+	priority is 0
+	the current length of the visited set is : 74
+crawled http://motherboard.vice.com/read/drone-inadvertently-and-unwillingly-becomes-a-submarine it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/24324
+	priority is 0
+	the current length of the visited set is : 75
+crawled https://support.google.com/youtube/topic/24324 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/24324
+	priority is 0
+	the current length of the visited set is : 75
+crawled https://support.google.com/youtube/topic/24324 it wasn't  news 
+returning reqs
+visiting http://www.vice.com/pages/jobs
+	priority is -1
+	the current length of the visited set is : 76
+visiting http://www.vice.com/pages/jobs
+	priority is -1
+	the current length of the visited set is : 76
+visiting http://motherboard.vice.com/tag/interviews
+	priority is 0
+	the current length of the visited set is : 77
+crawled http://motherboard.vice.com/tag/interviews it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/tag/interviews
+	priority is 0
+	the current length of the visited set is : 77
+visiting https://support.google.com/youtube/topic/14965
+	priority is 0
+	the current length of the visited set is : 78
+crawled https://support.google.com/youtube/topic/14965 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/14965
+	priority is 0
+	the current length of the visited set is : 78
+crawled https://support.google.com/youtube/topic/14965 it wasn't  news 
+returning reqs
+visiting https://twitter.com/login?redirect_after_login=%2Fsettings%2Fwidgets%2Fnew%2Fsearch
+	priority is 0
+	the current length of the visited set is : 79
+crawled https://twitter.com/login?redirect_after_login=%2Fsettings%2Fwidgets%2Fnew%2Fsearch it wasn't  news 
+returning reqs
+visiting https://twitter.com/login?redirect_after_login=%2Fsettings%2Fwidgets%2Fnew%2Fsearch
+	priority is 0
+	the current length of the visited set is : 79
+visiting http://www.vice.com/pages/about
+	priority is -1
+	the current length of the visited set is : 80
+visiting http://www.vice.com/pages/about
+	priority is -1
+	the current length of the visited set is : 80
+visiting https://support.google.com/youtube/topic/3031461
+	priority is 0
+	the current length of the visited set is : 81
+crawled https://support.google.com/youtube/topic/3031461 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/3031461
+	priority is 0
+	the current length of the visited set is : 81
+crawled https://support.google.com/youtube/topic/3031461 it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/tag/documentaries
+	priority is 0
+	the current length of the visited set is : 82
+crawled http://motherboard.vice.com/tag/documentaries it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/tag/documentaries
+	priority is 0
+	the current length of the visited set is : 82
+visiting https://support.google.com/youtube/answer/6009004
+	priority is 0
+	the current length of the visited set is : 83
+crawled https://support.google.com/youtube/answer/6009004 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/6009004
+	priority is 0
+	the current length of the visited set is : 83
+visiting https://play.google.com/store/apps/details?id=com.tumblr&hl=en&
+	priority is 0
+	the current length of the visited set is : 84
+visiting https://play.google.com/store/apps/details?id=com.tumblr&hl=en&
+	priority is 0
+	the current length of the visited set is : 84
+visiting http://motherboard.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 85
+crawled http://motherboard.vice.com/en_us it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 85
+visiting http://www.vice.com/tag/lgbt
+	priority is -1
+	the current length of the visited set is : 86
+visiting http://www.vice.com/tag/lgbt
+	priority is -1
+	the current length of the visited set is : 86
+visiting https://support.google.com/youtube/answer/1620498
+	priority is 0
+	the current length of the visited set is : 87
+crawled https://support.google.com/youtube/answer/1620498 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1620498
+	priority is 0
+	the current length of the visited set is : 87
+crawled https://support.google.com/youtube/answer/1620498 it wasn't  news 
+returning reqs
+visiting http://www.vice.com/tag/culture
+	priority is -1
+	the current length of the visited set is : 88
+visiting http://www.vice.com/tag/culture
+	priority is -1
+	the current length of the visited set is : 88
+visiting http://www.vice.com/rss
+	priority is -1
+	the current length of the visited set is : 89
+visiting http://www.vice.com/rss
+	priority is -1
+	the current length of the visited set is : 89
+visiting https://support.google.com/youtube/answer/1342206
+	priority is 0
+	the current length of the visited set is : 90
+crawled https://support.google.com/youtube/answer/1342206 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1342206
+	priority is 0
+	the current length of the visited set is : 90
+visiting http://www.vice.com/tag/opinion
+	priority is -1
+	the current length of the visited set is : 91
+crawled http://www.vice.com/tag/opinion it wasn't  news 
+returning reqs
+visiting http://www.vice.com/tag/opinion
+	priority is -1
+	the current length of the visited set is : 91
+visiting http://motherboard.vice.com/en_us/tag/earth
+	priority is 0
+	the current length of the visited set is : 92
+crawled http://motherboard.vice.com/en_us/tag/earth it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/en_us/tag/earth
+	priority is 0
+	the current length of the visited set is : 92
+visiting http://motherboard.vice.com/en_us/videos
+	priority is 0
+	the current length of the visited set is : 93
+crawled http://motherboard.vice.com/en_us/videos it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/en_us/videos
+	priority is 0
+	the current length of the visited set is : 93
+visiting https://support.google.com/youtube/answer/4574026
+	priority is 0
+	the current length of the visited set is : 94
+crawled https://support.google.com/youtube/answer/4574026 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/4574026
+	priority is 0
+	the current length of the visited set is : 94
+visiting http://www.vice.com/series/the-vice-guide-to-mental-health
+	priority is -1
+	the current length of the visited set is : 95
+visiting http://www.vice.com/series/the-vice-guide-to-mental-health
+	priority is -1
+	the current length of the visited set is : 95
+visiting http://motherboard.vice.com/en_us/tag/gaming
+	priority is 0
+	the current length of the visited set is : 96
+crawled http://motherboard.vice.com/en_us/tag/gaming it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/en_us/tag/gaming
+	priority is 0
+	the current length of the visited set is : 96
+visiting http://www.vice.com/tag/politics
+	priority is -1
+	the current length of the visited set is : 97
+visiting http://www.vice.com/tag/politics
+	priority is -1
+	the current length of the visited set is : 97
+visiting https://itunes.apple.com/US/app/tumblr/id305343404
+	priority is 0
+	the current length of the visited set is : 98
+visiting https://itunes.apple.com/US/app/tumblr/id305343404
+	priority is 0
+	the current length of the visited set is : 98
+visiting https://support.google.com/youtube/answer/1304644
+	priority is 0
+	the current length of the visited set is : 99
+crawled https://support.google.com/youtube/answer/1304644 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1304644
+	priority is 0
+	the current length of the visited set is : 99
+visiting http://motherboard.vice.com/en_us/tag/futures
+	priority is 0
+	the current length of the visited set is : 100
+crawled http://motherboard.vice.com/en_us/tag/futures it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/en_us/tag/futures
+	priority is 0
+	the current length of the visited set is : 100
+visiting https://support.google.com/youtube/answer/1304642
+	priority is 0
+	the current length of the visited set is : 101
+crawled https://support.google.com/youtube/answer/1304642 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1304642
+	priority is 0
+	the current length of the visited set is : 101
+visiting http://www.vice.com/magazine
+	priority is -1
+	the current length of the visited set is : 102
+crawled http://www.vice.com/magazine it wasn't  news 
+returning reqs
+visiting http://www.vice.com/magazine
+	priority is -1
+	the current length of the visited set is : 102
+visiting https://www.youtube.com/static
+	priority is 0
+	the current length of the visited set is : 103
+visiting http://www.vice.com/tag/crime
+	priority is -1
+	the current length of the visited set is : 104
+crawled http://www.vice.com/tag/crime it wasn't  news 
+returning reqs
+visiting http://www.vice.com/tag/crime
+	priority is -1
+	the current length of the visited set is : 104
+visiting https://support.google.com/youtube/answer/2497582
+	priority is 0
+	the current length of the visited set is : 105
+crawled https://support.google.com/youtube/answer/2497582 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/2497582
+	priority is 0
+	the current length of the visited set is : 105
+crawled https://support.google.com/youtube/answer/2497582 it wasn't  news 
+returning reqs
+visiting http://www.vice.com/photos
+	priority is -1
+	the current length of the visited set is : 106
+crawled http://www.vice.com/photos it wasn't  news 
+returning reqs
+visiting http://www.vice.com/photos
+	priority is -1
+	the current length of the visited set is : 106
+visiting http://motherboard.vice.com/blog/home-at-the-end-of-time
+	priority is 0
+	the current length of the visited set is : 107
+crawled http://motherboard.vice.com/blog/home-at-the-end-of-time it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/home-at-the-end-of-time
+	priority is 0
+	the current length of the visited set is : 107
+crawled http://motherboard.vice.com/blog/home-at-the-end-of-time it was  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/can-time-just-stop
+	priority is 0
+	the current length of the visited set is : 108
+crawled http://motherboard.vice.com/blog/can-time-just-stop it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/can-time-just-stop
+	priority is 0
+	the current length of the visited set is : 108
+crawled http://motherboard.vice.com/blog/can-time-just-stop it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/2375299
+	priority is 0
+	the current length of the visited set is : 109
+crawled https://support.google.com/youtube/answer/2375299 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/2375299
+	priority is 0
+	the current length of the visited set is : 109
+crawled https://support.google.com/youtube/answer/2375299 it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/a-visit-to-the-shell-of-the-bomb
+	priority is 0
+	the current length of the visited set is : 110
+crawled http://motherboard.vice.com/blog/a-visit-to-the-shell-of-the-bomb it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/a-visit-to-the-shell-of-the-bomb
+	priority is 0
+	the current length of the visited set is : 110
+crawled http://motherboard.vice.com/blog/a-visit-to-the-shell-of-the-bomb it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1723046
+	priority is 0
+	the current length of the visited set is : 111
+crawled https://support.google.com/youtube/answer/1723046 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1723046
+	priority is 0
+	the current length of the visited set is : 111
+visiting http://www.vice.com/dnd
+	priority is -1
+	the current length of the visited set is : 112
+crawled http://www.vice.com/dnd it wasn't  news 
+returning reqs
+visiting http://www.vice.com/dnd
+	priority is -1
+	the current length of the visited set is : 112
+visiting http://motherboard.vice.com/read/we-need-three-planets-to-keep-the-human-race-alive-nasa-scientist-says
+	priority is 0
+	the current length of the visited set is : 113
+crawled http://motherboard.vice.com/read/we-need-three-planets-to-keep-the-human-race-alive-nasa-scientist-says it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/we-need-three-planets-to-keep-the-human-race-alive-nasa-scientist-says
+	priority is 0
+	the current length of the visited set is : 113
+visiting https://support.google.com/youtube/answer/2375375
+	priority is 0
+	the current length of the visited set is : 114
+visiting https://support.google.com/youtube/answer/2375375
+	priority is 0
+	the current length of the visited set is : 114
+visiting http://www.vice.com/nsfw
+	priority is -1
+	the current length of the visited set is : 115
+crawled http://www.vice.com/nsfw it wasn't  news 
+returning reqs
+visiting http://www.vice.com/nsfw
+	priority is -1
+	the current length of the visited set is : 115
+visiting http://motherboard.vice.com/read/the-darkest-job-listening-for-the-first-detonations-of-nuclear-armageddon
+	priority is -1
+	the current length of the visited set is : 116
+visiting http://motherboard.vice.com/read/the-darkest-job-listening-for-the-first-detonations-of-nuclear-armageddon
+	priority is -1
+	the current length of the visited set is : 116
+visiting https://support.google.com/youtube/answer/6005908
+	priority is 0
+	the current length of the visited set is : 117
+crawled https://support.google.com/youtube/answer/6005908 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/6005908
+	priority is 0
+	the current length of the visited set is : 117
+crawled https://support.google.com/youtube/answer/6005908 it wasn't  news 
+returning reqs
+visiting http://www.vice.com/gaming
+	priority is -1
+	the current length of the visited set is : 118
+visiting http://www.vice.com/gaming
+	priority is -1
+	the current length of the visited set is : 118
+visiting https://support.google.com/youtube/answer/6005923
+	priority is 0
+	the current length of the visited set is : 119
+crawled https://support.google.com/youtube/answer/6005923 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/6005923
+	priority is 0
+	the current length of the visited set is : 119
+visiting http://www.vice.com/food
+	priority is -1
+	the current length of the visited set is : 120
+crawled http://www.vice.com/food it wasn't  news 
+returning reqs
+visiting http://www.vice.com/food
+	priority is -1
+	the current length of the visited set is : 120
+visiting http://motherboard.vice.com/read/in-myanmar-the-military-government-remains-suspicious-of-drones
+	priority is 0
+	the current length of the visited set is : 121
+crawled http://motherboard.vice.com/read/in-myanmar-the-military-government-remains-suspicious-of-drones it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/in-myanmar-the-military-government-remains-suspicious-of-drones
+	priority is 0
+	the current length of the visited set is : 121
+visiting https://support.google.com/youtube/answer/1311402
+	priority is 0
+	the current length of the visited set is : 122
+crawled https://support.google.com/youtube/answer/1311402 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1311402
+	priority is 0
+	the current length of the visited set is : 122
+visiting http://motherboard.vice.com/read/watch-these-drones-act-like-flying-spiders-and-weave-together-structures
+	priority is 0
+	the current length of the visited set is : 123
+crawled http://motherboard.vice.com/read/watch-these-drones-act-like-flying-spiders-and-weave-together-structures it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/watch-these-drones-act-like-flying-spiders-and-weave-together-structures
+	priority is 0
+	the current length of the visited set is : 123
+crawled http://motherboard.vice.com/read/watch-these-drones-act-like-flying-spiders-and-weave-together-structures it wasn't  news 
+returning reqs
+visiting http://www.vice.com/tech
+	priority is -1
+	the current length of the visited set is : 124
+visiting http://www.vice.com/tech
+	priority is -1
+	the current length of the visited set is : 124
+visiting http://motherboard.vice.com/read/about-motherboard
+	priority is 0
+	the current length of the visited set is : 125
+crawled http://motherboard.vice.com/read/about-motherboard it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/about-motherboard
+	priority is 0
+	the current length of the visited set is : 125
+visiting https://support.google.com/youtube/answer/2797370
+	priority is 0
+	the current length of the visited set is : 126
+crawled https://support.google.com/youtube/answer/2797370 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/2797370
+	priority is 0
+	the current length of the visited set is : 126
+crawled https://support.google.com/youtube/answer/2797370 it wasn't  news 
+returning reqs
+visiting http://www.vice.com/sports
+	priority is -1
+	the current length of the visited set is : 127
+crawled http://www.vice.com/sports it wasn't  news 
+returning reqs
+visiting http://www.vice.com/sports
+	priority is -1
+	the current length of the visited set is : 127
+visiting http://motherboard.vice.com/blog/its-easter-and-american-christians-believe-the-rapture-is-nigh
+	priority is 1
+	the current length of the visited set is : 128
+crawled http://motherboard.vice.com/blog/its-easter-and-american-christians-believe-the-rapture-is-nigh it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/its-easter-and-american-christians-believe-the-rapture-is-nigh
+	priority is 1
+	the current length of the visited set is : 128
+visiting https://support.google.com/youtube/answer/2807691
+	priority is 0
+	the current length of the visited set is : 129
+crawled https://support.google.com/youtube/answer/2807691 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/2807691
+	priority is 0
+	the current length of the visited set is : 129
+visiting http://patft1.uspto.gov/netacgi/nph-Parser
+	priority is 1
+	the current length of the visited set is : 130
+crawled http://patft1.uspto.gov/netacgi/nph-Parser it wasn't  news 
+returning reqs
+visiting http://patft1.uspto.gov/netacgi/nph-Parser
+	priority is 1
+	the current length of the visited set is : 130
+visiting http://motherboard.vice.com/blog/why-psychiatry-embraced-drugs-an-interview-with-author-robert-whitaker
+	priority is 1
+	the current length of the visited set is : 131
+crawled http://motherboard.vice.com/blog/why-psychiatry-embraced-drugs-an-interview-with-author-robert-whitaker it was  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/why-psychiatry-embraced-drugs-an-interview-with-author-robert-whitaker
+	priority is 1
+	the current length of the visited set is : 131
+crawled http://motherboard.vice.com/blog/why-psychiatry-embraced-drugs-an-interview-with-author-robert-whitaker it was  news 
+returning reqs
+visiting http://www.vice.com/travel
+	priority is -1
+	the current length of the visited set is : 132
+visiting http://www.vice.com/travel
+	priority is -1
+	the current length of the visited set is : 132
+visiting https://support.google.com/displayspecs/?rd=2
+	priority is 0
+	the current length of the visited set is : 133
+crawled https://support.google.com/displayspecs/?rd=2 it wasn't  news 
+returning reqs
+visiting https://support.google.com/displayspecs/?rd=2
+	priority is 0
+	the current length of the visited set is : 133
+crawled https://support.google.com/displayspecs/?rd=2 it wasn't  news 
+returning reqs
+visiting http://www.vice.com/fashion
+	priority is -1
+	the current length of the visited set is : 134
+crawled http://www.vice.com/fashion it wasn't  news 
+returning reqs
+visiting http://www.vice.com/fashion
+	priority is -1
+	the current length of the visited set is : 134
+visiting http://motherboard.vice.com/blog/the-biggest-star-at-the-tribeca-film-festival-was-a-weird-little-cat
+	priority is 1
+	the current length of the visited set is : 135
+crawled http://motherboard.vice.com/blog/the-biggest-star-at-the-tribeca-film-festival-was-a-weird-little-cat it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/the-biggest-star-at-the-tribeca-film-festival-was-a-weird-little-cat
+	priority is 1
+	the current length of the visited set is : 135
+crawled http://motherboard.vice.com/blog/the-biggest-star-at-the-tribeca-film-festival-was-a-weird-little-cat it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/2946312
+	priority is 0
+	the current length of the visited set is : 136
+crawled https://support.google.com/youtube/topic/2946312 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/topic/2946312
+	priority is 0
+	the current length of the visited set is : 136
+crawled https://support.google.com/youtube/topic/2946312 it wasn't  news 
+returning reqs
+visiting http://www.vice.com/music
+	priority is -1
+	the current length of the visited set is : 137
+visiting http://www.vice.com/music
+	priority is -1
+	the current length of the visited set is : 137
+visiting http://motherboard.vice.com/blog/a-newsreel-from-fifty-years-ago-this-month-we-liked-ike-blew-up-atomic-bombs-carved-vegetable-sculptures
+	priority is 0
+	the current length of the visited set is : 138
+crawled http://motherboard.vice.com/blog/a-newsreel-from-fifty-years-ago-this-month-we-liked-ike-blew-up-atomic-bombs-carved-vegetable-sculptures it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/a-newsreel-from-fifty-years-ago-this-month-we-liked-ike-blew-up-atomic-bombs-carved-vegetable-sculptures
+	priority is 0
+	the current length of the visited set is : 138
+crawled http://motherboard.vice.com/blog/a-newsreel-from-fifty-years-ago-this-month-we-liked-ike-blew-up-atomic-bombs-carved-vegetable-sculptures it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/2802848
+	priority is 0
+	the current length of the visited set is : 139
+crawled https://support.google.com/youtube/answer/2802848 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/2802848
+	priority is 0
+	the current length of the visited set is : 139
+crawled https://support.google.com/youtube/answer/2802848 it wasn't  news 
+returning reqs
+visiting http://www.vice.com/news
+	priority is -1
+	the current length of the visited set is : 140
+crawled http://www.vice.com/news it wasn't  news 
+returning reqs
+visiting http://www.vice.com/news
+	priority is -1
+	the current length of the visited set is : 140
+visiting http://motherboard.vice.com/blog/the-u-s-once-dropped-an-atomic-bomb-on-a-south-carolina-town
+	priority is 0
+	the current length of the visited set is : 141
+crawled http://motherboard.vice.com/blog/the-u-s-once-dropped-an-atomic-bomb-on-a-south-carolina-town it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/the-u-s-once-dropped-an-atomic-bomb-on-a-south-carolina-town
+	priority is 0
+	the current length of the visited set is : 141
+crawled http://motherboard.vice.com/blog/the-u-s-once-dropped-an-atomic-bomb-on-a-south-carolina-town it wasn't  news 
+returning reqs
+visiting http://www.vice.com/videos
+	priority is -1
+	the current length of the visited set is : 142
+crawled http://www.vice.com/videos it wasn't  news 
+returning reqs
+visiting http://www.vice.com/videos
+	priority is -1
+	the current length of the visited set is : 142
+visiting https://support.google.com/youtube/answer/174084
+	priority is 0
+	the current length of the visited set is : 143
+crawled https://support.google.com/youtube/answer/174084 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/174084
+	priority is 0
+	the current length of the visited set is : 143
+visiting http://motherboard.vice.com/blog/old-security-photos-highlight-the-unknown-builders-of-the-atomic-bomb
+	priority is 0
+	the current length of the visited set is : 144
+crawled http://motherboard.vice.com/blog/old-security-photos-highlight-the-unknown-builders-of-the-atomic-bomb it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/old-security-photos-highlight-the-unknown-builders-of-the-atomic-bomb
+	priority is 0
+	the current length of the visited set is : 144
+crawled http://motherboard.vice.com/blog/old-security-photos-highlight-the-unknown-builders-of-the-atomic-bomb it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1153367
+	priority is 0
+	the current length of the visited set is : 145
+crawled https://support.google.com/youtube/answer/1153367 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1153367
+	priority is 0
+	the current length of the visited set is : 145
+crawled https://support.google.com/youtube/answer/1153367 it wasn't  news 
+returning reqs
+visiting http://www.amazon.com/The-Titan-II-Handbook-Civilians/dp/B004U8PPQ2
+	priority is 0
+	the current length of the visited set is : 146
+crawled http://www.amazon.com/The-Titan-II-Handbook-Civilians/dp/B004U8PPQ2 it wasn't  news 
+returning reqs
+visiting http://www.amazon.com/The-Titan-II-Handbook-Civilians/dp/B004U8PPQ2
+	priority is 0
+	the current length of the visited set is : 146
+crawled http://www.amazon.com/The-Titan-II-Handbook-Civilians/dp/B004U8PPQ2 it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/this-1951-cartoon-is-a-delightfully-insane-way-to-prepare-children-for-nuclear-war
+	priority is 0
+	the current length of the visited set is : 147
+crawled http://motherboard.vice.com/blog/this-1951-cartoon-is-a-delightfully-insane-way-to-prepare-children-for-nuclear-war it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/this-1951-cartoon-is-a-delightfully-insane-way-to-prepare-children-for-nuclear-war
+	priority is 0
+	the current length of the visited set is : 147
+visiting http://www.vice.com/shane-smith
+	priority is -1
+	the current length of the visited set is : 148
+visiting http://www.vice.com/shane-smith
+	priority is -1
+	the current length of the visited set is : 148
+visiting https://support.google.com/youtube/answer/3463396
+	priority is 0
+	the current length of the visited set is : 149
+visiting https://support.google.com/youtube/answer/3463396
+	priority is 0
+	the current length of the visited set is : 149
+visiting https://support.google.com/youtube/answer/57153
+	priority is 0
+	the current length of the visited set is : 150
+crawled https://support.google.com/youtube/answer/57153 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/57153
+	priority is 0
+	the current length of the visited set is : 150
+crawled https://support.google.com/youtube/answer/57153 it wasn't  news 
+returning reqs
+visiting https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FUpdateAccountRecoveryOptions&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FUpdateAccountRecoveryOptions&passwdsession=true
+	priority is 0
+	the current length of the visited set is : 151
+crawled https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FUpdateAccountRecoveryOptions&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FUpdateAccountRecoveryOptions&passwdsession=true it wasn't  news 
+returning reqs
+visiting https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FUpdateAccountRecoveryOptions&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FUpdateAccountRecoveryOptions&passwdsession=true
+	priority is 0
+	the current length of the visited set is : 151
+visiting https://support.google.com/youtube/answer/1348739
+	priority is 0
+	the current length of the visited set is : 152
+crawled https://support.google.com/youtube/answer/1348739 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1348739
+	priority is 0
+	the current length of the visited set is : 152
+crawled https://support.google.com/youtube/answer/1348739 it wasn't  news 
+returning reqs
+visiting http://www.amazon.com/Currency-Converter/b
+	priority is 0
+	the current length of the visited set is : 153
+visiting https://support.google.com/youtube/answer/1348752
+	priority is 0
+	the current length of the visited set is : 154
+crawled https://support.google.com/youtube/answer/1348752 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1348752
+	priority is 0
+	the current length of the visited set is : 154
+crawled https://support.google.com/youtube/answer/1348752 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1112983
+	priority is 0
+	the current length of the visited set is : 155
+crawled https://support.google.com/youtube/answer/1112983 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1112983
+	priority is 0
+	the current length of the visited set is : 155
+crawled https://support.google.com/youtube/answer/1112983 it wasn't  news 
+returning reqs
+visiting http://www.amazon.com/earn-spend-rewards-points/b
+	priority is 0
+	the current length of the visited set is : 156
+visiting http://motherboard.vice.com/read/parallel-universes-colliding-could-explain-quantum-weirdness
+	priority is 0
+	the current length of the visited set is : 157
+visiting http://motherboard.vice.com/read/parallel-universes-colliding-could-explain-quantum-weirdness
+	priority is 0
+	the current length of the visited set is : 157
+visiting http://www.amazon.com/compare-credit-card-offers/b
+	priority is 0
+	the current length of the visited set is : 158
+visiting http://aws.amazon.com/what-is-cloud-computing/
+	priority is 0
+	the current length of the visited set is : 159
+crawled http://aws.amazon.com/what-is-cloud-computing/ it wasn't  news 
+returning reqs
+visiting http://aws.amazon.com/what-is-cloud-computing/
+	priority is 0
+	the current length of the visited set is : 159
+crawled http://aws.amazon.com/what-is-cloud-computing/ it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/one-gif-to-explain-the-multiverse-of-the-microscopic
+	priority is 0
+	the current length of the visited set is : 160
+crawled http://motherboard.vice.com/blog/one-gif-to-explain-the-multiverse-of-the-microscopic it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/one-gif-to-explain-the-multiverse-of-the-microscopic
+	priority is 0
+	the current length of the visited set is : 160
+visiting http://motherboard.vice.com/blog/is-bitcoin-a-government-conspiracy
+	priority is 0
+	the current length of the visited set is : 161
+crawled http://motherboard.vice.com/blog/is-bitcoin-a-government-conspiracy it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/is-bitcoin-a-government-conspiracy
+	priority is 0
+	the current length of the visited set is : 161
+crawled http://motherboard.vice.com/blog/is-bitcoin-a-government-conspiracy it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/new-measurements-the-universe-is-boring
+	priority is 0
+	the current length of the visited set is : 162
+crawled http://motherboard.vice.com/read/new-measurements-the-universe-is-boring it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/new-measurements-the-universe-is-boring
+	priority is 0
+	the current length of the visited set is : 162
+crawled http://motherboard.vice.com/read/new-measurements-the-universe-is-boring it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/2423005
+	priority is 0
+	the current length of the visited set is : 163
+crawled https://support.google.com/youtube/answer/2423005 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/2423005
+	priority is 0
+	the current length of the visited set is : 163
+crawled https://support.google.com/youtube/answer/2423005 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/187602
+	priority is 0
+	the current length of the visited set is : 164
+crawled https://support.google.com/youtube/answer/187602 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/187602
+	priority is 0
+	the current length of the visited set is : 164
+visiting https://accounts.google.com/ServiceLogin?service=adwords&continue=https://adwords.google.com/um/identity&hl=en&ltmpl=signin&passive=0&skipvpage=true
+	priority is 0
+	the current length of the visited set is : 165
+crawled https://accounts.google.com/ServiceLogin?service=adwords&continue=https://adwords.google.com/um/identity&hl=en&ltmpl=signin&passive=0&skipvpage=true it wasn't  news 
+returning reqs
+visiting https://accounts.google.com/ServiceLogin?service=adwords&continue=https://adwords.google.com/um/identity&hl=en&ltmpl=signin&passive=0&skipvpage=true
+	priority is 0
+	the current length of the visited set is : 165
+crawled https://accounts.google.com/ServiceLogin?service=adwords&continue=https://adwords.google.com/um/identity&hl=en&ltmpl=signin&passive=0&skipvpage=true it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/94524
+	priority is 0
+	the current length of the visited set is : 166
+crawled https://support.google.com/youtube/answer/94524 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/94524
+	priority is 0
+	the current length of the visited set is : 166
+visiting http://motherboard.vice.com/read/why-didnt-the-universe-immediately-collapse-gravity-say-physicists
+	priority is 0
+	the current length of the visited set is : 167
+visiting http://motherboard.vice.com/read/why-didnt-the-universe-immediately-collapse-gravity-say-physicists
+	priority is 0
+	the current length of the visited set is : 167
+visiting http://motherboard.vice.com/read/dying-in-a-nuclear-apocalypse-is-still-a-pretty-likely-outcome
+	priority is 0
+	the current length of the visited set is : 168
+visiting http://motherboard.vice.com/read/dying-in-a-nuclear-apocalypse-is-still-a-pretty-likely-outcome
+	priority is 0
+	the current length of the visited set is : 168
+visiting http://www.nytimes.com/2012/04/22/magazine/the-science-and-history-of-treating-depression.html?_r=0
+	priority is 0
+	the current length of the visited set is : 169
+visiting http://www.nytimes.com/2012/04/22/magazine/the-science-and-history-of-treating-depression.html?_r=0
+	priority is 0
+	the current length of the visited set is : 169
+visiting https://www.google.com/maps/@?dg=dbrw&newdg=1
+	priority is 0
+	the current length of the visited set is : 170
+visiting https://www.google.com/maps/@?dg=dbrw&newdg=1
+	priority is 0
+	the current length of the visited set is : 170
+visiting http://motherboard.vice.com/read/the-secret-nightlife-of-tunnel-boring-machines
+	priority is 0
+	the current length of the visited set is : 171
+visiting http://motherboard.vice.com/read/the-secret-nightlife-of-tunnel-boring-machines
+	priority is 0
+	the current length of the visited set is : 171
+visiting https://www.google.com/adsense/terms
+	priority is 0
+	the current length of the visited set is : 172
+crawled https://www.google.com/adsense/terms it wasn't  news 
+returning reqs
+visiting https://www.google.com/adsense/terms
+	priority is 0
+	the current length of the visited set is : 172
+visiting https://support.google.com/youtube/answer/72902
+	priority is 0
+	the current length of the visited set is : 173
+crawled https://support.google.com/youtube/answer/72902 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/72902
+	priority is 0
+	the current length of the visited set is : 173
+visiting https://aws.amazon.com/marketplace/pp/B00E8PL4JO/ref=mkt_ste_l2_Deployment_f2
+	priority is 0
+	the current length of the visited set is : 174
+crawled https://aws.amazon.com/marketplace/pp/B00E8PL4JO/ref=mkt_ste_l2_Deployment_f2 it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/pp/B00E8PL4JO/ref=mkt_ste_l2_Deployment_f2
+	priority is 0
+	the current length of the visited set is : 174
+crawled https://aws.amazon.com/marketplace/pp/B00E8PL4JO/ref=mkt_ste_l2_Deployment_f2 it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/b/2649274011/ref=mkt_ste_l2_Deployment_cat
+	priority is 0
+	the current length of the visited set is : 175
+crawled https://aws.amazon.com/marketplace/b/2649274011/ref=mkt_ste_l2_Deployment_cat it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/b/2649274011/ref=mkt_ste_l2_Deployment_cat
+	priority is 0
+	the current length of the visited set is : 175
+crawled https://aws.amazon.com/marketplace/b/2649274011/ref=mkt_ste_l2_Deployment_cat it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/the-plan-to-3d-print-a-whole-estate
+	priority is 0
+	the current length of the visited set is : 176
+visiting http://motherboard.vice.com/read/the-plan-to-3d-print-a-whole-estate
+	priority is 0
+	the current length of the visited set is : 176
+visiting https://support.google.com/adsense/
+	priority is 0
+	the current length of the visited set is : 177
+crawled https://support.google.com/adsense/ it wasn't  news 
+returning reqs
+visiting https://support.google.com/adsense/
+	priority is 0
+	the current length of the visited set is : 177
+crawled https://support.google.com/adsense/ it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/pp/B00J5RHYEO/ref=mkt_ste_l2_Deployment_f1
+	priority is 0
+	the current length of the visited set is : 178
+crawled https://aws.amazon.com/marketplace/pp/B00J5RHYEO/ref=mkt_ste_l2_Deployment_f1 it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/pp/B00J5RHYEO/ref=mkt_ste_l2_Deployment_f1
+	priority is 0
+	the current length of the visited set is : 178
+visiting http://motherboard.vice.com/read/can-swimming-with-dolphins-really-cure-your-meth-addiction
+	priority is 1
+	the current length of the visited set is : 179
+crawled http://motherboard.vice.com/read/can-swimming-with-dolphins-really-cure-your-meth-addiction it was  news 
+returning reqs
+visiting http://motherboard.vice.com/read/can-swimming-with-dolphins-really-cure-your-meth-addiction
+	priority is 1
+	the current length of the visited set is : 179
+crawled http://motherboard.vice.com/read/can-swimming-with-dolphins-really-cure-your-meth-addiction it was  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/ref=mkt_ste_l2_Deployment
+	priority is 0
+	the current length of the visited set is : 180
+crawled https://aws.amazon.com/marketplace/ref=mkt_ste_l2_Deployment it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/ref=mkt_ste_l2_Deployment
+	priority is 0
+	the current length of the visited set is : 180
+crawled https://aws.amazon.com/marketplace/ref=mkt_ste_l2_Deployment it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/privacy/
+	priority is 0
+	the current length of the visited set is : 181
+visiting https://aws.amazon.com/privacy/
+	priority is 0
+	the current length of the visited set is : 181
+visiting http://motherboard.vice.com/read/the-serotonin-levels-depression-link-is-a-marketing-myth-psychiatrist-claims
+	priority is 1
+	the current length of the visited set is : 182
+visiting http://motherboard.vice.com/read/the-serotonin-levels-depression-link-is-a-marketing-myth-psychiatrist-claims
+	priority is 1
+	the current length of the visited set is : 182
+visiting https://creatoracademy.withgoogle.com/page/lesson/monetization-goals
+	priority is 0
+	the current length of the visited set is : 183
+visiting https://creatoracademy.withgoogle.com/page/lesson/monetization-goals
+	priority is 0
+	the current length of the visited set is : 183
+visiting https://support.google.com/youtube/answer/6066578
+	priority is 0
+	the current length of the visited set is : 184
+crawled https://support.google.com/youtube/answer/6066578 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/6066578
+	priority is 0
+	the current length of the visited set is : 184
+crawled https://support.google.com/youtube/answer/6066578 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/?rd=1
+	priority is 0
+	the current length of the visited set is : 185
+crawled https://support.google.com/youtube/?rd=1 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/?rd=1
+	priority is 0
+	the current length of the visited set is : 185
+visiting http://motherboard.vice.com/read/once-again-mental-illness-doesnt-predict-future-violence
+	priority is 1
+	the current length of the visited set is : 186
+crawled http://motherboard.vice.com/read/once-again-mental-illness-doesnt-predict-future-violence it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/once-again-mental-illness-doesnt-predict-future-violence
+	priority is 1
+	the current length of the visited set is : 186
+crawled http://motherboard.vice.com/read/once-again-mental-illness-doesnt-predict-future-violence it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/6066577
+	priority is -1
+	the current length of the visited set is : 187
+crawled https://support.google.com/youtube/answer/6066577 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/6066577
+	priority is -1
+	the current length of the visited set is : 187
+visiting https://aws.amazon.com/terms/
+	priority is 0
+	the current length of the visited set is : 188
+visiting https://aws.amazon.com/terms/
+	priority is 0
+	the current length of the visited set is : 188
+visiting http://motherboard.vice.com/read/virtual-therapy-why-its-so-comforting-to-talk-to-screens-that-listen
+	priority is 1
+	the current length of the visited set is : 189
+visiting http://motherboard.vice.com/read/virtual-therapy-why-its-so-comforting-to-talk-to-screens-that-listen
+	priority is 1
+	the current length of the visited set is : 189
+visiting https://support.google.com/youtube/answer/6066530
+	priority is -1
+	the current length of the visited set is : 190
+crawled https://support.google.com/youtube/answer/6066530 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/6066530
+	priority is -1
+	the current length of the visited set is : 190
+visiting https://aws.amazon.com/tw/
+	priority is 0
+	the current length of the visited set is : 191
+visiting https://aws.amazon.com/tw/
+	priority is 0
+	the current length of the visited set is : 191
+visiting http://motherboard.vice.com/blog/winston-churchill-predicted-synthetic-lab-grown-meat-in-1931
+	priority is 0
+	the current length of the visited set is : 192
+crawled http://motherboard.vice.com/blog/winston-churchill-predicted-synthetic-lab-grown-meat-in-1931 it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/blog/winston-churchill-predicted-synthetic-lab-grown-meat-in-1931
+	priority is 0
+	the current length of the visited set is : 192
+crawled http://motherboard.vice.com/blog/winston-churchill-predicted-synthetic-lab-grown-meat-in-1931 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/6162278
+	priority is 0
+	the current length of the visited set is : 193
+crawled https://support.google.com/youtube/answer/6162278 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/6162278
+	priority is 0
+	the current length of the visited set is : 193
+crawled https://support.google.com/youtube/answer/6162278 it wasn't  news 
+returning reqs
+visiting https://accounts.google.com/SignUp?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount
+	priority is 0
+	the current length of the visited set is : 194
+visiting https://accounts.google.com/SignUp?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount
+	priority is 0
+	the current length of the visited set is : 194
+visiting http://motherboard.vice.com/read/the-3d-printed-war
+	priority is 0
+	the current length of the visited set is : 195
+crawled http://motherboard.vice.com/read/the-3d-printed-war it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/the-3d-printed-war
+	priority is 0
+	the current length of the visited set is : 195
+crawled http://motherboard.vice.com/read/the-3d-printed-war it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/the-documentary-about-hiroshima-and-nagasaki-the-u-s-didn-t-want-us-to-see
+	priority is 0
+	the current length of the visited set is : 196
+crawled http://motherboard.vice.com/read/the-documentary-about-hiroshima-and-nagasaki-the-u-s-didn-t-want-us-to-see it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/the-documentary-about-hiroshima-and-nagasaki-the-u-s-didn-t-want-us-to-see
+	priority is 0
+	the current length of the visited set is : 196
+crawled http://motherboard.vice.com/read/the-documentary-about-hiroshima-and-nagasaki-the-u-s-didn-t-want-us-to-see it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1311392
+	priority is -1
+	the current length of the visited set is : 197
+visiting https://support.google.com/youtube/answer/1311392
+	priority is -1
+	the current length of the visited set is : 197
+visiting https://aws.amazon.com/marketplace/pp/B008DWS6GC
+	priority is 0
+	the current length of the visited set is : 198
+crawled https://aws.amazon.com/marketplace/pp/B008DWS6GC it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/pp/B008DWS6GC
+	priority is 0
+	the current length of the visited set is : 198
+visiting http://motherboard.vice.com/read/astronomers-unravel-the-mystery-of-the-universes-giant-cold-spot
+	priority is 0
+	the current length of the visited set is : 199
+crawled http://motherboard.vice.com/read/astronomers-unravel-the-mystery-of-the-universes-giant-cold-spot it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/astronomers-unravel-the-mystery-of-the-universes-giant-cold-spot
+	priority is 0
+	the current length of the visited set is : 199
+crawled http://motherboard.vice.com/read/astronomers-unravel-the-mystery-of-the-universes-giant-cold-spot it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/pp/B00UIO8898
+	priority is 0
+	the current length of the visited set is : 200
+crawled https://aws.amazon.com/marketplace/pp/B00UIO8898 it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/pp/B00UIO8898
+	priority is 0
+	the current length of the visited set is : 200
+crawled https://aws.amazon.com/marketplace/pp/B00UIO8898 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/82842
+	priority is 0
+	the current length of the visited set is : 201
+crawled https://support.google.com/youtube/answer/82842 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/82842
+	priority is 0
+	the current length of the visited set is : 201
+crawled https://support.google.com/youtube/answer/82842 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1074205
+	priority is 0
+	the current length of the visited set is : 202
+crawled https://support.google.com/youtube/answer/1074205 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/1074205
+	priority is 0
+	the current length of the visited set is : 202
+visiting https://aws.amazon.com/marketplace/pp/B00E4WSCT6
+	priority is 0
+	the current length of the visited set is : 203
+crawled https://aws.amazon.com/marketplace/pp/B00E4WSCT6 it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/pp/B00E4WSCT6
+	priority is 0
+	the current length of the visited set is : 203
+visiting http://motherboard.vice.com/read/heres-the-most-complete-3d-map-of-our-expanding-universe
+	priority is 0
+	the current length of the visited set is : 204
+visiting http://motherboard.vice.com/read/heres-the-most-complete-3d-map-of-our-expanding-universe
+	priority is 0
+	the current length of the visited set is : 204
+visiting http://motherboard.vice.com/read/the-man-who-built-the-universe
+	priority is 0
+	the current length of the visited set is : 212
+crawled http://motherboard.vice.com/read/the-man-who-built-the-universe it wasn't  news 
+returning reqs
+visiting http://motherboard.vice.com/read/the-man-who-built-the-universe
+	priority is 0
+	the current length of the visited set is : 212
+crawled http://motherboard.vice.com/read/the-man-who-built-the-universe it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/176643
+	priority is 0
+	the current length of the visited set is : 213
+crawled https://support.google.com/youtube/answer/176643 it wasn't  news 
+returning reqs
+visiting https://support.google.com/youtube/answer/176643
+	priority is 0
+	the current length of the visited set is : 213
+visiting https://aws.amazon.com/marketplace/pp/B00NNZUVHQ
+	priority is 0
+	the current length of the visited set is : 214
+crawled https://aws.amazon.com/marketplace/pp/B00NNZUVHQ it wasn't  news 
+returning reqs
+visiting https://aws.amazon.com/marketplace/pp/B00NNZUVHQ
+	priority is 0
+	the current length of the visited set is : 214
+visiting http://www.vice.com/en_us
+	priority is 0
+	the current length of the visited set is : 1
+crawled http://www.vice.com/en_us it was  news 
+returning reqs
+visiting http://thump.vice.com/en_us/article/did-david-guetta-and-nicki-minaj-steal-from-burning-man-for-their-billboard-music-awards-performance
+	priority is 1
+	the current length of the visited set is : 2
+visiting http://www.vice.com/articles
+	priority is 1
+	the current length of the visited set is : 3
+crawled http://www.vice.com/articles it was  news 
+returning reqs
+visiting http://fightland.vice.com/blog/fighting-for-identity-the-life-of-a-transgender-kickboxer-in-rural-thailand
+	priority is 1
+	the current length of the visited set is : 4
+crawled http://fightland.vice.com/blog/fighting-for-identity-the-life-of-a-transgender-kickboxer-in-rural-thailand it was  news 
+returning reqs
+visiting http://store.vice.com/
+	priority is 1
+	the current length of the visited set is : 5
+crawled http://store.vice.com/ it was  news 
+returning reqs
+visiting http://munchies.vice.com/articles/science-says-being-drunk-and-falling-in-love-are-basically-the-same-feeling
+	priority is 1
+	the current length of the visited set is : 6
+visiting http://www.vice.com/author/joel-golby
+	priority is 1
+	the current length of the visited set is : 7
+visiting https://news.vice.com/article/major-cancer-charities-shut-down-amid-187-million-donation-scam
+	priority is 1
+	the current length of the visited set is : 8
+crawled https://news.vice.com/article/major-cancer-charities-shut-down-amid-187-million-donation-scam it was  news 
+returning reqs
+visiting http://www.shopify.com/
+	priority is 1
+	the current length of the visited set is : 9
+crawled http://www.shopify.com/ it was  news 
+returning reqs
+visiting https://twitter.com/vice
+	priority is 1
+	the current length of the visited set is : 10
+crawled https://twitter.com/vice it was  news 
+returning reqs
+visiting http://link.vice.com/join/3nh/viceussignup
+	priority is 1
+	the current length of the visited set is : 11
+crawled http://link.vice.com/join/3nh/viceussignup it was  news 
+returning reqs
+visiting http://www.vice.com/read/heres-every-one-of-the-150-friends-you-have-303
+	priority is 1
+	the current length of the visited set is : 12
+visiting http://www.asheavenue.com/
+	priority is 1
+	the current length of the visited set is : 13
+crawled http://www.asheavenue.com/ it was  news 
+returning reqs
+visiting http://motherboard.vice.com/read/not-over-my-yacht-rich-folks-are-worried-about-spy-drones
+	priority is 1
+	the current length of the visited set is : 14
+crawled http://motherboard.vice.com/read/not-over-my-yacht-rich-folks-are-worried-about-spy-drones it was  news 
+returning reqs
+visiting http://motherboard.vice.com/read/surprise-bps-record-breaking-oil-spill-decimated-dolphins
+	priority is 1
+	the current length of the visited set is : 15
+visiting https://sports.vice.com/en_us/article/its-so-fucking-fast-a-day-at-the-long-track-world-championships
+	priority is 1
+	the current length of the visited set is : 16
+crawled https://sports.vice.com/en_us/article/its-so-fucking-fast-a-day-at-the-long-track-world-championships it was  news 
+returning reqs
+visiting http://fightland.vice.com/terms-of-use
+	priority is 1
+	the current length of the visited set is : 17
+crawled http://fightland.vice.com/terms-of-use it was  news 
+returning reqs
+visiting https://news.vice.com/article/10-year-old-girl-raped-by-stepfather-is-refused-an-abortion-in-paraguay
+	priority is 1
+	the current length of the visited set is : 18
+crawled https://news.vice.com/article/10-year-old-girl-raped-by-stepfather-is-refused-an-abortion-in-paraguay it was  news 
+returning reqs
+visiting http://www.vice.com/author/eleanor-morgan
+	priority is 1
+	the current length of the visited set is : 19
+visiting http://store.vice.com/collections
+	priority is 1
+	the current length of the visited set is : 20
+crawled http://store.vice.com/collections it was  news 
+returning reqs
+visiting https://www.tumblr.com/register/follow/vicemag
+	priority is 0
+	the current length of the visited set is : 21
+crawled https://www.tumblr.com/register/follow/vicemag it was  news 
+returning reqs
+visiting http://www.vice.com/author/allie-conti
+	priority is 1
+	the current length of the visited set is : 22
+visiting https://www.youtube.com/user/vice
+	priority is 1
+	the current length of the visited set is : 23
+crawled https://www.youtube.com/user/vice it was  news 
+returning reqs
+visiting https://news.vice.com/video/debt-ridden-students-protest-in-brighton-extra-scene-from-the-student-debt-sentence
+	priority is 1
+	the current length of the visited set is : 24
+crawled https://news.vice.com/video/debt-ridden-students-protest-in-brighton-extra-scene-from-the-student-debt-sentence it was  news 
+returning reqs
+visiting http://www.vice.com/read/some-of-the-worlds-biggest-banks-just-copped-to-gaming-the-currency-market-521
+	priority is 1
+	the current length of the visited set is : 25
+visiting http://www.vice.com/shane-smith
+	priority is 0
+	the current length of the visited set is : 26
+visiting https://www.facebook.com/VICE
+	priority is 0
+	the current length of the visited set is : 27
+crawled https://www.facebook.com/VICE it was  news 
+returning reqs
+visiting http://www.shopify.com/sitemap
+	priority is 1
+	the current length of the visited set is : 28
+crawled http://www.shopify.com/sitemap it was  news 
+returning reqs
+visiting http://www.linkedin.com/company/shopify
+	priority is 1
+	the current length of the visited set is : 29
+crawled http://www.linkedin.com/company/shopify it was  news 
+returning reqs
+visiting http://fightland.vice.com/privacy-policy
+	priority is 1
+	the current length of the visited set is : 30
+crawled http://fightland.vice.com/privacy-policy it was  news 
+returning reqs
+visiting http://www.shopify.com/plus
+	priority is 1
+	the current length of the visited set is : 31
+crawled http://www.shopify.com/plus it was  news 
+returning reqs
+visiting https://www.youtube.com/user/%22https://accounts.google.com/ServiceLogin
+	priority is 1
+	the current length of the visited set is : 32
+crawled https://www.youtube.com/user/%22https://accounts.google.com/ServiceLogin it was  news 
+returning reqs
+visiting http://www.vice.com/read/ryan-oconnell-wrote-a-memoir-about-being-gay-with-cerebral-palsy
+	priority is 1
+	the current length of the visited set is : 33
+visiting http://www.vice.com/author/mitchell-sunderland
+	priority is 1
+	the current length of the visited set is : 34
+visiting https://plus.google.com/+VICE
+	priority is 1
+	the current length of the visited set is : 35
+visiting http://www.vice.com/terms-of-use
+	priority is 0
+	the current length of the visited set is : 36
+visiting http://www.vice.com/read/catching-up-with-damien-echols-of-the-west-memphis-three-333
+	priority is 1
+	the current length of the visited set is : 37
+visiting http://www.shopify.com/payment-gateways/australia
+	priority is 1
+	the current length of the visited set is : 38
+crawled http://www.shopify.com/payment-gateways/australia it was  news 
+returning reqs
+visiting https://support.google.com/youtube/
+	priority is 1
+	the current length of the visited set is : 39
+crawled https://support.google.com/youtube/ it was  news 
+returning reqs
+visiting https://www.youtube.com/yt/policyandsafety/
+	priority is 1
+	the current length of the visited set is : 40
+crawled https://www.youtube.com/yt/policyandsafety/ it was  news 
+returning reqs
+visiting https://www.youtube.com/testtube
+	priority is 1
+	the current length of the visited set is : 41
+crawled https://www.youtube.com/testtube it was  news 
+returning reqs
+visiting http://www.vice.com/privacy-policy
+	priority is 0
+	the current length of the visited set is : 42
+visiting http://www.vice.com/author/hilary-pollack
+	priority is 1
+	the current length of the visited set is : 43
+visiting http://www.vice.com/read/how-improv-made-its-way-into-corporate-america-521
+	priority is 1
+	the current length of the visited set is : 44
+visiting https://www.google.com/intl/en/policies/privacy/
+	priority is 1
+	the current length of the visited set is : 45
+crawled https://www.google.com/intl/en/policies/privacy/ it was  news 
+returning reqs
+visiting http://www.shopify.com/payment-gateways/canada
+	priority is 1
+	the current length of the visited set is : 46
+crawled http://www.shopify.com/payment-gateways/canada it was  news 
+returning reqs
+visiting https://www.tumblr.com/login/follow/vicemag
+	priority is 1
+	the current length of the visited set is : 47
+crawled https://www.tumblr.com/login/follow/vicemag it was  news 
+returning reqs
+visiting https://www.youtube.com/%22https://accounts.google.com/ServiceLogin
+	priority is 1
+	the current length of the visited set is : 48
+crawled https://www.youtube.com/%22https://accounts.google.com/ServiceLogin it was  news 
+returning reqs
+visiting http://www.vice.com/read/tom-six-the-human-centipede-director-is-very-proud-of-his-work
+	priority is 1
+	the current length of the visited set is : 49
+visiting https://www.tumblr.com/explore
+	priority is 1
+	the current length of the visited set is : 50
+crawled https://www.tumblr.com/explore it was  news 
+returning reqs
+visiting https://www.shopify.com/legal/terms
+	priority is 0
+	the current length of the visited set is : 51
+visiting https://www.shopify.com/legal/privacy
+	priority is 0
+	the current length of the visited set is : 52
+visiting http://www.shopify.com/plus/contact
+	priority is 1
+	the current length of the visited set is : 53
+crawled http://www.shopify.com/plus/contact it was  news 
+returning reqs
+visiting http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html
+	priority is 1
+	the current length of the visited set is : 54
+visiting https://www.youtube.com/yt/policyandsafety/reporting.html
+	priority is 1
+	the current length of the visited set is : 55
+crawled https://www.youtube.com/yt/policyandsafety/reporting.html it was  news 
+returning reqs
+visiting http://www.vice.com/film
+	priority is 1
+	the current length of the visited set is : 56
+crawled http://www.vice.com/film it was  news 
+returning reqs
+visiting http://www.shopify.com/plus/partners
+	priority is 1
+	the current length of the visited set is : 57
+visiting https://www.pinterest.com/shopify
+	priority is 0
+	the current length of the visited set is : 58
+visiting http://www.vice.com/read/james-ellroy-interview
+	priority is 1
+	the current length of the visited set is : 59
+visiting http://www.vice.com/stuff
+	priority is 1
+	the current length of the visited set is : 60
+crawled http://www.vice.com/stuff it was  news 
+returning reqs
+visiting https://www.youtube.com/yt/policyandsafety/safety.html
+	priority is 1
+	the current length of the visited set is : 61
+crawled https://www.youtube.com/yt/policyandsafety/safety.html it was  news 
+returning reqs
+visiting http://www.shopify.com/plus/customers
+	priority is 1
+	the current length of the visited set is : 62
+crawled http://www.shopify.com/plus/customers it was  news 
+returning reqs
+visiting http://travel-impressions.tumblr.com/
+	priority is 1
+	the current length of the visited set is : 63
+crawled http://travel-impressions.tumblr.com/ it was  news 
+returning reqs
+visiting https://www.youtube.com/yt/policyandsafety/policy.html
+	priority is 1
+	the current length of the visited set is : 64
+crawled https://www.youtube.com/yt/policyandsafety/policy.html it was  news 
+returning reqs
+visiting https://www.google.com/policies/privacy/
+	priority is 1
+	the current length of the visited set is : 65
+crawled https://www.google.com/policies/privacy/ it was  news 
+returning reqs
+visiting http://www.vice.com/author/drew-millard
+	priority is 1
+	the current length of the visited set is : 66
+visiting https://survey.googleratings.com/wix/p5092995.aspx
+	priority is 1
+	the current length of the visited set is : 67
+crawled https://survey.googleratings.com/wix/p5092995.aspx it was  news 
+returning reqs
+visiting https://sports.vice.com/en_us/about
+	priority is 1
+	the current length of the visited set is : 68
+crawled https://sports.vice.com/en_us/about it was  news 
+returning reqs
+visiting http://www.vice.com/read/a-washington-state-cop-shoot-two-men-for-attempting-to-shoplift-beer-vgtrn
+	priority is 1
+	the current length of the visited set is : 69
+visiting http://www.shopify.com/payment-gateways/slovenia
+	priority is 1
+	the current length of the visited set is : 70
+crawled http://www.shopify.com/payment-gateways/slovenia it was  news 
+returning reqs
+visiting https://www.google.com/policies/technologies/voice/
+	priority is 1
+	the current length of the visited set is : 71
+crawled https://www.google.com/policies/technologies/voice/ it was  news 
+returning reqs
+visiting http://www.shopify.com/payment-gateways/slovakia
+	priority is 1
+	the current length of the visited set is : 72
+crawled http://www.shopify.com/payment-gateways/slovakia it was  news 
+returning reqs
+visiting http://www.vice.com/read/what-the-hell-is-a-hot-feminist-157
+	priority is 1
+	the current length of the visited set is : 73
+visiting https://www.google.com/policies/technologies/wallet/
+	priority is 1
+	the current length of the visited set is : 74
+crawled https://www.google.com/policies/technologies/wallet/ it was  news 
+returning reqs
+visiting https://sports.vice.com/en_us/article/college-runner-showboats-blows-race
+	priority is 1
+	the current length of the visited set is : 75
+crawled https://sports.vice.com/en_us/article/college-runner-showboats-blows-race it was  news 
+returning reqs
+visiting http://travel-impressions.tumblr.com/page/2
+	priority is 1
+	the current length of the visited set is : 76
+crawled http://travel-impressions.tumblr.com/page/2 it was  news 
+returning reqs
+visiting http://www.shopify.com/payment-gateways/romania
+	priority is 1
+	the current length of the visited set is : 77
+crawled http://www.shopify.com/payment-gateways/romania it was  news 
+returning reqs
+visiting https://www.tumblr.com/register
+	priority is 1
+	the current length of the visited set is : 78
+crawled https://www.tumblr.com/register it was  news 
+returning reqs
+visiting https://twitter.com/BDavidZarley
+	priority is 1
+	the current length of the visited set is : 79
+crawled https://twitter.com/BDavidZarley it was  news 
+returning reqs
+visiting https://www.shopify.com/
+	priority is 1
+	the current length of the visited set is : 80
+crawled https://www.shopify.com/ it was  news 
+returning reqs
+visiting https://www.shopify.com/videos/content-marketing/five-things-you-need-to-know-to-grow-any-business
+	priority is 0
+	the current length of the visited set is : 81
+crawled https://www.shopify.com/videos/content-marketing/five-things-you-need-to-know-to-grow-any-business it was  news 
+returning reqs
+visiting http://www.shopify.com/payment-gateways/canada/shopify-payments
+	priority is 1
+	the current length of the visited set is : 82
+visiting https://www.google.com/policies/technologies/location-data/
+	priority is 1
+	the current length of the visited set is : 83
+crawled https://www.google.com/policies/technologies/location-data/ it was  news 
+returning reqs
+visiting https://www.tumblr.com/login
+	priority is 1
+	the current length of the visited set is : 84
+crawled https://www.tumblr.com/login it was  news 
+returning reqs
+visiting https://www.google.com/safetycenter/families/start/
+	priority is 1
+	the current length of the visited set is : 85
+visiting http://www.shopify.com/payment-gateways/canada/sage-payment-solutions
+	priority is 1
+	the current length of the visited set is : 86
+crawled http://www.shopify.com/payment-gateways/canada/sage-payment-solutions it was  news 
+returning reqs
+visiting http://www.vice.com/pages/privacy-and-terms
+	priority is 1
+	the current length of the visited set is : 87
+visiting https://www.shopify.com/videos/content-marketing/step-by-step-facebook-advertising
+	priority is 0
+	the current length of the visited set is : 88
+crawled https://www.shopify.com/videos/content-marketing/step-by-step-facebook-advertising it was  news 
+returning reqs
+visiting https://twitter.com/howardmegdal
+	priority is 1
+	the current length of the visited set is : 89
+crawled https://twitter.com/howardmegdal it was  news 
+returning reqs
+visiting http://www.shopify.com/payment-gateways/canada/psigate
+	priority is 1
+	the current length of the visited set is : 90
+crawled http://www.shopify.com/payment-gateways/canada/psigate it was  news 
+returning reqs
+visiting http://travel-impressions.tumblr.com/page/3
+	priority is 1
+	the current length of the visited set is : 91
+crawled http://travel-impressions.tumblr.com/page/3 it was  news 
+returning reqs
+visiting http://trickatboss.tumblr.com/
+	priority is 1
+	the current length of the visited set is : 92
+crawled http://trickatboss.tumblr.com/ it was  news 
+returning reqs
+visiting https://ecommerce.shopify.com/success-stories
+	priority is 1
+	the current length of the visited set is : 93
+crawled https://ecommerce.shopify.com/success-stories it was  news 
+returning reqs
+visiting http://www.vice.com/pages/jobs
+	priority is 1
+	the current length of the visited set is : 94
+visiting https://www.shopify.com/videos/content-marketing/using-facebook-ads-to-promote-content
+	priority is 0
+	the current length of the visited set is : 95
+crawled https://www.shopify.com/videos/content-marketing/using-facebook-ads-to-promote-content it was  news 
+returning reqs
+visiting https://twitter.com/joshuakloke
+	priority is 1
+	the current length of the visited set is : 96
+crawled https://twitter.com/joshuakloke it was  news 
+returning reqs
+visiting http://www.vice.com/pages/about
+	priority is 1
+	the current length of the visited set is : 97
+visiting http://www.clubmonaco.com/home/index.jsp
+	priority is 0
+	the current length of the visited set is : 98
+crawled http://www.clubmonaco.com/home/index.jsp it was  news 
+returning reqs
+visiting http://www.shopify.com/payment-gateways/canada/paypal-website-payments-pro-ca
+	priority is 1
+	the current length of the visited set is : 99
+crawled http://www.shopify.com/payment-gateways/canada/paypal-website-payments-pro-ca it was  news 
+returning reqs
+visiting http://www.shopify.com/payment-gateways/canada/paypal-payflow-pro
+	priority is 1
+	the current length of the visited set is : 100
+crawled http://www.shopify.com/payment-gateways/canada/paypal-payflow-pro it was  news 
+returning reqs
+visiting http://www.vice.com/rss
+	priority is 1
+	the current length of the visited set is : 101
+crawled http://www.vice.com/rss it was  news 
+returning reqs
+visiting http://bypat0.tumblr.com/
+	priority is 1
+	the current length of the visited set is : 102
+crawled http://bypat0.tumblr.com/ it was  news 
+returning reqs
+visiting https://twitter.com/shharkey
+	priority is 1
+	the current length of the visited set is : 103
+visiting https://plus.google.com/+shopify
+	priority is 0
+	the current length of the visited set is : 104
+visiting http://www.vice.com/tag/lgbt
+	priority is 1
+	the current length of the visited set is : 105
+visiting https://ecommerce.shopify.com/success-stories/pet-playgroundz
+	priority is 1
+	the current length of the visited set is : 106
+crawled https://ecommerce.shopify.com/success-stories/pet-playgroundz it was  news 
+returning reqs
+visiting http://www.shopify.com/payment-gateways/canada/paypal-express-checkout
+	priority is 1
+	the current length of the visited set is : 107
+crawled http://www.shopify.com/payment-gateways/canada/paypal-express-checkout it was  news 
+returning reqs
+visiting http://www.shopify.com/payment-gateways/canada/optimal-payments
+	priority is 1
+	the current length of the visited set is : 108
+crawled http://www.shopify.com/payment-gateways/canada/optimal-payments it was  news 
+returning reqs
+visiting https://twitter.com/patrickredford
+	priority is 1
+	the current length of the visited set is : 109
+visiting http://www.vice.com/tag/culture
+	priority is 1
+	the current length of the visited set is : 110
+visiting http://travel-impressions.tumblr.com/page/4
+	priority is 1
+	the current length of the visited set is : 111
+crawled http://travel-impressions.tumblr.com/page/4 it was  news 
+returning reqs
+visiting https://ecommerce.shopify.com/success-stories/air-dancers
+	priority is 1
+	the current length of the visited set is : 112
+crawled https://ecommerce.shopify.com/success-stories/air-dancers it was  news 
+returning reqs
+visiting http://www.vice.com/tag/opinion
+	priority is 1
+	the current length of the visited set is : 113
+crawled http://www.vice.com/tag/opinion it was  news 
+returning reqs
+visiting http://www.clubmonaco.com/sitemap/index.jsp
+	priority is 1
+	the current length of the visited set is : 114
+crawled http://www.clubmonaco.com/sitemap/index.jsp it was  news 
+returning reqs
+visiting http://travel-impressions.tumblr.com/tagged/bananas
+	priority is 1
+	the current length of the visited set is : 115
+crawled http://travel-impressions.tumblr.com/tagged/bananas it was  news 
+returning reqs
+visiting http://www.shopify.com/payment-gateways/canada/network-merchants-nmi
+	priority is 1
+	the current length of the visited set is : 116
+visiting https://ecommerce.shopify.com/success-stories/econica-lingerie
+	priority is 1
+	the current length of the visited set is : 117
+crawled https://ecommerce.shopify.com/success-stories/econica-lingerie it was  news 
+returning reqs
+visiting http://www.vice.com/series/the-vice-guide-to-mental-health
+	priority is 1
+	the current length of the visited set is : 118
+visiting http://travel-impressions.tumblr.com/tagged/banana-plantation
+	priority is 1
+	the current length of the visited set is : 119
+crawled http://travel-impressions.tumblr.com/tagged/banana-plantation it was  news 
+returning reqs
+visiting http://www.vice.com/tag/politics
+	priority is 1
+	the current length of the visited set is : 120
+visiting http://global.ralphlauren.com/en-us/About/Pages/employment.aspx
+	priority is 1
+	the current length of the visited set is : 122
+crawled http://global.ralphlauren.com/en-us/About/Pages/employment.aspx it was  news 
+returning reqs
+visiting https://twitter.com/ouijum
+	priority is 1
+	the current length of the visited set is : 123
+crawled https://twitter.com/ouijum it was  news 
+returning reqs
+visiting http://travel-impressions.tumblr.com/post/90852354283/la-palma-canary-islands-bananas-still-on-the
+	priority is 1
+	the current length of the visited set is : 124
+visiting https://ecommerce.shopify.com/success-stories/house-of-smooch-swimwear
+	priority is 1
+	the current length of the visited set is : 125
+crawled https://ecommerce.shopify.com/success-stories/house-of-smooch-swimwear it was  news 
+returning reqs
+visiting http://bypat0.tumblr.com/post/119034136918/la-maga-de-las-tortas-by-pato/embed
+	priority is 1
+	the current length of the visited set is : 126
+crawled http://bypat0.tumblr.com/post/119034136918/la-maga-de-las-tortas-by-pato/embed it was  news 
+returning reqs
+visiting http://www.vice.com/tag/crime
+	priority is 1
+	the current length of the visited set is : 127
+crawled http://www.vice.com/tag/crime it was  news 
+returning reqs
+visiting http://bypat0.tumblr.com/page/2
+	priority is 1
+	the current length of the visited set is : 128
+crawled http://bypat0.tumblr.com/page/2 it was  news 
+returning reqs
+visiting https://apps.shopify.com/
+	priority is 1
+	the current length of the visited set is : 129
+crawled https://apps.shopify.com/ it was  news 
+returning reqs
+visiting http://www.vice.com/magazine
+	priority is 1
+	the current length of the visited set is : 130
+crawled http://www.vice.com/magazine it was  news 
+returning reqs
+visiting https://experts.shopify.com/
+	priority is 1
+	the current length of the visited set is : 131
+visiting https://twitter.com/PatrickKearns
+	priority is 1
+	the current length of the visited set is : 132
+crawled https://twitter.com/PatrickKearns it was  news 
+returning reqs
+visiting http://www.vice.com/photos
+	priority is 1
+	the current length of the visited set is : 133
+crawled http://www.vice.com/photos it was  news 
+returning reqs
+visiting http://travel-impressions.tumblr.com/page/5
+	priority is 1
+	the current length of the visited set is : 134
+crawled http://travel-impressions.tumblr.com/page/5 it was  news 
+returning reqs
+visiting http://bypat0.tumblr.com/post/119034136918/la-maga-de-las-tortas-by-pato
+	priority is 1
+	the current length of the visited set is : 135
+crawled http://bypat0.tumblr.com/post/119034136918/la-maga-de-las-tortas-by-pato it was  news 
+returning reqs
+visiting http://travel-impressions.tumblr.com/tagged/debut
+	priority is 1
+	the current length of the visited set is : 136
+crawled http://travel-impressions.tumblr.com/tagged/debut it was  news 
+returning reqs
+visiting http://www.vice.com/dnd
+	priority is 1
+	the current length of the visited set is : 137
+crawled http://www.vice.com/dnd it was  news 
+returning reqs
+visiting https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2FpostLogin%3Fsession_rikey%3Df9pAt2id0uiSbliQJHDMq_qdOjjjLXWUr05mlUxCAVXTb3fJ7FbhPRm2fsr3IXFYgAUV-SPPS5yfvHlPk4f4Qn6YpuOQ1XFD6FR%26l%3Dhttps%253A%252F%252Fwww%252Elinkedin%252Ecom%252FshareArticle%26id%3D0%26b%3D38fdddfb-75b1-4601-88d1-ee6c82a85c8f%26h%3DkzkE%26m%3DGET
+	priority is 0
+	the current length of the visited set is : 138
+crawled https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2FpostLogin%3Fsession_rikey%3Df9pAt2id0uiSbliQJHDMq_qdOjjjLXWUr05mlUxCAVXTb3fJ7FbhPRm2fsr3IXFYgAUV-SPPS5yfvHlPk4f4Qn6YpuOQ1XFD6FR%26l%3Dhttps%253A%252F%252Fwww%252Elinkedin%252Ecom%252FshareArticle%26id%3D0%26b%3D38fdddfb-75b1-4601-88d1-ee6c82a85c8f%26h%3DkzkE%26m%3DGET it was  news 
+returning reqs
+visiting http://bypat0.tumblr.com/tagged/cake
+	priority is 1
+	the current length of the visited set is : 139
+crawled http://bypat0.tumblr.com/tagged/cake it was  news 
+returning reqs
+visiting https://twitter.com/ouijum/status/601216658125025280
+	priority is 1
+	the current length of the visited set is : 140
+visiting http://travel-impressions.tumblr.com/tagged/selfie
+	priority is 1
+	the current length of the visited set is : 141
+crawled http://travel-impressions.tumblr.com/tagged/selfie it was  news 
+returning reqs
+visiting http://bypat0.tumblr.com/image/119034136918
+	priority is 1
+	the current length of the visited set is : 142
+crawled http://bypat0.tumblr.com/image/119034136918 it was  news 
+returning reqs
+visiting http://www.clubmonaco.ca/home/index.jsp?geos=2
+	priority is 0
+	the current length of the visited set is : 143
+crawled http://www.clubmonaco.ca/home/index.jsp?geos=2 it was  news 
+returning reqs
+visiting https://twitter.com/neildemause
+	priority is 1
+	the current length of the visited set is : 144
+crawled https://twitter.com/neildemause it was  news 
+returning reqs
+visiting https://twitter.com/ouijum/status/601221527640604672
+	priority is 1
+	the current length of the visited set is : 145
+crawled https://twitter.com/ouijum/status/601221527640604672 it was  news 
+returning reqs
+visiting http://bypat0.tumblr.com/post/119034286968/gatinis-by-pato/embed
+	priority is 1
+	the current length of the visited set is : 146
+crawled http://bypat0.tumblr.com/post/119034286968/gatinis-by-pato/embed it was  news 
+returning reqs
+visiting https://twitter.com/jareddiamond/status/601219317988995072
+	priority is 1
+	the current length of the visited set is : 147
+visiting http://cultureclub.clubmonaco.com/
+	priority is 1
+	the current length of the visited set is : 148
+crawled http://cultureclub.clubmonaco.com/ it was  news 
+returning reqs
+visiting http://econica.ca/
+	priority is 1
+	the current length of the visited set is : 149
+visiting http://www.vice.com/nsfw
+	priority is 1
+	the current length of the visited set is : 150
+crawled http://www.vice.com/nsfw it was  news 
+returning reqs
+visiting https://www.linkedin.com/psettings/guest-controls
+	priority is 1
+	the current length of the visited set is : 151
+crawled https://www.linkedin.com/psettings/guest-controls it was  news 
+returning reqs
+visiting http://www.vice.com/gaming
+	priority is 1
+	the current length of the visited set is : 152
+visiting http://houseofsmooch.com/
+	priority is 1
+	the current length of the visited set is : 153
+crawled http://houseofsmooch.com/ it was  news 
+returning reqs
+visiting https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fsharer%2Fsharer.php%3Fret%3Dlogin&display=popup
+	priority is 0
+	the current length of the visited set is : 154
+crawled https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fsharer%2Fsharer.php%3Fret%3Dlogin&display=popup it was  news 
+returning reqs
+visiting https://www.shopify.com/videos
+	priority is 1
+	the current length of the visited set is : 155
+crawled https://www.shopify.com/videos it was  news 
+returning reqs
+visiting https://twitter.com/jareddiamond
+	priority is 1
+	the current length of the visited set is : 156
+crawled https://twitter.com/jareddiamond it was  news 
+returning reqs
+visiting http://www.vice.com/food
+	priority is 1
+	the current length of the visited set is : 157
+crawled http://www.vice.com/food it was  news 
+returning reqs
+visiting http://travel-impressions.tumblr.com/page/6
+	priority is 1
+	the current length of the visited set is : 158
+crawled http://travel-impressions.tumblr.com/page/6 it was  news 
+returning reqs
+visiting https://www.shopify.com/guides
+	priority is 1
+	the current length of the visited set is : 159
+crawled https://www.shopify.com/guides it was  news 
+returning reqs
+visiting http://www.vice.com/tech
+	priority is 1
+	the current length of the visited set is : 160
+visiting http://kitty--y.tumblr.com/
+	priority is 1
+	the current length of the visited set is : 161
+visiting http://maybe-iam-insane-butwhoknows.tumblr.com/
+	priority is 1
+	the current length of the visited set is : 162
+visiting http://steph-by-step.tumblr.com/
+	priority is 1
+	the current length of the visited set is : 163
+crawled http://steph-by-step.tumblr.com/ it was  news 
+returning reqs
+visiting https://twitter.com/PatrickKearns/status/600479006484488192
+	priority is 1
+	the current length of the visited set is : 164
+visiting http://travel-impressions.tumblr.com/tagged/springs
+	priority is 1
+	the current length of the visited set is : 165
+crawled http://travel-impressions.tumblr.com/tagged/springs it was  news 
+returning reqs
+visiting http://travel-impressions.tumblr.com/tagged/sand
+	priority is 1
+	the current length of the visited set is : 166
+crawled http://travel-impressions.tumblr.com/tagged/sand it was  news 
+returning reqs
+visiting https://twitter.com/PatrickKearns/status/600479191671386113
+	priority is 1
+	the current length of the visited set is : 167
+visiting https://www.shopify.com/pos/hardwarestore
+	priority is 0
+	the current length of the visited set is : 168
+crawled https://www.shopify.com/pos/hardwarestore it was  news 
+returning reqs
+visiting https://www.linkedin.com/legal/copyright-policy
+	priority is 0
+	the current length of the visited set is : 169
+crawled https://www.linkedin.com/legal/copyright-policy it was  news 
+returning reqs
+visiting http://www.vice.com/sports
+	priority is 1
+	the current length of the visited set is : 170
+crawled http://www.vice.com/sports it was  news 
+returning reqs
+visiting https://www.shopify.com/videos/build-a-business-2012/what-is-a-muse
+	priority is 1
+	the current length of the visited set is : 171
+visiting https://www.tumblr.com/register?redirect_to=%2Freblog%2F90852354283%2FqkdqQR7c
+	priority is 0
+	the current length of the visited set is : 172
+crawled https://www.tumblr.com/register?redirect_to=%2Freblog%2F90852354283%2FqkdqQR7c it was  news 
+returning reqs
+visiting https://twitter.com/PatrickKearns/status/600480107883589633
+	priority is 1
+	the current length of the visited set is : 173
+crawled https://twitter.com/PatrickKearns/status/600480107883589633 it was  news 
+returning reqs
+visiting https://twitter.com/neildemause/status/587990987227717634
+	priority is 1
+	the current length of the visited set is : 174
+crawled https://twitter.com/neildemause/status/587990987227717634 it was  news 
+returning reqs
+visiting http://www.vice.com/travel
+	priority is 1
+	the current length of the visited set is : 175
+visiting https://www.pinterest.com/smoochswimwear/
+	priority is 0
+	the current length of the visited set is : 176
+crawled https://www.pinterest.com/smoochswimwear/ it was  news 
+returning reqs
+visiting https://twitter.com/neildemause/status/588058399595745281
+	priority is 1
+	the current length of the visited set is : 177
+visiting http://www.vice.com/fashion
+	priority is 1
+	the current length of the visited set is : 178
+crawled http://www.vice.com/fashion it was  news 
+returning reqs
+visiting https://www.linkedin.com/legal/privacy-policy
+	priority is 0
+	the current length of the visited set is : 179
+crawled https://www.linkedin.com/legal/privacy-policy it was  news 
+returning reqs
+visiting https://twitter.com/neildemause/status/588096650784178176
+	priority is 1
+	the current length of the visited set is : 180
+crawled https://twitter.com/neildemause/status/588096650784178176 it was  news 
+returning reqs
+visiting https://www.tumblr.com/register?redirect_to=%2Freblog%2F119034136918%2FLnEHv4eT
+	priority is 0
+	the current length of the visited set is : 181
+crawled https://www.tumblr.com/register?redirect_to=%2Freblog%2F119034136918%2FLnEHv4eT it was  news 
+returning reqs
+visiting http://steph-by-step.tumblr.com/post/119135647926/embed
+	priority is 1
+	the current length of the visited set is : 182
+crawled http://steph-by-step.tumblr.com/post/119135647926/embed it was  news 
+returning reqs
+visiting http://www.vice.com/music
+	priority is 1
+	the current length of the visited set is : 183
+visiting https://twitter.com/dontforgetmac/status/601221152804057088
+	priority is 0
+	the current length of the visited set is : 184
+visiting http://steph-by-step.tumblr.com/page/2
+	priority is 1
+	the current length of the visited set is : 185
+crawled http://steph-by-step.tumblr.com/page/2 it was  news 
+returning reqs
+visiting http://www.petplaygrounds.com/
+	priority is 0
+	the current length of the visited set is : 186
+crawled http://www.petplaygrounds.com/ it was  news 
+returning reqs
+visiting https://press.shopify.com
+	priority is 0
+	the current length of the visited set is : 187
+crawled https://press.shopify.com it was  news 
+returning reqs
+visiting https://www.tumblr.com/register?redirect_to=%2Freblog%2F119034286968%2F6AHhxGFs
+	priority is 0
+	the current length of the visited set is : 188
+crawled https://www.tumblr.com/register?redirect_to=%2Freblog%2F119034286968%2F6AHhxGFs it was  news 
+returning reqs
+visiting http://www.vice.com/videos
+	priority is 1
+	the current length of the visited set is : 189
+crawled http://www.vice.com/videos it was  news 
+returning reqs
+visiting http://www.vice.com/news
+	priority is 1
+	the current length of the visited set is : 190
+crawled http://www.vice.com/news it was  news 
+returning reqs
+visiting https://www.pinterest.com/smoochswimwear/2015-smooch-swimwear/
+	priority is 1
+	the current length of the visited set is : 191
+crawled https://www.pinterest.com/smoochswimwear/2015-smooch-swimwear/ it was  news 
+returning reqs
+visiting https://twitter.com/mikeodio
+	priority is 1
+	the current length of the visited set is : 192
+crawled https://twitter.com/mikeodio it was  news 
+returning reqs
+visiting http://ganzert.tumblr.com/
+	priority is 1
+	the current length of the visited set is : 193
+crawled http://ganzert.tumblr.com/ it was  news 
+returning reqs
+visiting http://player.toronto.tsn.ca
+	priority is 0
+	the current length of the visited set is : 194
+crawled http://player.toronto.tsn.ca it was  news 
+returning reqs
+visiting https://www.linkedin.com/legal/cookie-policy
+	priority is 0
+	the current length of the visited set is : 195
+crawled https://www.linkedin.com/legal/cookie-policy it was  news 
+returning reqs
+visiting https://www.shopify.com/videos/build-a-business-2012
+	priority is 1
+	the current length of the visited set is : 196
+crawled https://www.shopify.com/videos/build-a-business-2012 it was  news 
+returning reqs
+visiting https://twitter.com/beaver_banker
+	priority is 1
+	the current length of the visited set is : 197
+crawled https://twitter.com/beaver_banker it was  news 
+returning reqs
+visiting http://www.vice.com/articles/page/5
+	priority is 1
+	the current length of the visited set is : 198
+crawled http://www.vice.com/articles/page/5 it was  news 
+returning reqs
+visiting https://www.youtube.com/watch?v=MpUWrl3-mc8&t=0m6s
+	priority is 0
+	the current length of the visited set is : 199
+crawled https://www.youtube.com/watch?v=MpUWrl3-mc8&t=0m6s it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/166211042474420965/likes/
+	priority is 1
+	the current length of the visited set is : 200
+crawled https://www.pinterest.com/pin/166211042474420965/likes/ it was  news 
+returning reqs
+visiting https://www.shopify.com/videos/ecommerce-seo-101/why-is-my-website-not-on-google
+	priority is 1
+	the current length of the visited set is : 201
+visiting http://albotas.tumblr.com/
+	priority is 1
+	the current length of the visited set is : 202
+crawled http://albotas.tumblr.com/ it was  news 
+returning reqs
+visiting https://docs.shopify.com/pos
+	priority is 1
+	the current length of the visited set is : 203
+crawled https://docs.shopify.com/pos it was  news 
+returning reqs
+visiting https://instagram.com/smoochswimwear/
+	priority is 0
+	the current length of the visited set is : 204
+visiting http://www.vice.com/articles/page/4
+	priority is 1
+	the current length of the visited set is : 205
+crawled http://www.vice.com/articles/page/4 it was  news 
+returning reqs
+visiting https://www.shopify.com/videos/ecommerce-seo-101
+	priority is 1
+	the current length of the visited set is : 206
+crawled https://www.shopify.com/videos/ecommerce-seo-101 it was  news 
+returning reqs
+visiting http://www.shopify.com/blog/tagged/physical-retail
+	priority is 1
+	the current length of the visited set is : 207
+visiting http://konatherapy.tumblr.com/
+	priority is 1
+	the current length of the visited set is : 208
+visiting https://www.pinterest.com/pin/166211042474420965/repins/
+	priority is 1
+	the current length of the visited set is : 209
+crawled https://www.pinterest.com/pin/166211042474420965/repins/ it was  news 
+returning reqs
+visiting https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fsecurity-v2
+	priority is 0
+	the current length of the visited set is : 210
+crawled https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fsecurity-v2 it was  news 
+returning reqs
+visiting https://www.shopify.com/guides/dropshipping
+	priority is 1
+	the current length of the visited set is : 211
+crawled https://www.shopify.com/guides/dropshipping it was  news 
+returning reqs
+visiting https://www.google.com/get/videoqualityreport/
+	priority is 1
+	the current length of the visited set is : 212
+visiting http://www.tsn.ca/radio/toronto-1050
+	priority is 0
+	the current length of the visited set is : 213
+crawled http://www.tsn.ca/radio/toronto-1050 it was  news 
+returning reqs
+visiting http://ganzert.tumblr.com/post/108630691715/art-is-art-this-is-what-i-do-at-the-beach
+	priority is 1
+	the current length of the visited set is : 214
+crawled http://ganzert.tumblr.com/post/108630691715/art-is-art-this-is-what-i-do-at-the-beach it was  news 
+returning reqs
+visiting https://help.linkedin.com/app/ask/path/ppq/
+	priority is 0
+	the current length of the visited set is : 215
+crawled https://help.linkedin.com/app/ask/path/ppq/ it was  news 
+returning reqs
+visiting http://www.vice.com/articles/page/1482
+	priority is 1
+	the current length of the visited set is : 216
+crawled http://www.vice.com/articles/page/1482 it was  news 
+returning reqs
+visiting http://www.shopify.com/blog/tagged/how-to-sell-online
+	priority is 1
+	the current length of the visited set is : 217
+visiting https://www.shopify.com/guides/legal
+	priority is 1
+	the current length of the visited set is : 218
+crawled https://www.shopify.com/guides/legal it was  news 
+returning reqs
+visiting http://www.shopify.com/blog/tagged/how-to-start-a-business
+	priority is 1
+	the current length of the visited set is : 219
+visiting http://ganzert.tumblr.com/post/108630716950/old-self-portrait
+	priority is 1
+	the current length of the visited set is : 220
+crawled http://ganzert.tumblr.com/post/108630716950/old-self-portrait it was  news 
+returning reqs
+visiting http://www.vice.com/articles/page/3
+	priority is 1
+	the current length of the visited set is : 221
+visiting http://www.vice.com/articles/page/1
+	priority is 1
+	the current length of the visited set is : 222
+crawled http://www.vice.com/articles/page/1 it was  news 
+returning reqs
+visiting https://www.pinterest.com/nadyluvsrey/
+	priority is 1
+	the current length of the visited set is : 223
+crawled https://www.pinterest.com/nadyluvsrey/ it was  news 
+returning reqs
+visiting http://www.vice.com/read/i-spent-a-month-trying-to-make-my-ass-famous-on-instagram-592
+	priority is 1
+	the current length of the visited set is : 224
+visiting http://www.vice.com/articles/page/2
+	priority is 1
+	the current length of the visited set is : 225
+crawled http://www.vice.com/articles/page/2 it was  news 
+returning reqs
+visiting https://twitter.com/youderian
+	priority is 1
+	the current length of the visited set is : 226
+crawled https://twitter.com/youderian it was  news 
+returning reqs
+visiting https://www.pinterest.com/smoochswimwear/baking-betty-tea-parties/
+	priority is 1
+	the current length of the visited set is : 227
+crawled https://www.pinterest.com/smoochswimwear/baking-betty-tea-parties/ it was  news 
+returning reqs
+visiting https://press.shopify.com/legal/privacy
+	priority is 1
+	the current length of the visited set is : 228
+crawled https://press.shopify.com/legal/privacy it was  news 
+returning reqs
+visiting https://www.shopify.com/guides/businessplan
+	priority is 1
+	the current length of the visited set is : 229
+crawled https://www.shopify.com/guides/businessplan it was  news 
+returning reqs
+visiting https://sports.vice.com/en_us/article/your-votes-dont-count-how-sports-stadium-welfare-deals-shut-out-the-publics-voice
+	priority is 0
+	the current length of the visited set is : 230
+crawled https://sports.vice.com/en_us/article/your-votes-dont-count-how-sports-stadium-welfare-deals-shut-out-the-publics-voice it was  news 
+returning reqs
+visiting https://twitter.com/allsop8184
+	priority is 1
+	the current length of the visited set is : 231
+crawled https://twitter.com/allsop8184 it was  news 
+returning reqs
+visiting https://press.shopify.com/legal/terms
+	priority is 1
+	the current length of the visited set is : 232
+crawled https://press.shopify.com/legal/terms it was  news 
+returning reqs
+visiting http://www.vice.com/author/mike-pearl
+	priority is 1
+	the current length of the visited set is : 233
+visiting https://www.shopify.com/guides/make-your-first-ecommerce-sale
+	priority is 1
+	the current length of the visited set is : 234
+visiting http://www.vice.com/read/two-dea-workers-are-in-trouble-for-lying-about-running-a-strip-club-520
+	priority is 1
+	the current length of the visited set is : 236
+visiting https://www.shopify.com/guides/ultimate-guide-to-pop-up-shops
+	priority is 1
+	the current length of the visited set is : 237
+crawled https://www.shopify.com/guides/ultimate-guide-to-pop-up-shops it was  news 
+returning reqs
+visiting http://www.vice.com/author/joe-bish
+	priority is 1
+	the current length of the visited set is : 238
+visiting https://twitter.com/HumayunNKhan
+	priority is 1
+	the current length of the visited set is : 239
+crawled https://twitter.com/HumayunNKhan it was  news 
+returning reqs
+visiting https://www.shopify.com/guides/crowdfunding
+	priority is 1
+	the current length of the visited set is : 240
+crawled https://www.shopify.com/guides/crowdfunding it was  news 
+returning reqs
+visiting https://twitter.com/allsop8184/status/583347449844146176
+	priority is 1
+	the current length of the visited set is : 241
+visiting http://www.vice.com/author/mack-lamoureux
+	priority is 1
+	the current length of the visited set is : 242
+visiting https://www.youtube.com/channel/UCfDOlptS6eUhzrfNSILzSKQ
+	priority is 1
+	the current length of the visited set is : 243
+crawled https://www.youtube.com/channel/UCfDOlptS6eUhzrfNSILzSKQ it was  news 
+returning reqs
+visiting http://www.vice.com/read/heres-what-growing-old-in-the-uk-really-looks-like-472
+	priority is 1
+	the current length of the visited set is : 244
+visiting http://www.vice.com/read/meet-fort-mcmurrays-two-spirited-multi-millionaire-pop-star
+	priority is 1
+	the current length of the visited set is : 245
+crawled http://www.vice.com/read/meet-fort-mcmurrays-two-spirited-multi-millionaire-pop-star it was  news 
+returning reqs
+visiting https://www.youtube.com/user/mlake9
+	priority is 1
+	the current length of the visited set is : 246
+crawled https://www.youtube.com/user/mlake9 it was  news 
+returning reqs
+visiting https://www.youtube.com/channel/UC1vGae2Q3oT5MkhhfW8lwjg
+	priority is 1
+	the current length of the visited set is : 247
+visiting https://www.pinterest.com/nadyluvsrey/illusrations-of-love/
+	priority is 1
+	the current length of the visited set is : 248
+crawled https://www.pinterest.com/nadyluvsrey/illusrations-of-love/ it was  news 
+returning reqs
+visiting https://twitter.com/danwwang
+	priority is 1
+	the current length of the visited set is : 250
+crawled https://twitter.com/danwwang it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/166211042474420965/
+	priority is 1
+	the current length of the visited set is : 251
+crawled https://www.pinterest.com/pin/166211042474420965/ it was  news 
+returning reqs
+visiting http://www.vice.com/author/melanie-mendelewitsch
+	priority is 1
+	the current length of the visited set is : 252
+visiting http://www.shopify.com/blog/17953576-dont-make-these-7-mistakes-in-your-ecommerce-business
+	priority is 0
+	the current length of the visited set is : 253
+visiting https://www.shopify.com/legal/notice
+	priority is 1
+	the current length of the visited set is : 254
+visiting http://www.vice.com/read/interview-man-who-rubs-himself-against-women-876
+	priority is 1
+	the current length of the visited set is : 255
+visiting https://www.youtube.com/channel/%22https://accounts.google.com/ServiceLogin
+	priority is 1
+	the current length of the visited set is : 256
+crawled https://www.youtube.com/channel/%22https://accounts.google.com/ServiceLogin it was  news 
+returning reqs
+visiting http://www.ecommercefuel.com/
+	priority is 0
+	the current length of the visited set is : 257
+visiting https://www.pinterest.com/nadyluvsrey/my-style/
+	priority is 1
+	the current length of the visited set is : 258
+visiting https://www.shopify.com/videos/build-a-business-2012/finale-winners-in-nyc
+	priority is 1
+	the current length of the visited set is : 259
+crawled https://www.shopify.com/videos/build-a-business-2012/finale-winners-in-nyc it was  news 
+returning reqs
+visiting http://www.vice.com/read/watch-clips-from-david-lettermans-final-show-vgtrn
+	priority is 1
+	the current length of the visited set is : 260
+visiting https://www.shopify.com/videos/build-a-business-2012/infographic
+	priority is 1
+	the current length of the visited set is : 261
+crawled https://www.shopify.com/videos/build-a-business-2012/infographic it was  news 
+returning reqs
+visiting http://www.vice.com/read/cannes-film-festival
+	priority is 1
+	the current length of the visited set is : 262
+crawled http://www.vice.com/read/cannes-film-festival it was  news 
+returning reqs
+visiting https://twitter.com/danwwang/status/593070872455487488
+	priority is 1
+	the current length of the visited set is : 263
+visiting https://www.shopify.com/videos/build-a-business-2012/managing-your-expectations
+	priority is 1
+	the current length of the visited set is : 264
+visiting https://www.pinterest.com/source/awesomelyawake.com/
+	priority is 1
+	the current length of the visited set is : 265
+crawled https://www.pinterest.com/source/awesomelyawake.com/ it was  news 
+returning reqs
+visiting http://danwang.co/
+	priority is 1
+	the current length of the visited set is : 266
+visiting http://betakit.com/
+	priority is 0
+	the current length of the visited set is : 267
+visiting https://www.pinterest.com/nadyluvsrey/creative-ideas/
+	priority is 1
+	the current length of the visited set is : 268
+visiting https://twitter.com/hamandcheese
+	priority is 1
+	the current length of the visited set is : 269
+crawled https://twitter.com/hamandcheese it was  news 
+returning reqs
+visiting https://www.shopify.com/videos/build-a-business-2012/the-importance-of-working-with-designers
+	priority is 1
+	the current length of the visited set is : 270
+visiting https://twitter.com/Spivonomist
+	priority is 1
+	the current length of the visited set is : 271
+visiting http://www.vice.com/author/mikediver
+	priority is 1
+	the current length of the visited set is : 272
+visiting https://www.shopify.com/videos/build-a-business-2012/launching-a-product
+	priority is 1
+	the current length of the visited set is : 273
+visiting https://twitter.com/danwwang/status/595282155703500800/photo/1
+	priority is 1
+	the current length of the visited set is : 274
+crawled https://twitter.com/danwwang/status/595282155703500800/photo/1 it was  news 
+returning reqs
+visiting https://www.pinterest.com/source/topinspired.com/
+	priority is 1
+	the current length of the visited set is : 275
+crawled https://www.pinterest.com/source/topinspired.com/ it was  news 
+returning reqs
+visiting https://www.pinterest.com/nadyluvsrey/for-the-home/
+	priority is 1
+	the current length of the visited set is : 276
+visiting https://www.shopify.com/videos/ecommerce-seo-101/seo-misconceptions-tutorial
+	priority is 1
+	the current length of the visited set is : 277
+visiting https://www.pinterest.com/nadyluvsrey/favorite-places-spaces/
+	priority is 1
+	the current length of the visited set is : 278
+visiting https://twitter.com/danwwang/status/595282155703500800
+	priority is 1
+	the current length of the visited set is : 279
+crawled https://twitter.com/danwwang/status/595282155703500800 it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/350084571010685269/
+	priority is 1
+	the current length of the visited set is : 280
+visiting http://www.vice.com/read/a-very-belated-beginners-guide-to-the-bitmap-brothers-821
+	priority is 1
+	the current length of the visited set is : 281
+visiting https://www.shopify.com/videos/ecommerce-seo-101/google-penalty-things-to-look-out-for
+	priority is 1
+	the current length of the visited set is : 282
+visiting http://www.theatlantic.com/magazine/archive/2013/03/the-big-question/309238/
+	priority is 0
+	the current length of the visited set is : 283
+crawled http://www.theatlantic.com/magazine/archive/2013/03/the-big-question/309238/ it was  news 
+returning reqs
+visiting https://www.pinterest.com/nadyluvsrey/products-i-love/
+	priority is 1
+	the current length of the visited set is : 284
+visiting https://twitter.com/adamgurri
+	priority is 1
+	the current length of the visited set is : 285
+crawled https://twitter.com/adamgurri it was  news 
+returning reqs
+visiting https://www.pinterest.com/source/s1069.photobucket.com/
+	priority is 1
+	the current length of the visited set is : 286
+crawled https://www.pinterest.com/source/s1069.photobucket.com/ it was  news 
+returning reqs
+visiting https://www.shopify.com/videos/ecommerce-seo-101/seo-content-tutorial
+	priority is 1
+	the current length of the visited set is : 287
+visiting http://www.vice.com/film/page/29
+	priority is 1
+	the current length of the visited set is : 288
+crawled http://www.vice.com/film/page/29 it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/132504414009284755/
+	priority is 1
+	the current length of the visited set is : 289
+crawled https://www.pinterest.com/pin/132504414009284755/ it was  news 
+returning reqs
+visiting https://twitter.com/JaredMeyer10
+	priority is 1
+	the current length of the visited set is : 290
+crawled https://twitter.com/JaredMeyer10 it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/251709066646735135/
+	priority is 1
+	the current length of the visited set is : 291
+visiting http://www.vice.com/film/page/5
+	priority is 1
+	the current length of the visited set is : 292
+visiting https://twitter.com/WilliamFreeland
+	priority is 1
+	the current length of the visited set is : 293
+crawled https://twitter.com/WilliamFreeland it was  news 
+returning reqs
+visiting https://www.youtube.com/user/TheYoungTurks
+	priority is 1
+	the current length of the visited set is : 294
+visiting https://www.pinterest.com/pin/170503535866440714/
+	priority is 1
+	the current length of the visited set is : 295
+crawled https://www.pinterest.com/pin/170503535866440714/ it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/268104984038781374/
+	priority is 1
+	the current length of the visited set is : 296
+crawled https://www.pinterest.com/pin/268104984038781374/ it was  news 
+returning reqs
+visiting https://twitter.com/hashtag/FF
+	priority is 1
+	the current length of the visited set is : 297
+visiting http://www.vice.com/film/page/4
+	priority is 1
+	the current length of the visited set is : 298
+visiting https://www.shopify.com/videos/ecommerce-seo-101/how-to-do-keyword-research-tutorial
+	priority is 1
+	the current length of the visited set is : 299
+visiting https://twitter.com/WillRinehart/status/599267150440857600
+	priority is 1
+	the current length of the visited set is : 300
+crawled https://twitter.com/WillRinehart/status/599267150440857600 it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/268104984043095759/
+	priority is 1
+	the current length of the visited set is : 301
+crawled https://www.pinterest.com/pin/268104984043095759/ it was  news 
+returning reqs
+visiting https://www.youtube.com/user/TheAlexJonesChannel
+	priority is 1
+	the current length of the visited set is : 302
+crawled https://www.youtube.com/user/TheAlexJonesChannel it was  news 
+returning reqs
+visiting https://twitter.com/WillRinehart
+	priority is 1
+	the current length of the visited set is : 304
+crawled https://twitter.com/WillRinehart it was  news 
+returning reqs
+visiting https://www.youtube.com/user/enchufetv
+	priority is 1
+	the current length of the visited set is : 305
+visiting https://www.shopify.com/videos/ecommerce-seo-101/how-does-google-rank-your-website
+	priority is 1
+	the current length of the visited set is : 306
+visiting http://www.vice.com/stuff/page/5
+	priority is 1
+	the current length of the visited set is : 307
+visiting https://twitter.com/aantonop
+	priority is 1
+	the current length of the visited set is : 308
+crawled https://twitter.com/aantonop it was  news 
+returning reqs
+visiting https://www.shopify.com/guides/dropshipping/about-the-authors
+	priority is 1
+	the current length of the visited set is : 309
+crawled https://www.shopify.com/guides/dropshipping/about-the-authors it was  news 
+returning reqs
+visiting https://www.pinterest.com/lishamurphy/me/
+	priority is 1
+	the current length of the visited set is : 310
+crawled https://www.pinterest.com/lishamurphy/me/ it was  news 
+returning reqs
+visiting https://twitter.com/WilliamJBennett/status/600974114002706432
+	priority is 1
+	the current length of the visited set is : 311
+visiting http://www.vice.com/tag/opinion/page/11
+	priority is 1
+	the current length of the visited set is : 312
+crawled http://www.vice.com/tag/opinion/page/11 it was  news 
+returning reqs
+visiting http://www.vice.com/stuff/page/324
+	priority is 1
+	the current length of the visited set is : 313
+crawled http://www.vice.com/stuff/page/324 it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/473652085787149798/
+	priority is 1
+	the current length of the visited set is : 314
+crawled https://www.pinterest.com/pin/473652085787149798/ it was  news 
+returning reqs
+visiting https://twitter.com/WilliamJBennett
+	priority is 1
+	the current length of the visited set is : 315
+crawled https://twitter.com/WilliamJBennett it was  news 
+returning reqs
+visiting http://www.vice.com/tag/opinion/page/5
+	priority is 1
+	the current length of the visited set is : 316
+crawled http://www.vice.com/tag/opinion/page/5 it was  news 
+returning reqs
+visiting https://www.pinterest.com/shh12345/recipes/
+	priority is 1
+	the current length of the visited set is : 317
+visiting https://www.shopify.com/guides/dropshipping/glossary
+	priority is 1
+	the current length of the visited set is : 318
+crawled https://www.shopify.com/guides/dropshipping/glossary it was  news 
+returning reqs
+visiting https://twitter.com/danheyden
+	priority is 1
+	the current length of the visited set is : 319
+visiting http://www.vice.com/tag/opinion/page/4
+	priority is 1
+	the current length of the visited set is : 320
+visiting https://www.pinterest.com/pin/424253227370057290/
+	priority is 1
+	the current length of the visited set is : 321
+crawled https://www.pinterest.com/pin/424253227370057290/ it was  news 
+returning reqs
+visiting https://www.shopify.com/guides/new-zealand
+	priority is 1
+	the current length of the visited set is : 322
+crawled https://www.shopify.com/guides/new-zealand it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/158400111868417488/
+	priority is 1
+	the current length of the visited set is : 323
+crawled https://www.pinterest.com/pin/158400111868417488/ it was  news 
+returning reqs
+visiting https://twitter.com/DaytonPubPolicy
+	priority is 1
+	the current length of the visited set is : 324
+crawled https://twitter.com/DaytonPubPolicy it was  news 
+returning reqs
+visiting https://www.youtube.com/user/ProfessorDoom1
+	priority is 1
+	the current length of the visited set is : 325
+crawled https://www.youtube.com/user/ProfessorDoom1 it was  news 
+returning reqs
+visiting https://www.pinterest.com/luzmariaobando/jardin/
+	priority is 1
+	the current length of the visited set is : 326
+visiting http://www.vice.com/tag/opinion/page/3
+	priority is 1
+	the current length of the visited set is : 327
+crawled http://www.vice.com/tag/opinion/page/3 it was  news 
+returning reqs
+visiting https://www.shopify.com/guides/united-kingdom
+	priority is 1
+	the current length of the visited set is : 328
+crawled https://www.shopify.com/guides/united-kingdom it was  news 
+returning reqs
+visiting http://www.vice.com/tag/opinion/page/2
+	priority is 1
+	the current length of the visited set is : 329
+crawled http://www.vice.com/tag/opinion/page/2 it was  news 
+returning reqs
+visiting https://twitter.com/hashtag/spectrum
+	priority is 1
+	the current length of the visited set is : 330
+crawled https://twitter.com/hashtag/spectrum it was  news 
+returning reqs
+visiting http://www.nytimes.com/2015/05/03/fashion/oh-those-clever-librarians-and-their-bookface.html?_r=0
+	priority is 0
+	the current length of the visited set is : 331
+visiting https://www.shopify.com/guides/united-states-of-america
+	priority is 1
+	the current length of the visited set is : 332
+crawled https://www.shopify.com/guides/united-states-of-america it was  news 
+returning reqs
+visiting https://www.pinterest.com/bionicwoman84/random/
+	priority is 1
+	the current length of the visited set is : 333
+visiting https://twitter.com/haroldfeld
+	priority is 1
+	the current length of the visited set is : 334
+crawled https://twitter.com/haroldfeld it was  news 
+returning reqs
+visiting http://www.vice.com/tag/opinion/page/1
+	priority is 1
+	the current length of the visited set is : 335
+crawled http://www.vice.com/tag/opinion/page/1 it was  news 
+returning reqs
+visiting https://www.shopify.com/guides/singapore
+	priority is 1
+	the current length of the visited set is : 336
+crawled https://www.shopify.com/guides/singapore it was  news 
+returning reqs
+visiting https://twitter.com/Reprieve
+	priority is 1
+	the current length of the visited set is : 338
+visiting https://www.pinterest.com/pin/142144931963389996/
+	priority is 1
+	the current length of the visited set is : 339
+crawled https://www.pinterest.com/pin/142144931963389996/ it was  news 
+returning reqs
+visiting http://www.vice.com/nsfw/page/26
+	priority is 1
+	the current length of the visited set is : 340
+crawled http://www.vice.com/nsfw/page/26 it was  news 
+returning reqs
+visiting https://www.shopify.com/guides/canada
+	priority is 1
+	the current length of the visited set is : 341
+crawled https://www.shopify.com/guides/canada it was  news 
+returning reqs
+visiting https://twitter.com/kentindell
+	priority is 1
+	the current length of the visited set is : 343
+visiting http://www.vice.com/nsfw/page/5
+	priority is 1
+	the current length of the visited set is : 344
+crawled http://www.vice.com/nsfw/page/5 it was  news 
+returning reqs
+visiting https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dredirect_login%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Feditor%26hl%3Den&service=youtube&uilel=3&hl=en
+	priority is 0
+	the current length of the visited set is : 345
+crawled https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dredirect_login%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Feditor%26hl%3Den&service=youtube&uilel=3&hl=en it was  news 
+returning reqs
+visiting https://www.youtube.com/user/paulbegley34
+	priority is 1
+	the current length of the visited set is : 346
+crawled https://www.youtube.com/user/paulbegley34 it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/404620347747717819/
+	priority is 1
+	the current length of the visited set is : 347
+crawled https://www.pinterest.com/pin/404620347747717819/ it was  news 
+returning reqs
+visiting https://www.youtube.com/user/cgreene34
+	priority is 1
+	the current length of the visited set is : 349
+crawled https://www.youtube.com/user/cgreene34 it was  news 
+returning reqs
+visiting http://www.vice.com/nsfw/page/4
+	priority is 1
+	the current length of the visited set is : 350
+visiting https://twitter.com/3rdKeySolutions
+	priority is 1
+	the current length of the visited set is : 351
+crawled https://twitter.com/3rdKeySolutions it was  news 
+returning reqs
+visiting https://www.pinterest.com/Mankaneni/varr%C3%A1s-alapok/
+	priority is 1
+	the current length of the visited set is : 352
+visiting https://www.pinterest.com/pin/151503974939959498/
+	priority is 1
+	the current length of the visited set is : 354
+crawled https://www.pinterest.com/pin/151503974939959498/ it was  news 
+returning reqs
+visiting https://www.youtube.com/user/DAHBOO77
+	priority is 1
+	the current length of the visited set is : 355
+visiting https://twitter.com/epicenterbtc
+	priority is 1
+	the current length of the visited set is : 356
+crawled https://twitter.com/epicenterbtc it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/295900637994459506/
+	priority is 1
+	the current length of the visited set is : 357
+crawled https://www.pinterest.com/pin/295900637994459506/ it was  news 
+returning reqs
+visiting https://www.pinterest.com/bsqrd/home-decor/
+	priority is 1
+	the current length of the visited set is : 358
+visiting http://www.vice.com/sports/page/48
+	priority is 1
+	the current length of the visited set is : 359
+crawled http://www.vice.com/sports/page/48 it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/295900637994459511/
+	priority is 1
+	the current length of the visited set is : 361
+crawled https://www.pinterest.com/pin/295900637994459511/ it was  news 
+returning reqs
+visiting http://www.vice.com/sports/page/5
+	priority is 1
+	the current length of the visited set is : 362
+crawled http://www.vice.com/sports/page/5 it was  news 
+returning reqs
+visiting https://www.youtube.com/channel/UCUIwxA-CHccPAaVqrfggAiQ
+	priority is 1
+	the current length of the visited set is : 363
+crawled https://www.youtube.com/channel/UCUIwxA-CHccPAaVqrfggAiQ it was  news 
+returning reqs
+visiting http://www.wetmachine.com/tales-of-the-sausage-factory/those-who-love-uber-should-also-love-unlicensed-spectrum-the-paradox-of-regulatory-property/
+	priority is 0
+	the current length of the visited set is : 364
+visiting https://twitter.com/hashtag/peace
+	priority is 1
+	the current length of the visited set is : 365
+crawled https://twitter.com/hashtag/peace it was  news 
+returning reqs
+visiting http://www.vice.com/sports/page/4
+	priority is 1
+	the current length of the visited set is : 366
+visiting https://twitter.com/hashtag/liberty
+	priority is 1
+	the current length of the visited set is : 368
+crawled https://twitter.com/hashtag/liberty it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/295900637994459515/
+	priority is 1
+	the current length of the visited set is : 369
+crawled https://www.pinterest.com/pin/295900637994459515/ it was  news 
+returning reqs
+visiting https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-77-andreas-m-antonopoulos-mastering-bitcoin
+	priority is 0
+	the current length of the visited set is : 370
+crawled https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-77-andreas-m-antonopoulos-mastering-bitcoin it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/295900637994459519/
+	priority is 1
+	the current length of the visited set is : 371
+crawled https://www.pinterest.com/pin/295900637994459519/ it was  news 
+returning reqs
+visiting https://twitter.com/hashtag/cryptocurrency
+	priority is 1
+	the current length of the visited set is : 373
+crawled https://twitter.com/hashtag/cryptocurrency it was  news 
+returning reqs
+visiting http://www.vice.com/fashion/page/5
+	priority is 1
+	the current length of the visited set is : 374
+crawled http://www.vice.com/fashion/page/5 it was  news 
+returning reqs
+visiting http://www.vice.com/fashion/page/48
+	priority is 1
+	the current length of the visited set is : 375
+crawled http://www.vice.com/fashion/page/48 it was  news 
+returning reqs
+visiting https://www.pinterest.com/pin/295900637994459521/
+	priority is 1
+	the current length of the visited set is : 376
+crawled https://www.pinterest.com/pin/295900637994459521/ it was  news 
+returning reqs
+visiting http://www.iheartnaptime.net/
+	priority is 1
+	the current length of the visited set is : 377
+crawled http://www.iheartnaptime.net/ it was  news 
+returning reqs
+visiting https://www.shopify.com/guides/ultimate-guide-to-pop-up-shops/how-to-evaluate-your-pop-up-shops-success
+	priority is 1
+	the current length of the visited set is : 378
+crawled https://www.shopify.com/guides/ultimate-guide-to-pop-up-shops/how-to-evaluate-your-pop-up-shops-success it was  news 
+returning reqs

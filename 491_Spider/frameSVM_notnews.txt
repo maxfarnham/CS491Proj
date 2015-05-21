@@ -2,3 +2,910 @@ http://www.vice.com/en_us
 	outdegree : 49
 http://www.vice.com/en_us
 	outdegree : 49
+http://www.vice.com/en_us
+	outdegree : 53
+http://www.vice.com/en_us
+	outdegree : 53
+http://www.vice.com/en_us
+	outdegree : 53
+http://store.vice.com/
+	outdegree : 12
+http://store.vice.com/
+http://link.vice.com/join/3nh/viceussignup
+https://www.youtube.com/user/vice
+	outdegree : 194
+https://www.youtube.com/user/vice
+	outdegree : 5
+https://twitter.com/vice
+	outdegree : 137
+https://twitter.com/vice
+	outdegree : 1
+http://www.vice.com/articles
+	outdegree : 75
+http://www.vice.com/articles
+	outdegree : 1
+https://www.facebook.com/VICE
+	outdegree : 24
+https://www.facebook.com/VICE
+	outdegree : 10
+https://www.tumblr.com/register/follow/vicemag
+	outdegree : 12
+https://www.tumblr.com/register/follow/vicemag
+	outdegree : 2
+https://www.facebook.com/help/
+	outdegree : 53
+https://www.facebook.com/help/
+	outdegree : 7
+http://motherboard.vice.com/read/not-over-my-yacht-rich-folks-are-worried-about-spy-drones
+	outdegree : 71
+http://motherboard.vice.com/read/not-over-my-yacht-rich-folks-are-worried-about-spy-drones
+	outdegree : 25
+https://twitter.com/hashtag/OnTheLine
+	outdegree : 136
+https://twitter.com/hashtag/OnTheLine
+	outdegree : 6
+https://accounts.google.com/ServiceLogin
+	outdegree : 6
+https://accounts.google.com/ServiceLogin
+	outdegree : 3
+https://www.facebook.com/help/cookies/
+	outdegree : 71
+https://www.facebook.com/help/cookies/
+	outdegree : 3
+https://support.google.com/youtube/answer/3046484
+	outdegree : 28
+https://support.google.com/youtube/answer/3046484
+	outdegree : 13
+https://support.google.com/youtube/
+	outdegree : 58
+https://support.google.com/youtube/
+	outdegree : 36
+https://www.youtube.com/user/%22https://accounts.google.com/ServiceLogin
+https://developers.facebook.com/
+	outdegree : 54
+https://developers.facebook.com/
+	outdegree : 10
+https://support.google.com/youtube/topic/30084
+	outdegree : 43
+https://support.google.com/youtube/topic/30084
+	outdegree : 29
+https://www.facebook.com/policies/
+	outdegree : 40
+https://www.facebook.com/policies/
+http://www.vice.com/film
+	outdegree : 74
+http://www.vice.com/film
+https://support.google.com/youtube/topic/3030592
+	outdegree : 36
+https://support.google.com/youtube/topic/3030592
+	outdegree : 22
+https://twitter.com/hashtag/Ukraine
+	outdegree : 179
+https://twitter.com/hashtag/Ukraine
+	outdegree : 11
+http://www.vice.com/stuff
+	outdegree : 73
+http://www.vice.com/stuff
+https://support.google.com/youtube/topic/2676339
+	outdegree : 32
+https://support.google.com/youtube/topic/2676339
+	outdegree : 17
+https://www.facebook.com/mobile/
+	outdegree : 31
+https://www.facebook.com/mobile/
+	outdegree : 1
+http://motherboard.vice.com/read/x37-b-the-militarys-secretive-space-drone-goes-back-into-orbit
+	outdegree : 70
+http://motherboard.vice.com/read/x37-b-the-militarys-secretive-space-drone-goes-back-into-orbit
+	outdegree : 7
+https://support.google.com/youtube/topic/2676378
+	outdegree : 45
+https://support.google.com/youtube/topic/2676378
+	outdegree : 28
+https://www.youtube.com/oops
+	outdegree : 16
+https://www.youtube.com/oops
+	outdegree : 1
+http://motherboard.vice.com/blog/youre-probably-not-invited-end-times-living-with-the-doomsday-1-percent
+	outdegree : 59
+http://motherboard.vice.com/blog/youre-probably-not-invited-end-times-living-with-the-doomsday-1-percent
+	outdegree : 6
+https://www.facebook.com/pages/create/
+	outdegree : 25
+https://www.facebook.com/pages/create/
+https://support.google.com/youtube/topic/2691078
+	outdegree : 33
+https://support.google.com/youtube/topic/2691078
+	outdegree : 15
+https://accounts.google.com/ServiceLogin?hl=en&service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Ffeed%252Fsubscriptions%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&passive=true
+	outdegree : 6
+https://accounts.google.com/ServiceLogin?hl=en&service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Ffeed%252Fsubscriptions%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&passive=true
+	outdegree : 1
+https://www.facebook.com/
+	outdegree : 36
+https://www.facebook.com/
+https://www.youtube.com/user/Motherboard
+https://twitter.com/hashtag/unheardvoices
+	outdegree : 181
+https://twitter.com/hashtag/unheardvoices
+	outdegree : 23
+https://support.google.com/youtube/topic/12634
+	outdegree : 20
+https://support.google.com/youtube/topic/12634
+	outdegree : 5
+https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Ffriends%2Frequests%2F%3Ffcref%3Dffi
+	outdegree : 35
+https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Ffriends%2Frequests%2F%3Ffcref%3Dffi
+	outdegree : 10
+https://www.facebook.com/badges/
+	outdegree : 30
+https://www.facebook.com/badges/
+https://support.google.com/youtube/topic/1115889
+	outdegree : 48
+https://support.google.com/youtube/topic/1115889
+	outdegree : 30
+https://twitter.com/search-home
+	outdegree : 60
+https://twitter.com/search-home
+http://motherboard.vice.com/read/drone-inadvertently-and-unwillingly-becomes-a-submarine
+	outdegree : 54
+http://motherboard.vice.com/read/drone-inadvertently-and-unwillingly-becomes-a-submarine
+	outdegree : 2
+https://support.google.com/youtube/topic/24324
+	outdegree : 17
+https://support.google.com/youtube/topic/24324
+	outdegree : 1
+http://motherboard.vice.com/tag/interviews
+	outdegree : 58
+http://motherboard.vice.com/tag/interviews
+https://support.google.com/youtube/topic/14965
+	outdegree : 25
+https://support.google.com/youtube/topic/14965
+	outdegree : 7
+https://twitter.com/login?redirect_after_login=%2Fsettings%2Fwidgets%2Fnew%2Fsearch
+	outdegree : 42
+https://twitter.com/login?redirect_after_login=%2Fsettings%2Fwidgets%2Fnew%2Fsearch
+https://support.google.com/youtube/topic/3031461
+	outdegree : 16
+https://support.google.com/youtube/topic/3031461
+	outdegree : 1
+http://motherboard.vice.com/tag/documentaries
+	outdegree : 58
+http://motherboard.vice.com/tag/documentaries
+https://support.google.com/youtube/answer/6009004
+	outdegree : 44
+https://support.google.com/youtube/answer/6009004
+http://motherboard.vice.com/en_us
+	outdegree : 86
+http://motherboard.vice.com/en_us
+https://support.google.com/youtube/answer/1620498
+	outdegree : 18
+https://support.google.com/youtube/answer/1620498
+	outdegree : 2
+http://www.vice.com/rss
+https://support.google.com/youtube/answer/1342206
+	outdegree : 44
+https://support.google.com/youtube/answer/1342206
+http://www.vice.com/tag/opinion
+	outdegree : 75
+http://www.vice.com/tag/opinion
+http://motherboard.vice.com/en_us/tag/earth
+	outdegree : 67
+http://motherboard.vice.com/en_us/tag/earth
+http://motherboard.vice.com/en_us/videos
+	outdegree : 81
+http://motherboard.vice.com/en_us/videos
+https://support.google.com/youtube/answer/4574026
+	outdegree : 45
+https://support.google.com/youtube/answer/4574026
+http://motherboard.vice.com/en_us/tag/gaming
+	outdegree : 60
+http://motherboard.vice.com/en_us/tag/gaming
+https://support.google.com/youtube/answer/1304644
+	outdegree : 45
+https://support.google.com/youtube/answer/1304644
+http://motherboard.vice.com/en_us/tag/futures
+	outdegree : 63
+http://motherboard.vice.com/en_us/tag/futures
+https://support.google.com/youtube/answer/1304642
+	outdegree : 44
+https://support.google.com/youtube/answer/1304642
+http://www.vice.com/magazine
+	outdegree : 37
+http://www.vice.com/magazine
+https://www.youtube.com/static
+http://www.vice.com/tag/crime
+	outdegree : 71
+http://www.vice.com/tag/crime
+https://support.google.com/youtube/answer/2497582
+	outdegree : 27
+https://support.google.com/youtube/answer/2497582
+	outdegree : 1
+http://www.vice.com/photos
+	outdegree : 45
+http://www.vice.com/photos
+http://motherboard.vice.com/blog/home-at-the-end-of-time
+	outdegree : 62
+http://motherboard.vice.com/blog/can-time-just-stop
+	outdegree : 56
+http://motherboard.vice.com/blog/can-time-just-stop
+	outdegree : 6
+https://support.google.com/youtube/answer/2375299
+	outdegree : 26
+https://support.google.com/youtube/answer/2375299
+	outdegree : 1
+http://motherboard.vice.com/blog/a-visit-to-the-shell-of-the-bomb
+	outdegree : 63
+http://motherboard.vice.com/blog/a-visit-to-the-shell-of-the-bomb
+	outdegree : 5
+https://support.google.com/youtube/answer/1723046
+	outdegree : 28
+https://support.google.com/youtube/answer/1723046
+http://www.vice.com/dnd
+	outdegree : 44
+http://www.vice.com/dnd
+http://motherboard.vice.com/read/we-need-three-planets-to-keep-the-human-race-alive-nasa-scientist-says
+	outdegree : 59
+http://motherboard.vice.com/read/we-need-three-planets-to-keep-the-human-race-alive-nasa-scientist-says
+http://www.vice.com/nsfw
+	outdegree : 72
+http://www.vice.com/nsfw
+https://support.google.com/youtube/answer/6005908
+	outdegree : 22
+https://support.google.com/youtube/answer/6005908
+	outdegree : 1
+https://support.google.com/youtube/answer/6005923
+	outdegree : 25
+https://support.google.com/youtube/answer/6005923
+http://www.vice.com/food
+	outdegree : 64
+http://www.vice.com/food
+http://motherboard.vice.com/read/in-myanmar-the-military-government-remains-suspicious-of-drones
+	outdegree : 44
+http://motherboard.vice.com/read/in-myanmar-the-military-government-remains-suspicious-of-drones
+https://support.google.com/youtube/answer/1311402
+	outdegree : 23
+https://support.google.com/youtube/answer/1311402
+http://motherboard.vice.com/read/watch-these-drones-act-like-flying-spiders-and-weave-together-structures
+	outdegree : 58
+http://motherboard.vice.com/read/watch-these-drones-act-like-flying-spiders-and-weave-together-structures
+	outdegree : 2
+http://motherboard.vice.com/read/about-motherboard
+	outdegree : 76
+http://motherboard.vice.com/read/about-motherboard
+https://support.google.com/youtube/answer/2797370
+	outdegree : 23
+https://support.google.com/youtube/answer/2797370
+	outdegree : 1
+http://www.vice.com/sports
+	outdegree : 67
+http://www.vice.com/sports
+http://motherboard.vice.com/blog/its-easter-and-american-christians-believe-the-rapture-is-nigh
+	outdegree : 66
+http://motherboard.vice.com/blog/its-easter-and-american-christians-believe-the-rapture-is-nigh
+https://support.google.com/youtube/answer/2807691
+	outdegree : 25
+https://support.google.com/youtube/answer/2807691
+http://patft1.uspto.gov/netacgi/nph-Parser
+	outdegree : 8
+http://patft1.uspto.gov/netacgi/nph-Parser
+https://support.google.com/displayspecs/?rd=2
+	outdegree : 39
+https://support.google.com/displayspecs/?rd=2
+	outdegree : 13
+http://www.vice.com/fashion
+	outdegree : 66
+http://www.vice.com/fashion
+http://motherboard.vice.com/blog/the-biggest-star-at-the-tribeca-film-festival-was-a-weird-little-cat
+	outdegree : 79
+http://motherboard.vice.com/blog/the-biggest-star-at-the-tribeca-film-festival-was-a-weird-little-cat
+	outdegree : 7
+https://support.google.com/youtube/topic/2946312
+	outdegree : 22
+https://support.google.com/youtube/topic/2946312
+	outdegree : 4
+http://motherboard.vice.com/blog/a-newsreel-from-fifty-years-ago-this-month-we-liked-ike-blew-up-atomic-bombs-carved-vegetable-sculptures
+	outdegree : 54
+http://motherboard.vice.com/blog/a-newsreel-from-fifty-years-ago-this-month-we-liked-ike-blew-up-atomic-bombs-carved-vegetable-sculptures
+	outdegree : 1
+https://support.google.com/youtube/answer/2802848
+	outdegree : 34
+https://support.google.com/youtube/answer/2802848
+	outdegree : 3
+http://www.vice.com/news
+	outdegree : 68
+http://www.vice.com/news
+http://motherboard.vice.com/blog/the-u-s-once-dropped-an-atomic-bomb-on-a-south-carolina-town
+	outdegree : 59
+http://motherboard.vice.com/blog/the-u-s-once-dropped-an-atomic-bomb-on-a-south-carolina-town
+	outdegree : 3
+http://www.vice.com/videos
+	outdegree : 101
+http://www.vice.com/videos
+https://support.google.com/youtube/answer/174084
+	outdegree : 22
+https://support.google.com/youtube/answer/174084
+http://motherboard.vice.com/blog/old-security-photos-highlight-the-unknown-builders-of-the-atomic-bomb
+	outdegree : 66
+http://motherboard.vice.com/blog/old-security-photos-highlight-the-unknown-builders-of-the-atomic-bomb
+	outdegree : 3
+https://support.google.com/youtube/answer/1153367
+	outdegree : 26
+https://support.google.com/youtube/answer/1153367
+	outdegree : 2
+http://www.amazon.com/The-Titan-II-Handbook-Civilians/dp/B004U8PPQ2
+	outdegree : 168
+http://www.amazon.com/The-Titan-II-Handbook-Civilians/dp/B004U8PPQ2
+	outdegree : 60
+http://motherboard.vice.com/blog/this-1951-cartoon-is-a-delightfully-insane-way-to-prepare-children-for-nuclear-war
+	outdegree : 58
+http://motherboard.vice.com/blog/this-1951-cartoon-is-a-delightfully-insane-way-to-prepare-children-for-nuclear-war
+https://support.google.com/youtube/answer/57153
+	outdegree : 32
+https://support.google.com/youtube/answer/57153
+	outdegree : 5
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FUpdateAccountRecoveryOptions&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FUpdateAccountRecoveryOptions&passwdsession=true
+	outdegree : 6
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FUpdateAccountRecoveryOptions&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FUpdateAccountRecoveryOptions&passwdsession=true
+https://support.google.com/youtube/answer/1348739
+	outdegree : 26
+https://support.google.com/youtube/answer/1348739
+	outdegree : 1
+http://www.amazon.com/Currency-Converter/b
+https://support.google.com/youtube/answer/1348752
+	outdegree : 27
+https://support.google.com/youtube/answer/1348752
+	outdegree : 1
+https://support.google.com/youtube/answer/1112983
+	outdegree : 31
+https://support.google.com/youtube/answer/1112983
+	outdegree : 3
+http://www.amazon.com/earn-spend-rewards-points/b
+http://www.amazon.com/compare-credit-card-offers/b
+http://aws.amazon.com/what-is-cloud-computing/
+	outdegree : 464
+http://aws.amazon.com/what-is-cloud-computing/
+	outdegree : 251
+http://motherboard.vice.com/blog/one-gif-to-explain-the-multiverse-of-the-microscopic
+	outdegree : 61
+http://motherboard.vice.com/blog/one-gif-to-explain-the-multiverse-of-the-microscopic
+http://motherboard.vice.com/blog/is-bitcoin-a-government-conspiracy
+	outdegree : 61
+http://motherboard.vice.com/blog/is-bitcoin-a-government-conspiracy
+	outdegree : 4
+http://motherboard.vice.com/read/new-measurements-the-universe-is-boring
+	outdegree : 67
+http://motherboard.vice.com/read/new-measurements-the-universe-is-boring
+	outdegree : 3
+https://support.google.com/youtube/answer/2423005
+	outdegree : 30
+https://support.google.com/youtube/answer/2423005
+	outdegree : 2
+https://support.google.com/youtube/answer/187602
+	outdegree : 25
+https://support.google.com/youtube/answer/187602
+https://accounts.google.com/ServiceLogin?service=adwords&continue=https://adwords.google.com/um/identity&hl=en&ltmpl=signin&passive=0&skipvpage=true
+	outdegree : 6
+https://accounts.google.com/ServiceLogin?service=adwords&continue=https://adwords.google.com/um/identity&hl=en&ltmpl=signin&passive=0&skipvpage=true
+	outdegree : 1
+https://support.google.com/youtube/answer/94524
+	outdegree : 15
+https://support.google.com/youtube/answer/94524
+https://www.google.com/maps/@?dg=dbrw&newdg=1
+https://www.google.com/adsense/terms
+	outdegree : 9
+https://www.google.com/adsense/terms
+https://support.google.com/youtube/answer/72902
+	outdegree : 22
+https://support.google.com/youtube/answer/72902
+https://aws.amazon.com/marketplace/pp/B00E8PL4JO/ref=mkt_ste_l2_Deployment_f2
+	outdegree : 66
+https://aws.amazon.com/marketplace/pp/B00E8PL4JO/ref=mkt_ste_l2_Deployment_f2
+	outdegree : 4
+https://aws.amazon.com/marketplace/b/2649274011/ref=mkt_ste_l2_Deployment_cat
+	outdegree : 66
+https://aws.amazon.com/marketplace/b/2649274011/ref=mkt_ste_l2_Deployment_cat
+	outdegree : 10
+https://support.google.com/adsense/
+	outdegree : 81
+https://support.google.com/adsense/
+	outdegree : 56
+https://aws.amazon.com/marketplace/pp/B00J5RHYEO/ref=mkt_ste_l2_Deployment_f1
+	outdegree : 64
+https://aws.amazon.com/marketplace/pp/B00J5RHYEO/ref=mkt_ste_l2_Deployment_f1
+https://aws.amazon.com/marketplace/ref=mkt_ste_l2_Deployment
+	outdegree : 65
+https://aws.amazon.com/marketplace/ref=mkt_ste_l2_Deployment
+	outdegree : 1
+https://creatoracademy.withgoogle.com/page/lesson/monetization-goals
+https://support.google.com/youtube/answer/6066578
+	outdegree : 25
+https://support.google.com/youtube/answer/6066578
+	outdegree : 1
+https://support.google.com/youtube/?rd=1
+	outdegree : 58
+https://support.google.com/youtube/?rd=1
+http://motherboard.vice.com/read/once-again-mental-illness-doesnt-predict-future-violence
+	outdegree : 57
+http://motherboard.vice.com/read/once-again-mental-illness-doesnt-predict-future-violence
+	outdegree : 2
+https://support.google.com/youtube/answer/6066577
+	outdegree : 29
+https://support.google.com/youtube/answer/6066577
+https://support.google.com/youtube/answer/6066530
+	outdegree : 34
+https://support.google.com/youtube/answer/6066530
+http://motherboard.vice.com/blog/winston-churchill-predicted-synthetic-lab-grown-meat-in-1931
+	outdegree : 58
+http://motherboard.vice.com/blog/winston-churchill-predicted-synthetic-lab-grown-meat-in-1931
+	outdegree : 7
+https://support.google.com/youtube/answer/6162278
+	outdegree : 27
+https://support.google.com/youtube/answer/6162278
+	outdegree : 2
+http://motherboard.vice.com/read/the-3d-printed-war
+	outdegree : 78
+http://motherboard.vice.com/read/the-3d-printed-war
+	outdegree : 3
+http://motherboard.vice.com/read/the-documentary-about-hiroshima-and-nagasaki-the-u-s-didn-t-want-us-to-see
+	outdegree : 63
+http://motherboard.vice.com/read/the-documentary-about-hiroshima-and-nagasaki-the-u-s-didn-t-want-us-to-see
+	outdegree : 4
+https://aws.amazon.com/marketplace/pp/B008DWS6GC
+	outdegree : 68
+https://aws.amazon.com/marketplace/pp/B008DWS6GC
+http://motherboard.vice.com/read/astronomers-unravel-the-mystery-of-the-universes-giant-cold-spot
+	outdegree : 60
+http://motherboard.vice.com/read/astronomers-unravel-the-mystery-of-the-universes-giant-cold-spot
+	outdegree : 2
+https://aws.amazon.com/marketplace/pp/B00UIO8898
+	outdegree : 65
+https://aws.amazon.com/marketplace/pp/B00UIO8898
+	outdegree : 1
+https://support.google.com/youtube/answer/82842
+	outdegree : 26
+https://support.google.com/youtube/answer/82842
+	outdegree : 1
+https://support.google.com/youtube/answer/1074205
+	outdegree : 18
+https://support.google.com/youtube/answer/1074205
+https://aws.amazon.com/marketplace/pp/B00E4WSCT6
+	outdegree : 67
+https://aws.amazon.com/marketplace/pp/B00E4WSCT6
+http://motherboard.vice.com/read/the-man-who-built-the-universe
+	outdegree : 69
+http://motherboard.vice.com/read/the-man-who-built-the-universe
+	outdegree : 4
+https://support.google.com/youtube/answer/176643
+	outdegree : 25
+https://support.google.com/youtube/answer/176643
+https://aws.amazon.com/marketplace/pp/B00NNZUVHQ
+	outdegree : 71
+https://aws.amazon.com/marketplace/pp/B00NNZUVHQ
+http://www.vice.com/en_us
+	outdegree : 53
+http://www.vice.com/articles
+	outdegree : 23
+http://store.vice.com/
+	outdegree : 10
+http://www.shopify.com/
+	outdegree : 47
+https://twitter.com/vice
+	outdegree : 100
+http://link.vice.com/join/3nh/viceussignup
+http://www.asheavenue.com/
+	outdegree : 39
+http://motherboard.vice.com/read/not-over-my-yacht-rich-folks-are-worried-about-spy-drones
+	outdegree : 63
+http://fightland.vice.com/terms-of-use
+	outdegree : 1
+https://news.vice.com/article/10-year-old-girl-raped-by-stepfather-is-refused-an-abortion-in-paraguay
+	outdegree : 21
+http://store.vice.com/collections
+https://www.tumblr.com/register/follow/vicemag
+	outdegree : 11
+https://www.youtube.com/user/vice
+	outdegree : 83
+https://news.vice.com/video/debt-ridden-students-protest-in-brighton-extra-scene-from-the-student-debt-sentence
+	outdegree : 43
+https://www.facebook.com/VICE
+	outdegree : 23
+http://www.shopify.com/sitemap
+	outdegree : 304
+http://www.linkedin.com/company/shopify
+http://fightland.vice.com/privacy-policy
+	outdegree : 3
+http://www.shopify.com/plus
+	outdegree : 3
+https://www.youtube.com/user/%22https://accounts.google.com/ServiceLogin
+http://www.shopify.com/payment-gateways/australia
+	outdegree : 57
+https://support.google.com/youtube/
+	outdegree : 45
+https://www.youtube.com/yt/policyandsafety/
+	outdegree : 5
+https://www.youtube.com/testtube
+	outdegree : 2
+https://www.google.com/intl/en/policies/privacy/
+	outdegree : 74
+http://www.shopify.com/payment-gateways/canada
+	outdegree : 20
+https://www.tumblr.com/login/follow/vicemag
+	outdegree : 1
+https://www.youtube.com/%22https://accounts.google.com/ServiceLogin
+https://www.tumblr.com/explore
+	outdegree : 2
+http://www.shopify.com/plus/contact
+https://www.youtube.com/yt/policyandsafety/reporting.html
+	outdegree : 2
+http://www.vice.com/film
+	outdegree : 35
+http://www.vice.com/stuff
+	outdegree : 20
+https://www.youtube.com/yt/policyandsafety/safety.html
+	outdegree : 1
+http://www.shopify.com/plus/customers
+	outdegree : 15
+http://travel-impressions.tumblr.com/
+	outdegree : 105
+https://www.youtube.com/yt/policyandsafety/policy.html
+https://www.google.com/policies/privacy/
+	outdegree : 46
+https://survey.googleratings.com/wix/p5092995.aspx
+	outdegree : 4
+https://sports.vice.com/en_us/about
+	outdegree : 27
+http://www.shopify.com/payment-gateways/slovenia
+https://www.google.com/policies/technologies/voice/
+http://www.shopify.com/payment-gateways/slovakia
+https://www.google.com/policies/technologies/wallet/
+https://sports.vice.com/en_us/article/college-runner-showboats-blows-race
+	outdegree : 13
+http://travel-impressions.tumblr.com/page/2
+	outdegree : 69
+http://www.shopify.com/payment-gateways/romania
+https://www.tumblr.com/register
+	outdegree : 1
+https://twitter.com/BDavidZarley
+	outdegree : 57
+https://www.shopify.com/
+https://www.shopify.com/videos/content-marketing/five-things-you-need-to-know-to-grow-any-business
+	outdegree : 11
+https://www.google.com/policies/technologies/location-data/
+https://www.tumblr.com/login
+	outdegree : 1
+http://www.shopify.com/payment-gateways/canada/sage-payment-solutions
+https://www.shopify.com/videos/content-marketing/step-by-step-facebook-advertising
+https://twitter.com/howardmegdal
+	outdegree : 66
+http://www.shopify.com/payment-gateways/canada/psigate
+http://travel-impressions.tumblr.com/page/3
+	outdegree : 61
+http://trickatboss.tumblr.com/
+	outdegree : 47
+https://ecommerce.shopify.com/success-stories
+	outdegree : 370
+https://twitter.com/joshuakloke
+	outdegree : 42
+http://www.clubmonaco.com/home/index.jsp
+	outdegree : 20
+http://www.shopify.com/payment-gateways/canada/paypal-website-payments-pro-ca
+http://www.shopify.com/payment-gateways/canada/paypal-payflow-pro
+http://www.vice.com/rss
+http://bypat0.tumblr.com/
+	outdegree : 59
+https://ecommerce.shopify.com/success-stories/pet-playgroundz
+	outdegree : 2
+http://www.shopify.com/payment-gateways/canada/paypal-express-checkout
+http://www.shopify.com/payment-gateways/canada/optimal-payments
+http://travel-impressions.tumblr.com/page/4
+	outdegree : 59
+https://ecommerce.shopify.com/success-stories/air-dancers
+	outdegree : 1
+http://www.vice.com/tag/opinion
+	outdegree : 35
+http://www.clubmonaco.com/sitemap/index.jsp
+	outdegree : 3
+http://travel-impressions.tumblr.com/tagged/bananas
+https://ecommerce.shopify.com/success-stories/econica-lingerie
+	outdegree : 1
+http://travel-impressions.tumblr.com/tagged/banana-plantation
+http://global.ralphlauren.com/en-us/About/Pages/employment.aspx
+	outdegree : 54
+https://twitter.com/ouijum
+	outdegree : 53
+https://ecommerce.shopify.com/success-stories/house-of-smooch-swimwear
+	outdegree : 1
+http://bypat0.tumblr.com/post/119034136918/la-maga-de-las-tortas-by-pato/embed
+http://www.vice.com/tag/crime
+	outdegree : 22
+http://bypat0.tumblr.com/page/2
+	outdegree : 53
+https://apps.shopify.com/
+	outdegree : 88
+http://www.vice.com/magazine
+	outdegree : 5
+https://twitter.com/PatrickKearns
+	outdegree : 33
+http://www.vice.com/photos
+	outdegree : 10
+http://travel-impressions.tumblr.com/page/5
+	outdegree : 63
+http://bypat0.tumblr.com/post/119034136918/la-maga-de-las-tortas-by-pato
+	outdegree : 3
+http://travel-impressions.tumblr.com/tagged/debut
+http://www.vice.com/dnd
+	outdegree : 12
+https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2FpostLogin%3Fsession_rikey%3Df9pAt2id0uiSbliQJHDMq_qdOjjjLXWUr05mlUxCAVXTb3fJ7FbhPRm2fsr3IXFYgAUV-SPPS5yfvHlPk4f4Qn6YpuOQ1XFD6FR%26l%3Dhttps%253A%252F%252Fwww%252Elinkedin%252Ecom%252FshareArticle%26id%3D0%26b%3D38fdddfb-75b1-4601-88d1-ee6c82a85c8f%26h%3DkzkE%26m%3DGET
+	outdegree : 11
+http://bypat0.tumblr.com/tagged/cake
+http://travel-impressions.tumblr.com/tagged/selfie
+http://bypat0.tumblr.com/image/119034136918
+http://www.clubmonaco.ca/home/index.jsp?geos=2
+	outdegree : 15
+https://twitter.com/neildemause
+	outdegree : 64
+https://twitter.com/ouijum/status/601221527640604672
+http://bypat0.tumblr.com/post/119034286968/gatinis-by-pato/embed
+http://cultureclub.clubmonaco.com/
+	outdegree : 8
+http://www.vice.com/nsfw
+	outdegree : 34
+https://www.linkedin.com/psettings/guest-controls
+http://houseofsmooch.com/
+	outdegree : 31
+https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fsharer%2Fsharer.php%3Fret%3Dlogin&display=popup
+https://www.shopify.com/videos
+	outdegree : 10
+https://twitter.com/jareddiamond
+	outdegree : 39
+http://www.vice.com/food
+	outdegree : 25
+http://travel-impressions.tumblr.com/page/6
+	outdegree : 45
+https://www.shopify.com/guides
+	outdegree : 7
+http://steph-by-step.tumblr.com/
+	outdegree : 58
+http://travel-impressions.tumblr.com/tagged/springs
+http://travel-impressions.tumblr.com/tagged/sand
+	outdegree : 4
+https://www.shopify.com/pos/hardwarestore
+	outdegree : 11
+https://www.linkedin.com/legal/copyright-policy
+	outdegree : 24
+http://www.vice.com/sports
+	outdegree : 28
+https://www.tumblr.com/register?redirect_to=%2Freblog%2F90852354283%2FqkdqQR7c
+	outdegree : 1
+https://twitter.com/PatrickKearns/status/600480107883589633
+	outdegree : 10
+https://twitter.com/neildemause/status/587990987227717634
+	outdegree : 20
+https://www.pinterest.com/smoochswimwear/
+	outdegree : 13
+http://www.vice.com/fashion
+	outdegree : 32
+https://www.linkedin.com/legal/privacy-policy
+	outdegree : 20
+https://twitter.com/neildemause/status/588096650784178176
+	outdegree : 2
+https://www.tumblr.com/register?redirect_to=%2Freblog%2F119034136918%2FLnEHv4eT
+	outdegree : 1
+http://steph-by-step.tumblr.com/post/119135647926/embed
+http://steph-by-step.tumblr.com/page/2
+	outdegree : 50
+http://www.petplaygrounds.com/
+	outdegree : 42
+https://press.shopify.com
+	outdegree : 5
+https://www.tumblr.com/register?redirect_to=%2Freblog%2F119034286968%2F6AHhxGFs
+	outdegree : 1
+http://www.vice.com/videos
+	outdegree : 65
+http://www.vice.com/news
+	outdegree : 14
+https://www.pinterest.com/smoochswimwear/2015-smooch-swimwear/
+	outdegree : 70
+https://twitter.com/mikeodio
+	outdegree : 73
+http://ganzert.tumblr.com/
+	outdegree : 23
+http://player.toronto.tsn.ca
+https://www.linkedin.com/legal/cookie-policy
+	outdegree : 3
+https://www.shopify.com/videos/build-a-business-2012
+	outdegree : 14
+https://twitter.com/beaver_banker
+	outdegree : 73
+http://www.vice.com/articles/page/5
+	outdegree : 8
+https://www.youtube.com/watch?v=MpUWrl3-mc8&t=0m6s
+	outdegree : 4
+https://www.pinterest.com/pin/166211042474420965/likes/
+	outdegree : 1
+https://docs.shopify.com/pos
+	outdegree : 19
+http://www.vice.com/articles/page/4
+	outdegree : 2
+https://www.shopify.com/videos/ecommerce-seo-101
+	outdegree : 5
+https://www.pinterest.com/pin/166211042474420965/repins/
+	outdegree : 1
+https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fsecurity-v2
+https://www.shopify.com/guides/dropshipping
+	outdegree : 16
+http://ganzert.tumblr.com/post/108630691715/art-is-art-this-is-what-i-do-at-the-beach
+	outdegree : 8
+https://help.linkedin.com/app/ask/path/ppq/
+	outdegree : 26
+http://www.vice.com/articles/page/1482
+	outdegree : 28
+https://www.shopify.com/guides/legal
+	outdegree : 6
+http://ganzert.tumblr.com/post/108630716950/old-self-portrait
+	outdegree : 7
+http://www.vice.com/articles/page/1
+https://www.pinterest.com/nadyluvsrey/
+	outdegree : 18
+http://www.vice.com/articles/page/2
+	outdegree : 2
+https://twitter.com/youderian
+	outdegree : 62
+https://www.pinterest.com/smoochswimwear/baking-betty-tea-parties/
+	outdegree : 40
+https://press.shopify.com/legal/privacy
+https://www.shopify.com/guides/businessplan
+	outdegree : 11
+https://twitter.com/allsop8184
+	outdegree : 66
+https://press.shopify.com/legal/terms
+https://www.shopify.com/guides/ultimate-guide-to-pop-up-shops
+	outdegree : 9
+https://twitter.com/HumayunNKhan
+	outdegree : 69
+https://www.shopify.com/guides/crowdfunding
+	outdegree : 25
+https://www.youtube.com/channel/UCfDOlptS6eUhzrfNSILzSKQ
+	outdegree : 12
+https://www.youtube.com/user/mlake9
+https://www.pinterest.com/nadyluvsrey/illusrations-of-love/
+	outdegree : 78
+https://twitter.com/danwwang
+	outdegree : 57
+https://www.pinterest.com/pin/166211042474420965/
+	outdegree : 4
+https://www.youtube.com/channel/%22https://accounts.google.com/ServiceLogin
+https://www.shopify.com/videos/build-a-business-2012/finale-winners-in-nyc
+https://www.shopify.com/videos/build-a-business-2012/infographic
+http://www.vice.com/read/cannes-film-festival
+	outdegree : 8
+https://www.pinterest.com/source/awesomelyawake.com/
+	outdegree : 58
+https://twitter.com/hamandcheese
+	outdegree : 67
+https://twitter.com/danwwang/status/595282155703500800/photo/1
+https://www.pinterest.com/source/topinspired.com/
+	outdegree : 44
+https://twitter.com/danwwang/status/595282155703500800
+http://www.theatlantic.com/magazine/archive/2013/03/the-big-question/309238/
+	outdegree : 92
+https://twitter.com/adamgurri
+	outdegree : 60
+https://www.pinterest.com/source/s1069.photobucket.com/
+	outdegree : 32
+http://www.vice.com/film/page/29
+	outdegree : 12
+https://www.pinterest.com/pin/132504414009284755/
+	outdegree : 57
+https://twitter.com/JaredMeyer10
+	outdegree : 92
+https://twitter.com/WilliamFreeland
+	outdegree : 98
+https://www.pinterest.com/pin/170503535866440714/
+	outdegree : 65
+https://www.pinterest.com/pin/268104984038781374/
+	outdegree : 70
+https://twitter.com/WillRinehart/status/599267150440857600
+	outdegree : 5
+https://www.pinterest.com/pin/268104984043095759/
+	outdegree : 63
+https://www.youtube.com/user/TheAlexJonesChannel
+	outdegree : 58
+https://twitter.com/WillRinehart
+	outdegree : 73
+https://twitter.com/aantonop
+	outdegree : 58
+https://www.shopify.com/guides/dropshipping/about-the-authors
+https://www.pinterest.com/lishamurphy/me/
+	outdegree : 84
+http://www.vice.com/tag/opinion/page/11
+	outdegree : 31
+http://www.vice.com/stuff/page/324
+	outdegree : 23
+https://www.pinterest.com/pin/473652085787149798/
+	outdegree : 31
+https://twitter.com/WilliamJBennett
+	outdegree : 58
+http://www.vice.com/tag/opinion/page/5
+	outdegree : 32
+https://www.shopify.com/guides/dropshipping/glossary
+https://www.pinterest.com/pin/424253227370057290/
+	outdegree : 73
+https://www.shopify.com/guides/new-zealand
+	outdegree : 5
+https://www.pinterest.com/pin/158400111868417488/
+	outdegree : 71
+https://twitter.com/DaytonPubPolicy
+	outdegree : 61
+https://www.youtube.com/user/ProfessorDoom1
+	outdegree : 9
+http://www.vice.com/tag/opinion/page/3
+	outdegree : 24
+https://www.shopify.com/guides/united-kingdom
+	outdegree : 5
+http://www.vice.com/tag/opinion/page/2
+	outdegree : 23
+https://twitter.com/hashtag/spectrum
+	outdegree : 95
+https://www.shopify.com/guides/united-states-of-america
+	outdegree : 4
+https://twitter.com/haroldfeld
+	outdegree : 69
+http://www.vice.com/tag/opinion/page/1
+https://www.shopify.com/guides/singapore
+	outdegree : 5
+https://www.pinterest.com/pin/142144931963389996/
+	outdegree : 55
+http://www.vice.com/nsfw/page/26
+	outdegree : 24
+https://www.shopify.com/guides/canada
+	outdegree : 5
+http://www.vice.com/nsfw/page/5
+	outdegree : 28
+https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dredirect_login%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Feditor%26hl%3Den&service=youtube&uilel=3&hl=en
+	outdegree : 5
+https://www.youtube.com/user/paulbegley34
+	outdegree : 10
+https://www.pinterest.com/pin/404620347747717819/
+	outdegree : 73
+https://www.youtube.com/user/cgreene34
+	outdegree : 22
+https://twitter.com/3rdKeySolutions
+	outdegree : 8
+https://www.pinterest.com/pin/151503974939959498/
+	outdegree : 67
+https://twitter.com/epicenterbtc
+	outdegree : 89
+https://www.pinterest.com/pin/295900637994459506/
+	outdegree : 3
+http://www.vice.com/sports/page/48
+	outdegree : 22
+https://www.pinterest.com/pin/295900637994459511/
+	outdegree : 1
+http://www.vice.com/sports/page/5
+	outdegree : 28
+https://www.youtube.com/channel/UCUIwxA-CHccPAaVqrfggAiQ
+	outdegree : 25
+https://twitter.com/hashtag/peace
+	outdegree : 113
+https://twitter.com/hashtag/liberty
+	outdegree : 103
+https://www.pinterest.com/pin/295900637994459515/
+	outdegree : 1
+https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-77-andreas-m-antonopoulos-mastering-bitcoin
+	outdegree : 107
+https://www.pinterest.com/pin/295900637994459519/
+	outdegree : 1
+https://twitter.com/hashtag/cryptocurrency
+	outdegree : 108
+http://www.vice.com/fashion/page/5
+	outdegree : 29
+http://www.vice.com/fashion/page/48
+	outdegree : 16
+https://www.pinterest.com/pin/295900637994459521/
+	outdegree : 1
+http://www.iheartnaptime.net/
+	outdegree : 79
+https://www.shopify.com/guides/ultimate-guide-to-pop-up-shops/how-to-evaluate-your-pop-up-shops-success
+	outdegree : 4

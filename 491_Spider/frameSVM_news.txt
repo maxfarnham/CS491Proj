@@ -1,0 +1,29 @@
+http://fightland.vice.com/blog/fighting-for-identity-the-life-of-a-transgender-kickboxer-in-rural-thailand
+	outdegree : 84
+http://fightland.vice.com/blog/fighting-for-identity-the-life-of-a-transgender-kickboxer-in-rural-thailand
+	outdegree : 2
+http://motherboard.vice.com/blog/home-at-the-end-of-time
+	outdegree : 4
+http://motherboard.vice.com/blog/why-psychiatry-embraced-drugs-an-interview-with-author-robert-whitaker
+	outdegree : 56
+http://motherboard.vice.com/blog/why-psychiatry-embraced-drugs-an-interview-with-author-robert-whitaker
+	outdegree : 5
+http://motherboard.vice.com/read/can-swimming-with-dolphins-really-cure-your-meth-addiction
+	outdegree : 63
+http://motherboard.vice.com/read/can-swimming-with-dolphins-really-cure-your-meth-addiction
+	outdegree : 1
+http://fightland.vice.com/blog/fighting-for-identity-the-life-of-a-transgender-kickboxer-in-rural-thailand
+	outdegree : 82
+https://news.vice.com/article/major-cancer-charities-shut-down-amid-187-million-donation-scam
+	outdegree : 45
+https://sports.vice.com/en_us/article/its-so-fucking-fast-a-day-at-the-long-track-world-championships
+	outdegree : 37
+https://www.shopify.com/videos/content-marketing/using-facebook-ads-to-promote-content
+http://albotas.tumblr.com/
+	outdegree : 157
+http://www.tsn.ca/radio/toronto-1050
+	outdegree : 388
+https://sports.vice.com/en_us/article/your-votes-dont-count-how-sports-stadium-welfare-deals-shut-out-the-publics-voice
+	outdegree : 21
+http://www.vice.com/read/meet-fort-mcmurrays-two-spirited-multi-millionaire-pop-star
+	outdegree : 25

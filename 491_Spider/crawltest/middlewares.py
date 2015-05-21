@@ -17,7 +17,7 @@ from scrapy.utils.response import get_meta_refresh
 
 MAX_LINKS = 100000
 class FilterRequests(object):
-	from crawltest.spiders import newsspider
+	from crawltest.spiders import newsspider as ns
 	def process_spider_output(self, response, result, spider):
 		def _process_node(response, requests, spider):
 			def _make_edge_list(dg,src,dests=[]):
@@ -92,7 +92,7 @@ class FilterRequests(object):
 		if response.url in spider.dg.visited:
 			return []	
 		requests = (r for r in result if _keep(r, spider))
-		return (r for r in _process_node(response, requests, spider))
+		return (r for r in spider._process_node(response, requests))
 #class PreventRedirects(object):
 #	def process_spider_output(self, response, result, spider):
 #		def _mod(request, spider):
