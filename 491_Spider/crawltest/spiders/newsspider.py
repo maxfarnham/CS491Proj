@@ -1,10 +1,13 @@
+from __future__ import division
 from pattern.vector import SVM
 from mltools import *
 from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.exceptions import CloseSpider
 import matplotlib.pyplot as plt
 from urlparse import urlparse
+from scrapy.utils.httpobj import urlparse_cached
 from os import path
+import random as rand
 import scrapy
 from mltools import datastructures as ds
 from scrapy.contrib.linkextractors import LinkExtractor
@@ -33,10 +36,10 @@ class NewsSpider(CrawlSpider):
 	#allowed_domains = ["huffingtonpost.com"]
 	start_urls = ["http://vice.com"]
 	deny = ('softpedia',)
-	total_links = 0
-	#allowed_domains = ["arstechnica.com"]
-	#start_urls = ["http://arstechnica.com/"]
 	dg = initialize_graph()
+	total_links = 0
+	total_positives = 0
+	total_negatives = 0
 	news_dests = []
 	news_dest_top = 0
 	def remove_querystring(url):
@@ -44,23 +47,71 @@ class NewsSpider(CrawlSpider):
 		new_url = o.scheme + "://" + o.netloc + o.path
 		return new_url
 	rules = (
-				Rule(LinkExtractor(allow=(r'.*',), deny=deny, process_value=remove_querystring), callback='process', follow=True),
+				Rule(LinkExtractor(allow=(r'.*',), deny=deny, process_value=remove_querystring), follow=True),
 			)
-
 	def _process_node(self, response, requests):
-			def _make_edge_list(dg,src,dests=[]):
-				out_edges = []
-				src_index = dg.url_to_index(src)
-				dg.add_node(src_index)
-				for dest in dests:
-					edge = (src_index,dg.url_to_index(dest))
-					out_edges.append(edge) 
-				return out_edges
-			def _add_edges(dg,src,dests=[]):
-				dg.add_edges_from(_make_edge_list(dg,src,dests=dests))
-			url = response.url
-			isNews = False
-			with open('crawl_log.txt', 'a') as f:
+		def _make_edge_list(dg,src,dests=[]):
+			out_edges = []
+			src_index = dg.url_to_index(src)
+			dg.add_node(src_index)
+			for dest in dests:
+				edge = (src_index,dg.url_to_index(dest))
+				out_edges.append(edge) 
+			return out_edges
+		def _add_edges(dg,src,dests=[]):
+			dg.add_edges_from(_make_edge_list(dg,src,dests=dests))
+		def _modify_priority(request, spider=self, swap_value=None,add_value=0,scale_value=1):
+			if swap_value == None:
+				swap_value = request.priority
+			try:
+				request.priority = swap_value
+			except Exception as e:
+				print 'swap error'
+			try:
+				request.priority+=add_value
+			except Exception as e:
+				print 'add error'
+			try:
+				request.priorty*=scale_value
+			except Exception as e:
+				print 'multiply error'
+			try:
+				spider.dg.ordered_links[request.url] = request.priority	
+			except Exception as e:
+				print 'ordered link priority assignment'			
+		def _priority_gauntlet(spider,request):
+			domain = urlparse_cached(request).hostname
+			if domain not in spider.dg.domains.keys():
+				return
+			if sum(spider.dg.domains[domain])/spider.total_links > .25:
+				request.priority = -3
+				spider.dg.ordered_links[request.url] = -3
+			try:
+				magic_number = rand.uniform(0,1)
+				if spider.dg.domains[domain][0] == 0:
+					return
+			except Exception as e:
+				return 
+			try: 
+				if spider.total_positives > 0:
+					if magic_number < (spider.dg.domains[domain][0])/(spider.total_negatives)-(spider.dg.domains[domain][0]*spider.dg.domains[domain][1])/(spider.total_positives*spider.total_negatives):
+						request.priority = -2
+						spider.dg.ordered_links[request.url] = -2
+						return
+			except Exception as e:
+				return 
+			try:
+				if magic_number < (spider.dg.domains[domain][0])/(spider.total_negatives):
+					request.priority = -2
+					spider.dg.ordered_links[request.url] = -2
+					return
+			except Exception as e:
+				return 				
+		url = response.url
+
+		isNews = False
+		with open('crawl_log.txt', 'a') as f:
+			try:
 				f.write('visiting ' + url + '\n')
 				f.write('\tpriority is ' + str(self.dg.ordered_links[response.url]) + '\n')
 				self.dg.visited.add(str(url))
@@ -83,28 +134,31 @@ class NewsSpider(CrawlSpider):
 					try:
 						doc = frame_features(response.body,features=features, dg=self.dg)
 					except UnicodeDecodeError:
-							return []
+						return []
 					cls = frameSVM.classify(doc)
-					isNews = True
 					try:
-						if cls == 1:							
+						if cls == 1:
+							self.total_positives+=1							
 							with open('frameSVM_news.txt', 'a') as nf:
 								self.news_dests+=dests
 								nf.write(response.url + '\n')
 								nf.write('\t' + 'outdegree : ' + str(doc.vector['outdegree']) + '\n')
 						else:
+							self.total_negatives+=1
 							with open('frameSVM_notnews.txt', 'a') as nf:
 								nf.write(response.url + '\n')
 								nf.write('\t' + 'outdegree : ' + str(doc.vector['outdegree']) + '\n')
 					except KeyError as e:
 						print 'Key error on: ' + str(url)
+						f.write('\t' + 'EXCEPTION!!!! \n\n')
+						f.write('\t\t' +'Key error on: ' + str(url))
 					if isNews:
-						self.crawler
 						for req in reqs:
-							if req.priority != -1:		
-								self.dg.ordered_links[req.url] = self.dg.ordered_links[req.url] + 1
-								req.priority = self.dg.ordered_links[req.url]
-					reqs = [i for i in reqs if i.priority != -1]
+							domain = urlparse_cached(req).hostname
+							if req.priority > -1:
+								if self.dg.domains[domain][1] > 0:
+									_modify_priority(req,  add_value=1)		
+								_modify_priority(req, add_value=1)										
 					self.total_links += 1
 					req = scrapy.http.Request(url)
 					whether_it_was = " it was "
@@ -114,9 +168,33 @@ class NewsSpider(CrawlSpider):
 					f.write('returning reqs\n')
 					#plt.show()
 					#nx.draw(self.dg)
-					return reqs
+
+					#domain bookkeeping
+					try:
+						if domain not in self.dg.domains.keys():
+							self.dg.domains[domain] = (0,0)
+						if cls == 1:
+							self.dg.domains[domain] = (self.dg.domains[domain][0],self.dg.domains[domain][1]+1)
+						else:
+							self.dg.domains[domain] = (self.dg.domains[domain][0]+1,self.dg.domains[domain][1])
+						f.write(domain + ' has: ' + str(self.dg.domains[domain][0]) + ' negs and ' + str(self.dg.domains[domain][1]) + ' positives' + '\n')
+					except Exception as e:
+						pass
+					for req in reqs:
+						_priority_gauntlet(self, req)
+					return (r for r in reqs)
+			except Exception as e:
+				f.write('\t' + 'EXCEPTION!!!! \n\n')
+				f.write('\t\t' + str(e))
+				return requests
 	def process(self, response):
 		print 'visiting : ' + str(response.url)
+		if self.total_links < MAX_LINKS:
+			reqs = []
+			for link in LinkExtractor().extract_links(response):
+				req = self.make_requests_from_url(link.url)				
+				reqs.append(req)
+			return reqs
 	#def process_node(self, response):
 		
 	#	url = response.url

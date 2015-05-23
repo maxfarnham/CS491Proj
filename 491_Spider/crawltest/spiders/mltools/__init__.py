@@ -14,6 +14,7 @@ from BeautifulSoup import BeautifulSoup, SoupStrainer
 from settings import featuresOn as featuresOn
 class DiGraph(nx.DiGraph):
 	visited = set()
+	domains = ds.DefaultOrderedDict(tuple)
 	ordered_links = ds.DefaultOrderedDict(int)
 	def url_to_index(self,url):
 		if url in self.ordered_links:

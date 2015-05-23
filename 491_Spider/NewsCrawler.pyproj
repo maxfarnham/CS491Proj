@@ -11624,7 +11624,16 @@
     <Compile Include="491_Spider\crawltest\items.py" />
     <Compile Include="491_Spider\crawltest\pipelines.py" />
     <Compile Include="491_Spider\crawltest\settings.py" />
+    <Compile Include="491_Spider\crawltest\spiders\mltools\adaboost.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="491_Spider\crawltest\spiders\mltools\datastructures.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="491_Spider\crawltest\spiders\mltools\expectation_maximization.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="491_Spider\crawltest\spiders\mltools\logistic_regression.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="491_Spider\crawltest\spiders\mltools\pageparser.py" />
