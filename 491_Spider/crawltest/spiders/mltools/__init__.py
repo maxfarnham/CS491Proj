@@ -53,7 +53,7 @@ class Logger():
 				nf.write(response.url + '\n')
 	def record_domains(self,spider,response):
 		try:
-			with open('domains.txt', 'a+') as f:
+			with open('domains.txt', 'w+') as f:
 				for domain in spider.dg.domains.keys():
 					domain_negatives = spider.dg.domains[domain][0] 
 					domain_positives = spider.dg.domains[domain][1]
