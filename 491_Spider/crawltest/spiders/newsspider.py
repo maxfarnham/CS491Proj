@@ -34,7 +34,7 @@ MAX_LINKS = 100000
 class NewsSpider(CrawlSpider):
 	name = "news"
 	#allowed_domains = ["huffingtonpost.com"]
-	start_urls = ["https://cnn.com/"]
+	start_urls = ["http://www.cnn.com/"]
 	deny = ('softpedia',)
 	dg = initialize_graph()
 	total_links = 0
