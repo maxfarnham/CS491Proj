@@ -92,7 +92,7 @@ class FilterRequests(object):
 		if response.url in spider.dg.visited:
 			return []	
 		requests = (r for r in result if _keep(r, spider))
-		return (r for r in spider._process_node(response, requests))
+		return (r for r in spider.process_node(response, requests))
 #class PreventRedirects(object):
 #	def process_spider_output(self, response, result, spider):
 #		def _mod(request, spider):

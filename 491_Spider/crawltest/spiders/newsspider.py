@@ -9,8 +9,10 @@ from scrapy.utils.httpobj import urlparse_cached
 from os import path
 import random as rand
 import scrapy
+import traceback
 from mltools import datastructures as ds
 from scrapy.contrib.linkextractors import LinkExtractor
+from inspect import currentframe, getframeinfo
 try:
 	import cPickle as pickle
 except:
@@ -26,9 +28,7 @@ else:
 		with open(sett.svmpickle, 'rb') as pkl_file:
 			frameSVM = pickle.load(pkl_file)
 	except Exception as e:
-		import traceback, os.path
-		top = traceback.extract_stack()[-1]
-		print ', '.join([type(e).__name__, os.path.basename(top[0]), str(top[1])])
+		log.exception(traceback.format_exc())
 MAX_LINKS = 100000
 
 class NewsSpider(CrawlSpider):
@@ -47,7 +47,7 @@ class NewsSpider(CrawlSpider):
 	rules = (
 				Rule(LinkExtractor(allow=(r'.*',), deny=deny, process_value=remove_querystring), follow=True),
 			)
-	def _process_node(self, response, requests):
+	def process_node(self, response, requests):
 		def _make_edge_list(dg,src,dests=[]):
 			out_edges = []
 			src_index = dg.url_to_index(src)
@@ -61,22 +61,10 @@ class NewsSpider(CrawlSpider):
 		def _modify_priority(request, spider=self, swap_value=None,add_value=0,scale_value=1):
 			if swap_value == None:
 				swap_value = request.priority
-			try:
 				request.priority = swap_value
-			except Exception as e:
-				print 'swap error'
-			try:
-				request.priority+=add_value
-			except Exception as e:
-				print 'add error'
-			try:
 				request.priority*=scale_value
-			except Exception as e:
-				print 'multiply error'
-			try:
+				request.priority+=add_value
 				spider.dg.ordered_links[request.url] = request.priority	
-			except Exception as e:
-				print 'ordered link priority assignment'			
 		def _priority_gauntlet(request,spider):
 			domain = urlparse_cached(request).hostname
 			if domain not in spider.dg.domains.keys():
@@ -88,30 +76,20 @@ class NewsSpider(CrawlSpider):
 				return
 			if sum(domains[domain])/spider.total_links > .25:
 				_modify_priority(request, spider=self, swap_value=-3)
-			try:
 				randoid = rand.uniform(0,1)
 				if domain_negatives == 0:
 					return
-			except Exception as e:
-				return 
-			try: 
 				if spider.total_positives > 0:
 					if randoid < (domain_negatives/spider.total_negatives)-(domain_negatives*domain_positives/spider.total_positives*spider.total_negatives):
 						_modify_priority(request, spider=self, swap_value=-2)
 						return
-			except Exception as e:
-				return 
-			try:
 				if domain_positives and randoid < (domain_negatives/domain_positives):
 					_modify_priority(request, spider=self, swap_value=-2)
 					return
 				return	
-			except Exception as e:
-				return 		
 		log = Logger()		
 		url = response.url
 		domain = urlparse_cached(response).hostname
-		self.total_links += 1
 		log.visit_node(self,url)
 		self.dg.visited.add(str(url))
 		if self.total_links < MAX_LINKS:
@@ -129,18 +107,17 @@ class NewsSpider(CrawlSpider):
 				features = {'outdegree' : len(dests)}
 			try:
 				doc = frame_features(response.body,features=features, dg=self.dg)
-			except UnicodeDecodeError as e:
-				log.exception(e)
+			except Exception as e:
+				log.exception(traceback.format_exc())
 				return requests		
 			is_positive = frameSVM.classify(doc)
 			log.record_classification(response, is_positive)
-			try:
-				if is_positive:
-					self.total_positives+=1					
-				else:
-					self.total_negatives+=1
-			except KeyError as e:
-				log.exception(e)
+			log.memorialize_classification(self,response,is_positive,doc)
+			if is_positive:
+				self.total_positives+=1					
+			else:
+				self.total_negatives+=1
+			self.total_links += 1
 			#domain bookkeeping
 			if domain not in self.dg.domains.keys():
 				self.dg.domains[domain] = (0,0)

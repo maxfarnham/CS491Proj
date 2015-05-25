@@ -12,6 +12,8 @@ import datastructures as ds
 from collections import OrderedDict
 from BeautifulSoup import BeautifulSoup, SoupStrainer
 from settings import featuresOn as featuresOn
+import traceback, os.path
+from django.utils import text as djtxt
 class DiGraph(nx.DiGraph):
 	visited = set()
 	domains = ds.DefaultOrderedDict(tuple)
@@ -30,12 +32,12 @@ class Logger():
 			f.write('visiting ' + url + '\n')
 			f.write('\tpriority is ' + str(spider.dg.ordered_links[url]) + '\n')
 			f.write('\tthe current length of the visited set is : ' + str(len(spider.dg.visited)) + '\n')
-	def exception(self,e):
+	def exception(self,traceback):
 		with open('crawl_log.txt', 'a') as f:
 			f.write('\t' + 'EXCEPTION!!!! \n\n')
-			f.write('\t\t' + str(e))
+			f.write('\t\t traceback:' + str(traceback) + '\n' )
 		with open('exception.txt', 'a') as ef:
-			ef.write(str(e))
+			ef.write(str(traceback) + '\n\n\n' )
 	def record_classification(self,response, is_positive):
 		with open('crawl_log.txt', 'a') as f:
 			whether_it_was = " it was "
@@ -55,6 +57,13 @@ class Logger():
 		with open('domains', 'w') as f:
 			for domain in spider.dg.domains.keys():
 				f.write(domain + ' has: ' + str(domain_negatives) + ' negs and ' + str(domain_positives) + ' positives' + '\n')
+	def memorialize_classification(self,spider,response,is_positive,doc):
+		dir = sett.classified_negative
+		if is_positive:
+			dir = sett.classified_positive	
+		filename = dir + '/' + djtxt.slugify(str(response.url)) + '.htm'
+		with open(str(filename), 'w') as f:
+			f.write(str(response.body))
 def get_links(text):
 	links = []
 	for link in BeautifulSoup(text, parseOnlyThese=SoupStrainer('a')):
@@ -185,3 +194,4 @@ def initialize_graph(data=[],datafunc=None):
 		datafunc = foo
 	dg = DiGraph(data=datafunc(data=data))
 	return dg
+

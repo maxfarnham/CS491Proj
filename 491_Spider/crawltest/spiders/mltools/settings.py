@@ -8,6 +8,9 @@ svmpickle = 'svmpickle.pkl'
 news_dir = path.abspath(r'C:\Users\William\Desktop\CS491Proj\Corpus\News')
 not_news_dir = path.abspath(r'C:\Users\William\Desktop\CS491Proj\Corpus\notNews')
 
+classified_positive = path.abspath(r'C:\Users\William\Desktop\CS491Proj\classifications\classifiedpositive')
+classified_negative = path.abspath(r'C:\Users\William\Desktop\CS491Proj\classifications\classifiednegative')
+
 newsspace = path.abspath('Corpus/newsspace200.xml/newsspace200.xml')
 
 intersector_path = path.abspath('frankenfile.txt')
