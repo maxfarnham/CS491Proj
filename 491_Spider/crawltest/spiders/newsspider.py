@@ -114,7 +114,7 @@ class NewsSpider(CrawlSpider):
 						data = response.body
 						udata=data.decode("utf-8")
 						asciidata=udata.encode("ascii","ignore")
-						doc = frame_features(udata.encode,features=features, dg=self.dg)
+						doc = frame_features(asciidata,features=features, dg=self.dg)
 					except Exception as e:
 						log.exception(traceback.format_exc())
 						return requests		

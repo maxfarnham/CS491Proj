@@ -53,11 +53,13 @@ class Logger():
 				nf.write(response.url + '\n')
 	def record_domains(self,spider,response):
 		try:
-			with open('domains.txt', 'w+') as f:
-				for domain in spider.dg.domains.keys():
-					domain_negatives = spider.dg.domains[domain][0] 
-					domain_positives = spider.dg.domains[domain][1]
-					f.write(domain + ' has: ' + str(domain_negatives) + ' negs and ' + str(domain_positives) + ' positives' + '\n')
+			if spider.total_links%100==0:
+				print 'poop'
+				with open('domains.txt', 'w+') as f:
+					for domain in spider.dg.domains.keys():
+						domain_negatives = spider.dg.domains[domain][0] 
+						domain_positives = spider.dg.domains[domain][1]
+						f.write(domain + ' has: ' + str(domain_negatives) + ' negs and ' + str(domain_positives) + ' positives' + '\n')
 		except Exception as e:
 			log = Logger()
 			log.exception(traceback.format_exc())
