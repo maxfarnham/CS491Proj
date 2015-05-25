@@ -34,7 +34,7 @@ MAX_LINKS = 100000
 class NewsSpider(CrawlSpider):
 	name = "news"
 	#allowed_domains = ["huffingtonpost.com"]
-	start_urls = ["https://vice.com/"]
+	start_urls = ["https://cnn.com/"]
 	deny = ('softpedia',)
 	dg = initialize_graph()
 	total_links = 0
@@ -61,26 +61,26 @@ class NewsSpider(CrawlSpider):
 		def _modify_priority(request, spider=self, swap_value=None,add_value=0,scale_value=1):
 			if swap_value == None:
 				swap_value = request.priority
-				request.priority = swap_value
-				request.priority*=scale_value
-				request.priority+=add_value
-				spider.dg.ordered_links[request.url] = request.priority	
-		def _priority_gauntlet(request,spider):
+			request.priority = swap_value
+			request.priority*=scale_value
+			request.priority+=add_value
+			spider.dg.ordered_links[request.url] = request.priority	
+		def _priority_gauntlet(request):
 			domain = urlparse_cached(request).hostname
-			if domain not in spider.dg.domains.keys():
+			if domain not in self.dg.domains.keys():
 				self.dg.domains[domain] = (0,0)
-			domain_negatives = spider.dg.domains[domain][0]
-			domain_positives = spider.dg.domains[domain][1]
-			domains = spider.dg.domains
+			domain_negatives = self.dg.domains[domain][0]
+			domain_positives = self.dg.domains[domain][1]
+			domains = self.dg.domains
 			if domain not in domains:
 				return
-			if sum(domains[domain])/spider.total_links > .25:
+			if sum(domains[domain])/self.total_links > .25:
 				_modify_priority(request, spider=self, swap_value=-3)
 				randoid = rand.uniform(0,1)
 				if domain_negatives == 0:
 					return
-				if spider.total_positives > 0:
-					if randoid < (domain_negatives/spider.total_negatives)-(domain_negatives*domain_positives/spider.total_positives*spider.total_negatives):
+				if self.total_positives > 0:
+					if randoid < (domain_negatives/self.total_negatives)-(domain_negatives*domain_positives/self.total_positives*self.total_negatives):
 						_modify_priority(request, spider=self, swap_value=-2)
 						return
 				if domain_positives and randoid < (domain_negatives/domain_positives):
@@ -109,7 +109,15 @@ class NewsSpider(CrawlSpider):
 				doc = frame_features(response.body,features=features, dg=self.dg)
 			except Exception as e:
 				log.exception(traceback.format_exc())
-				return requests		
+				if response.encoding == 'utf-8':
+					try:
+						data = response.body
+						udata=data.decode("utf-8")
+						asciidata=udata.encode("ascii","ignore")
+						doc = frame_features(udata.encode,features=features, dg=self.dg)
+					except Exception as e:
+						log.exception(traceback.format_exc())
+						return requests		
 			is_positive = frameSVM.classify(doc)
 			log.record_classification(response, is_positive)
 			log.memorialize_classification(self,response,is_positive,doc)
@@ -129,7 +137,7 @@ class NewsSpider(CrawlSpider):
 			else:
 				domain_negatives += 1
 				self.dg.domains[domain] = (domain_negatives,domain_positives)
-			log.record_domain(self,response,domain)
+			log.record_domains(self,response)
 			if is_positive:
 				for req in requests:
 					domain = urlparse_cached(req).hostname
@@ -138,7 +146,7 @@ class NewsSpider(CrawlSpider):
 							_modify_priority(req, add_value=1)		
 						_modify_priority(req, add_value=1)								
 			for req in requests:
-				_priority_gauntlet(req,self)
+				_priority_gauntlet(req)
 			#plt.show()
 			#nx.draw(self.dg)	
 		return (r for r in requests)

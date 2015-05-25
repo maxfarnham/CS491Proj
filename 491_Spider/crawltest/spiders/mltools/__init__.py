@@ -51,12 +51,16 @@ class Logger():
 		else:
 			with open('frameSVM_notnews.txt', 'a') as nf:
 				nf.write(response.url + '\n')
-	def record_domain(self,spider,response,domain):
-		domain_negatives = spider.dg.domains[domain][0] 
-		domain_positives = spider.dg.domains[domain][1]
-		with open('domains', 'w') as f:
-			for domain in spider.dg.domains.keys():
-				f.write(domain + ' has: ' + str(domain_negatives) + ' negs and ' + str(domain_positives) + ' positives' + '\n')
+	def record_domains(self,spider,response):
+		try:
+			with open('domains', 'w') as f:
+				for domain in spider.dg.domains.keys():
+					domain_negatives = spider.dg.domains[domain][0] 
+					domain_positives = spider.dg.domains[domain][1]
+					f.write(domain + ' has: ' + str(domain_negatives) + ' negs and ' + str(domain_positives) + ' positives' + '\n')
+		except Exception as e:
+			log = Logger()
+			log.exception(traceback.format_exc())
 	def memorialize_classification(self,spider,response,is_positive,doc):
 		dir = sett.classified_negative
 		if is_positive:

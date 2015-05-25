@@ -23,7 +23,7 @@ CONCURRENT_REQUESTS = 75
 #built-ins range from 100-900
 DOWNLOADER_MIDDLEWARES = {
 
-'crawltest.middlewares.CustomRetryMiddleware': 120,
+#'crawltest.middlewares.CustomRetryMiddleware': 120,
 #'scrapy.contrib.downloadermiddleware.redirect.RedirectMiddleware': None,
 #'scrapy.contrib.downloadermiddleware.redirect.MetaRefreshMiddleware': None,
 
