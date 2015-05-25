@@ -33,27 +33,27 @@ class Logger():
 			f.write('\tpriority is ' + str(spider.dg.ordered_links[url]) + '\n')
 			f.write('\tthe current length of the visited set is : ' + str(len(spider.dg.visited)) + '\n')
 	def exception(self,traceback):
-		with open('crawl_log.txt', 'a') as f:
+		with open('crawl_log.txt', 'a+') as f:
 			f.write('\t' + 'EXCEPTION!!!! \n\n')
 			f.write('\t\t traceback:' + str(traceback) + '\n' )
-		with open('exception.txt', 'a') as ef:
+		with open('exception.txt', 'a+') as ef:
 			ef.write(str(traceback) + '\n\n\n' )
 	def record_classification(self,response, is_positive):
-		with open('crawl_log.txt', 'a') as f:
+		with open('crawl_log.txt', 'a+') as f:
 			whether_it_was = " it was "
 			if not is_positive:
 				whether_it_was = " it wasn't "
 			f.write('crawled ' + response.url + whether_it_was + ' ' + sett.positive_label + ' ' '\n')
 			f.write('returning reqs\n')
 		if is_positive:
-			with open('frameSVM_news.txt', 'a') as nf:
+			with open('frameSVM_news.txt', 'a+') as nf:
 				nf.write(response.url + '\n')
 		else:
-			with open('frameSVM_notnews.txt', 'a') as nf:
+			with open('frameSVM_notnews.txt', 'a+') as nf:
 				nf.write(response.url + '\n')
 	def record_domains(self,spider,response):
 		try:
-			with open('domains', 'w') as f:
+			with open('domains.txt', 'a+') as f:
 				for domain in spider.dg.domains.keys():
 					domain_negatives = spider.dg.domains[domain][0] 
 					domain_positives = spider.dg.domains[domain][1]
@@ -66,7 +66,7 @@ class Logger():
 		if is_positive:
 			dir = sett.classified_positive	
 		filename = dir + '/' + djtxt.slugify(str(response.url)) + '.htm'
-		with open(str(filename), 'w') as f:
+		with open(str(filename), 'w+') as f:
 			f.write(str(response.body))
 def get_links(text):
 	links = []
