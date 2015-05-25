@@ -1,518 +1,75 @@
-http://www.vice.com/read/why-did-a-feminist-activist-promote-a-tweet-telling-trans-people-to-kill-themselves-522
-	outdegree : 38
-http://www.vice.com/read/chris-christie-wants-an-apology-for-bridgegate-522
-	outdegree : 23
-http://www.vice.com/author/john-surico
-	outdegree : 22
-http://www.vice.com/read/apocalypse-never-the-utopian-frustrations-of-tomorrowland-845
-	outdegree : 20
-http://www.vice.com/read/ireland-may-just-become-the-first-nation-to-legalize-gay-marriage-by-popular-vote
-	outdegree : 26
-http://sciencepainted.tumblr.com/
-	outdegree : 35
-http://scout-2001.tumblr.com/
-	outdegree : 14
-http://www.vice.com/read/what-i-learned-working-summers-at-an-amusement-park-520
-	outdegree : 21
-http://www.vice.com/read/this-shady-florida-law-firm-is-telling-clients-medical-weed-is-legal-522
-	outdegree : 23
-http://www.vice.com/read/what-is-going-on-in-this-bizarre-3d-world-756
-	outdegree : 22
-http://www.vice.com/read/questions-wed-like-to-ask-the-masonic-fraternal-police-department-882
-	outdegree : 28
-http://www.vice.com/read/antonio-olmos-landscape-of-murder-999
-	outdegree : 21
-http://www.vice.com/read/a-guide-to-spice-the-drug-thats-putting-british-students-in-hospital-218
-	outdegree : 26
-http://www.vice.com/tag/trolls
-	outdegree : 17
-http://www.vice.com/author/john-surico/page/2
-	outdegree : 17
-http://www.vice.com/read/pornhub-ofcom-and-dickheads-one-night-behind-the-scenes-at-babestation-303
-	outdegree : 14
-http://www.vice.com/read/mama-africa-corrina-kern-photographs-the-lives-of-transgender-south-africans
-	outdegree : 10
-http://www.vice.com/read/growing-up-as-a-transgender-indigenous-australian
-	outdegree : 27
-http://www.vice.com/read/we-spoke-to-lynsey-addario
-	outdegree : 19
-http://www.vice.com/read/portraits-of-afghani-women-imprisoned-for-moral-crime
-	outdegree : 14
-http://www.vice.com/read/the-medical-community-has-joined-the-eric-garner-protests-1211
-	outdegree : 13
-http://www.vice.com/read/anti-policeviolence-protests-took-over-new-york-city-yesterday
-	outdegree : 11
-http://www.vice.com/read/the-feds-are-suing-new-york-city-because-rikers-island-is-a-gitmo-style-hellhole-1218
-	outdegree : 33
-http://www.vice.com/read/is-new-york-the-most-corrupt-state-in-america-1231
-	outdegree : 41
-http://www.vice.com/read/the-nypd-is-finally-taking-a-break-102
-	outdegree : 29
-http://www.vice.com/read/godzilla-movie-review
-	outdegree : 22
-http://www.fuse.tv/2012/03/james-franco-is-playing-riff-raff-in-spring-breakers
-	outdegree : 43
-http://www.vice.com/tag/Athens
-	outdegree : 24
-http://www.fuse.tv/2015/01/carly-rae-jepsen-i-really-like-you-new-single
-	outdegree : 10
-http://www.vice.com/read/fuck-the-tories-protest-733
-	outdegree : 21
-http://www.vice.com/tag/murder/page/5
-	outdegree : 28
-http://www.vice.com/read/mens-clubs-are-dated-and-embarrassing-130
-	outdegree : 30
-http://www.vice.com/read/i-have-an-unhealthy-obsession-with-bob-dylans-christmas-lights-129
-	outdegree : 19
-http://www.vice.com/read/an-independent-database-has-concluded-canada-has-lost-over-600-missing-or-murdered-aboriginal-men
-	outdegree : 19
-http://www.vice.com/read/black-widow-sex-research-is-just-as-dangerous-as-it-sounds-263
-	outdegree : 16
-http://www.vice.com/read/why-do-new-yorkers-buy-their-christmas-trees-from-french-canadians-1224
-	outdegree : 27
-http://www.vice.com/tag/stateside/page/10
-	outdegree : 24
-http://www.vice.com/tag/Christians/page/2
-	outdegree : 18
-http://www.vice.com/read/what-its-like-to-be-a-giant-214
-	outdegree : 12
-http://www.vice.com/read/45-years-ago-colorado-fracked-with-subterranean-nuclear-bombs-1015
-	outdegree : 17
-http://www.vice.com/read/why-would-america-ever-elect-another-bush-as-president-1218
-	outdegree : 25
-http://www.vice.com/read/the-kind-of-porn-that-texts-you-after-937
-	outdegree : 14
-http://www.vice.com/read/white-people-are-stealing-australian-jobs
-	outdegree : 4
-http://www.vice.com/read/the-chinese-esl-industrial-complex-shady-working-conditions-abound-for-foreign-english-teachers-in-china-127
-	outdegree : 18
-http://www.vice.com/tag/Rohingya
-	outdegree : 10
-http://www.vice.com/tag/Myanmar
-	outdegree : 9
-http://www.vice.com/read/i-played-chess-with-gza-of-the-wu-tang-clan-666
-	outdegree : 32
-http://www.vice.com/read/what-its-like-recovering-from-a-suicide-attempt-260
-	outdegree : 20
-http://www.vice.com/read/remembering-marion-barry-dcs-go-go-mayor
-	outdegree : 7
-http://www.vice.com/read/meet-the-violent-buddhists-starting-riots-and-killing-muslims-in-sri-lanka
-	outdegree : 24
-http://www.vice.com/read/my-neck-my-back-my-pussy-take-two
-	outdegree : 4
-http://www.vice.com/read/please-stop-making-those-ironic-fashion-t-shirts
-	outdegree : 20
-http://www.vice.com/read/we-were-merely-freshman-classmates-recall-mitt-romneys-first-year-at-stanford
-	outdegree : 5
-http://www.vice.com/read/simon-dennys-genius-idea-434
-	outdegree : 16
-http://www.vice.com/tag/mitt+romney
-	outdegree : 26
-http://www.vice.com/en_ca/read/chris-christie-wants-an-apology-for-bridgegate-522
-	outdegree : 9
-http://noisey.vice.com/blog/cheeseheads-with-attitude-the-green-bay-packers-parody-band-that-sold-50000-records
-	outdegree : 15
-http://www.vice.com/read/why-are-michigan-officials-suppressing-arab-american-voters-805
-	outdegree : 25
-http://www.vice.com/read/antarctic-doomsday-tourism-isnt-as-sunny-as-it-sounds
-	outdegree : 22
-http://www.vice.com/read/voter-suppression-its-happening-right-now-in-ohio
-	outdegree : 4
-http://www.vice.com/read/the-quitman-10-2-and-voter-suppression-in-modern-georgia-715
-	outdegree : 15
-http://www.vice.com/read/i-talked-to-roger-miller-about-dreams-cartoons-and-health-care
-	outdegree : 9
-http://www.vice.com/read/australia-has-knights-again
-	outdegree : 19
-http://www.vice.com/read/lit-gulag-v13n4
-	outdegree : 2
-http://www.vice.com/tag/Sports/page/4
-	outdegree : 20
-http://www.vice.com/read/irans-embassy-in-beirut-was-destroyed-in-a-suicide-bombing-yesterday
-	outdegree : 19
-http://www.vice.com/read/montreal-mob-boss-vito-rizzuto-is-dead-and-no-one-knows-whats-coming-next
-	outdegree : 15
-http://www.vice.com/read/i-was-a-feminist-victim-of-domestic-violence-123
-	outdegree : 7
-http://www.vice.com/read/lindy-west-is-leaving-jezebel-but-she-still-hates-rape-905
-	outdegree : 27
-http://www.vice.com/read/the-revolution-will-not-be-petitioned
-	outdegree : 9
-http://www.vice.com/read/what-we-can-learn-from-the-tatler-documentary
-	outdegree : 22
-http://www.vice.com/read/DRC-Rape-War-BVES-UN-Angelina-Jolie-Sexual-Violence
-	outdegree : 19
-http://www.vice.com/read/is-doma-about-to-be-doa
-	outdegree : 8
-http://www.vice.com/read/tmz-tour-of-hollywood
-	outdegree : 20
-http://www.vice.com/read/fishing-without-nets-with-pirates-in-somalia
-	outdegree : 2
-http://www.vice.com/read/thoughts-on-the-victorian-election-from-our-political-date-couples
-	outdegree : 16
-http://www.vice.com/read/what-you-need-to-know-about-the-queensland-election
-	outdegree : 34
-http://www.vice.com/tag/ABC
-	outdegree : 8
-http://www.vice.com/read/how-to-quit-porn-and-not-entirely-ruin-your-life
-	outdegree : 7
-http://www.vice.com/read/the-audacity-to-cope
-	outdegree : 3
-http://www.vice.com/read/we-had-a-stripper-review-strip-clubs
-	outdegree : 27
-http://www.vice.com/read/the-illegal-freight-train-life-stolen-pizzas-and-hobo-handjobs-212
-	outdegree : 18
-http://www.vice.com/read/saturday-night-live-222
-	outdegree : 30
-http://www.vice.com/read/are-we-deciding-to-kill-the-reef-this-friday
-	outdegree : 10
-http://www.fastcoexist.com/3043858/world-changing-ideas/the-science-of-why-you-should-spend-your-money-on-experiences-not-thing
-	outdegree : 33
-http://variety.com/2015/biz/news/tlc-pulls-19-kids-and-counting-amid-molestation-revelations-1201503778/
-	outdegree : 13
-http://www.fastcoexist.com/3040827/world-changing-ideas/the-world-changing-ideas-of-2015
-	outdegree : 35
-http://www.fastcoexist.com/3040835/world-changing-ideas/the-perfect-urban-bike-is-just-around-the-corner
-	outdegree : 10
-http://www.vice.com/read/this-slaughterhouse-wants-you-to-see-where-your-meat-comes-from-814
-	outdegree : 9
-http://www.vice.com/read/i-spent-a-decade-working-for-churches-and-it-was-the-worst
-	outdegree : 7
-http://www.vice.com/read/a-canadian-in-the-french-foreign-legion
-	outdegree : 8
-http://www.vice.com/read/the-story-of-dakota-joe-a-jailbird-on-the-appalachian-trail-814
-	outdegree : 14
-http://www.vice.com/read/its-no-surprise-that-t-pain-can-sing-good-without-the-auto-tune-456
-	outdegree : 24
-http://www.vice.com/en_au/read/queens-of-beef-week-10
-	outdegree : 43
-http://laist.com/tags/suicide
-	outdegree : 52
-http://www.vice.com/read/why-is-it-legal-for-rich-foreigners-to-buy-organs-in-america-1211
-	outdegree : 17
-http://www.vice.com/read/papichulo-0000343-v21n6
-	outdegree : 7
-http://www.vice.com/read/the-hot-zone-0000414-v21n8
-	outdegree : 11
-http://www.vice.com/read/ritchie-yorke-on-rock-n-roll
-	outdegree : 11
-http://www.vice.com/tag/Military/page/3
-	outdegree : 14
-http://www.vice.com/read/learning-to-read-corpses-at-the-texas-state-body-farm-1117
-	outdegree : 16
-http://www.vice.com/read/weiners-dong-and-other-products-of-the-perfected-civilization
-	outdegree : 9
-http://www.vice.com/read/these-women-are-taking-your-dick-pics-and-turning-them-into-art
-	outdegree : 7
-http://www.vice.com/read/homes-school-go-to-homeschool
-	outdegree : 16
-http://www.vice.com/read/war-resistant-v14n10
-	outdegree : 4
-http://www.vice.com/read/pennsylvanias-still-looking-for-the-owner-of-an-embalmed-head-109
-	outdegree : 12
-http://www.vice.com/tag/war+crimes
-	outdegree : 15
-http://www.vice.com/read/shoob-the-weedsnatcher
-	outdegree : 12
-http://motherboard.vice.com/read/soylent-how-i-stopped-eating-for-30-days
-	outdegree : 22
-http://motherboard.vice.com/read/a-soylent-knockoff-called-schmoylent-the-motherboard-review
-	outdegree : 12
-http://www.vice.com/read/what-are-the-protesters-in-nyc-saying-about-gaza
-	outdegree : 12
-http://www.vice.com/read/a-book-on-tidying-up-has-become-literatures-latest-word-of-mouth-success-story-444
-	outdegree : 14
-http://www.vice.com/read/fast-food-workers-fight-for-15hr
-	outdegree : 12
-http://thump.vice.com/en_us/article/ultra-2015-recap-yeah-bieber-and-cl-were-there-but-its-not-all-about-them
-	outdegree : 34
-http://www.vice.com/read/the-feds-are-trying-to-decimate-the-aryan-brotherhood-of-texas-1114
-	outdegree : 15
-http://www.vice.com/read/congress-is-about-to-take-a-huge-step-toward-ending-the-drug-war-1210
-	outdegree : 22
-http://www.vice.com/read/body-of-an-american-0000320-v21n5
-	outdegree : 34
-http://www.vice.com/read/the-worst-christmas-dinners
-	outdegree : 15
-http://www.vice.com/read/behind-mansudae-the-most-prominent-art-institution-in-north-korea
-	outdegree : 19
-http://www.vice.com/read/zhang-dali-brings-chinese-street-art-to-new-york
-	outdegree : 21
-http://www.vice.com/read/bottom-line-my-view-of-corporate-collapse
-	outdegree : 3
-http://www.vice.com/read/the-worst-summer-jobs
-	outdegree : 18
-http://www.vice.com/read/nabka-day-was-a-catastrophe
-	outdegree : 13
-http://www.vice.com/read/why-do-video-games-love-killing-the-planet-222
-	outdegree : 31
-http://www.vice.com/read/exploring-the-award-attracting-art-of-lumino-city-and-child-of-light-114
-	outdegree : 25
-http://www.vice.com/read/explaining-Bangladeshs-month-of-massive-street-protests-and-violence
-	outdegree : 6
-http://www.vice.com/read/cries-and-whispers-in-obamastan
-	outdegree : 3
-http://www.vice.com/tag/Israel-Palestine
-	outdegree : 6
-http://www.vice.com/read/i-went-back-to-high-school-101
-	outdegree : 18
-http://www.vice.com/tag/army/page/2
-	outdegree : 10
-http://www.vice.com/read/new-hampshire-voters-marching-in-freezing-cold-to-get-money-out-of-politics-1119
-	outdegree : 21
-http://www.vice.com/read/farc-guerrillas-just-announced-a-conditional-ceasefire-with-colombias-government-1217
-	outdegree : 22
-http://www.vice.com/read/millions-of-cubans-may-lose-their-life-savings-this-year
-	outdegree : 11
-http://www.vice.com/read/i-quit-smoking-weed-because-it-sucks-456
-	outdegree : 3
-http://www.vice.com/tag/activists
-	outdegree : 10
-http://www.vice.com/read/the-real-story-about-londons-housing-crisis
-	outdegree : 38
-http://www.vice.com/read/things-i-learned-at-g20-2014
-	outdegree : 34
-http://www.microsoft.com/en-us/education/products/dynamics/partners/default.aspx
-	outdegree : 3
-http://www.microsoft.com/en-us/education/products/dynamics/prospective-members/default.aspx
-https://news.vice.com/article/trench-warfare-how-australia-tried-to-stop-climate-change-discussion-at-the-g20-summit
-	outdegree : 25
-https://www.inktera.com/store/title/1418a77c-8211-40df-a42d-8046b97db0c7
-	outdegree : 2
-https://www.inktera.com/store/edition/017f4ddb-245c-4f1b-a631-5a445d86ff98
-http://www.vice.com/read/can-you-tell-what-drugs-someones-on-just-by-looking-at-their-eyes-876
-	outdegree : 18
-http://hoaxes.org/weblog/categories/category/viral_images
-	outdegree : 44
-http://www.vice.com/read/drugs-in-video-games-keza-macdonald-949
-	outdegree : 20
-http://www.vice.com/tag/MDMA
-	outdegree : 12
-http://www.vice.com/read/parisians-are-learning-to-love-america
-	outdegree : 11
-http://www.vice.com/read/kosovo-isnt-a-great-place-to-be-a-politician
-	outdegree : 15
-http://www.vice.com/read/hitler-for-hire-in-kosovo-876
-	outdegree : 12
-http://www.vice.com/read/the-forgetful-ghost-0000300-v19n10
-	outdegree : 4
-http://www.vice.com/tag/MDMA/page/1
-http://www.vice.com/tag/story
-	outdegree : 17
-http://www.vice.com/read/utah-lawmakers-want-their-firing-squads-back-121
-	outdegree : 23
-http://www.vice.com/read/adapting-blood-meridian
-	outdegree : 12
-http://www.vice.com/tag/story/page/1
-http://www.vice.com/tag/DOMINATRIX
-	outdegree : 4
-http://www.vice.com/read/someone-in-ontario-is-decapitating-coyotes-and-leaving-the-headless-bodies-for-hikers-to-find-295
-	outdegree : 5
-http://www.vice.com/read/adapting-blood-meridian/page/1
-http://www.vice.com/tag/dog
-	outdegree : 14
-http://www.vice.com/read/are-lie-detector-tests-complete-bullshit-1117
-	outdegree : 14
-http://marlomeekins.tumblr.com/page/2
-	outdegree : 55
-http://www.vice.com/read/dubai-taxicab
-	outdegree : 1
-http://www.vice.com/read/did-mammals-evolve-snake-eyes
-	outdegree : 7
-http://www.vice.com/read/how-kohnstamm-got-the-beach-house-0000344-v21n6
-	outdegree : 9
-http://www.vice.com/read/talking-disneyworld-with-terrorists-in-syria
-	outdegree : 15
-http://motherboard.vice.com/blog/narco-cash-laundering-is-officially-how-big-banks-work-now
-	outdegree : 22
-http://www.vice.com/read/thai-students-are-being-arrested-for-flashing-the-hunger-games-salute
-	outdegree : 9
-http://www.vice.com/read/we-asked-an-expert-what-would-happen-if-the-uk-accidentally-legalised-pills-k-and-meth-769
-	outdegree : 10
-http://www.vice.com/read/now-that-dave-eggers-has-been-accused-of-plagiarism-we-finally-have-something-in-common
-	outdegree : 8
-http://www.vice.com/read/morrisseys-moral-hierarchy/page/0
-http://www.vice.com/read/its-2014-and-abortion-is-illegal-in-new-south-wales
-	outdegree : 19
-http://www.vice.com/read/i-went-on-a-police-ride-along-in-san-franciscos-worst-neighborhood
-	outdegree : 5
-http://www.vice.com/read/huffing-poppers-with-bottoms-789
-	outdegree : 26
-http://www.vice.com/read/the-odds-on-australias-next-leader
-	outdegree : 7
-http://www.vice.com/read/is-the-hyde-park-smoke-in-the-best-way-of-advocating-cannabis-reform-909
-	outdegree : 18
-http://www.vice.com/read/the-seven-reasons-why-super-rich-tax-dodgers-dont-end-up-in-jail-101
-	outdegree : 26
-http://www.vice.com/read/i-joined-a-bunch-of-gay-conversion-groups
-	outdegree : 16
-http://www.vice.com/read/ketamine-therapy
-	outdegree : 5
-http://www.vice.com/read/the-defector
-	outdegree : 2
-http://www.vice.com/read/the-defence-pay-cuts-what-soldiers-are-worth
-	outdegree : 27
-http://www.vice.com/read/seeking-asylum-isnt-illegal-but-australias-border-policy-may-be
-	outdegree : 13
-http://www.vice.com/author/stephen-lea-sheppard
-	outdegree : 23
-http://www.vice.com/read/i-talked-to-young-iranians-about-nuclear-negotiations-and-the-future-316
-	outdegree : 23
-http://www.amazon.com/Bringing-Up-B%C3%A9b%C3%A9-Discovers-Parenting/product-reviews/0143122967
-	outdegree : 49
-http://www.vice.com/read/brief-reviews-of-every-movie-i-saw-in-theaters-in-2012
-	outdegree : 9
-http://www.vice.com/read/telltale-has-been-given-the-keys-to-the-marvel-universe-but-which-one-753
-	outdegree : 25
-http://www.vice.com/read/this-vegas-prankster-tricked-right-wing-media-with-a-fake-story-about-harry-reid-getting-beaten-up-732
-	outdegree : 12
-http://www.amazon.com/Mayo-Clinic-Guide-Healthy-Pregnancy/product-reviews/1561487171/ref=pr_sims_cm_cr_acr_txt
-	outdegree : 43
-http://www.amazon.com/Mayo-Clinic-Guide-Healthy-Pregnancy/product-reviews/1561487171/ref=pr_sims_cm_cr_acr_img
-http://www.vice.com/read/the-worlds-american-dream-000723-v20n2
-	outdegree : 11
-http://www.vice.com/read/a-north-korean-feast-in-manhattan-with-recent-defector-joo-yang-707
-	outdegree : 12
-http://www.vice.com/read/asylum-seekers-held-a-hunger-strike-in-their-detention-centre
-	outdegree : 23
-http://www.vice.com/read/sri-lanka-human-rights-abuses
-	outdegree : 21
-http://www.vice.com/tag/Indonesia
-	outdegree : 14
-http://www.vice.com/read/i-was-a-corporate-tobacco-peddler
-	outdegree : 6
-http://www.funnyordie.com/videos/40427c7af8/between-two-ferns-oscar-buzz-edition-part-1
-	outdegree : 65
-http://www.funnyordie.com/topic/ferrell
-	outdegree : 11
-http://www.funnyordie.com/videos/6d85b7081f/rough-trade-kate-rigg-from-richardcurrier
-	outdegree : 18
-http://www.funnyordie.com/topic/smart
-	outdegree : 18
-http://www.funnyordie.com/topic/ashton-kutcher
-	outdegree : 16
-http://www.funnyordie.com/topic/name-of-fish
-	outdegree : 21
-http://www.funnyordie.com/topic/king-of-queens
-	outdegree : 19
-http://www.funnyordie.com/topic/marshall-bell
-	outdegree : 17
-http://www.funnyordie.com/topic/riled
-	outdegree : 11
-http://www.funnyordie.com/topic/brigade
-	outdegree : 8
-http://www.cnn.com/2014/10/29/us/nasa-rocket-explosion-explainer/index.html
-	outdegree : 65
-http://www.funnyordie.com/topic/erotica
-	outdegree : 17
-http://www.funnyordie.com/topic/insults
-	outdegree : 16
-http://www.funnyordie.com/topic/miami-florida
-	outdegree : 18
-http://www.funnyordie.com/topic/instability
-	outdegree : 6
-http://www.funnyordie.com/topic/late-night-with-seth-meyers
-	outdegree : 18
-http://www.funnyordie.com/topic/subway
-	outdegree : 15
-http://www.funnyordie.com/topic/richard-pryor
-	outdegree : 3
-http://www.funnyordie.com/topic/atlantic-city
-	outdegree : 19
-http://www.funnyordie.com/topic/mayor
-	outdegree : 16
-http://www.reddit.com/r/pics/comments/gq130/someonedidnt_think_this_through/
-	outdegree : 374
-http://www.funnyordie.com/topic/episodes
-	outdegree : 10
-http://www.funnyordie.com/topic/pauline
-	outdegree : 16
-http://www.funnyordie.com/topic/destroy
-	outdegree : 15
-http://www.funnyordie.com/topic/presidents
-	outdegree : 7
-http://www.funnyordie.com/topic/judd
-	outdegree : 8
-http://www.funnyordie.com/topic/single-serving-blogs
-	outdegree : 19
-http://www.funnyordie.com/articles/a764e6fe56/child-molesters-i-know
-	outdegree : 9
-http://www.huffingtonpost.com/2014/10/26/aaron-lewis-national-anthem-world-series-mistake_n_6051636.html
-	outdegree : 197
-http://www.funnyordie.com/topic/the-upright-citizens-brigade-theatre
-	outdegree : 2
-http://www.funnyordie.com/topic/co-host
-	outdegree : 11
-http://www.funnyordie.com/topic/stunner
-	outdegree : 19
-http://www.funnyordie.com/topic/neurosis
-	outdegree : 18
-http://www.funnyordie.com/lists/18fd1cc8c7/9-regrettable-purchase-of-1999
-	outdegree : 14
-http://www.funnyordie.com/topic/bond
-	outdegree : 15
-http://www.funnyordie.com/topic/nursery
-	outdegree : 6
-http://www.funnyordie.com/topic/naacp
-	outdegree : 18
-http://www.funnyordie.com/topic/obama-dog
-	outdegree : 13
-http://www.funnyordie.com/topic/banter
-	outdegree : 16
-http://www.dailymail.co.uk/news/article-2459551/Revealed-The-Netflix-Star-Trek-fan-named-internet-best-customer-relations-worker-EVER.html
-	outdegree : 290
-http://www.funnyordie.com/topic/zack-poitras
-	outdegree : 13
-http://www.funnyordie.com/topic/land-of-the-lost
-	outdegree : 11
-http://www.funnyordie.com/articles/70d0d266cd/harmful-christmas-gift-of-the-day-kung-zhu-battle-hamsters
-	outdegree : 10
-http://www.funnyordie.com/topic/late-night-wars
-	outdegree : 14
-http://money.cnn.com/2014/10/27/news/economy/global-gender-pay-gap/index.html
-	outdegree : 107
-http://www.funnyordie.com/topic/eddie-pence
-	outdegree : 17
-http://www.funnyordie.com/topic/ozeri
-	outdegree : 13
-http://www.funnyordie.com/topic/kathy-griffin
-	outdegree : 12
-http://www.funnyordie.com/topic/celebrity-funny
-	outdegree : 5
-http://www.funnyordie.com/thenixbrothers
-	outdegree : 39
-http://www.funnyordie.com/topic/college-comedy
-	outdegree : 15
-http://www.funnyordie.com/topic/dwight
-	outdegree : 14
-http://www.funnyordie.com/topic/ari-gold
-	outdegree : 16
-http://www.funnyordie.com/topic/buzzfeed
-	outdegree : 12
-http://www.funnyordie.com/topic/kat-eiswald
-	outdegree : 6
-http://www.funnyordie.com/topic/de-niro
-	outdegree : 12
-http://www.funnyordie.com/topic/middleton
-	outdegree : 9
-http://www.funnyordie.com/topic/oswalt
-	outdegree : 7
-http://www.funnyordie.com/topic/foxworthy
-	outdegree : 11
-http://www.funnyordie.com/topic/wonderful-toys
-	outdegree : 11
-http://www.funnyordie.com/topic/the-land
-	outdegree : 8
-http://www.funnyordie.com/topic/billboards
-	outdegree : 17
-http://www.funnyordie.com/topic/michael-ignatieff
-	outdegree : 7
-http://www.funnyordie.com/topic/louis-armstrong
-	outdegree : 10
-http://www.funnyordie.com/topic/canada-federal-elections-2011-liberals-ndp-conservatives-green-harper-ignatieff-layton-duceppe-quebecois-honesty-campaign-smear-ads-spoof
-http://www.funnyordie.com/topic/bond-james
-	outdegree : 8
-http://www.funnyordie.com/topic/it-s-ok-to-do-stuff
-	outdegree : 4
-http://www.funnyordie.com/topic/jonah-hall
-	outdegree : 17
+http://www.vice.com/read/how-will-cleveland-respond-to-the-michael-brelo-verdict-523
+http://www.vice.com/read/a-new-weapon-for-swat-teams-bomb-squad-robots-522
+https://news.vice.com/article/protesters-are-going-to-hit-the-streets-this-weekend-in-over-400-cities-to-march-against-monsanto
+https://news.vice.com/article/microbeads-kill-animals-and-destroy-the-environment-so-california-may-ban-them
+http://www.vice.com/read/the-us-military-euthanized-or-abandoned-thousands-of-their-own-canine-soldiers-at-the-end-of-the-vietnam-war-253
+http://www.buffalonews.com/city-region/environment/attorney-generals-study-reports-microbead-pollution-is-pervasive-in-state-waterways-20150420
+http://www.cleveland.com/metro/index.ssf/2014/12/cleveland_police_officer_who_s.html
+http://blog.cleveland.com/metro/2011/02/police_investigate_incident_cl.html
+http://www.cleveland.com/cityhall/index.ssf/2015/03/justice_department_and_city_of.html
+http://news.nationalgeographic.com/news/2014/05/140519-dogs-war-canines-soldiers-troops-military-vietnam/
+http://www.cleveland.com/morris/index.ssf/2015/05/councilman_kevin_conwells_clev.html
+http://www.vice.com/read/sos-0000653-v22n5
+http://www.cleveland.com/court-justice/index.ssf/2015/04/officer_testifies_to_seeing_so.html
+http://news.nationalgeographic.com/news/2014/05/140518-dogs-war-canines-soldiers-troops-military-japanese-prisoner/
+http://www.buffalonews.com/city-region/town-of-tonawanda/the-power-of-ideas-fuels-visions-of-the-niagara-river-shoreline-without-huntley-20150520
+http://www.buffalonews.com/rss
+http://www.buffalonews.com/city-region/wheatfield/wheatfield-state-keep-jousting-in-biosolids-dispute-20150524
+http://www.buffalonews.com/city-region/environment/environmental-group-sues-dot-over-oil-train-rules-20150518
+http://www.buffalonews.com/apps/pbcs.dll/frontpage
+http://www.buffalonews.com/city-region/obituaries/victor-a-desimone-retired-police-photographer-20150522
+http://www.buffalonews.com/city-region/obituaries/norman-reimers-former-news-pressroom-manager-20150523
+http://www.buffalonews.com/city-region/obituaries/donald-n-grasso-sr-boces-administrator-20150524
+http://www.buffalonews.com/city-region/obituaries/john-f-nash-jr-mathematician-who-won-nobel-was-focus-of-a-beautiful-mind-20150524
+http://news.nationalgeographic.com/news/2014/05/140520-myanmar-kachin-independence-army-illegal-logging-teak-china-world/
+http://www.buffalonews.com/life-arts/weddings/robert-j-grimaldi-and-kelly-m-fronczak-are-wed-in-buffalo-20150524
+http://www.buffalonews.com/article/20150524/LIFE/150529693/1057
+http://ngm.nationalgeographic.com/2011/08/burma/larmer-text/1
+http://campuswatch.buffalonews.com/
+http://www.vice.com/read/bette-midler-still-bewitches-on-her-divine-intervention-tour-456
+http://www.vice.com/read/are-brain-scans-the-future-of-murder-trials-456
+http://www.vice.com/read/yes-you-actually-can-shatter-your-dick-253
+http://www.vice.com/read/being-transgender-means-being-aware-of-becoming-homeless
+http://campuswatch.buffalonews.com/2015/05/19/ex-griff-zach-lewis-gets-desired-promotion-will-he-be-more-fulfilled/
+http://schoolzone.buffalonews.com/
+http://campuswatch.buffalonews.com/author/mark_gaughan/
+http://schoolzone.buffalonews.com/2015/05/13/your-schools-your-vote/
+http://schoolzone.buffalonews.com/2015/05/12/an-overview-and-breakdown-of-the-buffalo-public-schools-2015-16-budget/
+http://schoolzone.buffalonews.com/2015/05/13/live-coverage-buffalo-school-board-meeting-at-530-pm-superintendent-selection-debate-and-budget-vote/
+http://schoolzone.buffalonews.com/author/djgee/
+http://www.cleveland.com/court-justice/index.ssf/2014/11/in_life_malissa_williams_strug.html
+http://www.buffalonews.com/business/real-estate/northtown-plaza-feeling-the-whole-foods-effect-20150523
+http://www.buffalonews.com/business/biztalk/biztalk-solar-pioneers-see-business-evolving-through-innovation-hustle-20150524
+http://schoolzone.buffalonews.com/author/Joseph_Popiolkowski/
+http://schoolzone.buffalonews.com/2015/05/19/ken-ton-candidates-hearing-from-voters-about-spending-consolidation/
+http://www.buffalonews.com/business/buffalos-business-clean-energy-startups-face-money-quest-20150524
+http://schoolzone.buffalonews.com/author/Sandra_Tan/
+http://www.buffalonews.com/business/erie-county-transactions/erie-county-real-estate-transactions-20150524
+http://www.buffalonews.com/business/niagara-county-transactions/niagara-county-real-estate-transactions-20150524
+http://s3.documentcloud.org/documents/1175618/edens-a-12-31-2012-interview-of-sgt-jason-edens.txt
+http://s3.documentcloud.org/documents/1175620/dailey-b-01-25-2013-sgt-dailey-follow-up.txt
+http://s3.documentcloud.org/documents/1175621/dailey-a-12-26-2012-interview-of-sgt-randolph.txt
+http://www.buffalonews.com/sports/running/mens-and-womens-records-are-smashed-in-the-buffalo-marathon-20150524
+http://schoolzone.buffalonews.com/2014/09/15/ken-ton-school-board-calls-special-meeting/
+http://www.buffalonews.com/sports/watch-list/the-watch-list-for-may-25-20150524
+http://schoolzone.buffalonews.com/2015/03/12/fairport-following-ken-ton-in-considering-boycott-of-testing-evaluations/
+http://www.buffalonews.com/sports/golf/area-golf-for-may-25-20150525
+http://schoolzone.buffalonews.com/2015/04/14/37-percent-of-students-refuse-tests-in-ken-ton/
+http://schoolzone.buffalonews.com/2015/04/09/100-hiphughes-teaching-tips/
+http://schoolzone.buffalonews.com/2015/04/22/more-on-the-top-contenders-for-buffalo-public-schools-deputy-superintendent/
+http://schoolzone.buffalonews.com/2015/04/23/ogilvies-email-calling-off-the-deputy-superintendent-search/
+https://www.linkedin.com/nhome/
+http://www.buffalonews.com/city-region/vietnam-war-veteran-pays-tribute-to-three-from-falls-who-never-returned-20150524
+http://www.buffalonews.com/city-region/akron-newstead/akrons-holy-cross-head-start-to-close-pre-k-in-june-20150525
+http://www.buffalonews.com/city-region/buffalo-philharmonic-and-buffalo-schools-win-music-award-for-west-side-connection-program-20150525
+http://www.buffalonews.com/city-region/orchard-park/woman-charged-with-drunken-driving-20150525
+http://www.buffalonews.com/city-region/buffalo/man-shot-in-buffalo-20150525
+http://dev.storify.com/api/stories
+http://www.buffalonews.com/city-region
+http://www.buffalonews.com/
+https://api.storify.com/v1/stories/storify/testimonials
+http://www.buffalonews.com/city-region/schools/districts-hoping-voter-army-marches-on-stomach-20150518
+https://api.storify.com/v1/stories/storify
+http://www.buffalonews.com/sports/budd-baileys-running-early-training-for-wny-hall-of-famer-was-a-habit-20130831
+http://www.irishtimes.com/news/politics/poll
+https://www.facebook.com/irishtimes

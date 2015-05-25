@@ -22,7 +22,39 @@ class DiGraph(nx.DiGraph):
 		if self.ordered_links[url] == 0:
 			self.ordered_links[url] = 0
 		return self.ordered_links.keys().index(url)
-
+class Logger():
+	def __init__(self):
+		pass
+	def visit_node(self,spider,url):
+		with open('crawl_log.txt', 'a') as f:
+			f.write('visiting ' + url + '\n')
+			f.write('\tpriority is ' + str(spider.dg.ordered_links[url]) + '\n')
+			f.write('\tthe current length of the visited set is : ' + str(len(spider.dg.visited)) + '\n')
+	def exception(self,e):
+		with open('crawl_log.txt', 'a') as f:
+			f.write('\t' + 'EXCEPTION!!!! \n\n')
+			f.write('\t\t' + str(e))
+		with open('exception.txt', 'a') as ef:
+			ef.write(str(e))
+	def record_classification(self,response, is_positive):
+		with open('crawl_log.txt', 'a') as f:
+			whether_it_was = " it was "
+			if not is_positive:
+				whether_it_was = " it wasn't "
+			f.write('crawled ' + response.url + whether_it_was + ' ' + sett.positive_label + ' ' '\n')
+			f.write('returning reqs\n')
+		if is_positive:
+			with open('frameSVM_news.txt', 'a') as nf:
+				nf.write(response.url + '\n')
+		else:
+			with open('frameSVM_notnews.txt', 'a') as nf:
+				nf.write(response.url + '\n')
+	def record_domain(self,spider,response,domain):
+		domain_negatives = spider.dg.domains[domain][0] 
+		domain_positives = spider.dg.domains[domain][1]
+		with open('domains', 'w') as f:
+			for domain in spider.dg.domains.keys():
+				f.write(domain + ' has: ' + str(domain_negatives) + ' negs and ' + str(domain_positives) + ' positives' + '\n')
 def get_links(text):
 	links = []
 	for link in BeautifulSoup(text, parseOnlyThese=SoupStrainer('a')):
@@ -42,7 +74,6 @@ def raw_text_features(text, t=-1):
 	else:
 		doc = Document(PageParser.parse(text)[0], stopwords=True)
 	return doc
-
 def frame_features(text, t=-1, features = {}, dg=''):
 
 	parsed_text, html_tag_counts = PageParser.parse(text)
@@ -106,7 +137,6 @@ def frame_features(text, t=-1, features = {}, dg=''):
 		return Document(Vector(d), type=t)
 	else:
 		return Document(Vector(d))
-
 # generator for training data
 def get_training_data():
 	for i,d in enumerate([sett.not_news_dir, sett.news_dir]):
@@ -120,7 +150,6 @@ def get_training_data():
 				except Exception, e:
 					# skip any training files that don't want to load
 					pass
-
 def train_classifier(c, feat_ex, training_data):
 	print "training classifier..."
 
@@ -139,7 +168,6 @@ def train_classifier(c, feat_ex, training_data):
 
 	print "classifier trained!"
 	return c 
-
 def make_edge_list(dg,src,dests=[]):
 	out_edges = []
 	src_index = dg.url_to_index(src)
@@ -148,10 +176,8 @@ def make_edge_list(dg,src,dests=[]):
 		edge = (src_index,dg.url_to_index(dest))
 		out_edges.append(edge) 
 	return out_edges
-
 def add_edges(dg,src,dests=[]):
 	dg.add_edges_from(make_edge_list(dg,src,dests=dests))
-
 def initialize_graph(data=[],datafunc=None):
 	def foo(data):
 		return data

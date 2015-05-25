@@ -1,6 +1,7 @@
 from os import path
 import time
 
+positive_label = 'news'
 featuresOn = True
 svmpickle = 'svmpickle.pkl'
 
