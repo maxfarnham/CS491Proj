@@ -24,7 +24,6 @@
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="20150424-200041lda_log.txt" />
     <Content Include="491_Spider\crawltest\frameSVM_news.txt" />
     <Content Include="491_Spider\crawltest\frameSVM_notnews.txt" />
     <Content Include="491_Spider\crawltest\huff_notnews.txt" />
@@ -11599,28 +11598,13 @@
     <Content Include="downloads\2015-1248.html" />
     <Content Include="downloads\2015-1249.html" />
     <Content Include="downloads\2015-1250.html" />
-    <Content Include="frameSVM_news.txt" />
     <Content Include="frankenfile.txt" />
     <Content Include="gxdxtzr2.ttf.txt" />
     <Content Include="handlers\headlines.txt" />
     <Content Include="handlers\headlines_not.txt" />
     <Content Include="handlers\headline_regions.txt" />
-    <Content Include="intersection_entity.txt" />
-    <Content Include="intersection_entity14.txt" />
-    <Content Include="lda_log20150424-211415.txt" />
-    <Content Include="lda_log20150424-213647.txt" />
-    <Content Include="lda_log20150424-214906.txt" />
-    <Content Include="lda_log20150424-215439.txt" />
-    <Content Include="lda_log20150424-220429.txt" />
-    <Content Include="lda_log20150424-221406.txt" />
-    <Content Include="lda_log20150424-221619.txt" />
-    <Content Include="lda_log20150424-222452.txt" />
-    <Content Include="lda_log20150424-234228.txt" />
-    <Content Include="lda_log20150425-012923.txt" />
-    <Content Include="lda_log20150425-115456.txt" />
-    <Content Include="lsa.txt" />
+    <Content Include="requirements.txt" />
     <Content Include="stopwords.txt" />
-    <Content Include="test.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="491_Spider\crawltest\article_senti.py" />
@@ -11653,6 +11637,9 @@
     <Compile Include="buildcorp.py" />
     <Compile Include="dataset_utilities.py" />
     <Compile Include="demo.py" />
+    <Compile Include="dockerfile">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="entity_recognition.py" />
     <Compile Include="file_io.py" />
     <Compile Include="handlers\newshandler.py" />
