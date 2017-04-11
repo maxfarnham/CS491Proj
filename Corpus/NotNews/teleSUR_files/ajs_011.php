@@ -1,3 +1,0 @@
-var OX_882415ba = '';
-OX_882415ba += "<"+"img src=\'http://advert.telesurtv.net/images/e24e4ff282f7c7be7e71b199f25211fe.jpg\' alt=\'620x50-Espanol-Washington\' title=\'620x50-Espanol-Washington\' border=\'0\' /><"+"div id=\'beacon_2d76f729ec\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://advert.telesurtv.net/publicidad/www/delivery/lg.php?bannerid=548&amp;campaignid=1&amp;zoneid=96&amp;loc=http%3A%2F%2Fwww.telesurtv.net%2Findex.html&amp;cb=2d76f729ec\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
-document.write(OX_882415ba);

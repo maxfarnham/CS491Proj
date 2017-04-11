@@ -1,7 +1,7 @@
 from __future__ import division
 from pattern.vector import SVM
 from mltools import *
-from scrapy.contrib.spiders import CrawlSpider, Rule
+from scrapy.spiders import CrawlSpider, Rule
 from scrapy.exceptions import CloseSpider
 import matplotlib.pyplot as plt
 from urlparse import urlparse
@@ -11,18 +11,19 @@ import random as rand
 import scrapy
 import traceback
 from mltools import datastructures as ds
-from scrapy.contrib.linkextractors import LinkExtractor
+from scrapy.linkextractors import LinkExtractor
 from inspect import currentframe, getframeinfo
 try:
 	import cPickle as pickle
 except:
 	import pickle
 
+log = Logger()
 frameSVM = ''
 if not os.path.isfile(sett.svmpickle):
 	frameSVM = train_classifier(SVM(), frame_features, get_training_data())
-	with open(sett.svmpickle, 'wb') as pkl_file:
-		pickle.dump(frameSVM, pkl_file)
+	#with open(sett.svmpickle, 'wb') as pkl_file:
+	#	pickle.dump(frameSVM, pkl_file)
 else:
 	try:
 		with open(sett.svmpickle, 'rb') as pkl_file:
@@ -34,7 +35,7 @@ MAX_LINKS = 100000
 class NewsSpider(CrawlSpider):
 	name = "news"
 	#allowed_domains = ["huffingtonpost.com"]
-	start_urls = ["http://www.cnn.com/"]
+	start_urls = ["http://www.cnn.com/", "http://www.breitbart.com/"]
 	deny = ('softpedia',)
 	dg = initialize_graph()
 	total_links = 0
@@ -87,7 +88,6 @@ class NewsSpider(CrawlSpider):
 					_modify_priority(request, spider=self, swap_value=-2)
 					return
 				return	
-		log = Logger()		
 		url = response.url
 		domain = urlparse_cached(response).hostname
 		log.visit_node(self,url)

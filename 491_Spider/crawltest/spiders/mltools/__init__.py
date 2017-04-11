@@ -54,7 +54,6 @@ class Logger():
 	def record_domains(self,spider,response):
 		try:
 			if spider.total_links%100==0:
-				print 'poop'
 				with open('domains.txt', 'w+') as f:
 					for domain in spider.dg.domains.keys():
 						domain_negatives = spider.dg.domains[domain][0] 
@@ -154,12 +153,16 @@ def frame_features(text, t=-1, features = {}, dg=''):
 		return Document(Vector(d))
 # generator for training data
 def get_training_data():
+	l = 0
 	for i,d in enumerate([sett.not_news_dir, sett.news_dir]):
 		files = os.listdir(d)
 		for f in files:
 			if f.split('.')[-1] in ['htm', 'html']:
-				#print f
+				print f
 				try:
+					#l += 1
+					#if l > 10:
+					#	return
 					with io.open(d + '\\' + f, 'r', encoding='utf-8') as htmlfile:
 						yield (i, f, htmlfile.read())
 				except Exception, e:

@@ -5,11 +5,12 @@ positive_label = 'news'
 featuresOn = True
 svmpickle = 'svmpickle.pkl'
 
-news_dir = path.abspath(r'C:\Users\William\Desktop\CS491Proj\Corpus\News')
-not_news_dir = path.abspath(r'C:\Users\William\Desktop\CS491Proj\Corpus\notNews')
+spider_dir = path.abspath(r'C:\dev\projects\Spider\CS491Proj\491_Spider')
+news_dir = path.abspath(r'C:\dev\projects\Spider\CS491Proj\Corpus\News')
+not_news_dir = path.abspath(r'C:\dev\projects\Spider\CS491Proj\Corpus\notNews')
 
-classified_positive = path.abspath(r'C:\Users\William\Desktop\CS491Proj\classifications\classifiedpositive')
-classified_negative = path.abspath(r'C:\Users\William\Desktop\CS491Proj\classifications\classifiednegative')
+classified_positive = path.abspath(r'C:\dev\projects\Spider\CS491Proj\classifications\pos')
+classified_negative = path.abspath(r'C:\dev\projects\Spider\CS491Proj\classifications\neg')
 
 newsspace = path.abspath('Corpus/newsspace200.xml/newsspace200.xml')
 

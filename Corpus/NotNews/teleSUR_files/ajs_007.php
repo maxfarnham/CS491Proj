@@ -1,3 +1,0 @@
-var OX_c6a8deb3 = '';
-OX_c6a8deb3 += "<"+"img src=\'http://advert.telesurtv.net/images/fd7bb15ccc86a6114b475f30c2fd1eb3.jpg\' alt=\'620x50-Espanol-ImpactoEconomico\' title=\'620x50-Espanol-ImpactoEconomico\' border=\'0\' /><"+"div id=\'beacon_71807358dd\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://advert.telesurtv.net/publicidad/www/delivery/lg.php?bannerid=534&amp;campaignid=1&amp;zoneid=95&amp;loc=http%3A%2F%2Fwww.telesurtv.net%2Findex.html&amp;cb=71807358dd\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
-document.write(OX_c6a8deb3);

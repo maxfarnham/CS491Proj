@@ -1,3 +1,0 @@
-var OX_47c02adc = '';
-OX_47c02adc += "<"+"img src=\'http://advert.telesurtv.net/images/91a3c9f7d1018a1d7dedb13e8619e60a.jpg\' alt=\'300x50-Espanol-Documentales\' title=\'300x50-Espanol-Documentales\' border=\'0\' /><"+"div id=\'beacon_2f43f62de7\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://advert.telesurtv.net/publicidad/www/delivery/lg.php?bannerid=492&amp;campaignid=1&amp;zoneid=100&amp;loc=http%3A%2F%2Fwww.telesurtv.net%2Findex.html&amp;cb=2f43f62de7\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
-document.write(OX_47c02adc);

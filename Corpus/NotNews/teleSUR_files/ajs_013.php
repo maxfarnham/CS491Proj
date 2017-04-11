@@ -1,3 +1,0 @@
-var OX_d4002456 = '';
-OX_d4002456 += "<"+"a href=\'http://advert.telesurtv.net/publicidad/www/delivery/ck.php?oaparams=2__bannerid=1034__zoneid=11__cb=c6a4b165d7__oadest=http%3A%2F%2Fbit.ly%2FteleSUR\' target=\'_blank\'><"+"img src=\'http://advert.telesurtv.net/images/0c633ff938bb7c6ac24727ebfb0d6ef9.jpg\' alt=\'Congénero\' title=\'Congénero\' border=\'0\' /><"+"/a><"+"div id=\'beacon_c6a4b165d7\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://advert.telesurtv.net/publicidad/www/delivery/lg.php?bannerid=1034&amp;campaignid=1&amp;zoneid=11&amp;loc=http%3A%2F%2Fwww.telesurtv.net%2Findex.html&amp;cb=c6a4b165d7\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
-document.write(OX_d4002456);

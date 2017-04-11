@@ -1,8 +1,0 @@
-
-
-
-
-
-
-CBA.Widgets.Utilities.setJsonpResponse({ action: "CheckCashback", data :{ buttonVersion : 0 }});
-
