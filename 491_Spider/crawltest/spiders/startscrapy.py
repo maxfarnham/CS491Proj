@@ -17,5 +17,4 @@ try:
 	Exec(path.abspath('491_Spider'))
 except Exception as e:
 	pass
-traceback.print_exc()
 
